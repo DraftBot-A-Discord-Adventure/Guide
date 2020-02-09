@@ -1,18 +1,17 @@
 .header {
-    background-color: #D93A50;
-    position: relative;
-    width: 100%;
-    height: 70%;
-    overflow: hidden;
-    height: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: linear-gradient(#DA394E, #BC3D6C);
+    border-bottom: white;
 }
 
+svg {
+    display: block;
+    width: 100%;
+    height: 90px;
+    filter :invert(35%) sepia(16%) saturate(4851%) hue-rotate(301deg) brightness(86%) contrast(86%);;
+  }
+
 #logo{
-    height: 500px;
+    height: 300px;
     margin: auto;
     display: block;
 }
