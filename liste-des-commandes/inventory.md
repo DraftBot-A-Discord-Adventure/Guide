@@ -6,7 +6,9 @@ L'inventaire est l'endroit où sont placés les différents items ramassés par 
 
 ![l&apos;inventaire d&apos;un joueur qui vient de commencer l&apos;aventure](../.gitbook/assets/image%20%289%29.png)
 
-Les différents équipements se placent automatiquement dans la case de l'inventaire qui leur correspond. 
+{% hint style="info" %}
+Les différents équipements se placent automatiquement dans la case de l'inventaire qui leur correspond.
+{% endhint %}
 
 La commande [`!daily`](daily.md) permet d'utiliser un objet placé dans la case "objet actif". 
 
