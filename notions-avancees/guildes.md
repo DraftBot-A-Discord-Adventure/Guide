@@ -6,7 +6,7 @@ description: Un guide à propos des guildes.
 
 Une guilde permets de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes au fur et à mesure que chacun investira son argent dans l'achat d'expérience.
 
-## Comment créer une guilde ?
+### Comment créer une guilde ?
 
 Pour créer une guilde, il vous faudra investir 5000 💰 , et trouver un joli nom pour celle-ci. Une fois cette somme réunie, il vous suffira d'utiliser la commande `!guildcreate`. 
 
