@@ -8,21 +8,40 @@ Une guilde permets de réunir jusqu'à 6 personnes, afin de gagner des récompen
 
 ### Comment créer une guilde ?
 
-Pour créer une guilde, il vous faudra investir 5000 d'argent , et trouver un joli nom pour celle-ci. Une fois cette somme réunie, il vous suffira d'utiliser la commande `!guildcreate`. 
+Créer une guilde est possible à l'aide de la commande `!guildcreate <nom de guilde>`. 
+
+{% hint style="warning" %}
+Le nom d'une guilde est unique, il doit respecter un certain nombre de règles :
+
+* Utiliser au moins une lettre
+* Ne pas mettre plus de 2 espaces consécutifs
+* Les caractères spéciaux ne sont pas autorisés
+* Entre 2 et 14 caractères
+* Ne doit pas déjà être pris
+{% endhint %}
+
+{% hint style="danger" %}
+Il est impossible de renommer une guilde
+{% endhint %}
 
 ### Comment rejoindre une guilde ?
 
-Pour rejoindre une guilde, il vous faudra être niveau 10 minimum. Seul le chef de guilde pourra vous ajouter, grâce à la commande `!guildadd` , si celle-ci n'est pas pleine. 
+Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde peut inviter des joueurs dans sa guilde grâce à la commande `!guildadd <@player>`.
 
 {% hint style="info" %}
-Si vous êtes nouveau, pensez à regarder sur le discord officiel de DraftBot, ou un canal recrutements est mis à disposition des chefs de guilde cherchant des nouvelles recrues.
+Un salon destiné à recueillir les annonces de recrutement est disponible sur le discord du bot.
 {% endhint %}
 
-### Comment voir les statistiques de votre guilde ? 
+### Voir les statistiques d'une guilde ? 
 
-La commande `!guild` permet d'afficher les membres de votre guilde, ainsi que son niveau.
+La commande `!guild` permet d'afficher les informations de la guilde de la personne effectuant la commande.
 
-### Comment augmenter le niveau de votre guilde 
+Il existe également deux façons alternatives d'utiliser cette commande:
+
+* `!guild <nom de la guilde>` Permet de voir les informations d'une guilde à partir de son nom
+* `!guild <@mention>` Permet de voir les informations d'une guilde à partir de l'un de ses membres
+
+### Monter de niveau une guilde.
 
 #### Dans la boutique 
 
@@ -31,7 +50,7 @@ Contre 1000 d'argent,  vous pourrez apporter aléatoirement entre 50 et 450 poin
 
 ####  Dans les récompenses quotidiennes 
 
-Tous les 22h, vous pouvez utiliser la commande `!guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent .... Le type de récompense varie en fonction du niveau de votre guilde.
+Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent .... Le type de récompense varie en fonction du niveau de votre guilde.
 
 | Niveau de la guilde | Un peu d'Argent | Expérience de guilde  | Expérience personnelle  | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -47,8 +66,8 @@ Tous les 22h, vous pouvez utiliser la commande `!guilddaily` afin d'obtenir une 
 | 90-100 | 20% | 24% | 5% | 10% | 6% | 1% | 29% | 5% |
 | 100 | 20.5% | 0% | 20% | 10% | 6% | 1.5% | 32% | 10% |
 
-### Comment quitter votre guilde ? 
+### Quitter une guilde ? 
 
-Vous pouvez, à tout moment, quitter votre guilde avec la commande `!guildleave`.   
+Il est possible à tout moment de quitter une guilde avec la commande `!guildleave`.   
 Le chef de la guilde, peut aussi utiliser la commande `!guildkick`, pour expulser un membre de la guilde.
 

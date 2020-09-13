@@ -14,8 +14,8 @@
 * [Rapports](notions-principale/report.md)
 * [Combats](notions-principale/combats.md)
 * [Guildes](notions-principale/guildes.md)
-* [Items](notions-principale/items.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
+* [Items](notions-principale/items.md)
 
 ## Notions avancées
 
