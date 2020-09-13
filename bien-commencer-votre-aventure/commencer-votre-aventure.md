@@ -23,6 +23,6 @@ Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Draftbot e
 Suite à cette étape, le tutoriel du bot commencera. Suivez les instructions du bot pour continuer.
 
 {% hint style="info" %}
-Une autre commande importante à connaitre est la commande `!help` Cette commande vous permettra d'obtenir la liste de toutes les commandes réalisables. Essayez les toutes !
+Une autre commande importante à connaitre est la commande`!help` Cette commande vous permettra d'obtenir la liste de toutes les commandes réalisables. Essayez les toutes !
 {% endhint %}
 
