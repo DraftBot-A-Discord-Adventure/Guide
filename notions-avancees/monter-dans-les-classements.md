@@ -18,7 +18,7 @@ Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;
 
 #### Le classement de la semaine
 
-Le classement de la semaine est un classement hebdomadaire _\(lol\)_ qui est réinitialisé tous les dimanche et qui regroupe tous les joueurs ayant joué pendant la semaine.
+Le classement de la semaine est réinitialisé tous les dimanche.
 
 La commande du classement de la semaine est `!topweek <numéro de page>`
 
