@@ -12,7 +12,7 @@ Pour créer une guilde, il vous faudra investir 5000 💰 , et trouver un joli n
 
 ### Comment rejoindre une guilde ?
 
-Pour rejoindre une guilde, il vous faudra être level 10 minimum. Seul le chef de guilde pourra vous ajouter, grâce à la commande `!guildadd` , si celle-ci n'est pas pleine. 
+Pour rejoindre une guilde, il vous faudra être niveau 10 minimum. Seul le chef de guilde pourra vous ajouter, grâce à la commande `!guildadd` , si celle-ci n'est pas pleine. 
 
 {% hint style="info" %}
 Si vous êtes nouveau, pensez à regarder sur le discord officiel de DraftBot, ou un canal recrutements est mis à disposition des chefs de guilde cherchant des nouvelles recrues.
