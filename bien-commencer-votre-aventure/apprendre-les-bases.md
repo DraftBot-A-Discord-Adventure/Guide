@@ -8,7 +8,7 @@ description: >-
 
 ### En quoi consiste le gameplay ?
 
-C'est est un jeu de rôle en temps réel, cela signifie que vous n'aurez pas des commandes à effectuer en boucle mais que vous devrez surveiller régulièrement la progression de votre personnage.
+C'est un jeu de rôle en temps réel, cela signifie que vous n'aurez pas des commandes à effectuer en boucle mais que vous devrez surveiller régulièrement la progression de votre personnage.
 
 ### Astuces pour progresser rapidement
 
