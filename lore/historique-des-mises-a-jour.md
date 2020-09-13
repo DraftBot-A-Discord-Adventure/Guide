@@ -19,55 +19,33 @@ Mise en place de la base de données
 
 ### V0.0.2
 
-#### Commandes ajoutées: 
+#### Commandes ajoutées
 
 `!rapport` - Permet d'avoir un rapport avec les éléments collectés pendant votre absence
 
-#### Autres ajouts 
+#### Autres ajouts
 
-2 Nouveaux évents Merci à la proposition de @Super Banane Ninja  pour l'un d'entre eux.
-
-Les évents apparaissent aléatoirement lors d'un rapport et peuvent être bénéfiques ou maléfiques.
-
-Plus le temps entre 2 rapports est long plus les ressources collectés sont importantes. cependant au bout de 10 heures plus rien n'est collecté.
-
+2 Nouveaux évents Merci à la proposition de Super Banane Ninja  pour l'un d'entre eux.  
+Les évents apparaissent aléatoirement lors d'un rapport et peuvent être bénéfiques ou maléfiques.  
+Plus le temps entre 2 rapports est long plus les ressources collectés sont importantes. cependant au bout de 10 heures plus rien n'est collecté.  
 Plus le temps entre 2 rapports est long plus il y a de chances qu'un évent se produise.
 
 ### V0.0.3
 
-:arrow\_forward: Commandes ajoutées:  
+#### Commandes ajoutées
 
+`!random` - Permet d'avoir un nombre aléatoire entre 0 et 1  
+`!regen` - Permet de soigner les maladies et de récupérer un peu de vie
 
-!random - Permet d'avoir un nombre aléatoire entre 0 et 1
+#### Autres ajouts
 
-!regen - Permet de soigner les maladies et de récupérer un peu de vie  
+1 Nouvel évènement a été rajouté \(merci à Greninja\_San  pour sa proposition\)  
+La notion de maladies a été implémentée  
+Il est impossible de récupérer un rapport en étant malade ou en train de se faire soigner.  
+La commande !profile a été mise à jour pour permettre de savoir si le joueur est malade ou à hôpital  
+Le soin dure 50 secondes pour le moment mais cette durée sera allongée à 6 heures dans de futures mises à jour.
 
-
-:arrow\_forward: Autres ajouts  
-
-
-1 Nouvel évènement a été rajouté \(merci à @Greninja\_San  pour sa proposition\)
-
-La notion de maladies a été implémentée
-
-Il est impossible de récupérer un rapport en étant malade ou en train de se faire soigner.
-
-La commande !profile a été mise à jour pour permettre de savoir si le joueur est malade ou à hôpital
-
-Le soin dure 50 secondes pour le moment mais cette durée sera allongée à 6 heures dans de futures mises à jour.  
-
-
-:arrow\_forward: Correction de bugs :  
-
-
-DB003-1
-
-DB003-2
-
-Drapht06/05/2018
-
-V0.0.4  
-
+### V0.0.4
 
 :arrow\_forward: Commandes ajoutées:  
 
