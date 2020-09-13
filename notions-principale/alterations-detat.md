@@ -35,7 +35,13 @@ Il est cependant possible de soigner une altération d'état autrement qu'en att
 
 #### Obtention d'un "soin des altération d'état"
 
-shop ou gd
+Il est possible d'acheter un soin des altérations d'état dans le magasin en utilisant la commande `!shop`. Cet achat vous coutera 500 d'argent et annulera votre altération d'état. Lorsque votre altération d'état est annulé, votre personnage est enregistré comme si il venait juste d'effectuer un rapport.
+
+{% hint style="info" %}
+Le soin d'altération d'état est également une récompense de la récompense journalière de guilde à partir d'un certain niveau de guilde
+{% endhint %}
 
 #### Potions et objets permettant de faire avancer le temps plus vite
+
+Certains objets et certaines potions permettent de faire avancer le temps plus rapidement pendant un certain temps, lorsque ces derniers sont utilisés, c'est comme si le temps s'était écoulé mais seulement pour votre personnage.
 
