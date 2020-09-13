@@ -4,6 +4,8 @@ La commande top est une commande qui sert à savoir qui sont les meilleurs joueu
 
 ![Exemple du r&#xE9;sultat de la commande top](../.gitbook/assets/image%20%285%29.png)
 
+### Astuce
+
 il est possible de parcourir le classement en indiquant un numéro de page en tapant la commande comme ceci : `!top <numéro de page>`
 
 {% hint style="warning" %}
