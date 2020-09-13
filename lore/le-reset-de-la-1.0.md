@@ -26,18 +26,18 @@ L'interface des combats et du profile ont été complètement réécrit. Pour vo
 
 ### Ajout des badges 
 
-Je vous invite a consulter la page du wiki dédié au [badges](../notions-avancees/badges.md) pour plus détails.
+Je vous invite a consulter la page du wiki dédié au [badges](../notions-principale/badges.md) pour plus détails.
 
 ### Diverses autres nouveautés 
 
-* Certaines commandes ont été renommées: `!rapport` devient [`!report`](../liste-des-commandes/report.md), `!inventaire` deviens [`!inventory`](../liste-des-commandes/inventory.md) et `!combat` devient [`!fight`](../liste-des-commandes-de-combat/fight.md)\`\`
+* Certaines commandes ont été renommées: `!rapport` devient [`!report`](../liste-des-commandes/report.md), `!inventaire` deviens [`!inventory`](../liste-des-commandes/inventory.md) et `!combat` devient [`!fight`]()\`\`
 * Ajout d'alias pour certaines commandes 
 * Possibilité pour les possesseurs d'un serveur qui contient le bot de changer le préfix de leur serveur via le salon \#🗣-server-managers dans le salon officiel du bot.
 * Le système de combat a été complétement revu.
 * Le système d'xp a été complètement revu.
 * Les pertes de temps sont mieux matérialisées.
 * Beaucoup de textes ont été réécris.
-* La commande [`!sell`](../liste-des-commandes/sell.md) vous demande une confirmation avant la vente d'un objet.
+* La commande [`!sell`]() vous demande une confirmation avant la vente d'un objet.
 * Il y a désormais plus de 100 pièces d'équipement différents à trouver dans les évents.
 * Ajout de 3 nouveaux évènements.
 * Le chargement du top est désormais instantanée.
