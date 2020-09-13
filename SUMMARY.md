@@ -26,9 +26,6 @@
 * [Liste des commandes d'aventure](liste-des-commandes/README.md)
   * [Shop](liste-des-commandes/shop.md)
   * [Profile](liste-des-commandes/profile.md)
-* [Liste des commandes liées au classement](liste-des-commandes-liees-au-classement/README.md)
-  * [TopWeek](liste-des-commandes-liees-au-classement/topweek.md)
-  * [TopServer](liste-des-commandes-liees-au-classement/topserver.md)
 
 ## Lore et histoire du bot <a id="lore"></a>
 

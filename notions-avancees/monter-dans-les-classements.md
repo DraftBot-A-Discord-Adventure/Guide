@@ -18,7 +18,17 @@ Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;
 
 #### Le classement de la semaine
 
-Le classement de la semaine est un classement hebdomadaire _\(lol\)_ qui est réinitialisé tous les dimanche et qui regroupe tous les joueurs ayant joué pendant la semaine, tout comme dans la commande `!top`, ils sont triés par le nombre de points gagnés durant la semaine par tranche de 15 joueurs. 
+Le classement de la semaine est un classement hebdomadaire _\(lol\)_ qui est réinitialisé tous les dimanche et qui regroupe tous les joueurs ayant joué pendant la semaine.
 
+La commande du classement de la semaine est `!topweek <numéro de page>`
 
+Lorsque vous finissez premier d'un classement de la semaine, vous obtenez un badge, tous les autres participants eux, ne reçoivent rien.
+
+🎗️ `Personne ayant dominé un classement de la semaine`
+
+#### Le classement du serveur
+
+Le classement du serveur est un classement qui prend seulement en compte les joueurs du serveur où le joueur effectue la commande.
+
+La commande du classement de la semaine est `!topserv <numéro de page>`
 

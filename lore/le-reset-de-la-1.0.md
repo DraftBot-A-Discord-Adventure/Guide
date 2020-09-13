@@ -14,7 +14,7 @@ Lors de cette mise à jour, la progression de la totalité des joueurs a été r
 
 Suppression des commandes `!regen` et `!levelup`. Ces deux actions sont désormais automatiques.
 
-La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`](../liste-des-commandes-liees-au-classement/topserver.md).
+La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`]().
 
 ###  Système du profile
 
