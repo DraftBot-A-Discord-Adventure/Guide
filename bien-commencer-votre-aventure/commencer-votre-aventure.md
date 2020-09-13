@@ -16,7 +16,7 @@ Il est aussi possible d'inviter le bot sur votre serveur ! \(le lien d'invitatio
 
 Lors de votre arrivée vous serez accueilli par un message de bienvenue comme celui ci-dessous : 
 
-![Le message de bienvenue que vous risquez de rencontrer](../.gitbook/assets/image%20%284%29.png)
+![Le message de bienvenue que vous pouvez rencontrer](../.gitbook/assets/image%20%284%29.png)
 
 Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Draftbot en Français" puis d'utiliser la commande `!report`
 
