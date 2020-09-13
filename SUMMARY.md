@@ -6,6 +6,7 @@
 
 * [Commencer votre aventure](bien-commencer-votre-aventure/commencer-votre-aventure.md)
 * [Apprendre les bases](bien-commencer-votre-aventure/apprendre-les-bases.md)
+* [Questions fréquentes](bien-commencer-votre-aventure/questions-frequentes.md)
 
 ## Notions principales <a id="notions-principale"></a>
 
@@ -14,7 +15,6 @@
 * [Combats](notions-principale/combats.md)
 * [Guildes](notions-principale/guildes.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
-* [Questions fréquentes](notions-principale/questions-frequentes.md)
 
 ## Notions avancées
 

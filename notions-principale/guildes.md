@@ -31,7 +31,7 @@ Contre 1000 d'argent,  vous pourrez apporter aléatoirement entre 50 et 450 poin
 
 ####  Dans les récompenses quotidiennes 
 
-Tous les 22h, vous pouvez utiliser la commande [`!guilddaily`]() afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent .... Le type de récompense varie en fonction du niveau de votre guilde.
+Tous les 22h, vous pouvez utiliser la commande `!guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent .... Le type de récompense varie en fonction du niveau de votre guilde.
 
 | Niveau de la guilde | Un peu d'Argent | Expérience de guilde  | Expérience personnelle  | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -49,6 +49,6 @@ Tous les 22h, vous pouvez utiliser la commande [`!guilddaily`]() afin d'obtenir 
 
 ### Comment quitter votre guilde ? 
 
-Vous pouvez, à tout moment, quitter votre guilde avec la commande [`!guildleave`]().   
-Le chef de la guilde, peut aussi utiliser la commande [`!guildkick`](), pour expulser un membre de la guilde.
+Vous pouvez, à tout moment, quitter votre guilde avec la commande `!guildleave`.   
+Le chef de la guilde, peut aussi utiliser la commande `!guildkick`, pour expulser un membre de la guilde.
 
