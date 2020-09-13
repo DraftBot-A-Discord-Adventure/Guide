@@ -27,3 +27,15 @@ L'altération d'état "Enfermé" est la seule altération d'état à interdire l
 L'altération d'état "Mort" bloque la totalité des commandes du bot excepté la commande `!respawn`
 {% endhint %}
 
+### Soin des altérations d'état
+
+Les altérations d'état se soignent d'elles même avec le temps \(à l'exception de l'altération "Mort"\).
+
+Il est cependant possible de soigner une altération d'état autrement qu'en attendant.
+
+#### Obtention d'un "soin des altération d'état"
+
+shop ou gd
+
+#### Potions et objets permettant de faire avancer le temps plus vite
+

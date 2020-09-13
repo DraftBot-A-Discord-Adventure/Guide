@@ -10,7 +10,7 @@ L'inventaire est l'endroit où sont placés les différents items ramassés par 
 Les différents équipements se placent automatiquement dans la case de l'inventaire qui leur correspond.
 {% endhint %}
 
-La commande [`!daily`]() permet d'utiliser un objet placé dans la case "objet actif". 
+La commande `!daily` permet d'utiliser un objet placé dans la case "objet actif". 
 
-La commande [`!switch`]() permet d'échanger l'objet de réserve avec l'objet actif.
+La commande `!switch` permet d'échanger l'objet de réserve avec l'objet actif.
 

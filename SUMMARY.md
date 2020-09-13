@@ -9,6 +9,7 @@
 
 ## Notions principales <a id="notions-principale"></a>
 
+* [Profile](notions-principale/profile.md)
 * [Rapports](notions-principale/report.md)
 * [Combats](notions-principale/combats.md)
 * [Guildes](notions-principale/guildes.md)
@@ -20,12 +21,6 @@
 * [Monter dans les classements](notions-avancees/monter-dans-les-classements.md)
 * [Gestion de l'inventaire](notions-avancees/inventory.md)
 * [Badges](notions-avancees/badges.md)
-
----
-
-* [Liste des commandes d'aventure](liste-des-commandes/README.md)
-  * [Shop](liste-des-commandes/shop.md)
-  * [Profile](liste-des-commandes/profile.md)
 
 ## Lore et histoire du bot <a id="lore"></a>
 
