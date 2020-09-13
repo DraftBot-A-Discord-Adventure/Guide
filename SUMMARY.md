@@ -48,6 +48,7 @@
 ## Lore et histoire du bot <a id="lore"></a>
 
 * [Comment collaborer ?](lore/comment-collaborer.md)
+* [Historique des mises à jour](lore/historique-des-mises-a-jour.md)
 * [Le reset de la 1.0](lore/le-reset-de-la-1.0.md)
 * [Redactor Gang](lore/redactor-gang.md)
 
