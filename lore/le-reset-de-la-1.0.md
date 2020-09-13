@@ -26,11 +26,11 @@ L'interface des combats et du profile ont été complètement réécrit. Pour vo
 
 ### Ajout des badges 
 
-Je vous invite a consulter la page du wiki dédié au [badges](../notions-principale/badges.md) pour plus détails.
+Je vous invite a consulter la page du wiki dédié au [badges](../notions-avancees/badges.md) pour plus détails.
 
 ### Diverses autres nouveautés 
 
-* Certaines commandes ont été renommées: `!rapport` devient [`!report`](../liste-des-commandes/report.md), `!inventaire` deviens [`!inventory`](../liste-des-commandes/inventory.md) et `!combat` devient [`!fight`]()\`\`
+* Certaines commandes ont été renommées: `!rapport` devient [`!report`](../notions-principale/report.md), `!inventaire` deviens [`!inventory`](../notions-avancees/inventory.md) et `!combat` devient [`!fight`]()\`\`
 * Ajout d'alias pour certaines commandes 
 * Possibilité pour les possesseurs d'un serveur qui contient le bot de changer le préfix de leur serveur via le salon \#🗣-server-managers dans le salon officiel du bot.
 * Le système de combat a été complétement revu.

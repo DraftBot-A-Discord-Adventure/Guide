@@ -18,7 +18,7 @@ Lors de votre arrivée vous serez accueilli par un message de bienvenue comme ce
 
 ![Le message de bienvenue que vous risquez de rencontrer](../.gitbook/assets/image%20%284%29.png)
 
-Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Draftbot en Français" puis d'utiliser la commande [`!report`](../liste-des-commandes/report.md)
+Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Draftbot en Français" puis d'utiliser la commande [`!report`](../notions-principale/report.md)
 
 Suite à cette étape, le tutoriel du bot commencera. Suivez les instructions du bot pour continuer.
 

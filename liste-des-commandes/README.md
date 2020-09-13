@@ -15,9 +15,9 @@ Par défaut le préfixe permettant de taper une commande est `"!"`.
 | Commande | Alias | Description |
 | :--- | :--- | :--- |
 | \*\*\*\*[**Profile**](profile.md)\*\*\*\* | p | Affiche les informations sur votre personnage tel que son état de santé, son niveau, sa somme d'argent, ses statistiques de combat ou encore son classement. |
-| \*\*\*\*[**Report**](report.md)\*\*\*\* | r | Permet d'afficher les informations et ressources collectées par votre personnage durant votre absence. Des événements se déclenchent régulièrement et vous demandent d'effectuer des actions particulières sous forme de choix via un système de réaction. Ne pas réagir est considéré comme un choix à part entière. |
-| \*\*\*\*[**Respawn**](respawn.md)\*\*\*\* |  | Permet de réapparaître lorsque votre personnage meurt en l'échange de 10% du total de vos points. |
-| \*\*\*\*[**Inventory**](inventory.md)\*\*\*\* | inv | Affiche le contenu de votre inventaire et de votre réserve d'objet. |
+| \*\*\*\*[**Report**](../notions-principale/report.md)\*\*\*\* | r | Permet d'afficher les informations et ressources collectées par votre personnage durant votre absence. Des événements se déclenchent régulièrement et vous demandent d'effectuer des actions particulières sous forme de choix via un système de réaction. Ne pas réagir est considéré comme un choix à part entière. |
+| \*\*\*\*[**Respawn**]()\*\*\*\* |  | Permet de réapparaître lorsque votre personnage meurt en l'échange de 10% du total de vos points. |
+| \*\*\*\*[**Inventory**](../notions-avancees/inventory.md)\*\*\*\* | inv | Affiche le contenu de votre inventaire et de votre réserve d'objet. |
 | \*\*\*\*[**Switch**]()\*\*\*\* | sw | Échanger l'objet qui se trouve en réserve avec l'objet actif de votre inventaire. |
 | \*\*\*\*[**Drink**]()\*\*\*\* | dr, glouglou | Cette commande permet de consommer la potion que vous transportez. Certaines potions ne peuvent pas être bues et sont consommées automatiquement lors d'un combat. |
 | \*\*\*\*[**Daily**]()\*\*\*\* | da | Certains items vous donnent un bonus journalier. Utilisez cette commande pour récupérer ces bonus. |

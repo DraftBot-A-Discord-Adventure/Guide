@@ -8,11 +8,11 @@ Une guilde permets de réunir jusqu'à 6 personnes, afin de gagner des récompen
 
 ### Comment créer une guilde ?
 
-Pour créer une guilde, il vous faudra investir 5000 d'argent , et trouver un joli nom pour celle-ci. Une fois cette somme réunie, il vous suffira d'utiliser la commande [`!guildcreate`](). 
+Pour créer une guilde, il vous faudra investir 5000 d'argent , et trouver un joli nom pour celle-ci. Une fois cette somme réunie, il vous suffira d'utiliser la commande `!guildcreate`. 
 
 ### Comment rejoindre une guilde ?
 
-Pour rejoindre une guilde, il vous faudra être niveau 10 minimum. Seul le chef de guilde pourra vous ajouter, grâce à la commande [`!guildadd`]() , si celle-ci n'est pas pleine. 
+Pour rejoindre une guilde, il vous faudra être niveau 10 minimum. Seul le chef de guilde pourra vous ajouter, grâce à la commande `!guildadd` , si celle-ci n'est pas pleine. 
 
 {% hint style="info" %}
 Si vous êtes nouveau, pensez à regarder sur le discord officiel de DraftBot, ou un canal recrutements est mis à disposition des chefs de guilde cherchant des nouvelles recrues.
@@ -20,7 +20,7 @@ Si vous êtes nouveau, pensez à regarder sur le discord officiel de DraftBot, o
 
 ### Comment voir les statistiques de votre guilde ? 
 
-La commande [`!guild`]() permet d'afficher les membres de votre guilde, ainsi que son niveau.
+La commande `!guild` permet d'afficher les membres de votre guilde, ainsi que son niveau.
 
 ### Comment augmenter le niveau de votre guilde 
 

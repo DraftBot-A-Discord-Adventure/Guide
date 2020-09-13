@@ -8,7 +8,7 @@ Les joueurs sur le même serveur que vous sont marqués d'une pastille bleue.
 
 | Commande | Alias | Description |
 | :--- | :--- | :--- |
-| \*\*\*\*[**Top**](top.md)\*\*\*\* |  | Affiche le classement général du jeu. |
+| \*\*\*\*[**Top**]()\*\*\*\* |  | Affiche le classement général du jeu. |
 | \*\*\*\*[**TopWeek**](topweek.md)\*\*\*\* | topw, tw | Affiche le classement général de la semaine. |
 | \*\*\*\*[**TopServer**](topserver.md)\*\*\*\* | topserv, tops, ts | Affiche le classement des membres du serveur sur lequel vous tapez la commande. |
 

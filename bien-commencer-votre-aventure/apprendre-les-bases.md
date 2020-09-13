@@ -14,13 +14,13 @@ C'est un jeu de rôle en temps réel, cela signifie que vous n'aurez pas des com
 
 #### Faire des rapports régulièrement.
 
-Lorsqu'un joueur demande un rapport, il collecte les points remportés par le personnage qu'il contrôle auquel est ajouté un petit bonus. Cependant au bout d'un certain temps, le personnage cesse de collecter des points, il faut donc veiller à effectuer la commande report régulièrement. Il faut cependant attendre au moins une heure entre deux rapports afin de laisser un peu de temps au personnage pour collecter des points. Plus de détails sur la commande [`!report`](../liste-des-commandes/report.md) peuvent être découvert sur la page de ce guide qui lui est dédié.
+Lorsqu'un joueur demande un rapport, il collecte les points remportés par le personnage qu'il contrôle auquel est ajouté un petit bonus. Cependant au bout d'un certain temps, le personnage cesse de collecter des points, il faut donc veiller à effectuer la commande report régulièrement. Il faut cependant attendre au moins une heure entre deux rapports afin de laisser un peu de temps au personnage pour collecter des points. Plus de détails sur la commande [`!report`](../notions-principale/report.md) peuvent être découvert sur la page de ce guide qui lui est dédié.
 
 ### Lexique
 
 Durant votre jeu et si vous choisissez de prendre part dans la communauté et d'échanger autour du bot, vous serez amené à apprendre le vocabulaire utilisé pour décrire certains éléments spécifiques du jeu. Voila une liste des principaux:
 
-❗ **Évènement :** Un évènement ou évent peut survenir lorsque le joueur effectue la commande [`!report`](../liste-des-commandes/report.md) pour demander un rapport. Si un évènement survient, le joueur aura un choix à effectuer à travers les réactions discord.
+❗ **Évènement :** Un évènement ou évent peut survenir lorsque le joueur effectue la commande [`!report`](../notions-principale/report.md) pour demander un rapport. Si un évènement survient, le joueur aura un choix à effectuer à travers les réactions discord.
 
 💰 **Argent :** L'argent est la monnaie du jeu. _\(oui le nom est original\)_ Il est possible de la dépenser en utilisant la commande [`!shop`](../liste-des-commandes/shop.md). Avoir de l'argent vous permettra également de créer votre guilde avec la commande [`!guildcreate`](). Il est aussi possible de perdre de l'argent lors de certains évènements.
 
