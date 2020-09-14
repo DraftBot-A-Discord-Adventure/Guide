@@ -16,7 +16,7 @@ Pour un combat , les  statistiques ****suivantes sont à prendre en compte :
 * les points de vie 💙 
 
 {% hint style="info" %}
-Pour plus d'informations à propos de ces statistiques, regarder la section Profile.
+Pour plus d'informations à propos de ces statistiques, regarder la section Profil.
 {% endhint %}
 
 ### Types de combats 
