@@ -47,20 +47,18 @@ Le soin dure 50 secondes pour le moment mais cette durée sera allongée à 6 he
 
 ### V0.0.4
 
-:arrow\_forward: Commandes ajoutées:  
-
+####  Commandes ajoutées 
 
 !respawn - Permet de recommencer après être mort.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 1 Nouvel évènement a été rajouté \(merci à @Greninja\_San  pour sa proposition\)
 
 La notion de mort a été ajoutée si vous tombez à 0pv vous perdrez 10% de vos points !
 
-Un nouvel état a été ajouté : endormi \( :zzz: \) allez vous reposer à l'hôpital pour vous réveiller
+Un nouvel état a été ajouté : endormi \( 😴 \) allez vous reposer à l'hôpital pour vous réveiller
 
 La commande !regen a été intégralement revue et affiche désormais le temps restant avant guérison.
 
@@ -75,8 +73,7 @@ Les commandes !banane et !random ont été supprimées  \(ou peut être pas ? :b
 Il n'est désormais plus possible d'utiliser le bot en message privé. Cette fonction sera refaite dans le futur.  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs : 
 
 DB003-6
 
@@ -86,11 +83,9 @@ DB003-5
 
 Drapht19/05/2018
 
-V0.0.5  
+### V0.0.5 
 
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 !inventaire permet de voir le contenu de son inventaire
 
@@ -103,8 +98,7 @@ V0.0.5
 !help Première version de la commande permettant de voir la liste des commandes disponibles  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 3 Nouveaux évènements ont été rajoutés \(merci à @『 Azn9 » Axel 』  et @Invarion  pour leur propositions\)
 
@@ -115,24 +109,18 @@ Il est désormais possible de trouver et ramasser des objets dans les rapports.
 \(pour l'instant les objets ne sont pas utilisable et sont donc juste des objets de collection mais plus tard ils auront un intérêt.  
 
 
-:arrow\_forward: Correction de bugs :  
+#### Correction de bugs  
 
+Aucun bug connu à corriger.
 
-DB004-1
+### V0.0.6 
 
-Drapht29/05/2018
-
-V0.0.6  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 Aucune nouvelle commande, ceci est une toute petite mise à jour de maintenance, prochaine grosse mise à jour fin juin !  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 L'hôpital ne régen plus de vie, faites attention à vos action car il n'existe aucun moyen de gagner de la vie pour l'instant \(c'est prévu pour la prochaine mise à jour\)
 
@@ -145,18 +133,13 @@ Correction de bugs que personne avait remarqué \(mouahaha\)
 Les bananes sont toujours là ne vous inquiétez pas juste il faut savoir les trouver :banana:  
 
 
-:arrow\_forward: Correction de bugs :  
+#### Correction de bugs  
 
+Aucun bug connu à corriger.
 
-DB005-1
+### V0.0.7 
 
-Drapht19/06/2018
-
-V0.0.7  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 !levelup Permet de monter en niveau
 
@@ -165,18 +148,17 @@ V0.0.7
 !aide Permet d'obtenir de l'aide sur toutes les commandes du bot.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Correction de presque toutes les fautes d'orthographe du bot \(si vous en trouvez d'autres -&gt; \#🆘-bug-typo-report \)
 
 Ajout d'un tuto au début du jeu pour mieux guider les nouveaux joueurs
 
-Ajout de l'état confus ! Comme l'orsque vous êtes endormis ou malade il faudra vous rendre à l'hôpital pour vous soigner !
+Ajout de l'état confus ! Comme lorsque vous êtes endormis ou malade il faudra vous rendre à l'hôpital pour vous soigner !
 
 Suppression des indices dans les actions des rapports \(on va pas se mentir c'était juste des points interrogation inutiles\)
 
-Ajout de quelques easter eggs... :eyes:  \( poke @rysthor \)
+Ajout de quelques easter eggs... 👀  \( poke @rysthor \)
 
 Ajout du système de niveau des joueurs
 
@@ -195,24 +177,18 @@ Changement du descriptif du bot \(on a compris que j'étais beau\)
 RESET COMPLET DE TOUT LES JOUEURS  
 
 
-:arrow\_forward: Correction de bugs :  
+#### Correction de bugs  
 
+Aucun bug connu à corriger.
 
-Aucun bug connu à corriger
+### V0.0.8 
 
-Drapht26/06/2018
-
-V0.0.8  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 !topguild Permet de voir le classement du serveur sur lequel la commande a été exécutée.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Ajout de l'état gelé \(restez au chaud c'est mieux pour vous\)
 
@@ -233,28 +209,22 @@ Ajout de 2 nouveaux évènements portant leur nombre à 11 \(merci à @Guysmow  
 Amélioration du monologue du début pour clarifier le but du jeu !  
 
 
-:arrow\_forward: Correction de bugs :  
+#### Correction de bugs 
 
 
-DB007-1
 
-DB007-2
+Aucun bug connu à corriger.
 
-Drapht21/08/2018
+### V0.0.9 
 
-V0.0.9  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 !daily Permet d'utiliser les pouvoirs de certains items.
 
 !invite Permet d'obtenir le lien pour ajouter le bot sur son serveur.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Ajout d'un message d'explication lorsque le bot rejoint un serveur. Le message est envoyé uniquement au propriétaire du serveur et uniquement si ses messages privés sont ouverts.
 
@@ -272,7 +242,7 @@ Les commandes !top et !profile préviennent maintenant que les données sont en 
 
 Augmentation des gains à la vente d'un item avec la commande !sell
 
-Lancement d'un petit concours sur les easter eggs avec un item :gem:  UNIQUE a gagner ! \(voir \#📣-annonces \)
+Lancement d'un petit concours sur les easter eggs avec un item  💎  UNIQUE a gagner ! \(voir \#📣-annonces \)
 
 Les joueurs pour lesquels un rapport est disponible sont indiqués dans le top
 
@@ -295,28 +265,18 @@ Correction d'un nombre incalculable de fautes d'orthographe
 La commande  !regen a beaucoup été améliorée et le compteur des rapports reprend désormais pile poil au bout du temps de soin et non plus au moment de la sortie  
 
 
-:arrow\_forward: Correction de bugs :  
+#### Correction de bugs  
 
+Aucun bug connu à corriger.
 
-DB008-1
+### V1.0.0 
 
-DB008-3
-
-DB008-4
-
-Drapht24/04/2019
-
-V1.0.0  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+####  Commandes ajoutées 
 
 !drink Permet de boire la potion que vous transportez  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Réécriture complète du bot
 
@@ -351,50 +311,38 @@ La commande topguilde a été supprimée
 Les easter eggs ont tous été supprimés GG à ceux qui en avaient trouvés  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Tous.
 
-Drapht05/05/2019
+### V1.0.1 
 
-V1.0.1  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 Ajout de commandes admins pour surveiller le bon fonctionnement du bot.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Corrections des fautes de frappe.
 
 Changement de nom de la commande aide pour help dans les textes indicatifs  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Un évent donnait trop d'xp sur l'un des choix.
 
 Crash lorsque le bot rejoins un nouveau serveur.
 
-Drapht07/05/2019
+### V1.0.2 
 
-V1.0.2  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 Ajout d'une commande admins pour surveiller le bon fonctionnement du bot.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Corrections des fautes de frappe.
 
@@ -403,24 +351,20 @@ Affichage des badges des joueurs sur le top ainsi que d'autres informations
 Ajout d'un message indicatif pour le déblocage des combats au levelup  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Ne pas répondre à un évent faisait crasher le bot
 
-Drapht22/06/2019
-
-V1.1.0  
 
 
-:arrow\_forward: Commandes ajoutées:  
+### V1.1.0 
 
+#### Commandes ajoutées 
 
 Aucune nouvelle commande dans cette mise à jour.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 De nombreux évents ont été rééquilibrés
 
@@ -437,8 +381,7 @@ L'aide du profile a été mise à jour
 Plusieurs fautes d'orthographes ont été corrigées  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Le joueur pouvait se bloquer si le bot avait la permission de lire une commande mais pas d'y répondre
 
@@ -455,14 +398,12 @@ Drapht24/06/2019
 V1.1.1  
 
 
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 Aucune nouvelle commande dans cette mise à jour.  
 
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Il est possible de visionner le profile de la personne à la X-ème place du classement en écrivant !p X
 
@@ -473,8 +414,7 @@ Le top affiche désormais les joueurs inactifs depuis plus de 24 heures et affic
 Correction de quelques fautes de Français  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Les joueurs qui atteignaient le lvl 31 étaient bloqués et ne passaient plus les niveaux
 
@@ -482,29 +422,24 @@ Il était possible de dépasser le niveau 100
 
 Les mentions étaient parfois mal lues par le bot lors de l'affichage d'une tierce personne
 
-Drapht17/07/2019
+### V1.2.0 
 
-V1.2.0  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 !shop Permet de dépenser votre argent. alias de la commande : !s
 
 Ajout d'une commande admin permettant de retirer des points à un joueur.  
 
 
-:arrow\_forward: Autres ajouts  
+#### Autres ajouts 
 
-
-Ajout de nouveaux items de rareté UNIQUE :gem:
+Ajout de nouveaux items de rareté UNIQUE 💎 
 
 Il y a désormais 2 fois plus de chance d'obtenir une potion dans les rapports.
 
 La probabilité d'obtenir une arme dans les rapports a été réduite de 25%.
 
-La vente d'item rapporte désormais plus d'argent pour les items de rareté inférieur à Epique :star:.
+La vente d'item rapporte désormais plus d'argent pour les items de rareté inférieur à Epique ⭐ .
 
 Ajout de 3 badges cf \#🏆-badges pour plus d'informations
 
@@ -513,53 +448,40 @@ Ajout de quelques explications en plus dans la commande help
 Correction de quelques fautes de frappe.  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Attendre 12 heures après être mort permettait de faire certaines commandes
 
-Drapht22/07/2019
+### V1.2.1 
 
-V1.2.1  
-
-
-:arrow\_forward: Commandes ajoutées:  
-
+#### Commandes ajoutées 
 
 Pas de nouvelle commande pour cette mise à jour car il s'agit simplement d'un petit correctif pour un bug de la version précédente
 
-:arrow\_forward: Autres ajouts  
-
+#### Autres ajouts 
 
 Pas de nouveautés pour cette mise à jour car il s'agit simplement d'un petit correctif pour un bug de la version précédente  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Crash du bot quand un joueur interagis avec le menu de vente d'objet.
 
-Drapht27/07/2019
+### V1.2.2 
 
-V1.2.2  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 Cette mise à jour est une mise à jour de correction de bug. Il n'y a pas de nouvelle commande.  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 Le prix d'un item random est passé à 350.
 
 correction d'un petit problème visuel sur le message de mort  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 l'état d'un évent était mal écrit.
 
@@ -571,19 +493,14 @@ Le défenseur d'un combat n'était pas marqué comme occupé.
 
 Il était possible d'accepter un combat lancé par un autre joueur avec le shop ouvert.
 
-Drapht19/09/2019
+### V1.2.4 
 
-V1.2.4  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 Une nouvelle commande admin a été ajoutée  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 Un wiki a été créé par les personnes possédant le rôle @Wiki. Le lien a été ajouté dans la commande help.
 
@@ -594,8 +511,7 @@ La description des nouveaux badges a été ajoutée sur le profile.
 Début d'une fonctionnalité d'aide via DM : Les messages privés du bot sont maintenant affichés pour les staff afin d'aider ceux qui demandent de l'aide en dm \(fonctionnalité de la 1.2.3 qui n'a pas eu le droit à son annonce parce que osef d'une mise à jour aussi petite\)  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Correction de quelques fautes de Français.
 
@@ -603,19 +519,14 @@ l'un des évents rapportant de la vie n'en rapportait pas en fait \(ce qui est p
 
 Le message d'erreur sur le nombre de membres minimum a été mis à jour
 
-Drapht22/09/2019
+### V1.2.5 
 
-V1.2.5  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 prefix Permet aux administrateurs de serveurs de changer le préfix pour leur serveur ! alias de la commande cp  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 La commande aide a été mise à jour.
 
@@ -624,24 +535,20 @@ Le système d'aide en dm est désormais en place
 L'activité du bot a été mise à jour dans son profil discord  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Aucun bug a été découvert depuis la dernière mise à jour
 
 Drapht03/11/2019
 
-V1.3.0  
+### V1.3.0 
 
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 language Permet aux administrateurs de serveurs de changer la langue utilisée par le bot sur leur serveur.  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 La commande aide a été mise à jour.
 
@@ -652,24 +559,18 @@ Ajout de 2 nouveaux badges.
 L'activité du bot a été mise à jour dans son profil discord  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Correction de diverses fautes d'orthographe
 
-Drapht24/11/2019
+### V1.3.1 
 
-V1.3.1  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 Aucune nouvelle commande  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 l'affichage de la console du bot a été amélioré
 
@@ -678,8 +579,7 @@ l'ergonomie du support en dm a été amélioré pour les staff du bot
 Il est désormais possible de voir l'inventaire d'un autre joueur en utilisant la commande inventory suivi d'une mention du joueur ou de son classement. \(merci à @I'm an akyual god \)  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Il était impossible de vendre un item
 
@@ -693,19 +593,14 @@ Discord a changé le nom d'un émoji causant des problèmes d'affichage sur pc
 
 Certains textes n'étaient pas affichés correctement
 
-Drapht16/12/2019
+### V1.3.2 
 
-V1.3.2  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 Aucune nouvelle commande  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 Les boost de vitesse et de défense dans les combats ne sont plus fixes et ont été légèrement buff.
 
@@ -728,8 +623,7 @@ Les attaques rapides sont moins affectées par la défense
 2 nouveaux \#🏆-badges ont été ajoutés  
 
 
-:arrow\_forward: Correction de bugs :  
-
+####  Correction de bugs  
 
 Certaines attaques pouvaient faire des dégâts à virgule.
 
@@ -737,19 +631,14 @@ Les défenseurs avaient les stats d'attaque des attaquants
 
 Certains items faisaient crash le shop
 
-Drapht04/01/2020
+### V1.4.0 
 
-V1.4.0  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 topweek Permet de visionner le classement de la semaine. Alias de la commande : tw ou topw  
 
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Les combats font désormais 25 tours au lieu de 20.
 
@@ -772,26 +661,20 @@ Amélioration du design de l'affichage de la commande profile.
 Ajout d'une commande admin permettant de redémarrer le bot en cas de problème.  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Correction de quelques fautes d'orthographe.
 
 L'un des émojis d'un rapport était différent de l'émoji en réaction.
 
-Drapht25/01/2020
+### V1.4.1 
 
-V1.4.1  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 Aucune commande n'a été ajoutée pour cette mise à jour  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 Le premier rapport est désormais immédiatement disponible après le tutoriel.
 
@@ -818,26 +701,20 @@ Plusieurs objets ont été nerfs/buff :
 Amélioration de la formulation de quelques évents  
 
 
-:arrow\_forward: Correction de bugs :  
-
+####  Correction de bugs  
 
 Correction de quelques fautes d'orthographe.
 
 Réagir à un badge sous le profil de quelqu'un n'affichait plus la description du badge
 
-Drapht21/02/2020
+### V1.4.2 
 
-V1.4.2  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+####  Commandes ajoutées  
 
 Ajout d'une commande admin \( destroy \) permettant de redémarrer le bot.  
 
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Les propriétaires de serveurs ne recevront plus de messages privés de la part du bot lorsque ce dernier rejoint leur serveur.
 
@@ -858,8 +735,7 @@ Ajout d'un fichier de config type et amélioration de l'implémentation de ce de
 Le shop est désormais un peu plus joli \(Merci @Max \)  
 
 
-:arrow\_forward: Correction de bugs :  
-
+####  Correction de bugs  
 
 Correction de phrases non consistantes sur la partie anglaise.
 
@@ -877,19 +753,14 @@ Suppression du gros lag du bot après un rapport
 
 Reduction des blocages de joueurs intempestifs
 
-Drapht22/02/2020
+### V1.4.3 
 
-V1.4.3  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 Ajout d'une commande admin pour modifier le score de la semaine des joueurs  
 
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Augmentation du taux de réussite de l'attaque simple de 10 %
 
@@ -902,24 +773,18 @@ Ajout d'une possibilité de réussite partiel de l'attaque simple sur un adversa
 Le nombre de point qu'il est possible de gagner en un seul combat est désormais limité  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Correction d'un problème syntaxique sur un évent
 
-Drapht08/03/2020
+### V1.4.4 
 
-V1.4.4  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 Aucune commande n'a été ajoutée pour cette mise à jour  
 
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 L'altération d'état :ghost: est donnée au bout de 7 jours consécutifs d'inactivité au lieu de 24 heures.
 
@@ -948,8 +813,7 @@ Petite clarification de l'affichage du shop
 Equilibrage de quelques évents  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Correction de quelques fautes d'orthographe
 
@@ -957,19 +821,14 @@ La bourse n'était pas vidée intégralement lorsque l'issue d'un rapport impliq
 
 Le bot répondait parfois en anglais à un évent commencé en Français ou inversement
 
-Drapht22/03/2020
+### V1.4.5 
 
-V1.4.5  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 topserv Permet d'avoir les classement des joueurs présent sur le serveur ou à été fait la commande. Alias :  tops  
 
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 Les items de rareté :gem: Mythiques se vendent désormais 10 fois plus cher
 
@@ -986,8 +845,7 @@ Liste des équilibrage sur les armes : \(https://cdn.discordapp.com/attachments/
 La liste n'a pas été faite pour les armures \( désolé :slight\_smile: \)  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 La boule de neige n'avait pas le bon émoji.
 
@@ -997,13 +855,9 @@ Correction de quelques erreurs d'affichage en Français
 
 Jouer à dimanche minuit permettait de ne pas être réinitialisé au classement de la semaine. \( le bot sera donc désormais inutilisable pendant le reset \)
 
-Drapht16/04/2020
+### V1.5.0 
 
-V1.5.0  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+#### Commandes ajoutées  
 
 guildcreate &lt;Nom de guilde&gt; - Permet de créer une guilde . Alias de la commande : gcreate
 
@@ -1017,8 +871,7 @@ guild \[nom de guilde ou mention\] - Permet d'afficher les informations sur une 
 
 guilddaily Permet de récupérer des récompenses de guildes. Alias de la commande : gdaily ou gd
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Ajout de 3 nouveaux évents
 
@@ -1039,8 +892,7 @@ Le message indiquant un gain d'item mentionne désormais l'utilisateur concerné
 Quelques changements divers ont été effectués sur les \#🏆-badges  \(cf \#📣-annonces \)  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Correction d'un soucis visuel sur le shop en anglais.
 
@@ -1050,18 +902,13 @@ Correction d'un bug d'affichage sur le message d'erreur anglais du tuto.
 
 Le lien de la commande invite était cassé.
 
-Drapht13/06/2020
+### V1.5.1 
 
-V1.5.1  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+####  Commandes ajoutées  
 
 Aucune commande n'a été ajoutée pour cette mise à jour
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Aucun ajout de cette mise à jour n'est permanent. Cette mise à jour est un patch temporaire visant à corriger des bugs ou exploit en attendant la prochaine grosse mise à jour.
 
@@ -1070,23 +917,17 @@ Le guild daily ne donne plus d'item random pour les guilds ayant un niveau infé
 Les joueurs ayant plus de 10 000 points au classement de la semaine ne gagnent plus de points à la fin d'un combat.  
 
 
-:arrow\_forward: Correction de bugs :  
-
+####  Correction de bugs  
 
 Les items ne sont pas donnés correctement lors d'un guilddaily.
 
-Drapht10/07/2020
+### V2.0.0 
 
-V2.0.0  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+####  Commandes ajoutées  
 
 test Une commande utilisable seulement sur une version en développement destinée à faciliter les tests.
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Grosse amélioration des performances et de la stabilité.
 
@@ -1115,8 +956,7 @@ Petit équilibrage des combats \(https://bit.ly/3fbEhR7\).
 Amélioration de la structure du bot facilitant grandement la collaboration.  
 
 
-:arrow\_forward: Correction de bugs :  
-
+#### Correction de bugs  
 
 Le soin des altérations d'état de la commande guilddaily soignait les joueurs en bonne santé.
 
@@ -1131,18 +971,13 @@ Correction de divers problèmes d'affichage de certains textes en anglais.
 Correction de fautes d'orthographe.  
 
 
-Drapht15/07/2020
+### V2.0.1 
 
-V2.0.1  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+####  Commandes ajoutées  
 
 Ajout des 2 commandes admins délaissées lors de la 2.0.0 : resetBadge servers
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Remise en place des messages du bot dans la \#💻-console
 
@@ -1159,8 +994,7 @@ Le message de blocage indique l'action qui vous empêche de continuer votre aven
 lorsqu'un joueur réclame un combat, ses statistiques sont affichées sur sa demande.  
 
 
-:arrow\_forward: Correction de bugs :  
-
+####  Correction de bugs  
 
 Certaines issues de l'évent 29 étaient manquantes.
 
@@ -1178,13 +1012,9 @@ Les items n'étaient pas obtenus dans certaines conditions.
 
 Le texte du monde maintenance en anglais n'était pas implémenté.
 
-Drapht09/08/2020
+### V2.0.2 
 
-V2.0.2  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+####  Commandes ajoutées  
 
 friendlyfight \(alias ff\) - Permet de lancer un combat amical.
 
@@ -1192,8 +1022,7 @@ sendlogs Permet aux contributeurs d’accéder aux raisons d'un crash
 
 servs Permet à l'owner du bot de lister les serveurs sur lequel le bot est présent.
 
-:arrow\_forward: Autres ajouts :  
-
+#### Autres ajouts  
 
 La commande help fonctionne désormais avec les alias des commandes.
 
@@ -1220,8 +1049,7 @@ La commande senddata peut être faite par les contributeurs.
 Certains items ont été équilibrés \(https://bit.ly/2PzxDc3\)  
 
 
-:arrow\_forward: Correction de bugs :  
-
+####  Correction de bugs  
 
 Corrections de diverses erreurs notamment de typo sur certains évents/commandes.
 
@@ -1242,18 +1070,13 @@ Des problèmes avec le calcul du niveau de certaines guildes sont apparus.
 La commande drink n'était pas bloquée pendant un shop.  
 
 
-Drapht30/08/2020
+### V2.0.3 
 
-V2.0.3  
-
-
-:arrow\_forward: Commandes ajoutées :  
-
+####  Commandes ajoutées  
 
 badge commande permettant d'avoir des informations sur les badges \(alias badges\)
 
-:arrow\_forward: Autres ajouts :  
-
+####  Autres ajouts  
 
 Le bot vendra automatiquement un objet si vous possédez le même dans votre inventaire.
 
@@ -1278,8 +1101,7 @@ Il faut désormais être niveau 10 pour utiliser les fonctionnalités liées aux
 La commande guildDaily affiche le nombre de minutes dans le temps avant le prochain daily.  
 
 
-:arrow\_forward: Correction de bugs :  
-
+####  Correction de bugs  
 
 La commande help souffrait de quelques erreurs sur la commande invite et affichait des commandes qui n'existent pas.
 
