@@ -1,30 +1,32 @@
-# Questions fréquentes
+# Questions
 
-### **Est-il possible de rajouter le bot sur mon serveur ?** 
+### Is it possible to add the bot to my server?
 
-OUI ! Le lien pour inviter le bot est disponible dans le salon "⁉-questions-fréquentes" du serveur officiel du bot accessible ici :
+ Yes! The link to invite the bot is available in the "questions-frequent" lounge of the official bot server available here:
 
 [https://discord.com/invite/WwgBfSg](https://discord.com/invite/WwgBfSg)
 
-### **En quel langage le bot est-il développé ?**
+## What language is the bot developed?
 
 _Node js_ 
 
-### **Comment les données des joueurs sont enregistrés ?**
+## How is player data recorded?
 
-Dans une base de données sqlite. Les données enregistrés concernent uniquement le jeu \(les messages / photos envoyées sur le channel où se trouve le bot ne sont jamais sauvegardés\).
+In a sqlite database. The recorded data is only about the game \(messages/photos sent to the channel where the bot is located are never backed up\).
 
-### **Comment fait-on pour créer un bot discord ?**
+## How do you create a discord bot?
 
-Désolé je n'ai pas le temps d'aider tout le monde cependant je ne peux que vous rediriger vers cet excellent guide pour débuter ;
+Sorry I don't have time to help everyone however I can only redirect you to this excellent guide to get started;
 
 [https://anidiots.guide/](https://anidiots.guide/)
 
-### **Comment le bot est-il hébergé ?**
+## How is the bot hosted?
 
-J'utilise OVH pour le moment et j'ai utilisé DigitalOcean, Amazon AWS et Google Cloud par le passé.
+I'm using OVH at the moment and I've used DigitalOcean, Amazon AWS and Google Cloud in the past.
 
-### **Peut on voir le code du bot sur GitHub ou GitLab ?**
+## Can we see the bot code on GitHub or GitLab?
 
-OUI ! Le bot est ****complétement OPEN SOURCE !!! N'hésitez pas à contribuer ici : [https://github.com/BastLast/DraftBot-A-Discord-Adventure](https://github.com/BastLast/DraftBot-A-Discord-Adventure)
+Yes! The bot is completely OPEN SOURCE !!! Don't hesitate to contribute here:
+
+[https://github.com/BastLast/DraftBot-A-Discord-Adventure](https://github.com/BastLast/DraftBot-A-Discord-Adventure)
 
