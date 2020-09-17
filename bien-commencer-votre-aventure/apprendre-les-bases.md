@@ -6,13 +6,15 @@ description: >-
 
 # Apprendre les bases
 
-### En quoi consiste le gameplay ?
+### En quoi consiste le gameplay 
 
-C'est un jeu de rôle en temps réel, cela signifie que vous n'aurez pas des commandes à effectuer en boucle mais que vous devrez surveiller régulièrement la progression de votre personnage.
+C'est un jeu de rôle en temps réel, cela signifie que vous n'aurez pas des commandes à effectuer en boucle mais que vous devrez surveiller régulièrement la progression de votre personnage. 
 
-### Astuces pour progresser rapidement
+### conseille pour un avancement rapide
 
-#### Faire des rapports régulièrement.
+#### Faire des rapport régulièrement
+
+It's a real-time role-playing game, which means you won't have to loop commands but you'll have to monitor your character's progress regularly
 
 Lorsqu'un joueur demande un rapport, il collecte les points remportés par le personnage qu'il contrôle auquel est ajouté un petit bonus. Cependant au bout d'un certain temps, le personnage cesse de collecter des points, il faut donc veiller à effectuer la commande report régulièrement. Il faut cependant attendre au moins une heure entre deux rapports afin de laisser un peu de temps au personnage pour collecter des points. Plus de détails sur la commande [`!report`](../notions-principale/report.md) peuvent être découvert sur la page de ce guide qui lui est dédié.
 
