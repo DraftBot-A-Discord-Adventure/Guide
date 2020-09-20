@@ -39,7 +39,7 @@ Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez 
 
 :axe:  **Attaque puissante**: Une attaque avec peu de réussite mais qui fait beaucoup de dégâts.
 
-💣  **Attaque ultime**: Une attaque sur 2 tours, qui est efficace si vous avez moins de défense que votre adversaire. Elle enlève 2/3 de la vie de votre adversaire.
+💣  **Attaque ultime**: Une attaque sur 2 tours, qui est efficace si vous avez moins de vitesse que votre adversaire. Elle enlève 2/3 de la vie de votre adversaire.
 
 🛡  **Défense**: Augmente la défense. La défense permet de prendre moins de dégâts des attaques. Plus l'action est utilisée, moins elle est efficace.
 
