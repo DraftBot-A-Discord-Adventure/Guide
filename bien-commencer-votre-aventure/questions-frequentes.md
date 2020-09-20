@@ -1,32 +1,24 @@
-# Questions
+# Questions fréquentes
 
-### Is it possible to add the bot to my server?
+## **Est-il possible de rajouter le bot sur mon serveur ?**  <a id="est-il-possible-de-rajouter-le-bot-sur-mon-serveur"></a>
 
- Yes! The link to invite the bot is available in the "questions-frequent" lounge of the official bot server available here:
+OUI ! Le lien pour inviter le bot est disponible dans le salon "⁉-questions-fréquentes" du serveur officiel du bot accessible ici :
 
-[https://discord.com/invite/WwgBfSg](https://discord.com/invite/WwgBfSg)
+​[https://discord.com/invite/WwgBfSg](https://discord.com/invite/WwgBfSg)​
 
-## What language is the bot developed?
+## **En quel langage le bot est-il développé ?** <a id="en-quel-langage-le-bot-est-il-developpe"></a>
 
-_Node js_ 
+_Node js_
 
-## How is player data recorded?
+Dans une base de données sqlite. Les données enregistrés concernent uniquement le jeu \(les messages / photos envoyées sur le channel où se trouve le bot ne sont jamais sauvegardés\).
 
-In a sqlite database. The recorded data is only about the game \(messages/photos sent to the channel where the bot is located are never backed up\).
+Désolé je n'ai pas le temps d'aider tout le monde cependant je ne peux que vous rediriger vers cet excellent guide pour débuter ;
 
-## How do you create a discord bot?
+​[https://anidiots.guide/](https://anidiots.guide/)​
 
-Sorry I don't have time to help everyone however I can only redirect you to this excellent guide to get started;
+J'utilise OVH pour le moment et j'ai utilisé DigitalOcean, Amazon AWS et Google Cloud par le passé.
 
-[https://anidiots.guide/](https://anidiots.guide/)
+## **Peut on voir le code du bot sur GitHub ou GitLab ?** <a id="peut-on-voir-le-code-du-bot-sur-github-ou-gitlab"></a>
 
-## How is the bot hosted?
-
-I'm using OVH at the moment and I've used DigitalOcean, Amazon AWS and Google Cloud in the past.
-
-## Can we see the bot code on GitHub or GitLab?
-
-Yes! The bot is completely OPEN SOURCE !!! Don't hesitate to contribute here:
-
-[https://github.com/BastLast/DraftBot-A-Discord-Adventure](https://github.com/BastLast/DraftBot-A-Discord-Adventure)
+OUI ! Le bot est complétement OPEN SOURCE !!! N'hésitez pas à contribuer ici : [https://github.com/BastLast/DraftBot-A-Discord-Adventure](https://github.com/BastLast/DraftBot-A-Discord-Adventure)​
 
