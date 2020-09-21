@@ -781,8 +781,6 @@ Crash lorsque le bot rejoins un nouveau serveur.
 Ajout d'une commande admin \( destroy \) permettant de redémarrer le bot.  
 
 
-####  Autres ajouts  
-
 Les propriétaires de serveurs ne recevront plus de messages privés de la part du bot lorsque ce dernier rejoint leur serveur.
 
 Le message de reset du top de la semaine s'affichera désormais dans le salon \#📣-annonces
