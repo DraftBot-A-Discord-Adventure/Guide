@@ -30,5 +30,5 @@ Lorsque vous finissez premier d'un classement de la semaine, vous obtenez un bad
 
 Le classement du serveur est un classement qui prend seulement en compte les joueurs du serveur où le joueur effectue la commande.
 
-La commande du classement de la semaine est `!topserv <numéro de page>`
+La commande du classement du serveur est `!topserv <numéro de page>`
 
