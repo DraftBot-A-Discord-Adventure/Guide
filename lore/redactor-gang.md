@@ -1,5 +1,7 @@
 # Redactor Gang
 
+![Le logo du Redactor Gang](../.gitbook/assets/7016a65d2706baaf6876d5f4785792f6.webp)
+
 Le Redactor Gang, surnommé RG, est une équipe qui s'occupe de la rédaction, de la traduction, et de l'ajout des événements sur le bot.
 
 L'ajout de contenu et d'évènement dans le bot est possible par tous. Si vous êtes motivé et que vous voulez aider n'hésitez pas ! Il suffit simplement de remplir [ce formulaire](https://forms.gle/CipBjqyATsrG9sK79) sans triche ni rien et nous vous recontacteront. 
