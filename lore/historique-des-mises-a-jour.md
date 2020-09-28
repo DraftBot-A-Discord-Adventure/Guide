@@ -10,7 +10,7 @@ badge commande permettant d'avoir des informations sur les badges \(alias badges
 
 Le bot vendra automatiquement un objet si vous possédez le même dans votre inventaire.
 
-Les potions ne sont plus vendables.
+Il n'est plus possible de vendre les potions.
 
 Amélioration du système de logs.
 
