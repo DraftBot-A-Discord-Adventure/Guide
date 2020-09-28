@@ -1,3 +1,10 @@
+---
+description: >-
+  Les badges sont des petites récompenses purement visuelles que vous pourrez
+  gagner au fils de votre aventure en accomplissant des petits objectifs.
+  Certains sont plus faciles à obtenir que d'autres.
+---
+
 # Badges
 
  ![:trophy:](https://canary.discordapp.com/assets/0a00e865c445d42dfb9f64bedfab8cf8.svg)`Meilleur joueur au moment du reset de la 1.0`   
@@ -20,4 +27,8 @@
 ![:christmas\_tree:](https://canary.discordapp.com/assets/2f5331445a4647af2bb317862b38502a.svg) `Badge pouvant être gagné chaque noël lors d'un concours`   
 ![:joy:](https://canary.discordapp.com/assets/6201503f3aa918470a2190b36d1e196f.svg) `Badge offert à ceux qui postent un bon meme sur le draftbot`   
 ![:ballot\_box:](https://canary.discordapp.com/assets/ff85a1aae50ad48506e3275656768e89.svg) `Personne ayant voté dans les 12 dernières heures`
+
+Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
+
+Certains badges ne sont plus disponible depuis la version 1.0 de DraftBot, notamment ![:trophy:](https://canary.discordapp.com/assets/0a00e865c445d42dfb9f64bedfab8cf8.svg)![:medal:](https://canary.discordapp.com/assets/c9b563417a1ff01700edc358b5fc309f.svg)![:helmet\_with\_cross:](https://canary.discordapp.com/assets/782c5bd88fb4750d99cf6655fba03474.svg). Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
 

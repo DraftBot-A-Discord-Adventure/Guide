@@ -8,9 +8,11 @@ Voici la liste des principaux fondateurs du Redactor Gang :
 
 | Nom | Rôle principal |
 | :--- | :--- |
-| Ines\#7400 | Modératrice Discord |
-| Kyusaki\#9053 | Modérateur Discord |
-| Thero1st\#9119 | Modérateur Discord |
-| ReallyMinoryo\#1304 | Equipe technique |
-| DeadAngelV6\#6892 | Equipe technique |
+| `Ines#7400` | Modératrice Discord |
+| `Kyusaki#9053` | Modérateur Discord |
+| `Thero1st#9119` | Modérateur Discord |
+| `ReallyMinoryo#1304` | Equipe technique |
+| `DeadAngelV6#6892` | Equipe technique |
+
+
 
