@@ -28,6 +28,7 @@ description: >-
 ![:joy:](https://canary.discordapp.com/assets/6201503f3aa918470a2190b36d1e196f.svg) `Badge offert à ceux qui postent un bon meme sur le draftbot`   
 ![:ballot\_box:](https://canary.discordapp.com/assets/ff85a1aae50ad48506e3275656768e89.svg) `Personne ayant voté dans les 12 dernières heures`
 
+Si vous pensez mériter un badge, merci de contacter `Thero1st#9119` ou `Ines#7400` sur Discord.  
 Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
 
 Certains badges ne sont plus disponible depuis la version 1.0 de DraftBot, notamment ![:trophy:](https://canary.discordapp.com/assets/0a00e865c445d42dfb9f64bedfab8cf8.svg)![:medal:](https://canary.discordapp.com/assets/c9b563417a1ff01700edc358b5fc309f.svg)![:helmet\_with\_cross:](https://canary.discordapp.com/assets/782c5bd88fb4750d99cf6655fba03474.svg). Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
