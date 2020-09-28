@@ -20,7 +20,7 @@ L'altération d'état d'un joueur, définit sa situation actuelle. Certains stat
 | 💀  | Mort | **Ø** |
 
 {% hint style="warning" %}
-L'altération d'état "Enfermé" est la seule altération d'état à interdire l'accès au magasin
+L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder au magasin
 {% endhint %}
 
 {% hint style="danger" %}
