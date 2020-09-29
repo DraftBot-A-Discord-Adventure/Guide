@@ -13,7 +13,6 @@
 * [Profil](notions-principale/profile.md)
 * [Rapports](notions-principale/report.md)
 * [Combats](notions-principale/combats.md)
-* [Commandes](notions-principale/commandes.md)
 * [Guildes](notions-principale/guildes.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
 * [Équipements](notions-principale/items.md)
