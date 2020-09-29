@@ -16,7 +16,11 @@
 
 ### Valeur des équipements
 
-## Liste des armes
+La valeur des équipements est calculée principalement en fonction de la rareté de l'équipement.
+
+### Liste des équipements
+
+#### Liste des armes
 
 | Symbole | Nom | Attaque | Rareté |
 | :--- | :--- | :--- | :--- |
