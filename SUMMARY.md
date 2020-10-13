@@ -6,7 +6,7 @@
 
 * [Commencer votre aventure](bien-commencer-votre-aventure/commencer-votre-aventure.md)
 * [Apprendre les bases](bien-commencer-votre-aventure/apprendre-les-bases.md)
-* [Questions fréquentes](bien-commencer-votre-aventure/questions-frequentes.md)
+* [Questions et problèmes fréquents](bien-commencer-votre-aventure/questions-frequentes.md)
 
 ## Notions principales <a id="notions-principale"></a>
 
