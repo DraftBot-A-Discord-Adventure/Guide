@@ -1,56 +1,56 @@
 ---
-description: Un guide à propos des combats.
+description: A guide about the figths.
 ---
 
-# Combats
+# Fights
 
-Arrivé au niveau 8, vous débloquerez les combats. Ce guide vous permettra d'acquérir les bases.
+Once at level 8 you will unlock the figths. This guide will show you the bases.
 
-### Avant de commencer 
+### Before starting
 
-Pour un combat , les  statistiques ****suivantes sont à prendre en compte :
+In a figth, the following informations are to take into account :
 
-* les points d'attaque 🗡 
-* les points de défense  🛡 
-* les points de vitesse 🚀 
-* les points de vie 💙 
+* the attack points🗡 
+* the defense points  🛡 
+* the speed points 🚀 
+* the health points 💙 
 
 {% hint style="info" %}
-Pour plus d'informations à propos de ces statistiques, regarder la section Profil.
+For more informations about those numbers, please see the Profile section.
 {% endhint %}
 
-### Types de combats 
+### Figths types
 
-#### Les combats normaux
+#### Normal figths
 
-Un combat normal peut être lancé avec la commande `!fight`. La variante `!fight <@user>` permets de défier un utilisateur. Si vous n'êtes pas l'initiateur du combat, et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction ✅. Dans ce type de combat, le gagnant remporte des points, et le perdant en perds.
+aA normal figth can be started with the `!figth` command. You can add a `@user` option just after the command, to specify a user to figth. If you are not the creator of the figth, and if you don't have any state alteration, you can clic on the ✅ emoji in reaction. IIn this type of figths, the winner earns points, and the defeated player looses some.
 
-#### Les combats amicaux 
+#### Friendly figths 
 
-Les combats amicaux sont similaires aux combats normaux, à la seule différence qu'il n’y a aucune perte ni gain de points. La commande pour lancer un combat amical est `!friendlyfight` .
+The friendly figths works the same as the normal figths, juste anyone is loosing or earning points at the end. To start one you can run the `!friendlyfigth` command.
 
-### Déroulement d'un combat 
+### Progress of a figth 
 
-Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez le choix entre 6 actions :
+The figth is a turn by turn system. At every turn you will have to choose beetwin 6 options :
 
-⚔  **Attaque simple**: Une attaque moyenne qui a des chances moyennes de réussir.
+⚔  **Simple attack**: An attack that has normal chances to succeed.
 
-🗡  **Attaque rapide**: Une attaque qui marche bien si vous êtes plus rapide que votre adversaire.
+🗡  **Fast attack**: An attack that has good chanced of succeeding if you are faster than your enemy.
 
-:axe:  **Attaque puissante**: Une attaque avec peu de réussite mais qui fait beaucoup de dégâts.
+⚒  **Heavy attack**: the chances of succeeding are low, but it makes much damages.
 
-💣  **Attaque ultime**: Une attaque sur 2 tours, qui est efficace si vous avez moins de vitesse que votre adversaire. Elle enlève 2/3 de la vie de votre adversaire.
+💣  **Ultimate attack**: an attack on 2 tuns, that is efficient if you have a lower speed than your enemy. She removes arouns 2/3 of your opponent's life.
 
-🛡  **Défense**: Augmente la défense. La défense permet de prendre moins de dégâts des attaques. Plus l'action est utilisée, moins elle est efficace.
+🛡  **Defense**: Grow your defense up. The defense allows you to take lower damages. The more this action is use, the less it will be efficient.
 
-🚀 Augmente la vitesse. Si votre vitesse est supérieure à celle de votre adversaire, vous avez plus de chance de réussir votre attaque sauf pour l'attaque ultime. Plus l'action est utilisée, moins elle est efficace.
+🚀 **Speed**: Get faster. If your speed is abous your opponent's, your chance of succeeding an attack are higher except for the ultimate attack. The most the action is used, the less it will be efficient.
 
-### Conditions de victoire
+### Voctory conditions
 
- Un combat se termine quand les points de vie 💙 d'un des deux adversaires tombe à 0, ou si l'un des deux joueurs ne réponds pas pendant 30 secondes. Si le tour 25 est atteint, le combat se finira sur une égalité. 
+ The figth ends when the life of one of the opponents health points💙 are about 0, or if one of the players doesn't answer for 30 seconds. If the 25th turn is reached, the figth will end in equality. 
 
 {% hint style="warning" %}
-A chaque fin de combat, les points de vie 💙 ne sont pas rendus tout de suite après  le combat.
+After each figths the health points 💙 are not given back instantly.
 {% endhint %}
 
 

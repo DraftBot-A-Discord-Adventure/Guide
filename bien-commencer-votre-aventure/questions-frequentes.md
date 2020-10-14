@@ -1,46 +1,30 @@
-# Questions et problèmes fréquents
+# Frequently asked questions
 
-## Problèmes courants
+### Can I add the bot to my discord server ?
 
-### Trouver la liste des commandes.
+YES ! The invite link is in the "⁉-questions-fréquentes" channel on the official discord server that you can join with the invite link below :
 
-La liste des commandes du bot peut être obtenue en utilisant la commande `help` dans un salon ou le bot peut vous répondre.
+[https://discord.com/invite/WwgBfSg](https://discord.com/invite/WwgBfSg)
 
-### J'ai invité le bot sur mon serveur mais ce dernier ne répond pas.
+###  **What language is the bot developed in ?**
 
-Vérifiez que vous avez donné les bonnes permissions au bot. 
+_Node js_ 
 
-![Liste minimale des permissions n&#xE9;cessaires](../.gitbook/assets/image%20%2815%29.png)
+### **How are the players data saved ?**
 
-Si les permissions sont correctes pour le channel où vous avez fait la commande, vérifiez que vous utilisez le bon préfix en mentionnant draftbot. Celui-ci vous communiquera le préfix à utiliser.
+In an sqlite database. The only informations saved are about the game \(every messages/images sent in the bot's channel won't be saved\)
 
-## Questions fréquentes
+### **How do we create a discord bot ?**
 
-### **Est-il possible de rajouter le bot sur mon serveur ?** 
+Sorry, I can't explain everyone, but I can recommand you this very good guide to start :
 
-OUI ! Le lien pour inviter le bot est disponible dans le salon "⁉-questions-fréquentes" du serveur officiel du bot accessible ici :
+[https://anidiots.guide/](https://anidiots.guide/)
 
-​[https://discord.com/invite/WwgBfSg](https://discord.com/invite/WwgBfSg)​
+### **How is the bot hosted ?**
 
-### **En quel langage le bot est-il développé ?**
+Rigth now i'm using OVH, but DigitalOcean, Amazon AWS and Google Cloud has been used in the past.
 
-_Node js_
+### **Can wesee the bot's source code on github or gitlab ?**
 
-Les données enregistrés dans la base de donnée concernent uniquement le jeu \(les messages / photos envoyées sur le channel où se trouve le bot ne sont jamais sauvegardés\). Les pseudos de joueurs ne sont pas non plus enregistrés.
-
-### Comment créer un bot discord ?
-
-Désolé je n'ai pas le temps d'aider tout le monde cependant je ne peux que vous rediriger vers cet excellent guide pour débuter ;
-
-​[https://anidiots.guide/](https://anidiots.guide/)
-
-### ​Comment le bot est il hébergé ?
-
-J'utilise OVH pour le moment et j'ai utilisé DigitalOcean, Amazon AWS et Google Cloud par le passé.
-
-### **Peut on voir le code du bot sur GitHub ou GitLab ?**
-
-OUI ! Le bot est complétement OPEN SOURCE !!! N'hésitez pas à contribuer ici : [https://github.com/DraftBot-A-Discord-Adventure](https://github.com/BastLast/DraftBot-A-Discord-Adventure)
-
-​
+Yes, the bot is completely open source, and the full source code can be consulted here : [https://github.com/DraftBot-A-Discord-Adventure/](https://github.com/DraftBot-A-Discord-Adventure/)
 

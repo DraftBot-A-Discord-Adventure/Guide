@@ -1,27 +1,16 @@
-# Gestion de l'inventaire
+# Managing inventory
 
-L'inventaire est l'endroit où sont placés les différents items ramassés par le joueur dans les rapports, ou achetés dans le magasin contre de l'argent.
+The inventory is the place in which every items found in the reports, or bougth in the shop are stored.
 
-### Organisation de l'inventaire 
+### Organisation of the inventory
 
-![l&apos;inventaire d&apos;un joueur qui vient de commencer l&apos;aventure](../.gitbook/assets/image%20%289%29.png)
-
-L'inventaire se décompose en deux parties distinctes, la première est dédiée aux objets équipés par le joueur, la seconde quant à elle est une réserve permettant de stocker un objet supplémentaire.
-
-La première partie de l'inventaire est partagée en **4 éléments** :
-
-* `L'emplacement d'arme`
-* `L'emplacement d'armure ou de bouclier`
-* `L'emplacement de la potion`
-* `L'emplacement de l'objet actif`
-
-La seconde partie de l'inventaire sert à **stocker un objet supplémentaire** que vous pourrez échanger avec votre objet actif en fonction de vos besoins. 
+![](../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="info" %}
-Les différents équipements se placent automatiquement dans la case de l'inventaire qui leur correspond.
+Every types of equipments automatically stored in their dedicated slot.
 {% endhint %}
 
-La commande `!daily` permet d'utiliser un objet placé dans la case "objet actif". 
+The `!daily` command allows the user to use the item placed in the "Active object" slot.
 
-La commande `!switch` permet d'échanger l'objet de réserve avec l'objet actif.
+The `!switch` command can be used to switch de active item, and the stored item.
 

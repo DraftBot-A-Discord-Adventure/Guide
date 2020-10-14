@@ -1,46 +1,44 @@
----
-description: Un guide à propos de la commande !profil.
----
+# Profile
 
-# Profil
 
-La commande `!profil` permets de voir les différentes statistiques de votre personnage. En utilisant, la variante `!profil <@user>`, vous pouvez voir les statistiques de la personne concernée.
+
+The `!profile` command allows you to see the different statistics of your character. Using the `@user` option after the command will let you see other's profiles
 
 ### Informations 
 
-Cette ligne corresponds aux statistiques en rapport avec l'aventure. Elle est composée de :
+This line contains every statistics about the adventure, contaning :
 
-❤ Vos points de vie.
+❤ Your health
 
-⭐ Vos points d'expérience, ainsi que le nombre de points d'expérience à atteindre pour passer au level suivant.
+⭐ Your experience points, and the number of experience required to reach the next level.
 
-💰 Votre argent.
+💰 Your money
 
-### Statistiques
+### Statistics
 
-Cette ligne corresponds aux statistiques liées aux combats. On y retrouve :
+This line is about every things gifths related. It shows :
 
-🗡 Vos points d'attaque.
+🗡 Your attacks points.
 
-🛡 Vos points de défense.
+🛡 Your defense points
 
-🚀 Vos points de vitesse.
+🚀 Your speed points
 
-💙 Vos points de vie.
+💙 Your health points
 
 {% hint style="info" %}
-Attention à ne pas confondre les points de vie 💙 et les ❤ ! Ils n'ont pas la même utilité.
+Be careful not to confuse the health points 💙 with the ❤ ! They do not have the same purpose.
 {% endhint %}
 
-### Classement et Score 
+###  Ranking and Score
 
-Cette ligne indique votre classement 🏆 ainsi que votre score 🏅 .
+This line shows your ranking 🏆as well as your score 🏅 .
 
-### Temps restant 
+### Remaining time 
 
-Cette ligne affiche le statut actuel de votre joueur. Si vous avez une altération d'état active, le temps restant sera affiché, précédé d'un émoji relatif à l'altération.
+This line show the current status of your player. If you have any active state alteration, the remaining time will be displayed, with the related emoji.
 
 {% hint style="info" %}
-Pour trouver la liste complète des altérations d'état, consultez la section Notions principales &gt; Altérations d'état.
+To get a complete list of the state alteration, please visit the State Alteration page, in the Main functions category.
 {% endhint %}
 

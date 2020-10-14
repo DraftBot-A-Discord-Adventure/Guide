@@ -1,2 +1,2 @@
-# Comment collaborer ?
+# How to collaborate ?
 

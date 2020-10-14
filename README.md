@@ -1,24 +1,24 @@
 ---
 description: >-
-  Ce guide est une présentation des fonctionnalités principales de DraftBot et
-  des conseils pour bien commencer votre aventure.
+  This guide is a presentation of the main features of DraftBot and tips to
+  start you adventure nicely.
 ---
 
-# Découvrir DraftBot !
+# Discover DraftBot !
 
-## DraftBot c'est quoi ?
+## What is DraftBot ?
 
-DraftBot est un bot discord développé par [@BastLast](https://github.com/BastLast) qui vous permet de vivre une aventure textuelle. 
+DraftBot is a discord bot developed by [@BastLast](https://github.com/BastLast) that allows you to live a textual adventure. 
 
-L'histoire se déroule dans un monde médiéval et le joueur contrôle un aventurier qui doit remporter une compétition organisée par le roi afin d’accéder à la main de la princesse. Pour atteindre son but, il doit voyager, collecter des points et affronter de nombreux dangers. Le jeu se déroule en temps réel, le joueur est amené à demander régulièrement des "rapports" au personnage qu'il contrôle. Lors de ces rapports, le personnage pourra être amené à se faire conseiller par le joueur à travers un système de choix utilisant les réactions de discord. Chaque choix amène le personnage vers des conséquences bénéfiques ou non. Lors de son aventure, le personnage sera amené à être blessé, à collecter différents équipements... 
+The story takes place in a medieval world and the player controls an adventurer who must win a competition organized by the king in order to access the hand of the princess. To reach his goal, he must travel, collect points and face many dangers. The game takes place in real time, and the player must regularly ask for "reports" from the character he controls. During these reports, the character may be led to be advised by the player through a choice system using discord reactions. Each choice leads the character to beneficial or not consequences. During his adventure, the character will be led to be injured, to collect different equipment...
 
-#### Voilà un résumé des fonctionnalités principales.
+#### Main features.
 
-* Dirigez votre petit personnage et aidez le à **sauver la princesse**  ! 
-* **Aucune permission n'est nécessaire**, Votre serveur est en sécurité !
-* **Configuration simple** : juste un salon.
-* Rejoignez **plusieurs milliers de joueurs**, combattez et créez votre guilde avec vos amis  !
-* Aidez nous à améliorer le bot ! Projet complètement [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) !
+* Lead your little character and help him **save the princess**! 
+* **No permission needed**, your server is safe! 
+* **Simple configuration**: just a channel. 
+* Join **thousands of players**, fight and create your guild with your friends! 
+* Help us to **improve the bot!** Completely [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) project!
 
-![Un exemple de rapport effectu&#xE9; par un joueur.](.gitbook/assets/image%20%283%29.png)
+![An example of a report made by a user.](.gitbook/assets/image%20%283%29.png)
 

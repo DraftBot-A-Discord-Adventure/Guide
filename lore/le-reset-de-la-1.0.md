@@ -1,45 +1,45 @@
-# Le reset de la 1.0
+# The 1.0 reset
 
-Le 24 avril 2019, le bot est passé à la version 1.0.0 suite a une grosse mise a jour. Elle est plus couramment appelé « le reset ». Ce fameux reset amena son lot de nouveautés et de correction de bug en procédant à une réécriture quasiment complète du bot.
+The 24th of april 2019, the bot has been updated to the 1.0.0 after a big update. She is mostely called the "reset". She bringed many new systems, and the bot has been quite completely rewritten. 
 
-Lors de cette mise à jour, la progression de la totalité des joueurs a été remise à zero. Un badge a été offert au meilleur joueur.
+During this reset, every players progression has been reset. The best player recieved a badge.
 
-### Commandes ajoutées
+### Commands added
 
-| Commande | Alias | Description |
+| Command | Alias | Description |
 | :--- | :--- | :--- |
-| **drink** | **dr** | Cette commande permet de consommer la potion que vous transportez. Certaines potions ne peuvent pas être bues et sont consommées automatiquement lors d'un combat. |
+| **drink** | **dr** | This command will let you drink the potion that you are carrying. Some of them can't be drinked, and will be automatically used in figths. |
 
-### Commandes supprimées
+### Deleted commands
 
-Suppression des commandes `!regen` et `!levelup`. Ces deux actions sont désormais automatiques.
+Deleted the `!regen` and `!levelup` command, because those actions are now made automatically.
 
-La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`]().
+The `!topguild` command has been deleted, but will be remade a bit after, with the name of `!topserver`.
 
-###  Système du profile
+###  Profile system
 
-L'interface des combats et du profile ont été complètement réécrit. Pour vous donner un aperçu, voici l'interface du profile avant et après la v1.0.0.  
+The figth and profile interface has been completely renewed. To let you see, this was how the interface was like before and after the 1.0.0
 
-![Syst&#xE8;me de profile avant la mise &#xE0; jour](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot_%2848%29.png/revision/latest/scale-to-width-down/617?cb=20200409185454&path-prefix=fr)
+![Profile before the update](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot_%2848%29.png/revision/latest/scale-to-width-down/617?cb=20200409185454&path-prefix=fr)
 
-![Syst&#xE8;me de profile apr&#xE8;s la mise &#xE0; jour](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot_%2850%29.png/revision/latest?cb=20200409190521&path-prefix=fr)
+![Profile after the update](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot_%2850%29.png/revision/latest?cb=20200409190521&path-prefix=fr)
 
-### Ajout des badges 
+### Added badges
 
-Je vous invite a consulter la page du wiki dédié au [badges](../notions-avancees/badges.md) pour plus détails.
+We let you see the [badges](../notions-avancees/badges.md) pages, for more informations about them
 
-### Diverses autres nouveautés 
+### Other news
 
-* Certaines commandes ont été renommées: `!rapport` devient [`!report`](../notions-principale/report.md), `!inventaire` deviens [`!inventory`](../notions-avancees/inventory.md) et `!combat` devient [`!fight`]()\`\`
-* Ajout d'alias pour certaines commandes 
-* Possibilité pour les possesseurs d'un serveur qui contient le bot de changer le préfix de leur serveur via le salon \#🗣-server-managers dans le salon officiel du bot.
-* Le système de combat a été complétement revu.
-* Le système d'xp a été complètement revu.
-* Les pertes de temps sont mieux matérialisées.
-* Beaucoup de textes ont été réécris.
-* La commande [`!sell`]() vous demande une confirmation avant la vente d'un objet.
-* Il y a désormais plus de 100 pièces d'équipement différents à trouver dans les évents.
-* Ajout de 3 nouveaux évènements.
-* Le chargement du top est désormais instantanée.
-* Les easter eggs ont tous été supprimés GG à ceux qui en avaient trouvés.
+* Some commands have been rename: `!rapport` became `!report`, `!inventaire` became `!inventory`, and `!conbat` became `!figth`.
+* Added aliases for some commands
+* Possibility of changing the bot's prefix in your own guild by using the \#🗣-server-managers channel that is available on the official discord server.
+* The figth system has been completely remade.
+* The experiance system has been completely remade.
+* Loosing time is better shown.
+* Many texts have been rewritten.
+* The `!sell` commands ask you a confirmation before selling any item.
+* There is now 100 items that you can find in the events.
+* Added 3 events
+* The lodaing of the top page is now instantly made.
+* The easter eggs have been deleted, congratulations to everyone that found them !
 

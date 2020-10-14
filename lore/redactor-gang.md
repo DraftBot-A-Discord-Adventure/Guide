@@ -1,20 +1,16 @@
 # Redactor Gang
 
-![Le logo du Redactor Gang](../.gitbook/assets/7016a65d2706baaf6876d5f4785792f6.webp)
+The Redactor Gang, often called RG is the team tha manages the bots redaction, translation, and that adds events to the bot.
 
-Le Redactor Gang, surnommé RG, est une équipe qui s'occupe de la rédaction, de la traduction, et de l'ajout des événements sur le bot.
+If you wish to add an even to the bot, and if you are motivated, you can do it by filling out [this form](https://forms.gle/CipBjqyATsrG9sK79) without cheating, and we will contact you.
 
-L'ajout de contenu et d'évènement dans le bot est possible par tous. Si vous êtes motivé et que vous voulez aider n'hésitez pas ! Il suffit simplement de remplir [ce formulaire](https://forms.gle/CipBjqyATsrG9sK79) sans triche ni rien et nous vous recontacteront. 
+Here is the list of the main creators of the Redactor Gang :
 
-Voici la liste des principaux fondateurs du Redactor Gang :
-
-| Nom | Rôle principal |
+| Discord name | Main role |
 | :--- | :--- |
-| `Ines#7400` | Modératrice Discord |
-| `Kyusaki#9053` | Modérateur Discord |
-| `Thero1st#9119` | Modérateur Discord |
-| `ReallyMinoryo#1304` | Equipe technique |
-| `DeadAngelV6#6892` | Equipe technique |
-
-
+| Ines\#7400 | Dicsord Moderator |
+| Kyusaki\#9053 | Discord Moderator |
+| Thero1st\#9119 | Discord Moderator |
+| ReallyMinoryo\#1304 | Technical Team |
+| DeadAngelV6\#6892 | Technical Team |
 

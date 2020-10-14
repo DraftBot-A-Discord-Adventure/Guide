@@ -1,34 +1,34 @@
-# Monter dans les classements
+# Rank up
 
-## Les commandes top
+## The leaderboard command
 
-La commande top est une commande qui sert à savoir qui sont les meilleurs joueurs du DraftBot en les classant avec leur nombre de points. Elle affiche également votre classement, et la page à laquelle vous vous trouvez. Vous verrez les joueurs par tranche de 15, avec leur pseudo, leur état, leur nombre de points et leur niveau.
+The `!top` command can be used to see the leaderboard of the DraftBot players, by points count. She also displays your ranking, and the page at which you are. The players will be displayed 15 by 15, showing their name, their status, their points count, and their level.
 
-![Exemple du r&#xE9;sultat de la commande top](../.gitbook/assets/image%20%285%29.png)
+![An example of the top command](../.gitbook/assets/image%20%285%29.png)
 
-### Astuce
+### Tricks
 
-il est possible de parcourir le classement en indiquant un numéro de page en tapant la commande comme ceci : `!top <numéro de page>`
+It is possible to see a specific page of the leaderboard, by typing `!top <page number>`.
 
 {% hint style="warning" %}
-Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;
+In the example above you don't need to write &lt;&gt;
 {% endhint %}
 
-### Les autres commandes top
+### Others leaderboards
 
-#### Le classement de la semaine
+#### Weekly leaderboard
 
-Le classement de la semaine est réinitialisé tous les dimanche.
+The weekly leaderboard is reset every sunday?
 
-La commande du classement de la semaine est `!topweek <numéro de page>`
+The topweek command is `!topweek <page number>`.
 
-Lorsque vous finissez premier d'un classement de la semaine, vous obtenez un badge, tous les autres participants eux, ne reçoivent rien.
+At the topweek reset, the first player will recieve a permanent badge.
 
-🎗️ `Personne ayant dominé un classement de la semaine`
+🎗️ `Player that has won a weekly leaderboard`
 
-#### Le classement du serveur
+#### Server ranking
 
-Le classement du serveur est un classement qui prend seulement en compte les joueurs du serveur où le joueur effectue la commande.
+The server rankng is used to display the local top, counting only the player in the guild.
 
-La commande du classement du serveur est `!topserv <numéro de page>`
+The local top command is `!topserv <page number>`
 

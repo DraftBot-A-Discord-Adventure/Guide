@@ -1,31 +1,31 @@
-# Rapports
+# Reports
 
-Les rapports représentent la base du jeu. Il s'agit d'une petite description de ce qu'il est advenu du personnage contrôlé par le joueur depuis leur dernière interaction. Pour demander un rapport, le joueur doit utiliser la commande `!report`.
+The report is the main function of the game. It can be used to get the last informations about your player, since the last interaction. You can ask a report by executing the `!report` \(our `!r`\) command.
 
-### Fonctionnement
+### How does it work
 
-Le personnage récolte environ 1 point à chaque minute et 1 d'argent toutes les 6 minutes. Il est impossible de récolter deux rapports à moins d'une heure d'intervalle. 
+The player recives around 1 point every minutes, and 1 money every 6 minutes. The report command has a 1h cooldown.
 
-Il existe **2 types** de rapports :
+There is **2 types** of reports :
 
-* Les rapports dits **simples**. Positifs à tous les coups, ils ne nécessitent pas de choix de la part des joueurs et ne permettent pas le changement de statut, le gain d'item et la perte ou le gain de vie.
-* Les **événements** \(ou évents\) sont souvent préférés grâce à l'interactivité qu'ils proposent. Ils ont plus de chance de subvenir lorsque le temps écoulé depuis le rapport précédent est conséquent.
+* **Simple reports**. Always positive, they don't need the user to make any choice, and won't give any state alteration, niether than items, and life.
+* The **events**, are mostely likes beaucouse of the interactivity. They have more chance to happend when the time since last report is big.
 
 {% hint style="warning" %}
-Au bout de 16 heures et 40 minutes sans interaction, le personnage cesse de récolter des points et de l'argent.
+After 16 hours and 40 minutes of inactivity, the player stops recolting points and money.
 {% endhint %}
 
-La probabilité d'obtenir un rapport simple dépend du temps écoulé depuis le rapport précédent effectué par le joueur. Plus un joueur attend plus il a de chance que quelque chose qui necessite son attention soit survenu. Au bout de 6 heures et 40 minute la probabilité d'avoir un évènement est de 100%
+The probability of having simple report depends of the time since last report. The more a user will wait, the more chance he has to get an event with a choice.
 
-Avant les 6h40 la probabilité peut se calculer ainsi :
+Before 6h40 the probability can be calculated like that :
 
 $$
-Probabilité = x /400
+Probability = x /400
 $$
 
-Avec x le nombre de minutes écoulé depuis le précédent rapport.
+Considering that x equals to the number of minutes since the last report
 
 {% hint style="danger" %}
-La durée d'une altération d'état ne compte pas dans le temps écoulé
+The cooldown of a state alteration is not counted
 {% endhint %}
 

@@ -2,57 +2,57 @@
 description: Un guide à propos des guildes.
 ---
 
-# Guildes
+# Guilds
 
-Une guilde permets de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes au fur et à mesure que chacun investira son argent dans l'achat d'expérience.
+A guild can bring together up to 6 players, to get daily rewards, that will be improved with the level of the guild.
 
-### Comment créer une guilde ?
+### How to create my guild ?
 
-Créer une guilde est possible à l'aide de la commande `!guildcreate <nom de guilde>`. 
+You can create your own guild with the `!guildcreate <guild name` command?. 
 
 {% hint style="warning" %}
-Le nom d'une guilde est unique, il doit respecter un certain nombre de règles :
+The name of a guild is unique, and must follow some rules
 
-* Utiliser au moins une lettre
-* Ne pas mettre plus de 2 espaces consécutifs
-* Les caractères spéciaux ne sont pas autorisés
-* Entre 2 et 14 caractères
-* Ne doit pas déjà être pris
+* contains at least one letter
+* Don't use more than 2 following spaces
+* Special characters are prohibited
+* Contain beetwin 2 and 14 characters
+* Name not in use
 {% endhint %}
 
 {% hint style="danger" %}
-Il est impossible de renommer une guilde
+It is impossible to rename a guild
 {% endhint %}
 
-### Comment rejoindre une guilde ?
+### How to join a guild ?
 
-Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde peut inviter des joueurs dans sa guilde grâce à la commande `!guildadd <@player>`.
+Every player above level 10 can join guilds. The guild leader is the only person who can invite people in it, by using the `!guildadd <@player>` command.
 
 {% hint style="info" %}
-Un salon destiné à recueillir les annonces de recrutement est disponible sur le discord du bot.
+A channel for annoucing recruitments is available on the bot's official server.
 {% endhint %}
 
-### Voir les statistiques d'une guilde ? 
+### View the guilds informations
 
-La commande `!guild` permet d'afficher les informations de la guilde de la personne effectuant la commande.
+The `!guild` command can be used to dpslay the informations about the guild you are in
 
-Il existe également deux façons alternatives d'utiliser cette commande:
+There are two ways of using this command :
 
-* `!guild <nom de la guilde>` Permet de voir les informations d'une guilde à partir de son nom
-* `!guild <@mention>` Permet de voir les informations d'une guilde à partir de l'un de ses membres
+* `!guild <guild name>` Let you see the informations of a guild with her name
+* `!guild <@user>` Let you see the informations of the guild of the mentionned user.
 
-### Monter de niveau une guilde.
+### Growing the guild level up
 
-#### Dans la boutique 
+#### In the shop
 
-Dans la boutique, l'expérience est représentée par l'icône⭐.   
-Contre 1000 d'argent,  vous pourrez apporter aléatoirement entre 50 et 450 points d'expérience pour votre guilde. 
+In the shop, the guild exeprience is represented with the⭐ emoji.   
+With 1000 money, you can buy a random amount beewtin 50 and 450 points of guild exeprience.
 
-####  Dans les récompenses quotidiennes 
+####  Daily rewards
 
-Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent .... Le type de récompense varie en fonction du niveau de votre guilde.
+With a cooldown of 22 hours, you can use the `!guilddaily` command, to get a reward, beewtin guild experience, and money. The reward type can change depending of your guilds level.
 
-| Niveau de la guilde | Un peu d'Argent | Expérience de guilde  | Expérience personnelle  | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge |
+| Level of the guild | Some money | Guild exeprience | User experience  | State alteration care | Health points | Full health regeneration | 350 of money | Badge |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0-10 | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | 10-20 | 59.8% | 15% | 5% | 10% | 5% | 0.2% | 5% | 0% |
@@ -66,8 +66,7 @@ Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obteni
 | 90-100 | 20% | 24% | 5% | 10% | 6% | 1% | 29% | 5% |
 | 100 | 20.5% | 0% | 20% | 10% | 6% | 1.5% | 32% | 10% |
 
-### Quitter une guilde ? 
+### Leave a guild ?
 
-Il est possible à tout moment de quitter une guilde avec la commande `!guildleave`.   
-Le chef de la guilde, peut aussi utiliser la commande `!guildkick`, pour expulser un membre de la guilde.
+You can leave your guild at any moments, by using the `!guildleave` command. The owner of the guild can kick users with the `!guildkick` command.
 

@@ -1,32 +1,32 @@
 # Table of contents
 
-* [Découvrir DraftBot !](README.md)
+* [Discover DraftBot !](README.md)
 
-## Bien commencer votre aventure
+## Getting your adventure off a good start <a id="bien-commencer-votre-aventure"></a>
 
-* [Commencer votre aventure](bien-commencer-votre-aventure/commencer-votre-aventure.md)
-* [Apprendre les bases](bien-commencer-votre-aventure/apprendre-les-bases.md)
-* [Questions et problèmes fréquents](bien-commencer-votre-aventure/questions-frequentes.md)
+* [Start your adventure](bien-commencer-votre-aventure/start-youre-adventure.md)
+* [Learn the bases](bien-commencer-votre-aventure/learn-the-bases.md)
+* [Frequently asked questions](bien-commencer-votre-aventure/questions-frequentes.md)
 
-## Notions principales <a id="notions-principale"></a>
+## Main functions <a id="notions-principale"></a>
 
-* [Profil](notions-principale/profile.md)
-* [Rapports](notions-principale/report.md)
-* [Combats](notions-principale/combats.md)
-* [Guildes](notions-principale/guildes.md)
-* [Altérations d'état](notions-principale/alterations-detat.md)
-* [Équipements](notions-principale/items.md)
+* [Profile](notions-principale/profile.md)
+* [Reports](notions-principale/report.md)
+* [Fights](notions-principale/combats.md)
+* [Guilds](notions-principale/guildes.md)
+* [State alteration](notions-principale/alterations-detat.md)
+* [Stuff](notions-principale/items.md)
 
-## Notions avancées
+## Advanced functions <a id="notions-avancees"></a>
 
-* [Monter dans les classements](notions-avancees/monter-dans-les-classements.md)
-* [Gestion de l'inventaire](notions-avancees/inventory.md)
+* [Rank up](notions-avancees/monter-dans-les-classements.md)
+* [Managing inventory](notions-avancees/inventory.md)
 * [Badges](notions-avancees/badges.md)
 
-## Lore et histoire du bot <a id="lore"></a>
+## Lore and hostory of the bot <a id="lore"></a>
 
-* [Comment collaborer ?](lore/comment-collaborer.md)
-* [Historique des mises à jour](lore/historique-des-mises-a-jour.md)
-* [Le reset de la 1.0](lore/le-reset-de-la-1.0.md)
+* [How to collaborate ?](lore/comment-collaborer.md)
+* [Change logs](lore/change-logs.md)
+* [The 1.0 reset](lore/le-reset-de-la-1.0.md)
 * [Redactor Gang](lore/redactor-gang.md)
 
