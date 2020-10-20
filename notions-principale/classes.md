@@ -4,18 +4,21 @@ Depuis la version [**2.10** ](https://history.draftbot.com/draftbot-v2/2.1.0)de 
 
 ### Comment choisir une classe ?
 
+{% hint style="info" %}
+Il existe pour le moment 3 classes dans le jeu :   
+[![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr)**Soldat**, [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr)**Archer** et[![Bouclier normal](https://vignette.wikia.nocookie.net/draftbot/images/f/f6/Bouclier_normal.png/revision/latest/scale-to-width-down/20?cb=20200421182312&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/f6/Bouclier_normal.png/revision/latest?cb=20200421182312&path-prefix=fr)**Tank**  
+_La liste des classes sera étoffée dans le futur._
+{% endhint %}
+
 Si votre personnage est niveau 16, vous pouvez choisir une nouvelle classe en faisant la commande `!class`  
 Ce qui donne ce résultat :
 
 ![Menu de s&#xE9;lection des classes avec les diff&#xE9;rentes statistiques ](../.gitbook/assets/systeme_classes.png)
 
-{% hint style="warning" %}
-`Pour le moment vous avez le choix entre Soldat, Archer et Tank.  
-La liste des classes sera étoffée dans le futur.`
-{% endhint %}
+En suite vous devez simplement cliquer sur la réaction du bot correspondant à la classe de votre choix.
 
 {% hint style="info" %}
-Vous pouvez changer autant de fois de classe que vous le voulez. Pour cela vous devrez débourser 5000 golds à chaque changement.
+Le changement de classe coûte de l'argent du jeu, vous devez avoir 5000 💰 minimum pour changer de classe. Vous pouvez changer autant de fois que vous le souhaitez.
 {% endhint %}
 
 ### Statistiques des classes
