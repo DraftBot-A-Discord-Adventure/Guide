@@ -7,7 +7,7 @@ Depuis la version **2.10** de DraftBot vous avez la possibilité de choisir une 
 Si votre personnage est niveau 16, vous pouvez choisir une nouvelle classe en faisant la commande `!class`  
 Ce qui donne ce résultat :
 
-![Menu de s&#xE9;lection de classe avec les diff&#xE9;rentes statistiques ](../.gitbook/assets/systeme_classes.png)
+![Menu de s&#xE9;lection des classes avec les diff&#xE9;rentes statistiques ](../.gitbook/assets/systeme_classes.png)
 
 {% hint style="warning" %}
 `Pour le moment vous avez le choix entre Soldat, Archer et Tank.  
