@@ -18,5 +18,15 @@ La liste des classes sera étoffée dans le futur.`
 Vous pouvez changer autant de fois de classe que vous le voulez. Pour cela vous devrez débourser 5000 golds à chaque changement.
 {% endhint %}
 
+### Statistiques des classes
 
+Ces statistiques sont à cumuler avec ceux de base de votre personnage et de votre équipement.
+
+| Classe | Attaque | Défense | Vitesse d'attaque | Points de combat | Santé |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) **Soldat** | +60 | +40 | +20 | +145 | +85 |
+| [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr) **Archer** | +60 | +10 | +60 | +10 | +40 |
+|  [![Bouclier normal](https://vignette.wikia.nocookie.net/draftbot/images/f/f6/Bouclier_normal.png/revision/latest/scale-to-width-down/20?cb=20200421182312&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/f6/Bouclier_normal.png/revision/latest?cb=20200421182312&path-prefix=fr)**Tank** | +25 | +50 | +0 | +300 | +200 |
+
+_Ces statistiques sont susceptibles de changer au fur et à mesure de l'équilibrage des classes._
 
