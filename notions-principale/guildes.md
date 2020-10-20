@@ -10,6 +10,8 @@ Une guilde permets de réunir jusqu'à 6 personnes, afin de gagner des récompen
 
 Créer une guilde est possible à l'aide de la commande `!guildcreate <nom de guilde>`. 
 
+Vous pouvez ajouter une description à votre guilde avec la commande `!guilddesc <descrption de ma super guilde>`.
+
 {% hint style="warning" %}
 Le nom d'une guilde est unique, il doit respecter un certain nombre de règles :
 
