@@ -10,7 +10,8 @@ Il existe pour le moment 3 classes dans le jeu :
 _La liste des classes sera étoffée dans le futur._
 {% endhint %}
 
-Si votre personnage est niveau 16, vous pouvez choisir une nouvelle classe en faisant la commande `!class`  
+Pour changer de classe et à condition que votre personnage soit niveau 16 vous devez utiliser la commande `!class`  
+  
 Ce qui donne ce résultat :
 
 ![Menu de s&#xE9;lection des classes avec les diff&#xE9;rentes statistiques ](../.gitbook/assets/systeme_classes.png)
@@ -25,7 +26,7 @@ Le changement de classe coûte de l'argent du jeu, vous devez avoir 5000 💰 mi
 
 Ces statistiques sont à cumuler avec ceux de base de votre personnage et de votre équipement.
 
-| Classe | Attaque | Défense | Vitesse d'attaque | Points de combat | Santé |
+| Classe | ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg)Attaque | ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg)Défense | ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)Vitesse d'attaque | ![:blue\_heart:](https://discord.com/assets/e37c985edda06b7d5f4559bc838c1bde.svg)Points de combat | ![:heart:](https://discord.com/assets/0483f2b648dcc986d01385062052ae1c.svg)Santé |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) **Soldat** | +60 | +40 | +20 | +145 | +85 |
 | [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr) **Archer** | +60 | +10 | +60 | +10 | +40 |
