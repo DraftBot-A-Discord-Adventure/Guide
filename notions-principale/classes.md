@@ -1,6 +1,6 @@
 # Classes
 
-Depuis la version **2.10** de DraftBot vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 16**. La classe par défaut pour tout les joueurs est **Soldat**.
+Depuis la version **2.10** de DraftBot vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 16**. La classe par défaut pour tous les joueurs est **Soldat**.
 
 ### Comment choisir une classe ?
 
