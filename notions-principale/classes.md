@@ -15,7 +15,7 @@ La liste des classes sera étoffée dans le futur.`
 {% endhint %}
 
 {% hint style="info" %}
-Vous pouvez changé autant de fois de classe que vous le voulez. Pour cela vous devrez débourser 5000 golds à chaque changement.
+Vous pouvez changer autant de fois de classe que vous le voulez. Pour cela vous devrez débourser 5000 golds à chaque changement.
 {% endhint %}
 
 
