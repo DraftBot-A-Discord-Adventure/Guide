@@ -15,7 +15,7 @@ Pour changer de classe et à condition que votre personnage soit niveau 16 vous 
   
 Ce qui donne ce résultat :
 
-![Menu de s&#xE9;lection des classes avec les diff&#xE9;rentes statistiques ](../.gitbook/assets/systeme_classes.png)
+![Menu des classes avec leurs diff&#xE9;rentes statistiques](../.gitbook/assets/systeme-classe-blanc%20%281%29.png)
 
 En suite vous devez simplement cliquer sur la réaction du bot correspondant à la classe de votre choix.
 
