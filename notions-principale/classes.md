@@ -28,5 +28,5 @@ Ces statistiques sont à cumuler avec ceux de base de votre personnage et de vot
 | [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr) **Archer** | +60 | +10 | +60 | +10 | +40 |
 |  [![Bouclier normal](https://vignette.wikia.nocookie.net/draftbot/images/f/f6/Bouclier_normal.png/revision/latest/scale-to-width-down/20?cb=20200421182312&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/f6/Bouclier_normal.png/revision/latest?cb=20200421182312&path-prefix=fr)**Tank** | +25 | +50 | +0 | +300 | +200 |
 
-_Ces statistiques sont susceptibles de changer au fur et à mesure de l'équilibrage des classes._
+_Ces bonus sont susceptibles de changer au fur et à mesure de l'équilibrage des classes._
 
