@@ -16,6 +16,7 @@
 * [Guildes](notions-principale/guildes.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
 * [Équipements](notions-principale/items.md)
+* [Classes](notions-principale/classes.md)
 
 ## Notions avancées
 
