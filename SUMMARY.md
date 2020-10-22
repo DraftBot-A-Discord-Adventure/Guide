@@ -16,6 +16,7 @@
 * [Guilds](notions-principale/guildes.md)
 * [State alteration](notions-principale/alterations-detat.md)
 * [Stuff](notions-principale/items.md)
+* [Classes](notions-principale/classes.md)
 
 ## Advanced functions <a id="notions-avancees"></a>
 
