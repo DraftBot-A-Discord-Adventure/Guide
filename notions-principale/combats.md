@@ -4,7 +4,7 @@ description: Un guide à propos des combats.
 
 # Combats
 
-Une fois que votre personnage a atteint le **niveau 8**, vous débloquer la capacité de faire des **combats**. Ce guide vous permet de comprendre les bases.
+Une fois que votre personnage a atteint le **niveau 8**, vous débloquez la capacité de faire des **combats**. Ce guide vous permet de comprendre les bases.
 
 ### Avant de commencer 
 
