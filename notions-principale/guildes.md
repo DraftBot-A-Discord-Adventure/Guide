@@ -8,7 +8,7 @@ A guild can bring together up to 6 players, to get daily rewards, that will be i
 
 ### How to create my guild ?
 
-You can create your own guild with the `!guildcreate <guild name` command?. 
+You can create your own guild with the `!guildcreate <guild name` command. 
 
 {% hint style="warning" %}
 The name of a guild is unique, and must follow some rules
