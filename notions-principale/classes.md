@@ -33,3 +33,11 @@ Puis vous devez cliquer sur la réaction correspondante à la classe que vous so
 Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de fois que vous le souhaitez.
 {% endhint %}
 
+### Statistiques des classes
+
+Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de DraftBot pour connaitre les différentes statistiques des classes.
+
+Il s'agit de la commande `!classstats`
+
+![Statistiques des classes](../.gitbook/assets/stats-de-classes.png)
+
