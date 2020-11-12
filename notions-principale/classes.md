@@ -1,6 +1,6 @@
 # Classes
 
-Depuis la version [**2.10** ](https://history.draftbot.com/draftbot-v2/2.1.0)de DraftBot vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 4**. La classe par défaut pour l'ensemble des joueurs est **Recrue**.
+Depuis la version [**2.1.0** ](https://history.draftbot.com/draftbot-v2/2.1.0)de DraftBot vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 4**. La classe par défaut pour l'ensemble des joueurs est **Recrue**.
 
 ### Comment choisir une classe ?
 
