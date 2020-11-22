@@ -17,6 +17,12 @@ Au total, il y a 18 classes disponibles dans le jeu
 
 Pour changer de classe et à condition que votre personnage soit niveau 4 vous devez utiliser la commande `!class`
 
+{% hint style="success" %}
+Utilisez ce lien pour voir vos statistiques en fonction de votre classe et de votre niveau : [https://docs.google.com/spreadsheets/d/1jWFSMNHKj20iHflUqZr0xvugcRSI5kHCQfSmrPad\_po/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jWFSMNHKj20iHflUqZr0xvugcRSI5kHCQfSmrPad_po/edit?usp=sharing)
+
+\(Merci à Charette\#6109 pour le ggdoc\)
+{% endhint %}
+
 Puis vous devez cliquer sur la réaction correspondante à la classe que vous souhaitez.
 
 ### Liste des classes
