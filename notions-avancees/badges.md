@@ -26,7 +26,11 @@ description: >-
 ![:reminder\_ribbon:](https://canary.discordapp.com/assets/d702f2335a85d421e708bc9466571fa8.svg) `Personne ayant dominé un classement de la semaine`   
 ![:christmas\_tree:](https://canary.discordapp.com/assets/2f5331445a4647af2bb317862b38502a.svg) `Badge pouvant être gagné chaque noël lors d'un concours`   
 ![:joy:](https://canary.discordapp.com/assets/6201503f3aa918470a2190b36d1e196f.svg) `Badge offert à ceux qui postent un bon meme sur le draftbot`   
-![:ballot\_box:](https://canary.discordapp.com/assets/ff85a1aae50ad48506e3275656768e89.svg) `Personne ayant voté dans les 12 dernières heures`
+![:ballot\_box:](https://discordapp.com/assets/ff85a1aae50ad48506e3275656768e89.svg) `Personne ayant voté dans les 12 dernières heures`  
+![:gem:](https://discordapp.com/assets/5a8d9af8b5b3922097b2cccfce844630.svg) `Membre d'une guilde puissante`  
+![:bookmark:](https://discordapp.com/assets/2424297076c0d1c8499820fc4f9d9f57.svg) `Adopteur de classes de la première heure`  
+![:crossed\_swords:](https://discordapp.com/assets/e7159ba0fcc85f39f95227dd85f44aeb.svg) `Vainqueur d'un tournoi`  
+
 
 Si vous pensez mériter un badge, merci de contacter `Thero1st#9119` ou `Ines#7400` sur Discord.  
 Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
