@@ -1,5 +1,9 @@
 # Familiers
 
+{% hint style="warning" %}
+Page en construction
+{% endhint %}
+
 Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)fonction du niveau de votre guilde.
 
 {% hint style="info" %}
@@ -29,6 +33,38 @@ Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec u
 | 80 | 0.516% | 0.1924% | 0.13124% | 0.090499% | 0.069861% |
 | 90 | 0.414% | 0.2196% | 1.16371% | 0.114299% | 0.088391% |
 | 100 | 0.3% | 0.25% | 0.2% | 0.140899% | 0.109101% |
+
+Vous pouvez supprimer votre familier avec la commande `!petfree` 
+
+{% hint style="danger" %}
+`Attention cette action est irreversible, si vous liberez un familier c'est définitif`
+{% endhint %}
+
+### Comment nourrir mon familier ?
+
+La nourriture va permettre d'influer sur le moral de votre animal, pour nourrir votre familier vous devez utiliser la commande `!breedpet` ou son alias `!bp`
+
+Ne négligez pas votre familier ! Son moral baissera si vous oubliez de vous en occuper.
+
+Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité de votre familier, ils sont classés de cette manière :
+
+1.  ![:smirk\_cat:](https://discord.com/assets/e25128510c26b0aad9d71bc6cf49df67.svg) Fielleux
+2.  ![:pouting\_cat:](https://discord.com/assets/551f9d76028c39299e0bc9bc20cd0e0d.svg) Sauvage
+3.  ![:scream\_cat:](https://discord.com/assets/3068417ae7f1a7c5c2ba60ab1aa1fb62.svg) Craintif
+4.  ![:smiley\_cat:](https://discord.com/assets/ef2af7fab48463e72a3a7f0f8fb4fb4e.svg) Apprivoisé
+5.  ![:heart\_eyes\_cat:](https://discord.com/assets/d4d91a5f31668dd4609a3d7522f722c5.svg) Dressé
+
+### Comment stocker mon familier ?
+
+Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier 1 du refuge.
+
+{% hint style="info" %}
+Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
+{% endhint %}
+
+### Surnommer un familier
+
+Vous pouvez définir un surnom pour votre familier pour rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `!petnickname <surnom>` exemple : `!petnickname Henri` permet de surnommer votre familier "Henri".
 
 {% hint style="warning" %}
 Page en construction
