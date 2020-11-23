@@ -58,6 +58,8 @@ Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité d
 
 Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier 1 du refuge.
 
+Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`
+
 {% hint style="info" %}
 Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 {% endhint %}
@@ -65,6 +67,14 @@ Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 ### Surnommer un familier
 
 Vous pouvez définir un surnom pour votre familier pour rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `!petnickname <surnom>` exemple : `!petnickname Henri` permet de surnommer votre familier "Henri".
+
+### Echange de familiers
+
+L'implémentation de cette mise à jour favorise l'interaction entre joueurs puisque vous avez la possibilité d'échanger un familier avec la commande `!pettrade <mention joueur>` exemple : `!pettrade @Heliox#1119` permet d'ouvrir l'interface d'échange de familier avec le joueur **Heliox**.
+
+{% hint style="info" %}
+_Une image d'illustration sera bientôt disponible pour visualiser le menu d'échange._
+{% endhint %}
 
 {% hint style="warning" %}
 Page en construction
