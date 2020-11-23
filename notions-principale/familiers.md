@@ -4,7 +4,7 @@
 Page en construction
 {% endhint %}
 
-Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)fonction du niveau de votre guilde.
+Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)en fonction du niveau de votre guilde.
 
 {% hint style="info" %}
 Pour le moment les familiers sont purement esthétiques. Ils n'ont pas de fonction à proprement parlé, mais cela est amené à changer dans une future mise à jour.
