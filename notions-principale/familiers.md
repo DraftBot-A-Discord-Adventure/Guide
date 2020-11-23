@@ -54,6 +54,12 @@ Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité d
 4.  ![:smiley\_cat:](https://discord.com/assets/ef2af7fab48463e72a3a7f0f8fb4fb4e.svg) Apprivoisé
 5.  ![:heart\_eyes\_cat:](https://discord.com/assets/d4d91a5f31668dd4609a3d7522f722c5.svg) Dressé
 
+{% hint style="danger" %}
+Echanger un familier avec un autre joueur réinitialisera son moral à ![:pouting\_cat:](https://discord.com/assets/551f9d76028c39299e0bc9bc20cd0e0d.svg) Sauvage
+
+Changer de propriétaire c'est dur à supporter pour un animal !
+{% endhint %}
+
 ### Comment stocker mon familier ?
 
 Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier 1 du refuge.
