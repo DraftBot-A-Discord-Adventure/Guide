@@ -1,9 +1,5 @@
 # Familiers
 
-{% hint style="warning" %}
-Page en construction
-{% endhint %}
-
 Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)en fonction du niveau de votre guilde.
 
 {% hint style="info" %}
@@ -83,8 +79,4 @@ Vous pouvez définir un surnom pour votre familier pour rendre ce dernier unique
 L'implémentation de cette mise à jour favorise l'interaction entre joueurs puisque vous avez la possibilité d'échanger un familier avec la commande `!pettrade <mention joueur>` exemple : `!pettrade @Heliox#1119` permet d'ouvrir l'interface d'échange de familier avec le joueur **Heliox**.
 
 ![Menu d&apos;&#xE9;change de familiers](../.gitbook/assets/trade-pets.png)
-
-{% hint style="warning" %}
-Page en construction
-{% endhint %}
 
