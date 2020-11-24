@@ -66,6 +66,8 @@ Vous avez la possibilité de stocker votre familier dans le **refuge de votre gu
 
 Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`
 
+![Refuge de la guilde Draftpedia](../.gitbook/assets/shelter-pets.png)
+
 {% hint style="info" %}
 Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 {% endhint %}
@@ -74,13 +76,13 @@ Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 
 Vous pouvez définir un surnom pour votre familier pour rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `!petnickname <surnom>` exemple : `!petnickname Henri` permet de surnommer votre familier "Henri".
 
+![Commande !mypet avec affichage du surnom du familier](../.gitbook/assets/rename-pets.png)
+
 ### Echange de familiers
 
 L'implémentation de cette mise à jour favorise l'interaction entre joueurs puisque vous avez la possibilité d'échanger un familier avec la commande `!pettrade <mention joueur>` exemple : `!pettrade @Heliox#1119` permet d'ouvrir l'interface d'échange de familier avec le joueur **Heliox**.
 
-{% hint style="info" %}
-_Une image d'illustration sera bientôt disponible pour visualiser le menu d'échange._
-{% endhint %}
+![Menu d&apos;&#xE9;change de familiers](../.gitbook/assets/trade-pets.png)
 
 {% hint style="warning" %}
 Page en construction
