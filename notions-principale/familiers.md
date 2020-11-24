@@ -62,7 +62,7 @@ Changer de propriétaire c'est dur à supporter pour un animal !
 
 ### Comment stocker mon familier ?
 
-Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier 1 du refuge.
+Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier n°1 du refuge.
 
 Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`
 
