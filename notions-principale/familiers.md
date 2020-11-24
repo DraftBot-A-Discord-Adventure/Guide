@@ -30,7 +30,7 @@ Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec u
 | 90 | 0.414% | 0.2196% | 1.16371% | 0.114299% | 0.088391% |
 | 100 | 0.3% | 0.25% | 0.2% | 0.140899% | 0.109101% |
 
-Vous pouvez supprimer votre familier avec la commande `!petfree` 
+Vous pouvez libérer votre familier avec la commande `!petfree` 
 
 {% hint style="danger" %}
 `Attention cette action est irreversible, si vous liberez un familier c'est définitif`
@@ -74,7 +74,7 @@ Vous pouvez définir un surnom pour votre familier pour rendre ce dernier unique
 
 ![Commande !mypet avec affichage du surnom du familier](../.gitbook/assets/rename-pets.png)
 
-### Echange de familiers
+###  Échange de familiers
 
 L'implémentation de cette mise à jour favorise l'interaction entre joueurs puisque vous avez la possibilité d'échanger un familier avec la commande `!pettrade <mention joueur>` exemple : `!pettrade @Heliox#1119` permet d'ouvrir l'interface d'échange de familier avec le joueur **Heliox**.
 
