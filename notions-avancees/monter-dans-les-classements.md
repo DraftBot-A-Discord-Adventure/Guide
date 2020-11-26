@@ -8,7 +8,7 @@ La commande top est une commande qui sert à savoir qui sont les meilleurs joueu
 
 ### Astuce
 
-il est possible de parcourir le classement en indiquant un numéro de page en tapant la commande comme ceci : `!top <numéro de page>`
+Il est possible de parcourir le classement en indiquant un numéro de page en tapant la commande comme ceci : `!top <numéro de page>`
 
 {% hint style="warning" %}
 Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;
@@ -18,7 +18,7 @@ Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;
 
 #### Le classement de la semaine
 
-Le classement de la semaine est réinitialisé tous les dimanche.
+Le classement de la semaine est réinitialisé tous les dimanches.
 
 La commande du classement de la semaine est `!topweek <numéro de page>`
 
