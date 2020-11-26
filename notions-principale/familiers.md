@@ -33,7 +33,7 @@ Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec u
 Vous pouvez libérer votre familier avec la commande `!petfree` 
 
 {% hint style="danger" %}
-`Attention cette action est irreversible, si vous liberez un familier c'est définitif`
+`Attention cette action est irréversible, si vous libérez un familier c'est définitif`
 {% endhint %}
 
 ### Comment nourrir mon familier ?
