@@ -14,7 +14,9 @@ Les familiers ont un **moral**, si vous le nourrissez à intervalle régulier so
 
 ### Comment obtenir un familier ?
 
-Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec un pourcentage défini en fonction du niveau de votre guilde.
+Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec 10% de chance.
+
+La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
 | Niveau guilde/rareté familier | 1![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 2![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 3![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 4![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 5![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
