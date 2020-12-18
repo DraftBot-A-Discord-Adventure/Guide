@@ -42,6 +42,10 @@ Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez 
 | ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg)Défense    | Augmente vos![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg)points de défense ce qui permet de mieux absorber les dégâts des attaques de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
 | ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Prise d'élan                           | Augmente vos![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)points de vitesse. Toutes les attaques hormis l'attaque ultime ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
 
+### Chances de réussite.
+
+Voici le tableau qui pour chaque attaque en fonction de la situation, indique les % de réussite.
+
 #### ![:crossed\_swords:](https://discord.com/assets/e7159ba0fcc85f39f95227dd85f44aeb.svg) Attaque simple
 
 | Situation | Attaque réussie parfaitement  | Attaque réussie | Attaque échouée |
