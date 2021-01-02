@@ -120,7 +120,7 @@ Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le c�
 
 ![Ici le familier &quot;Elle&quot; est vendu](../.gitbook/assets/image%20%2817%29.png)
 
-Il y a in conditions importantes à respecter pour la vente de familier:
+Il y a des conditions importantes à respecter pour la vente de familier:
 
 * Il n'est pas possible de vendre un pet à un membre de sa guilde.
 * Il est nécessaire d'appartenir à une guilde pour vendre un pet mais pas pour l'acheter
