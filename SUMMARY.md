@@ -17,6 +17,7 @@
 * [State alteration](notions-principale/alterations-detat.md)
 * [Items](notions-principale/items.md)
 * [Classes](notions-principale/classes.md)
+* [Pets](notions-principale/pets.md)
 
 ## Advanced functions <a id="notions-avancees"></a>
 
