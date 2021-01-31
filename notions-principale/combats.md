@@ -21,17 +21,17 @@ For more informations about those numbers, please see the Profile section.
 
 ### Figths types
 
-#### Normal figths
+#### Normal fight
 
-aA normal figth can be started with the `!figth` command. You can add a `@user` option just after the command, to specify a user to figth. If you are not the creator of the figth, and if you don't have any state alteration, you can clic on the ✅ emoji in reaction. IIn this type of figths, the winner earns points, and the defeated player looses some.
+A normal fight can be started with the `!fight` command. You can add a `@user` option just after the command, to specify a user to fight. If you are not the creator of the fight, and if you don't have any state alteration, you can click on the ✅ emoji in reaction. In these type of fights, the winner earns points, and the defeated player looses some.
 
-#### Friendly figths 
+#### Friendly fights
 
-The friendly figths works the same as the normal figths, juste anyone is loosing or earning points at the end. To start one you can run the `!friendlyfigth` command.
+The friendly fights works the same as the normal fights, no one is loosing or earning points at the end. To start one you can run the `!friendlyfight` command.
 
-### Progress of a figth 
+### Progress of a fight
 
-The figth is a turn by turn system. At every turn you will have to choose beetwin 6 options :
+The fight is a turn by turn system. At every turn you will have to choose between 6 options :
 
 ⚔  **Simple attack**: An attack that has normal chances to succeed.
 
@@ -39,18 +39,18 @@ The figth is a turn by turn system. At every turn you will have to choose beetwi
 
 ⚒  **Heavy attack**: the chances of succeeding are low, but it makes much damages.
 
-💣  **Ultimate attack**: an attack on 2 tuns, that is efficient if you have a lower speed than your enemy. She removes arouns 2/3 of your opponent's life.
+💣  **Ultimate attack**: an attack on 2 tuns, that is efficient if you have a lower speed than your enemy. She removes around 2/3 of your opponent's life.
 
 🛡  **Defense**: Grow your defense up. The defense allows you to take lower damages. The more this action is use, the less it will be efficient.
 
-🚀 **Speed**: Get faster. If your speed is abous your opponent's, your chance of succeeding an attack are higher except for the ultimate attack. The most the action is used, the less it will be efficient.
+🚀 **Speed**: Get faster. If your speed is about your opponent's, your chance of succeeding an attack are higher except for the ultimate attack. The most the action is used, the less it will be efficient.
 
-### Voctory conditions
+### Victory conditions
 
- The figth ends when the life of one of the opponents health points💙 are about 0, or if one of the players doesn't answer for 30 seconds. If the 25th turn is reached, the figth will end in equality. 
+ The fight ends when the life of one of the opponents health points💙 are about 0, or if one of the players doesn't answer for 30 seconds. If the 25th turn is reached, the fight will end in equality. 
 
 {% hint style="warning" %}
-After each figths the health points 💙 are not given back instantly.
+After each fights the health points 💙 are not given back instantly.
 {% endhint %}
 
 
