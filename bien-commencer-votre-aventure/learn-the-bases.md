@@ -12,13 +12,13 @@ It's a real-time role-playing game, which means you won't have to loop commands 
 
 #### Report regularly
 
-When a player requests a report, he collects the points won by the character he controls to which is added a small bonus. However, after a while, the character stops collecting points, so make sure to make the deferral command regularly. However, you have to wait at least an hour between reports to give the character some time to collect points. More informations about the `!report`
+When a player requests a report, he collects the points won by the character he controls to which is added a small bonus. However, after a while, the character stops collecting points, so make sure to make the deferral command regularly. However, you have to wait at least an hour between reports to give the character some time to collect points. Some information about the technicalities of `!report`
 
 ### Lexicon
 
-During your game and if you choose to take part in the community and talk about the bot, you will be brougth tu use the vocabulary used to describe specific elements of the game. Here's a list of the main ones:
+During your game and if you choose to take part in the community and talk about the bot, you will bump into use the vocabulary used to describe specific elements of the game. Here's a list of the main ones:
 
-❗ **Event**: An event may happend when the player executes the `!report` command. If an event occurs, the player will have to choose beetwin different options
+❗ **Event**: An event may happen when the player executes the `!report` command. If an event occurs, the player will have to choose between different options
 
 
 
@@ -42,5 +42,5 @@ During your game and if you choose to take part in the community and talk about 
 Potions are the only pieces of equipment that cannot be resold
 {% endhint %}
 
-🗝 **Objects**: Objects can have various effects, they are the only pieces of equipment that can be transported in two copies by the player. Indeed, the player's inventory has a reserve and an active object. By default the objects will be placed in the reserve which may contain a single object. To use the power of an object you have to place it in the "active object" box of the inventory using the `!switch` command, which will alow the use of the `!daily` command.
+🗝 **Objects**: Objects can have various effects, they are the only pieces of equipment that can be transported in two copies by the player. Indeed, the player's inventory has a reserve and an active object. By default the objects will be placed in the reserve which may contain a single object. To use the power of an object you have to place it in the "active object" box of the inventory using the `!switch` command, which will allow the use of the `!daily` command.
 
