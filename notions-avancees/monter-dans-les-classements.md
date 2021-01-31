@@ -18,17 +18,17 @@ In the example above you don't need to write &lt;&gt;
 
 #### Weekly leaderboard
 
-The weekly leaderboard is reset every sunday?
+The weekly leaderboard is reset every sunday
 
 The topweek command is `!topweek <page number>`.
 
-At the topweek reset, the first player will recieve a permanent badge.
+At the topweek reset, the first player will receive a permanent badge.
 
 🎗️ `Player that has won a weekly leaderboard`
 
 #### Server ranking
 
-The server rankng is used to display the local top, counting only the player in the guild.
+The server ranking is used to display the local top, counting only the player in the guild.
 
 The local top command is `!topserv <page number>`
 
