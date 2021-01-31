@@ -19,5 +19,17 @@
 ![:reminder\_ribbon:](https://canary.discordapp.com/assets/d702f2335a85d421e708bc9466571fa8.svg) `Player that won a top week`   
 ![:christmas\_tree:](https://canary.discordapp.com/assets/2f5331445a4647af2bb317862b38502a.svg) `Can be won every christmas in giveaways`   
 ![:joy:](https://canary.discordapp.com/assets/6201503f3aa918470a2190b36d1e196f.svg) `Gave to the players that mades funny memes on the officiel discord server`   
-![:ballot\_box:](https://canary.discordapp.com/assets/ff85a1aae50ad48506e3275656768e89.svg) `Player that voted in the past 12 hours`
+![:ballot\_box:](https://canary.discordapp.com/assets/ff85a1aae50ad48506e3275656768e89.svg) `Player that voted in the past 12 hours`   
+💎 `Member of a poserful guild`   
+  🔖 `Early class adopter`  
+ ⚔ `Tournament winner`   
+ 🚩 `Person that accomplished a weekly mission on twitter`
+
+If you think that you merit a badge, please contact `Thero1st#9119` or `Ines#7400` on discord.  
+Once a badge is unlocked, it will show on your [profile](https://guide.draftbot.com/v/en/notions-principale/profile).
+
+Some badge are no longer available since the 1.0 version of DraftBot, especially 🏆, 🏅, and ⛑. The players that own them are of the oldest and loyals players of the community !  
+  
+  
+
 
