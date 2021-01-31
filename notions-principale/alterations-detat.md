@@ -35,10 +35,10 @@ But it is still possible to get rid of an alteration without waiting.
 
 #### Get an "alteration state care"
 
-Is is possible to buy it in the shop using the `!shop` command with 500 money, and will cancel your state alteration? When this will be done, your players status will be the same as a player that just done a report.
+It is possible to buy it in the shop using the `!shop` command with 500 money, and will cancel your state alteration. When this will be done, your players status will be the same as a player that just done a report.
 
 {% hint style="info" %}
-The alteration state care is also one of the rewards ofthe guild daily command.
+The alteration state care is also one of the rewards of the guild daily command.
 {% endhint %}
 
 #### Potions to make time go faster
