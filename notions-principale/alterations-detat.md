@@ -10,6 +10,7 @@ L'altération d'état d'un joueur, définit sa situation actuelle. Certains stat
 |  ![:baby:](https://discord.com/assets/7d4ab5c9735709184c38ef242f689647.svg)  | Statut de départ | **Ø** |
 |  ![:confounded:](https://discord.com/assets/1153efa69996f049aa121cb76dd29ac1.svg)  | Confus | **40min** |
 |  ![:cold\_face:](https://discord.com/assets/10ba107674fdf2d100be5592e7c85c74.svg)  | Gelé | **1h** |
+|  🤤 | Affamé | **1h20** |
 |  ![:sleeping:](https://discord.com/assets/711ac22a92d00f844023ded91f820e8c.svg)  | Endormis | **3h** |
 |  ![:zany\_face:](https://discord.com/assets/aee3a8d989cabcd262db85fe0ce7cd0d.svg)  | Ivre | **4h** |
 |  ![:head\_bandage:](https://discord.com/assets/267b527f1be941e367bce73444c96f3b.svg)  | Blessé | **6h** |
@@ -20,7 +21,7 @@ L'altération d'état d'un joueur, définit sa situation actuelle. Certains stat
 |  ![:skull:](https://discord.com/assets/f64f47a895e537305b3463f9d30bc177.svg) | Mort | **Ø** |
 
 {% hint style="warning" %}
-L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder au magasin
+L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder aux magasins
 {% endhint %}
 
 {% hint style="danger" %}
