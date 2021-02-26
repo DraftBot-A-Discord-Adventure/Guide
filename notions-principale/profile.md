@@ -30,7 +30,7 @@ Cette ligne corresponds aux statistiques liées aux [combats](combats.md). On y 
 * ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg) Points d'attaque
 * ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg) Points de défense 
 * ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Points de vitesse
-* ⚡Energies pour les combats
+* ![:zap:](https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg) Energies pour les combats
 
 ### Classement et Score 
 

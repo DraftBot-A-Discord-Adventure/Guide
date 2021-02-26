@@ -79,7 +79,7 @@ Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité d
 5.  ![:heart\_eyes\_cat:](https://discord.com/assets/d4d91a5f31668dd4609a3d7522f722c5.svg) Dressé
 
 {% hint style="info" %}
-Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimé. \(mais vous pouvez le faire quand même\)
+Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimé \(mais vous pouvez le faire quand même\).
 {% endhint %}
 
 {% hint style="danger" %}
