@@ -39,7 +39,7 @@ Cette ligne corresponds aux statistiques liées aux [combats](combats.md). On y 
 
 ### Temps restant 
 
-Cette ligne affiche le statut actuel de votre joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant sera affiché, précédé d'un émoji relatif à l'altération en question.
+Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant sera affiché, précédé d'un émoji relatif à l'altération en question.
 
 ### Classe et guilde
 
