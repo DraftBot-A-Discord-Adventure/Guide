@@ -10,7 +10,7 @@ Une fois que votre personnage a atteint le **niveau 8**, vous débloquez la capa
 
 Pendant un combat, vous devez impérativement prendre en compte les statistiques suivantes :
 
-* ⚡L'énergie
+* ![:zap:](https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg) L'énergie
 * ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg) Points d'attaque
 * ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg) Points de défense  
 * ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Points de vitesse 
@@ -40,7 +40,7 @@ Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez 
 | ![:axe:](https://discord.com/assets/76e6d179559520cd50c0f603ca15c517.svg)Attaque puissante | Une attaque plus risquée mais plus puissante. Baisse la vitesse du combattant qui l'utilise. |
 | ![:bomb:](https://discord.com/assets/31ef50db484eb3d4b2fbebb4e91a0764.svg)Attaque ultime | Une attaque sur 2 tours à utiliser en dernier recours |
 | ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg)Défense    | Augmente vos![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg)points de défense ce qui permet de mieux absorber les dégâts des attaques de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
-| ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Prise d'élan                           | Augmente vos![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)points de vitesse. Toutes les attaques hormis l'attaque ultime ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
+| ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)Prise d'élan                           | Augmente vos![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)points de vitesse. Toutes les attaques hormis l'attaque ultime ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
 
 ### Chances de réussite.
 
@@ -113,11 +113,11 @@ Cette attaque diminue la défense de l'attaquant de 20% ! A n'utiliser qu'en der
 
 ### Conditions de victoire
 
-Dès lors que l'énergie ⚡  de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat et gagnes des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement.
+Dès lors que![:zap:](https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg)l'énergie de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat et gagnes des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement.
 
 Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 25 tours consécutifs.
 
- Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie ⚡  que vous avez perdu.
+ Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie![:zap:](https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg)que vous avez perdu.
 
 {% hint style="danger" %}
 Si un des adversaire est inactif pendant 30 seconde, le combat est considéré comme nul et s'arrête.
