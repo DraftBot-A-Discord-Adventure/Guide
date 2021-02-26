@@ -11,7 +11,7 @@ Vous pouvez aussi utiliser la variante `!profile <@user>` pour accéder au profi
 Vous pouvez aussi utiliser l'alias `!p` et sa variante `!p <@user>` pour ouvrir le profil.
 {% endhint %}
 
-![Profil d&apos;un joueur de DraftBot](../.gitbook/assets/profil-affichage-font-blanc.png)
+![Profil d&apos;un joueur de Draftbot](../.gitbook/assets/profil-draftbot-energie.png)
 
 L'inventaire d'un joueur se décompose donc de cette façon :
 
@@ -30,11 +30,7 @@ Cette ligne corresponds aux statistiques liées aux [combats](combats.md). On y 
 * ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg) Points d'attaque
 * ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg) Points de défense 
 * ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Points de vitesse
-* ![:blue\_heart:](https://discord.com/assets/e37c985edda06b7d5f4559bc838c1bde.svg) Points de combat
-
-{% hint style="info" %}
-Attention à ne pas confondre les![:heart:](https://discord.com/assets/0483f2b648dcc986d01385062052ae1c.svg)points de vie et les![:blue\_heart:](https://discord.com/assets/e37c985edda06b7d5f4559bc838c1bde.svg)points de combat, ils n'ont pas la même utilité.
-{% endhint %}
+* ⚡Energies pour les combats
 
 ### Classement et Score 
 

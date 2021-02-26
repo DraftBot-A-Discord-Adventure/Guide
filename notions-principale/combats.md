@@ -10,7 +10,7 @@ Une fois que votre personnage a atteint le **niveau 8**, vous débloquez la capa
 
 Pendant un combat, vous devez impérativement prendre en compte les statistiques suivantes :
 
-* ![:blue\_heart:](https://discord.com/assets/e37c985edda06b7d5f4559bc838c1bde.svg) Points de combats
+* ⚡L'énergie
 * ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg) Points d'attaque
 * ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg) Points de défense  
 * ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Points de vitesse 
@@ -113,11 +113,11 @@ Cette attaque diminue la défense de l'attaquant de 20% ! A n'utiliser qu'en der
 
 ### Conditions de victoire
 
-Dès lors que les ![:blue\_heart:](https://discord.com/assets/e37c985edda06b7d5f4559bc838c1bde.svg)points de combats de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat et gagnes des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement.
+Dès lors que l'énergie ⚡  de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat et gagnes des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement.
 
 Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 25 tours consécutifs.
 
- Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer les ![:blue\_heart:](https://discord.com/assets/e37c985edda06b7d5f4559bc838c1bde.svg)points de combats que vous avez perdu.
+ Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie ⚡  que vous avez perdu.
 
 {% hint style="danger" %}
 Si un des adversaire est inactif pendant 30 seconde, le combat est considéré comme nul et s'arrête.
