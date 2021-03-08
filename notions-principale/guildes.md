@@ -66,7 +66,7 @@ With a cooldown of 22 hours, you can use the `!guilddaily` command to get a rewa
 
 ### How do you set an elder ?
 
-In your guild you can choose an elder with the command `!guildelder<@mentions>`. The elder can add people to your guild and change its description. If you would like to remove your elder use `!guildelderremove`.
+In your guild you can choose an elder with the command `!guildelder<@mentions>`. The elder can add people to your guild and change its description. If you would like to remove your elder, use `!guildelderremove`.
 
 ### How do you leave a guild ?
 
