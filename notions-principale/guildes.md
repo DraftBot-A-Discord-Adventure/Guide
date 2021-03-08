@@ -54,19 +54,19 @@ Contre 1000 d'argent,  vous pourrez apporter aléatoirement entre 50 et 450 poin
 
 Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent .... Le type de récompense varie en fonction du niveau de votre guilde.
 
-| Niveau de la guilde | Un peu d'Argent | Expérience de guilde  | Expérience personnelle  | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0-10 | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
-| 10-20 | 59.8% | 15% | 5% | 10% | 5% | 0.2% | 5% | 0% |
-| 20-30 | 55.7% | 15% | 5% | 10% | 6% | 0.3% | 8% | 0% |
-| 30-40 | 52.6% | 15% | 5% | 10% | 6% | 0.4% | 11% | 0% |
-| 40-50 | 49.5% | 10% | 10% | 10% | 6% | 0.5% | 14% | 0% |
-| 50-60 | 45.4% | 10% | 10% | 10% | 6% | 0.6% | 17% | 1% |
-| 60-70 | 41.3% | 10% | 10% | 10% | 6% | 0.7% | 20% | 2% |
-| 70-80 | 37.2% | 10% | 10% | 10% | 6% | 0.8% | 23% | 3% |
-| 80-90 | 33.1% | 15% | 5% | 10% | 6% | 0.9% | 26% | 4% |
-| 90-100 | 20% | 24% | 5% | 10% | 6% | 1% | 29% | 5% |
-| 100 | 20.5% | 0% | 20% | 10% | 6% | 1.5% | 32% | 10% |
+| Niveau de la guilde | Un peu d'Argent | Expérience de guilde  | Expérience personnelle  | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge | 5 friandises pour les familiers |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0-10 | 97 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
+| 10-20 | 59.8 | 25 | 5 | 2 | 5 | 0.2 | 2.5 | 0 | 0.5 |
+| 20-30 | 57 | 25 | 5 | 2 | 5.2 | 0.3 | 5 | 0 | 0.5 |
+| 30-40 | 54.2 | 25 | 5 | 2 | 5.4 | 0.4 | 7.5 | 0 | 0.5 |
+| 40-50 | 46.4 | 25 | 10 | 2 | 5.6 | 0.5 | 10 | 0 | 0.5 |
+| 50-60 | 41.6 | 25 | 10 | 2.5 | 5.8 | 0.6 | 12.5 | 1 | 0.5 |
+| 60-70 | 37.8 | 25 | 10 | 2.5 | 6 | 0.7 | 15 | 2 | 1 |
+| 70-80 | 33.5 | 25 | 10 | 3 | 6.2 | 0.8 | 17.5 | 3 | 1 |
+| 80-90 | 24.2 | 25 | 15 | 3.5 | 6.4 | 0.9 | 20 | 4 | 1 |
+| 90-100 | 19.9 | 25 | 15 | 4 | 6.6 | 1 | 22.5 | 5 | 1 |
+| 100 | 29.7 | 0 | 20 | 6 | 6.8 | 1.5 | 25 | 10 | 1 |
 
 ### Mettre un ainé ?
 
