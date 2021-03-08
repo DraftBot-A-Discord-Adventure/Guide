@@ -158,7 +158,7 @@ Cette attaque diminue la défense de l'attaquant de 40% ! A n'utiliser qu'en der
 
 ####  ![:shield:](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MH1fCvNZ7zikrWd7dJj%2F-MVDlmmdOFCzSJ17u9Bx%2F-MVDmnCLMmrv_Ohz3-j8%2Fimage.png?alt=media&token=bf93d8a6-d631-4778-a1bf-5bd174348fb9)Attaque bélier
 
-Cette attaque permet d'infliger des dégâts important à tous les combattants permettant de miser sur une défense plus importante pour mieux les amortir. Elle n'est donc pas utilisable contre tous les adversaires mais peut permettre d'affaiblir un adversaire quand la puissance d'attaque est plus faible. Un suicide stratégique peut également parfois permettre d'obtenir une égalité
+Cette attaque permet d'infliger des dégâts importants à tous les combattants permettant de miser sur une défense plus importante pour en subir moins que son adversaire. Elle n'est donc pas utilisable contre tous mais peut permettre d'affaiblir un adversaire quand la puissance d'attaque est plus faible. Un suicide stratégique peut également parfois permettre d'obtenir une égalité
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -169,7 +169,7 @@ La puissance de cette attaque est de 250.
 Cette attaque a 15 % de chance d'échouer. 
 
 {% hint style="danger" %}
-Un échec de cette attaque affaibli l'attaquant en lui infligeant les dégâts de l'attaque sans les infliger à son adversaire.
+Un échec de cette attaque affaiblit l'attaquant en lui infligeant les dégâts de l'attaque sans les infliger à son adversaire.
 {% endhint %}
 
 #### ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Prise d'élan 
