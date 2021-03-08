@@ -1,13 +1,15 @@
 # Guilds
 
-A guild can concist of up to 6 players, to get daily rewards, that will be improved with the level of the guild.
+A guild can consist of up to 6 players, and get daily rewards which will improve with the level of the guild.
 
-### How to create a guild ?
+### How do you create a guild ?
 
-You can create your guild with the `!guildcreate <guild name` command. 
+You can create a guild with the `!guildcreate <guild name` command. 
 
 {% hint style="warning" %}
-The name of a guild is unique, and must follow some rules. It must:
+The name of a guild is unique, and must follow some rules. 
+
+    It must :
 
 * be between 2 to 14 letters long
 * contain at least one letter 
@@ -22,15 +24,15 @@ It is impossible to rename a guild
 
 ### How do you join a guild ?
 
-Every player above level 10 can join guilds. The guild leader and elder are the only people who can invite people, by using the `!guildadd <@player>` command.
+Every player above level 10 can join guilds. The guild leader and elder are the only ones who can invite people by using the `!guildadd <@player>` command.
 
 {% hint style="info" %}
-A channel for annoucing recruitments is available on the bot's official english server.
+A channel for announcing recruitment is available on the bot's official English server.
 {% endhint %}
 
-### View the guild's informations
+### View the guild's information
 
-The `!guild` command can be used to display the information on the guild you are in.
+The `!guild` command can be used to display information on every guild.
 
 There are two ways of using this command :
 
@@ -41,14 +43,14 @@ There are two ways of using this command :
 
 #### In the shop
 
-In the shop, the guild exeprience is represented with the⭐ emoji.   
+In the shop, guild experience is represented with a⭐ emoji.   
 With 1000 gold you can buy a random amount between 50 and 450 guild experience.
 
 ####  Daily rewards
 
-With a cooldown of 22 hours, you can use the `!guilddaily` command, to get a reward, beewtin guild experience, and money. The reward type can change depending of your guilds level.
+With a cooldown of 22 hours, you can use the `!guilddaily` command to get a reward. Between guild experience, money, hp, and etc. The reward type can change depending of your guilds level.
 
-| Level of the guild | Some money | Guild exeprience | User experience  | State alteration care | Health points | Full health regeneration | 350 of money | Badge |
+| Guild Level | Some money | Guild xp | User xp | Status reset | Health points | Full health regeneration | 350 gold | Badge |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0-10 | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
 | 10-20 | 59.8% | 15% | 5% | 10% | 5% | 0.2% | 5% | 0% |
@@ -62,11 +64,11 @@ With a cooldown of 22 hours, you can use the `!guilddaily` command, to get a rew
 | 90-100 | 20% | 24% | 5% | 10% | 6% | 1% | 29% | 5% |
 | 100 | 20.5% | 0% | 20% | 10% | 6% | 1.5% | 32% | 10% |
 
-### Set an Elder ?
+### How do you set an elder ?
 
-In your guild you can choose an elder with the command `!guildelder<@mentions>`, the elder can add people in your guild and change the description. If you would like to remove your elder do `!guildelderremove`.
+In your guild you can choose an elder with the command `!guildelder<@mentions>`. The elder can add people to your guild and change its description. If you would like to remove your elder use `!guildelderremove`.
 
-### Leave a guild ?
+### How do you leave a guild ?
 
-You can leave your guild at any moments, by using the `!guildleave` command. The owner of the guild can kick users with the `!guildkick` command.
+You can leave your guild at any moment by using the `!guildleave` command. The owner of the guild can kick users with the `!guildkick` command.
 
