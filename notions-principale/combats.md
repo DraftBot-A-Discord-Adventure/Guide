@@ -40,7 +40,7 @@ Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez 
 | ![:axe:](https://discord.com/assets/76e6d179559520cd50c0f603ca15c517.svg)Attaque puissante | Une attaque plus risquée mais plus puissante. Baisse la vitesse du combattant qui l'utilise. |
 | ![:bomb:](https://discord.com/assets/31ef50db484eb3d4b2fbebb4e91a0764.svg)Attaque ultime | Une attaque sur 2 tours à utiliser en dernier recours |
 | ![:shield:](../.gitbook/assets/image%20%2826%29.png)Attaque bélier    | Attaque qui fait des dégâts à tous les combattants, utile si vous avez plus de défense que votre adversaire. |
-| ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)Prise d'élan                           | Augmente vos![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)points de vitesse. Toutes les attaques hormis l'attaque ultime ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
+| ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)Prise d'élan                           | Augmente vos points de vitesse. Toutes les attaques hormis l'attaque ultime et l'attaque bélier ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
 
 {% hint style="info" %}
 Le joueur le plus rapide commence toujours le combat. \(en cas d'égalité, c'est aléatoire\)
@@ -105,7 +105,7 @@ La puissance de cette attaque diminue progressivement à partir de la quatrième
 
 #### ![:axe:](https://discord.com/assets/76e6d179559520cd50c0f603ca15c517.svg) Attaque puissante
 
-Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien que puissante \(lol\) cette attaque doit cependant être utilisée avec parcimonie puisque chacune de ses utilisation engendre une perte de vitesse. Il est possible de se défendre de cette attaque en profitant d'une statistique de défense importante tant que l'attaque n'est pas réussie parfaitement.
+Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien que puissante \(lol\) cette attaque doit cependant être utilisée avec parcimonie puisque chacune de ses utilisation engendre une perte de vitesse. Il est possible de contrer cette attaque en profitant d'une statistique de défense importante tant que l'attaque n'est pas réussie parfaitement.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
