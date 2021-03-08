@@ -30,10 +30,6 @@ Il est impossible de renommer une guilde
 
 Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'ainé peuvent inviter des joueurs dans sa guilde grâce à la commande `!guildadd <@player>`.
 
-{% hint style="danger" %}
-La personne doit être au moins levels 10 pour pouvoir rejoindre votre guilde.
-{% endhint %}
-
 {% hint style="info" %}
 Un salon destiné à recueillir les annonces de recrutement est disponible sur le discord du bot.
 {% endhint %}
