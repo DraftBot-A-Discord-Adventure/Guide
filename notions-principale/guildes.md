@@ -28,7 +28,7 @@ Il est impossible de renommer une guilde
 
 ### Comment rejoindre une guilde ?
 
-Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde peut inviter des joueurs dans sa guilde grâce à la commande `!guildadd <@player>`.
+Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'ainé peuvent inviter des joueurs dans sa guilde grâce à la commande `!guildadd <@player>`.
 
 {% hint style="info" %}
 Un salon destiné à recueillir les annonces de recrutement est disponible sur le discord du bot.
@@ -67,6 +67,10 @@ Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obteni
 | 80-90 | 33.1% | 15% | 5% | 10% | 6% | 0.9% | 26% | 4% |
 | 90-100 | 20% | 24% | 5% | 10% | 6% | 1% | 29% | 5% |
 | 100 | 20.5% | 0% | 20% | 10% | 6% | 1.5% | 32% | 10% |
+
+### Mettre un ainé ?
+
+Vous pouvez mettre un ainé pour votre guilde avec la commande `!guildelder<@mention>`l'ainé pourra alors recruter des gens et modifier la description de votre guilde. Bien sur si celui-ci vous énerve vous pouvez le retirer avec la commande `!guildelderremove` .
 
 ### Quitter une guilde ? 
 
