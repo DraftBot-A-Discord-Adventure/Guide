@@ -13,7 +13,7 @@ In a figth, the following informations are to take into account :
 * the attack points🗡 
 * the defense points  🛡 
 * the speed points 🚀 
-* the health points 💙 
+* the energie points ⚡ 
 
 {% hint style="info" %}
 For more informations about those numbers, please see the Profile section.
@@ -37,20 +37,24 @@ The fight is a turn by turn system. At every turn you will have to choose betwee
 
 🗡  **Fast attack**: An attack that has good chanced of succeeding if you are faster than your enemy.
 
-⚒  **Heavy attack**: the chances of succeeding are low, but it makes much damages.
+🔨  **Heavy attack**: the chances of succeeding are low, but it makes much damages.
 
 💣  **Ultimate attack**: an attack on 2 tuns, that is efficient if you have a lower speed than your enemy. She removes around 2/3 of your opponent's life.
 
-🛡  **Defense**: Grow your defense up. The defense allows you to take lower damages. The more this action is use, the less it will be efficient.
+🧨  **Bull attack**: this attack does damages to all fighters, useful if you have more defenses than you ennemy.
 
 🚀 **Speed**: Get faster. If your speed is about your opponent's, your chance of succeeding an attack are higher except for the ultimate attack. The most the action is used, the less it will be efficient.
 
+{% hint style="info" %}
+The people with more speed start fight
+{% endhint %}
+
 ### Victory conditions
 
- The fight ends when the life of one of the opponents health points💙 are about 0, or if one of the players doesn't answer for 30 seconds. If the 25th turn is reached, the fight will end in equality. 
+ The fight ends when the life of one of the opponents energie points ⚡ are about 0, or if one of the players doesn't answer for 30 seconds. If the 25th turn is reached, the fight will end in equality. 
 
 {% hint style="warning" %}
-After each fights the health points 💙 are not given back instantly.
+After each fights the energie points ⚡ are not given back instantly.
 {% endhint %}
 
 

@@ -26,7 +26,11 @@ It is impossible to rename a guild
 
 ### How to join a guild ?
 
-Every player above level 10 can join guilds. The guild leader is the only person who can invite people in it, by using the `!guildadd <@player>` command.
+Every player above level 10 can join guilds. The guild leader and the elder was the only person who can invite people in it, by using the `!guildadd <@player>` command.
+
+{% hint style="danger" %}
+The people need to be level 10 for join your guild.
+{% endhint %}
 
 {% hint style="info" %}
 A channel for annoucing recruitments is available on the bot's official server.
@@ -34,7 +38,7 @@ A channel for annoucing recruitments is available on the bot's official server.
 
 ### View the guilds informations
 
-The `!guild` command can be used to dpslay the informations about the guild you are in
+The `!guild` command can be used to display the informations about the guild you are in
 
 There are two ways of using this command :
 
@@ -65,6 +69,10 @@ With a cooldown of 22 hours, you can use the `!guilddaily` command, to get a rew
 | 80-90 | 33.1% | 15% | 5% | 10% | 6% | 0.9% | 26% | 4% |
 | 90-100 | 20% | 24% | 5% | 10% | 6% | 1% | 29% | 5% |
 | 100 | 20.5% | 0% | 20% | 10% | 6% | 1.5% | 32% | 10% |
+
+### Set an Elder ?
+
+In your guild you can choose an elder with the command `!guildelder<@mentions>`, the elder can add people in your guild and change the description. If you would like to remove your elder do `!guildelderremove`.
 
 ### Leave a guild ?
 
