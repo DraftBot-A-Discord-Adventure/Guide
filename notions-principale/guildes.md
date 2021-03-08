@@ -1,56 +1,48 @@
----
-description: Un guide à propos des guildes.
----
-
 # Guilds
 
-A guild can bring together up to 6 players, to get daily rewards, that will be improved with the level of the guild.
+A guild can concist of up to 6 players, to get daily rewards, that will be improved with the level of the guild.
 
-### How to create my guild ?
+### How to create a guild ?
 
-You can create your own guild with the `!guildcreate <guild name` command. 
+You can create your guild with the `!guildcreate <guild name` command. 
 
 {% hint style="warning" %}
-The name of a guild is unique, and must follow some rules
+The name of a guild is unique, and must follow some rules. It must:
 
-* contains at least one letter
-* Don't use more than 2 following spaces
-* Special characters are prohibited
-* Contain beetwin 2 and 14 characters
-* Name not in use
+* be between 2 to 14 letters long
+* contain at least one letter 
+* not utilise to 2 spaces coming after one another 
+* not have special characters in it 
+* not be already taken
 {% endhint %}
 
 {% hint style="danger" %}
 It is impossible to rename a guild
 {% endhint %}
 
-### How to join a guild ?
+### How do you join a guild ?
 
-Every player above level 10 can join guilds. The guild leader and the elder was the only person who can invite people in it, by using the `!guildadd <@player>` command.
-
-{% hint style="danger" %}
-The people need to be level 10 for join your guild.
-{% endhint %}
+Every player above level 10 can join guilds. The guild leader and elder are the only people who can invite people, by using the `!guildadd <@player>` command.
 
 {% hint style="info" %}
-A channel for annoucing recruitments is available on the bot's official server.
+A channel for annoucing recruitments is available on the bot's official english server.
 {% endhint %}
 
-### View the guilds informations
+### View the guild's informations
 
-The `!guild` command can be used to display the informations about the guild you are in
+The `!guild` command can be used to display the information on the guild you are in.
 
 There are two ways of using this command :
 
-* `!guild <guild name>` Let you see the informations of a guild with her name
-* `!guild <@user>` Let you see the informations of the guild of the mentionned user.
+* `!guild <guild name>` Let's you see a guild's information using its name.
+* `!guild <@user>` Let's you see a guild's information by mentioning a user.
 
-### Growing the guild level up
+### Levelling the guild
 
 #### In the shop
 
 In the shop, the guild exeprience is represented with the⭐ emoji.   
-With 1000 money, you can buy a random amount beewtin 50 and 450 points of guild exeprience.
+With 1000 gold you can buy a random amount between 50 and 450 guild experience.
 
 ####  Daily rewards
 

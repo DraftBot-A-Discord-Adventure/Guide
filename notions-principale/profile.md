@@ -24,10 +24,10 @@ This line is about every things gifths related. It shows :
 
 🚀 Your speed points
 
-💙 Your health points
+⚡ Your energie points
 
 {% hint style="info" %}
-Be careful not to confuse the health points 💙 with the ❤ ! They do not have the same purpose.
+Be careful not to confuse the energie points ⚡ with the ❤ ! They do not have the same purpose.
 {% endhint %}
 
 ###  Ranking and Score
