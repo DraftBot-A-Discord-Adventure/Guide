@@ -130,7 +130,7 @@ Cette attaque diminue la vitesse de l'attaquant, de 10% si l'attaque échoue et 
 
 #### ![:bomb:](https://discord.com/assets/31ef50db484eb3d4b2fbebb4e91a0764.svg)Attaque ultime
 
-Cette attaque permet d’assener une ultime attaque à son adversaire quand la situation deviens trop difficile. Il peut être délicat d'utiliser cette attaque au bon moment mais elle peut également renverser le cours du match.
+Cette attaque permet d’asséner un dernier coup à son adversaire quand la situation deviens trop difficile. Il peut être délicat d'utiliser cette attaque au bon moment mais elle peut également renverser le cours du match.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -138,7 +138,7 @@ Cette attaque permet d’assener une ultime attaque à son adversaire quand la s
 | :--- | :--- | :--- |
 | Puissance de l'attaque | 350 | 0 |
 
-Si les dégâts théoriques infligés par l'attaque dépassent 60% de la vie initiale du défenseur, les dégâts infligés réellement seront de 60% de la vie initiale du défenseur.
+L'attaque ne pourra pas infliger plus de 60% de la vie initiale du défenseur, même si le calcul théorique dépasse ce palier.
 
 {% hint style="warning" %}
 Cette attaque dure 2 tours ! Pendant le premier tour, vous ne pourrez faire aucune action et le malus sera déjà effectif !
