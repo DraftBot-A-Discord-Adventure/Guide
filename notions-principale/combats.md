@@ -27,7 +27,7 @@ Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight
 
 #### Les combats amicaux 
 
-Les combats amicaux sont similaires aux combats normaux, à la seule différence que vous ne perdez ni ne gagnez pas de points. La commande pour lancer un combat amical est `!friendlyfight` 
+Les combats amicaux sont similaires aux combats normaux, à la seule différence que vous ne perdez ni ne gagnez pas de points. La commande pour lancer un combat amical est `!friendlyfight` .
 
 ### Déroulement d'un combat 
 
@@ -38,7 +38,7 @@ Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez 
 | ![:crossed\_swords:](https://discord.com/assets/e7159ba0fcc85f39f95227dd85f44aeb.svg)Attaque simple | Attaque classique, les chances de réussite et les dégâts sont moyens. |
 | ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg)Attaque rapide | Attaque moins puissante mais qui ignore l'armure. Sa puissance diminue si on l'utilise trop. |
 | ![:axe:](https://discord.com/assets/76e6d179559520cd50c0f603ca15c517.svg)Attaque puissante | Une attaque plus risquée mais plus puissante. Baisse la vitesse du combattant qui l'utilise. |
-| ![:bomb:](https://discord.com/assets/31ef50db484eb3d4b2fbebb4e91a0764.svg)Attaque ultime | Une attaque sur 2 tours à utiliser en dernier recours |
+| ![:bomb:](https://discord.com/assets/31ef50db484eb3d4b2fbebb4e91a0764.svg)Attaque ultime | Une attaque sur 2 tours à utiliser en dernier recours. |
 | ![:shield:](../.gitbook/assets/image%20%2826%29.png)Attaque bélier    | Attaque qui fait des dégâts à tous les combattants, utile si vous avez plus de défense que votre adversaire. |
 | ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg)Prise d'élan                           | Augmente vos points de vitesse. Toutes les attaques hormis l'attaque ultime et l'attaque bélier ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
 
@@ -48,7 +48,7 @@ Le joueur le plus rapide commence toujours le combat. \(en cas d'égalité, c'es
 
 ### Présentation détaillée des actions
 
-Voici une présentation plus détaillée de chacune des actions que vous pouvez réaliser
+Voici une présentation plus détaillée de chacune des actions que vous pouvez réaliser.
 
 {% hint style="info" %}
 La notion de "puissance de l'attaque" sera utilisée pour comparer plus simplement les différentes attaques ci-dessous. En réalité cette puissance est mise en facteur avec les statistiques d'attaque de l'attaquant.
@@ -68,8 +68,8 @@ $$
 x = random(1, a / 4)
 $$
 
-* x représente le minimum de dégât qui sera effectué quoi qu'il arrive par l'attaque
-* a représente la statistique d'attaque du combattant effectuant l'attaque
+* x représente le minimum de dégât qui sera effectué quoi qu'il arrive par l'attaque.
+* a représente la statistique d'attaque du combattant effectuant l'attaque.
 
 **Voilà les probabilités d’échec ou de réussite de l'attaque :**
 
@@ -93,7 +93,7 @@ Cette attaque transperce l'armure, seul 10% des points de défense sont utilisé
 {% endhint %}
 
 {% hint style="warning" %}
-La puissance de cette attaque diminue progressivement à partir de la quatrième utilisation réussie
+La puissance de cette attaque diminue progressivement à partir de la quatrième utilisation réussie.
 {% endhint %}
 
 **Voilà les probabilités d’échec ou de réussite de l'attaque :**
@@ -114,7 +114,7 @@ Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien qu
 | Puissance de l'attaque | 215 | 140 | 0 |
 
 {% hint style="info" %}
-La défense est 50% plus efficace sur cette attaque, il vaut mieux avoir un gros bouclier qu'être un sac à pv. Cependant, ce boost ne suffira pas à se protéger d'une attaque parfaitement réussie
+La défense est 50% plus efficace sur cette attaque, il vaut mieux avoir un gros bouclier qu'être un sac à pv. Cependant, ce boost ne suffira pas à se protéger d'une attaque parfaitement réussie.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -158,7 +158,7 @@ Cette attaque diminue la défense de l'attaquant de 40% ! A n'utiliser qu'en der
 
 ####  ![:shield:](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MH1fCvNZ7zikrWd7dJj%2F-MVDlmmdOFCzSJ17u9Bx%2F-MVDmnCLMmrv_Ohz3-j8%2Fimage.png?alt=media&token=bf93d8a6-d631-4778-a1bf-5bd174348fb9)Attaque bélier
 
-Cette attaque permet d'infliger des dégâts importants à tous les combattants permettant de miser sur une défense plus importante pour en subir moins que son adversaire. Elle n'est donc pas utilisable contre tous mais peut permettre d'affaiblir un adversaire quand la puissance d'attaque est plus faible. Un suicide stratégique peut également parfois permettre d'obtenir une égalité
+Cette attaque permet d'infliger des dégâts importants à tous les combattants permettant de miser sur une défense plus importante pour en subir moins que son adversaire. Elle n'est donc pas utilisable contre tous mais peut permettre d'affaiblir un adversaire quand la puissance d'attaque est plus faible. Un suicide stratégique peut également parfois permettre d'obtenir une égalité.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -180,9 +180,9 @@ $$
 Gain De Vitesse = random(0, x)
 $$
 
-* x représente le maximum de gain de vitesse possible qui est de 30 au début du combat
+* x représente le maximum de gain de vitesse possible qui est de 30 au début du combat.
 
-à chaque utilisation du boost, x est divisé par 2
+à chaque utilisation du boost, x est divisé par 2.
 
 ### Conditions de victoire
 

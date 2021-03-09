@@ -4,7 +4,7 @@ description: Un guide à propos de la commande !profil.
 
 # Profil
 
-Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil vous devez utiliser la commande `!profile`  
+Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil vous devez utiliser la commande `!profile`.  
 Vous pouvez aussi utiliser la variante `!profile <@user>` pour accéder au profil d'un autre joueur.
 
 {% hint style="info" %}

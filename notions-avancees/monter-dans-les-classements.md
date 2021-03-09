@@ -8,10 +8,10 @@ La commande top est une commande qui sert à savoir qui sont les meilleurs joueu
 
 ### Astuce
 
-Il est possible de parcourir le classement en indiquant un numéro de page en tapant la commande comme ceci : `!top <numéro de page>`
+Il est possible de parcourir le classement en indiquant un numéro de page en tapant la commande comme ceci : `!top <numéro de page>`.
 
 {% hint style="warning" %}
-Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;
+Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;.
 {% endhint %}
 
 ### Les autres commandes top
@@ -20,7 +20,7 @@ Dans l'exemple ci-dessus il ne faut pas écrire les &lt;&gt;
 
 Le classement de la semaine est réinitialisé tous les dimanches.
 
-La commande du classement de la semaine est `!topweek <numéro de page>`
+La commande du classement de la semaine est `!topweek <numéro de page>`.
 
 Lorsque vous finissez premier d'un classement de la semaine, vous obtenez un badge, tous les autres participants eux, ne reçoivent rien.
 
@@ -30,5 +30,5 @@ Lorsque vous finissez premier d'un classement de la semaine, vous obtenez un bad
 
 Le classement du serveur est un classement qui prend seulement en compte les joueurs du serveur où le joueur effectue la commande.
 
-La commande du classement du serveur est `!topserv <numéro de page>`
+La commande du classement du serveur est `!topserv <numéro de page>`.
 

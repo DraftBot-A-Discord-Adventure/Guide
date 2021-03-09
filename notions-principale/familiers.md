@@ -6,7 +6,7 @@ Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de Dra
 Pour le moment les familiers sont purement esthétiques. Ils n'ont pas de fonction à proprement parler, mais cela est amené à changer dans une future mise à jour.
 {% endhint %}
 
-Pour avoir les informations sur votre familier vous devez utiliser la commande `!mypet` 
+Pour avoir les informations sur votre familier vous devez utiliser la commande `!mypet` .
 
 Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles ![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)
 
@@ -32,10 +32,10 @@ La probabilité d'avoir des raretés supérieures augmente avec le niveau de vot
 | 90 | 0.414% | 0.2196% | 1.16371% | 0.114299% | 0.088391% |
 | 100 | 0.3% | 0.25% | 0.2% | 0.140899% | 0.109101% |
 
-Vous pouvez libérer votre familier avec la commande `!petfree` 
+Vous pouvez libérer votre familier avec la commande `!petfree` .
 
 {% hint style="danger" %}
-`Attention cette action est irréversible, si vous libérez un familier c'est définitif`
+`Attention cette action est irréversible, si vous libérez un familier c'est définitif.`
 {% endhint %}
 
 ### Comment nourrir mon familier ?
@@ -46,17 +46,17 @@ L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde
 
 ![Le magasin de guilde permet d&apos;acheter diff&#xE9;rentes sortes de nourritures](../.gitbook/assets/image%20%2818%29.png)
 
-La nourriture va permettre d'influer sur le moral de votre animal, pour nourrir votre familier vous devez utiliser la commande `!feedpet` ou son alias `!fp`
+La nourriture va permettre d'influer sur le moral de votre animal, pour nourrir votre familier vous devez utiliser la commande `!feedpet` ou son alias `!fp`.
 
 ![La commande feedpet](../.gitbook/assets/image%20%2819%29.png)
 
 Chaque type de nourriture fera gagner une quantité différente de points d'affection à votre familier. 
 
-* Les friandises feront gagner 1 point d'affection
-* Les steaks et salade feront gagner 3 points d'affections
-* Les soupes ultimes feront gagner 5 points d'affections
+* Les friandises feront gagner 1 point d'affection.
+* Les steaks et salade feront gagner 3 points d'affections.
+* Les soupes ultimes feront gagner 5 points d'affections.
 
-Cependant, le type de nourriture n'a pas d'influence sur la durée pendant laquelle votre familier n'a pas faim
+Cependant, le type de nourriture n'a pas d'influence sur la durée pendant laquelle votre familier n'a pas faim.
 
 {% hint style="info" %}
 La durée pendant laquelle un familier n'a pas faim dépend uniquement de la rareté du pet. Le nombre d'étoiles de rareté est égal au nombre d'heures qu'il faut attendre entre deux repas.
@@ -83,7 +83,7 @@ Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être n
 {% endhint %}
 
 {% hint style="danger" %}
-Échanger ou vendre un familier avec un autre joueur réinitialisera son moral à ![:pouting\_cat:](https://discord.com/assets/551f9d76028c39299e0bc9bc20cd0e0d.svg) Sauvage
+Échanger ou vendre un familier avec un autre joueur réinitialisera son moral à ![:pouting\_cat:](https://discord.com/assets/551f9d76028c39299e0bc9bc20cd0e0d.svg) Sauvage.
 
 Changer de propriétaire c'est dur à supporter pour un animal !
 {% endhint %}
@@ -92,7 +92,7 @@ Changer de propriétaire c'est dur à supporter pour un animal !
 
 Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier n°1 du refuge.
 
-Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`
+Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`.
 
 ![Refuge de la guilde Draftpedia](../.gitbook/assets/shelter-pets.png)
 
@@ -116,14 +116,14 @@ L'implémentation de cette mise à jour favorise l'interaction entre joueurs pui
 
 ### Vente de familiers
 
-Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, \(ou alors que vous aimez l'argent\), il est possible d'échanger le familier que vous transportez contre un peu d’expérience pour votre guilde. Pour cela, vous pouvez utiliser la commande `!petsell [prix]`
+Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, \(ou alors que vous aimez l'argent\), il est possible d'échanger le familier que vous transportez contre un peu d’expérience pour votre guilde. Pour cela, vous pouvez utiliser la commande `!petsell [prix]`.
 
 ![Ici le familier &quot;Elle&quot; est vendu](../.gitbook/assets/image%20%2817%29.png)
 
 Il y a des conditions importantes à respecter pour la vente de familier:
 
 * Il n'est pas possible de vendre un pet à un membre de sa guilde.
-* Il est nécessaire d'appartenir à une guilde pour vendre un pet mais pas pour l'acheter
+* Il est nécessaire d'appartenir à une guilde pour vendre un pet mais pas pour l'acheter.
 
 {% hint style="warning" %}
 Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience de guilde.

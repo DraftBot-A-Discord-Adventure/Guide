@@ -21,11 +21,11 @@ L'altération d'état d'un joueur, définit sa situation actuelle. Certains stat
 |  ![:skull:](https://discord.com/assets/f64f47a895e537305b3463f9d30bc177.svg) | Mort | **Ø** |
 
 {% hint style="warning" %}
-L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder aux magasins
+L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder aux magasins.
 {% endhint %}
 
 {% hint style="danger" %}
-L'altération d'état "Mort" bloque la totalité des commandes du bot excepté la commande `!respawn`
+L'altération d'état "Mort" bloque la totalité des commandes du bot excepté la commande `!respawn`.
 {% endhint %}
 
 ### Soin des altérations d'état

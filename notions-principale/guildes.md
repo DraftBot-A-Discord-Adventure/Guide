@@ -40,8 +40,8 @@ La commande `!guild` permet d'afficher les informations de la guilde de la perso
 
 Il existe également deux façons alternatives d'utiliser cette commande:
 
-* `!guild <nom de la guilde>` Permet de voir les informations d'une guilde à partir de son nom
-* `!guild <@mention>` Permet de voir les informations d'une guilde à partir de l'un de ses membres
+* `!guild <nom de la guilde>` Permet de voir les informations d'une guilde à partir de son nom.
+* `!guild <@mention>` Permet de voir les informations d'une guilde à partir de l'un de ses membres.
 
 ### Monter de niveau une guilde.
 
@@ -70,7 +70,7 @@ Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obteni
 
 ### Mettre un ainé ?
 
-Vous pouvez mettre un ainé pour votre guilde avec la commande `!guildelder<@mention>`l'ainé pourra alors recruter des gens et modifier la description de votre guilde. Bien sur si celui-ci vous énerve vous pouvez le retirer avec la commande `!guildelderremove` .
+Vous pouvez mettre un ainé pour votre guilde avec la commande `!guildelder<@mention>`l'ainé pourra alors recruter des gens et modifier la description de votre guilde. Bien sur si celui-ci vous énerve vous pouvez le retirer avec la commande `!guildelderremove`.
 
 ### Quitter une guilde ? 
 

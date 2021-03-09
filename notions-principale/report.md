@@ -15,7 +15,7 @@ Il existe **2 types** de rapports :
 Au bout de 16 heures et 40 minutes sans interaction, le personnage cesse de récolter des points et de l'argent.
 {% endhint %}
 
-La probabilité d'obtenir un rapport simple dépend du temps écoulé depuis le rapport précédent effectué par le joueur. Plus un joueur attend plus il a de chance que quelque chose qui necessite son attention soit survenu. Au bout de 6 heures et 40 minute la probabilité d'avoir un évènement est de 100%
+La probabilité d'obtenir un rapport simple dépend du temps écoulé depuis le rapport précédent effectué par le joueur. Plus un joueur attend plus il a de chance que quelque chose qui necessite son attention soit survenu. Au bout de 6 heures et 40 minute la probabilité d'avoir un évènement est de 100%.
 
 Avant les 6h40 la probabilité peut se calculer ainsi :
 
@@ -26,6 +26,6 @@ $$
 Avec x le nombre de minutes écoulé depuis le précédent rapport.
 
 {% hint style="danger" %}
-La durée d'une altération d'état ne compte pas dans le temps écoulé
+La durée d'une altération d'état ne compte pas dans le temps écoulé.
 {% endhint %}
 

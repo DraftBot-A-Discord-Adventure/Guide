@@ -12,10 +12,10 @@ Le choix de classe dépend de votre niveau, il existe **4 paliers** de classes d
 * Palier 4 : Au delà du niveau 48
 
 {% hint style="info" %}
-Au total, il y a 18 classes disponibles dans le jeu
+Au total, il y a 18 classes disponibles dans le jeu.
 {% endhint %}
 
-Pour changer de classe et à condition que votre personnage soit niveau 4 vous devez utiliser la commande `!class`
+Pour changer de classe et à condition que votre personnage soit niveau 4 vous devez utiliser la commande `!class`.
 
 {% hint style="success" %}
 Utilisez ce lien pour voir vos statistiques en fonction de votre classe et de votre niveau : [https://docs.google.com/spreadsheets/d/1jWFSMNHKj20iHflUqZr0xvugcRSI5kHCQfSmrPad\_po/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jWFSMNHKj20iHflUqZr0xvugcRSI5kHCQfSmrPad_po/edit?usp=sharing)
@@ -43,7 +43,7 @@ Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de
 
 Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de DraftBot pour connaitre les différentes statistiques des classes.
 
-Il s'agit de la commande `!classstats`
+Il s'agit de la commande `!classstats`.
 
 ![Statistiques des classes](../.gitbook/assets/stats-de-classes.png)
 
