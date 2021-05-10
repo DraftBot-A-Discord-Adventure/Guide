@@ -24,7 +24,7 @@ Durant votre jeu et si vous choisissez de prendre part dans la communauté et d'
 
 💰 **Argent :** L'argent est la monnaie du jeu. _\(oui le nom est original\)_ Il est possible de la dépenser en utilisant la commande `!shop`. Avoir de l'argent vous permettra également de créer votre guilde avec la commande `!guildcreate`. Il est aussi possible de perdre de l'argent lors de certains évènements.
 
-🤢 **Altération d'état :** Une altération d'état peut survenir si un malheur arrive à votre personnage durant un rapport. Les altération d'état empêchent le personnage de récolter des points et désactivent certains aspects du jeu pendant un certain temps 
+🤢 **Altération d'état :** Une altération d'état peut survenir si un malheur arrive à votre personnage durant un rapport. Les altérations d'état empêchent le personnage de récolter des points et désactivent certains aspects du jeu pendant un certain temps. 
 
 💼 **Équipement :** Des équipements peuvent être découvert par votre personnage lors de votre aventure. ils seront rangés automatiquement dans votre inventaire. 
 
@@ -40,5 +40,5 @@ Il existe 4 types d'équipements :
 Les potions sont les seules pièces d'équipement qui ne peuvent pas être revendues.
 {% endhint %}
 
-🗝 **Objets :** Les objets peuvent avoir des effets divers, ce sont les seules pièces d'équipement qui peuvent être transportés en deux exemplaires par le joueur. En effet, l'inventaire du joueur dispose d'une réserve et d'un objet actif. Par défaut les objets seront placés dans la réserve qui peut contenir un seul objet. Pour utiliser le pouvoir d'un objet il faut le placer dans la case "objet actif" de l'inventaire en utilisant la commande `!switch` puis il est possible d'utiliser la commande `!daily`
+🗝 **Objets :** Les objets peuvent avoir des effets divers, ce sont les seules pièces d'équipement qui peuvent être transportées en deux exemplaires par le joueur. En effet, l'inventaire du joueur dispose d'une réserve et d'un objet actif. Par défaut les objets seront placés dans la réserve qui peut contenir un seul objet. Pour utiliser le pouvoir d'un objet il faut le placer dans la case "objet actif" de l'inventaire en utilisant la commande `!switch` puis il est possible d'utiliser la commande `!daily`
 

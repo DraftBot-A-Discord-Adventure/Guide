@@ -4,7 +4,7 @@
 
 ### Trouver la liste des commandes.
 
-La liste des commandes du bot peut être obtenue en utilisant la commande `help` dans un salon ou le bot peut vous répondre.
+La liste des commandes du bot peut être obtenue en utilisant la commande `help` dans un salon où le bot peut vous répondre.
 
 ### J'ai invité le bot sur mon serveur mais ce dernier ne répond pas.
 
@@ -12,7 +12,7 @@ Vérifiez que vous avez donné les bonnes permissions au bot.
 
 ![Liste minimale des permissions n&#xE9;cessaires](../.gitbook/assets/image%20%2815%29.png)
 
-Si les permissions sont correctes pour le channel où vous avez fait la commande, vérifiez que vous utilisez le bon préfix en mentionnant draftbot. Celui-ci vous communiquera le préfix à utiliser.
+Si les permissions sont correctes pour le channel où vous avez fait la commande, vérifiez que vous utilisez le bon préfix en mentionnant DraftBot. Celui-ci vous communiquera le préfix à utiliser.
 
 ## Questions fréquentes
 
@@ -26,7 +26,7 @@ OUI ! Le lien pour inviter le bot est disponible dans le salon "⁉-questions-fr
 
 _Node js_
 
-Les données enregistrés dans la base de donnée concernent uniquement le jeu \(les messages / photos envoyées sur le channel où se trouve le bot ne sont jamais sauvegardés\). Les pseudos de joueurs ne sont pas non plus enregistrés.
+Les données enregistrées dans la base de donnée concernent uniquement le jeu \(les messages / photos envoyées sur le channel où se trouve le bot ne sont jamais sauvegardés\). Les pseudos de joueurs ne sont pas non plus enregistrés.
 
 ### Comment créer un bot discord ?
 

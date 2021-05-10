@@ -23,7 +23,7 @@ Pendant un combat, vous devez impérativement prendre en compte les statistiques
 
 #### Les combats normaux
 
-Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight <@user>` permets de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat, et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction ![:white\_check\_mark:](https://discord.com/assets/212e30e47232be03033a87dc58edaa95.svg). Dans ce type de combat, le gagnant remporte des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement, et le perdant en perds.
+Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight <@user>` permets de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat, et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction ![:white\_check\_mark:](https://discord.com/assets/212e30e47232be03033a87dc58edaa95.svg). Dans ce type de combat, le gagnant remporte des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement, et le perdant en perd.
 
 #### Les combats amicaux 
 
