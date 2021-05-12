@@ -24,16 +24,16 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 
 | Symbole | Nom | Valeur | Rareté |
 | :--- | :--- | :--- | :--- |
-|  ![](../.gitbook/assets/cucumber.png)  | Cornichon | 3 dégât | Commun |
-|  ![](../.gitbook/assets/herb.png)  | Branche souple | 3 dégât | Commun |
-|  ![](../.gitbook/assets/bouquet.png)  | Bouquet de rose | 3 dégât | Commun |
+|  ![](../.gitbook/assets/cucumber.png)  | Cornichon | 3 dégâts | Commun |
+|  ![](../.gitbook/assets/herb.png)  | Branche souple | 3 dégâts | Commun |
+|  ![](../.gitbook/assets/bouquet.png)  | Bouquet de rose | 3 dégâts | Commun |
 |  ![](../.gitbook/assets/fork_and_knife.png)  | Fourchette/couteau | 4 dégâts | Commun |
 |  ![](../.gitbook/assets/criquet.png)  | Bâton | 4 dégâts | Commun |
 |  ![](../.gitbook/assets/used_tools.png)  | Outils usés | 5 dégâts | Commun |
-|   ![](../.gitbook/assets/rusty_key.png)  | Clé rouillée | 5 dégâts | Commun |
-|   ![](../.gitbook/assets/pick.png)  | Pioche abimée  | 5 dégats  | Commun |
-|   ![](../.gitbook/assets/hammer.png)  | Marteau | 6 dégâts | Commun |
-|   ![](../.gitbook/assets/fluxball.png)  | Balle de Fluxball | 6 dégats  | Commun |
+|  ![](../.gitbook/assets/rusty_key.png)  | Clé rouillée | 5 dégâts | Commun |
+|  ![](../.gitbook/assets/pick.png)  | Pioche abimée  | 5 dégats  | Commun |
+|  ![](../.gitbook/assets/hammer.png)  | Marteau | 6 dégâts | Commun |
+|  ![](../.gitbook/assets/fluxball.png)  | Balle de Fluxball | 6 dégats  | Commun |
 |  ![](../.gitbook/assets/reinforced_fist.png)  | Poing renforcé | 7 dégâts | Commun |
 |  ![](../.gitbook/assets/left_fist.png)    | Griffe de main  | 7 dégats  | Commun |
 |  ![](../.gitbook/assets/field_hockey.png)  | Crosse de Hockey | 8 dégâts | Commun |
@@ -64,7 +64,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |   ![](../.gitbook/assets/bow.png)  | Arc de novice | 33 dégâts | Exotique |
 |   ![](../.gitbook/assets/chopstick.png)  | Pew Pew  | 37 dégâts | Exotique |
 |  ![](../.gitbook/assets/banana.png)  | Banane | 26 dégâts | Rare |
-|  ![](../.gitbook/assets/gun.png)  | Pistolet vide | 26 dégâts | Rare |
+|  ![](../.gitbook/assets/gun.png)  | Pistolet déchargé | 26 dégâts | Rare |
 |  ![](../.gitbook/assets/syringe.png)  | Seringue | 29 dégâts | Rare |
 |  ![](../.gitbook/assets/candle.png)  | Brûleur | 38 dégâts | Rare |
 |  ![](../.gitbook/assets/fishing_rod.png)  | Canne à pêche | 38 dégâts | Rare |
@@ -74,7 +74,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/crosses_sword.png)  | Epée en fer | 50 dégâts | Rare |
 |  ![](../.gitbook/assets/dagger.png)  | Dague | 55 dégâts | Rare |
 |  ![](../.gitbook/assets/crosses_sword.png)  | Double dagues | 60 dégâts | Rare |
-|  ![](../.gitbook/assets/axe.png)  | Hachoir | 60 | Rare |
+|  ![](../.gitbook/assets/axe.png)  | Hachoir | 60 dégâts | Rare |
 |  ![](../.gitbook/assets/syringe.png)  | Seringue sale | 48 dégâts | Spécial |
 |  ![](../.gitbook/assets/cooking.png)  | Poële  | 52 dégâts | Spécial |
 |  ![](../.gitbook/assets/hammer.png)  | Marteau de guerre | 62 dégâts | Spécial |
@@ -99,7 +99,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/comet.png)  | L'âme du diable  | 182 dégâts | Légendaire |
 |  ![](../.gitbook/assets/crosses_sword.png)  | Epée en diamant | 196 dégâts | Légendaire |
 |  ![](../.gitbook/assets/crosses_sword.png)  | Master Sword | 196 dégâts | Légendaire |
-|   ![](../.gitbook/assets/dagger.png)  | Sabre | 212 dégâts | Légendaire |
+|  ![](../.gitbook/assets/dagger.png)  | Sabre | 212 dégâts | Légendaire |
 |  ![](../.gitbook/assets/firework.png)  | Sceptre aux 100 sorts  | 174 dégâts  | Mythique |
 |  ![](../.gitbook/assets/scuba_diving.png)  | Sabotage d'oxygène | 203 dégâts | Mythique  |
 |  ![](../.gitbook/assets/bomb.png)  | Bombe Atomique | 219 dégâts | Mythique |
