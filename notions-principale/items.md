@@ -24,141 +24,141 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 
 | Symbole | Nom | Valeur | Rareté |
 | :--- | :--- | :--- | :--- |
-|  [![Cucumber 1f952](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Cucumber_1f952.png/revision/latest/scale-to-width-down/20?cb=20200229153605&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Cucumber_1f952.png/revision/latest?cb=20200229153605&path-prefix=fr) | Cornichon | 3 dégât | Commun |
-|  [![Emoji Herb](https://vignette.wikia.nocookie.net/draftbot/images/1/19/Emoji_Herb.png/revision/latest/scale-to-width-down/20?cb=20200229153849&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/19/Emoji_Herb.png/revision/latest?cb=20200229153849&path-prefix=fr) | Branche souple | 3 dégât | Commun |
-|  [![Emoji Bouquet](https://vignette.wikia.nocookie.net/draftbot/images/3/37/Emoji_Bouquet.png/revision/latest/scale-to-width-down/20?cb=20200301123835&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/3/37/Emoji_Bouquet.png/revision/latest?cb=20200301123835&path-prefix=fr) | Bouquet de rose | 3 dégât | Commun |
-|  [![Emoji Fork And Knife](https://vignette.wikia.nocookie.net/draftbot/images/5/51/Emoji_Fork_And_Knife.png/revision/latest/scale-to-width-down/20?cb=20200312082259&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/5/51/Emoji_Fork_And_Knife.png/revision/latest?cb=20200312082259&path-prefix=fr) | Fourchette/couteau | 4 dégâts | Commun |
-|  [![Emoji Cricket](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Emoji_Cricket.png/revision/latest/scale-to-width-down/20?cb=20200229150346&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Emoji_Cricket.png/revision/latest?cb=20200229150346&path-prefix=fr) | Bâton | 4 dégâts | Commun |
-|  [![Emoji Hammer-And-Wrench](https://vignette.wikia.nocookie.net/draftbot/images/f/fe/Emoji_Hammer-And-Wrench.png/revision/latest/scale-to-width-down/20?cb=20200229150259&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/fe/Emoji_Hammer-And-Wrench.png/revision/latest?cb=20200229150259&path-prefix=fr) | Outils usés | 5 dégâts | Commun |
-|  [![Emoji Wrench](https://vignette.wikia.nocookie.net/draftbot/images/b/be/Emoji_Wrench.png/revision/latest/scale-to-width-down/20?cb=20200229151549&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/b/be/Emoji_Wrench.png/revision/latest?cb=20200229151549&path-prefix=fr) | Clé rouillée | 5 dégâts | Commun |
-|  | Pioche abimée  | 5 dégats  | Commun |
-|  | Marteau | 6 dégâts | Commun |
-|  | Balle de Fluxball | 6 dégats  | Commun |
-|  [![Emoji Punch](https://vignette.wikia.nocookie.net/draftbot/images/2/2a/Emoji_Punch.png/revision/latest/scale-to-width-down/20?cb=20200301123550&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/2/2a/Emoji_Punch.png/revision/latest?cb=20200301123550&path-prefix=fr) | Poing renforcé | 7 dégâts | Commun |
-|  | Griffe de main  | 7 dégats  | Commun |
-|  | Crosse de Hockey | 8 dégâts | Commun |
-|  [![Emoji Boxing-Glove](https://vignette.wikia.nocookie.net/draftbot/images/f/f4/Emoji_Boxing-Glove.png/revision/latest/scale-to-width-down/20?cb=20200301123546&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/f4/Emoji_Boxing-Glove.png/revision/latest?cb=20200301123546&path-prefix=fr) | Gant de boxe | 9 dégâts | Commun |
-|  [![Emoji Snowflake](https://vignette.wikia.nocookie.net/draftbot/images/5/5a/Emoji_Snowflake.png/revision/latest/scale-to-width-down/20?cb=20200301094139&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/5/5a/Emoji_Snowflake.png/revision/latest?cb=20200301094139&path-prefix=fr) | Boule de neige | 11 dégâts | Commun |
-|  [![Emoji Razor](https://vignette.wikia.nocookie.net/draftbot/images/a/a6/Emoji_Razor.png/revision/latest/scale-to-width-down/20?cb=20200301130935&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/a6/Emoji_Razor.png/revision/latest?cb=20200301130935&path-prefix=fr) | Rasoir | 12 dégâts | Commun |
-|  [![Guitar 1f3b8](https://vignette.wikia.nocookie.net/draftbot/images/5/52/Guitar_1f3b8.png/revision/latest/scale-to-width-down/20?cb=20200229151843&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/5/52/Guitar_1f3b8.png/revision/latest?cb=20200229151843&path-prefix=fr) | Guitare lourde | 7 dégâts | Peu commun |
-|  [![Emoji Pushpin](https://vignette.wikia.nocookie.net/draftbot/images/4/4c/Emoji_Pushpin.png/revision/latest/scale-to-width-down/20?cb=20200229151214&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/4/4c/Emoji_Pushpin.png/revision/latest?cb=20200229151214&path-prefix=fr) | Percingasiteur | 8 dégâts | Peu commun |
-|  [![Emoji Chair](https://vignette.wikia.nocookie.net/draftbot/images/a/a2/Emoji_Chair.png/revision/latest/scale-to-width-down/20?cb=20200301130702&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/a2/Emoji_Chair.png/revision/latest?cb=20200301130702&path-prefix=fr) | Chaise | 8 dégâts | Peu commun |
-|  [![Emoji Fishing-Pole](https://vignette.wikia.nocookie.net/draftbot/images/b/b7/Emoji_Fishing-Pole.png/revision/latest/scale-to-width-down/20?cb=20200301123504&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/b/b7/Emoji_Fishing-Pole.png/revision/latest?cb=20200301123504&path-prefix=fr) | Canne à pêche de débutant | 9 dégâts | Peu commun |
-|  [![Emoji Cricket](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Emoji_Cricket.png/revision/latest/scale-to-width-down/20?cb=20200229150346&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Emoji_Cricket.png/revision/latest?cb=20200229150346&path-prefix=fr) | Gourdin | 11 dégâts | Peu commun |
-|  [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr) | Tueuse de loup | 11 dégâts | Peu commun |
-|  [![Emoji Hocho](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest/scale-to-width-down/20?cb=20200229150812&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest?cb=20200229150812&path-prefix=fr) | Couteau ancien | 12 dégâts | Peu commun |
-|  [![Emoji Hocho](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest/scale-to-width-down/20?cb=20200229150812&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest?cb=20200229150812&path-prefix=fr) | Épée en bois | 12 dégâts | Peu commun |
-|  | Parapluie | 14 dégâts | Peu commun |
-|  [![Emoji Hocho](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest/scale-to-width-down/20?cb=20200229150812&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest?cb=20200229150812&path-prefix=fr) | Couteau simple | 15 dégâts | Peu commun |
-|  [![Emoji Bookmark](https://vignette.wikia.nocookie.net/draftbot/images/3/37/Emoji_Bookmark.png/revision/latest/scale-to-width-down/20?cb=20200301123847&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/3/37/Emoji_Bookmark.png/revision/latest?cb=20200301123847&path-prefix=fr) | Gros livre | 17 dégâts | Peu commun |
-|  [![Emoji Hocho](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest/scale-to-width-down/20?cb=20200229150812&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest?cb=20200229150812&path-prefix=fr) | Vieux couteau | 19 dégâts | Peu commun |
-|  [![Emoji Brick](https://vignette.wikia.nocookie.net/draftbot/images/e/ed/Emoji_Brick.png/revision/latest/scale-to-width-down/20?cb=20200301130657&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/e/ed/Emoji_Brick.png/revision/latest?cb=20200301130657&path-prefix=fr) | Brique | 15 dégâts | Exotique |
-|  [![Emoji Scissors](https://vignette.wikia.nocookie.net/draftbot/images/4/44/Emoji_Scissors.png/revision/latest/scale-to-width-down/20?cb=20200301124007&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/4/44/Emoji_Scissors.png/revision/latest?cb=20200301124007&path-prefix=fr) | Ciseaux | 16 dégâts | Exotique |
-|  | Pouvoir de l'amitié  | 18 dégâts | Exotique  |
-|  | Extincteur  | 20 dégâts | Exotique  |
-|  [![Emoji Pick](https://vignette.wikia.nocookie.net/draftbot/images/8/82/Emoji_Pick.png/revision/latest/scale-to-width-down/20?cb=20200229151940&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/8/82/Emoji_Pick.png/revision/latest?cb=20200229151940&path-prefix=fr) | Pioche | 22 dégâts | Exotique |
-|  ![Emoji Wrench](https://vignette.wikia.nocookie.net/draftbot/images/b/be/Emoji_Wrench.png/revision/latest/scale-to-width-down/20?cb=20200229151549&path-prefix=fr) | Massue | 22 dégâts | Exotique |
-|  [![Emoji Dagger-Knife](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest/scale-to-width-down/20?cb=20200229140539&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest?cb=20200229140539&path-prefix=fr) | Dague fragile | 24 dégâts | Exotique |
-|  [![Emoji Hocho](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest/scale-to-width-down/20?cb=20200229150812&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/1f/Emoji_Hocho.png/revision/latest?cb=20200229150812&path-prefix=fr) | Couteau de débutant | 27 dégâts | Exotique |
-|  | Boomerang | 30 dégâts | Exotique |
-|  | Arc de novice | 33 dégâts | Exotique |
-|  | Pew Pew  | 37 dégâts | Exotique |
-|  [![Emoji Banane](https://vignette.wikia.nocookie.net/draftbot/images/e/ef/Emoji_Banane.png/revision/latest/scale-to-width-down/20?cb=20200301123651&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/e/ef/Emoji_Banane.png/revision/latest?cb=20200301123651&path-prefix=fr) | Banane | 26 dégâts | Rare |
-|  [![Emoji Pistol](https://vignette.wikia.nocookie.net/draftbot/images/0/0f/Emoji_Pistol.png/revision/latest/scale-to-width-down/20?cb=20200229151720&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/0/0f/Emoji_Pistol.png/revision/latest?cb=20200229151720&path-prefix=fr) | Pistolet vide | 26 dégâts | Rare |
-|  [![Emoji Syringe](https://vignette.wikia.nocookie.net/draftbot/images/5/53/Emoji_Syringe.png/revision/latest/scale-to-width-down/20?cb=20200301130758&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/5/53/Emoji_Syringe.png/revision/latest?cb=20200301130758&path-prefix=fr) | Seringue | 29 dégâts | Rare |
-|  [![Emoji Candle](https://vignette.wikia.nocookie.net/draftbot/images/d/db/Emoji_Candle.png/revision/latest/scale-to-width-down/20?cb=20200301130930&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/d/db/Emoji_Candle.png/revision/latest?cb=20200301130930&path-prefix=fr) | Brûleur | 38 dégâts | Rare |
-|  [![Emoji Fishing-Pole](https://vignette.wikia.nocookie.net/draftbot/images/b/b7/Emoji_Fishing-Pole.png/revision/latest/scale-to-width-down/20?cb=20200301123504&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/b/b7/Emoji_Fishing-Pole.png/revision/latest?cb=20200301123504&path-prefix=fr) | Canne à pêche | 38 dégâts | Rare |
-|  [![Emoji Syringe](https://vignette.wikia.nocookie.net/draftbot/images/5/53/Emoji_Syringe.png/revision/latest/scale-to-width-down/20?cb=20200301130758&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/5/53/Emoji_Syringe.png/revision/latest?cb=20200301130758&path-prefix=fr) | Seringue contaminée  | 41 dégâts | Rare |
-|  [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) | Epée de débutant | 41 dégâts | Rare |
-|  | Arc de soldat  | 45 dégâts | Rare |
-|  [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) | Epée en fer | 50 dégâts | Rare |
-|  [![Emoji Dagger-Knife](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest/scale-to-width-down/20?cb=20200229140539&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest?cb=20200229140539&path-prefix=fr) | Dague | 55 dégâts | Rare |
-|  [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) | Double dagues | 60 dégâts | Rare |
-|  | Hachoir | 60 | Rare |
-|  [![Emoji Syringe](https://vignette.wikia.nocookie.net/draftbot/images/5/53/Emoji_Syringe.png/revision/latest/scale-to-width-down/20?cb=20200301130758&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/5/53/Emoji_Syringe.png/revision/latest?cb=20200301130758&path-prefix=fr) | Seringue sale | 48 dégâts | Spécial |
-|  | Poële  | 52 dégâts | Spécial |
-|  [![Emoji Hammer](https://vignette.wikia.nocookie.net/draftbot/images/1/1c/Emoji_Hammer.png/revision/latest/scale-to-width-down/20?cb=20200229150519&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/1c/Emoji_Hammer.png/revision/latest?cb=20200229150519&path-prefix=fr) | Marteau de guerre | 62 dégâts | Spécial |
-|  [![Emoji Fishing-Pole](https://vignette.wikia.nocookie.net/draftbot/images/b/b7/Emoji_Fishing-Pole.png/revision/latest/scale-to-width-down/20?cb=20200301123504&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/b/b7/Emoji_Fishing-Pole.png/revision/latest?cb=20200301123504&path-prefix=fr) | Canne à pêche de maître | 67 dégâts | Spécial |
-|  [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr) | Arc de chevalier | 73 dégâts | Spécial |
-|  | Bombe | 87 dégâts | Spécial |
-|  [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr) | Arc | 87 dégâts | Spécial |
-|  [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) | Epée sharpness 4 | 87 dégâts | Spécial |
-|  [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) | Epées doubles | 94 dégâts | Spécial |
-|  [![Emoji Bookmark](https://vignette.wikia.nocookie.net/draftbot/images/3/37/Emoji_Bookmark.png/revision/latest/scale-to-width-down/20?cb=20200301123847&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/3/37/Emoji_Bookmark.png/revision/latest?cb=20200301123847&path-prefix=fr) | Vieux grimoire | 70 dégâts | Epique |
-|  [![Emoji Dagger-Knife](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest/scale-to-width-down/20?cb=20200229140539&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest?cb=20200229140539&path-prefix=fr) | Epée Kokiri | 89 dégâts | Epique |
-|  | Beat saber  | 96 dégâts | Epique |
-|  | Épée nisse  | 96 dégâts | Epique |
-|  | Lame de charge | 113 dégâts | Epique  |
-|  [![Emoji High-Voltage](https://vignette.wikia.nocookie.net/draftbot/images/9/92/Emoji_High-Voltage.png/revision/latest/scale-to-width-down/20?cb=20200229145409&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/9/92/Emoji_High-Voltage.png/revision/latest?cb=20200229145409&path-prefix=fr) | Foudre de Zeus | 122 dégâts | Epique |
-|  | Épée royale  | 132 dégâts | Epique |
-|  [![Emoji Pistol](https://vignette.wikia.nocookie.net/draftbot/images/0/0f/Emoji_Pistol.png/revision/latest/scale-to-width-down/20?cb=20200229151720&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/0/0f/Emoji_Pistol.png/revision/latest?cb=20200229151720&path-prefix=fr) | Pistolet chargé | 143 dégâts | Epique |
-|  | Pistolet pan pan QQ | 125 dégâts  | Légendaire |
-|  [![Emoji Microbe](https://vignette.wikia.nocookie.net/draftbot/images/8/85/Emoji_Microbe.png/revision/latest/scale-to-width-down/20?cb=20200301131005&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/8/85/Emoji_Microbe.png/revision/latest?cb=20200301131005&path-prefix=fr) | Arme biologique  | 134 dégâts | Légendaire |
-|  | Épée de Ragnell | 145 dégâts | Légendaire |
-|  [![Emoji Bow-And-Arrow](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest/scale-to-width-down/20?cb=20200229150428&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/7/7e/Emoji_Bow-And-Arrow.png/revision/latest?cb=20200229150428&path-prefix=fr) | Arc du Héros | 182 dégâts | Légendaire |
-|  | L'âme du diable  | 182 dégâts | Légendaire |
-|  [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) | Epée en diamant | 196 dégâts | Légendaire |
-|  [![Emoji Crossed-Swords](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest/scale-to-width-down/20?cb=20200229140343&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/a/af/Emoji_Crossed-Swords.png/revision/latest?cb=20200229140343&path-prefix=fr) | Master Sword | 196 dégâts | Légendaire |
-|  [![Emoji Dagger-Knife](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest/scale-to-width-down/20?cb=20200229140539&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest?cb=20200229140539&path-prefix=fr) | Sabre | 212 dégâts | Légendaire |
-|  | Sceptre aux 100 sorts  | 174 dégâts  | Mythique |
-|  | Sabotage d'oxygène | 203 dégâts | Mythique  |
-|  [![Bomb 1f4a3](https://vignette.wikia.nocookie.net/draftbot/images/f/f9/Bomb_1f4a3.png/revision/latest/scale-to-width-down/20?cb=20200229151803&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/f9/Bomb_1f4a3.png/revision/latest?cb=20200229151803&path-prefix=fr) | Bombe Atomique | 219 dégâts | Mythique |
+|  ![](../.gitbook/assets/cucumber.png)  | Cornichon | 3 dégât | Commun |
+|  ![](../.gitbook/assets/herb.png)  | Branche souple | 3 dégât | Commun |
+|  ![](../.gitbook/assets/bouquet.png)  | Bouquet de rose | 3 dégât | Commun |
+|  ![](../.gitbook/assets/fork_and_knife.png)  | Fourchette/couteau | 4 dégâts | Commun |
+|  ![](../.gitbook/assets/criquet.png)  | Bâton | 4 dégâts | Commun |
+|  ![](../.gitbook/assets/used_tools.png)  | Outils usés | 5 dégâts | Commun |
+|   ![](../.gitbook/assets/rusty_key.png)  | Clé rouillée | 5 dégâts | Commun |
+|   ![](../.gitbook/assets/pick.png)  | Pioche abimée  | 5 dégats  | Commun |
+|   ![](../.gitbook/assets/hammer.png)  | Marteau | 6 dégâts | Commun |
+|   ![](../.gitbook/assets/fluxball.png)  | Balle de Fluxball | 6 dégats  | Commun |
+|  ![](../.gitbook/assets/reinforced_fist.png)  | Poing renforcé | 7 dégâts | Commun |
+|  ![](../.gitbook/assets/left_fist.png)    | Griffe de main  | 7 dégats  | Commun |
+|  ![](../.gitbook/assets/field_hockey.png)  | Crosse de Hockey | 8 dégâts | Commun |
+|  ![](../.gitbook/assets/boxing_glove.png)  | Gant de boxe | 9 dégâts | Commun |
+|  ![](../.gitbook/assets/snowball.png)  | Boule de neige | 11 dégâts | Commun |
+|  ![](../.gitbook/assets/razor.png)  | Rasoir | 12 dégâts | Commun |
+|  ![](../.gitbook/assets/guitar.png)  | Guitare lourde | 7 dégâts | Peu commun |
+|  ![](../.gitbook/assets/pin.png)  | Percingasiteur | 8 dégâts | Peu commun |
+|  ![](../.gitbook/assets/chair.png)  | Chaise | 8 dégâts | Peu commun |
+|  ![](../.gitbook/assets/fishing_rod.png)  | Canne à pêche de débutant | 9 dégâts | Peu commun |
+|  ![](../.gitbook/assets/gourdin.png)  | Gourdin | 11 dégâts | Peu commun |
+|  ![](../.gitbook/assets/bow%20%281%29.png)  | Tueuse de loup | 11 dégâts | Peu commun |
+|  ![](../.gitbook/assets/knife.png)  | Couteau ancien | 12 dégâts | Peu commun |
+|  ![](../.gitbook/assets/knife.png)  | Épée en bois | 12 dégâts | Peu commun |
+|  ![](../.gitbook/assets/closed_umbrella.png)  | Parapluie | 14 dégâts | Peu commun |
+|  ![](../.gitbook/assets/knife.png)  | Couteau simple | 15 dégâts | Peu commun |
+|  ![](../.gitbook/assets/big_book.png)  | Gros livre | 17 dégâts | Peu commun |
+|  ![](../.gitbook/assets/knife.png)  | Vieux couteau | 19 dégâts | Peu commun |
+|  ![](../.gitbook/assets/brick%20%281%29.png)  | Brique | 15 dégâts | Exotique |
+|  ![](../.gitbook/assets/scissors.png)  | Ciseaux | 16 dégâts | Exotique |
+|  ![](../.gitbook/assets/family_mmgb%20%281%29.png)  | Pouvoir de l'amitié  | 18 dégâts | Exotique  |
+|  ![](../.gitbook/assets/fire_extinguisher.png)  | Extincteur  | 20 dégâts | Exotique  |
+|  ![](../.gitbook/assets/pick%20%281%29.png)  | Pioche | 22 dégâts | Exotique |
+|  ![](../.gitbook/assets/gourdin%20%281%29.png)  | Massue | 22 dégâts | Exotique |
+|  ![](../.gitbook/assets/dagger.png)  | Dague fragile | 24 dégâts | Exotique |
+|  ![](../.gitbook/assets/knife.png)  | Couteau de débutant | 27 dégâts | Exotique |
+|   ![](../.gitbook/assets/boomerang.png)  | Boomerang | 30 dégâts | Exotique |
+|   ![](../.gitbook/assets/bow.png)  | Arc de novice | 33 dégâts | Exotique |
+|   ![](../.gitbook/assets/chopstick.png)  | Pew Pew  | 37 dégâts | Exotique |
+|  ![](../.gitbook/assets/banana.png)  | Banane | 26 dégâts | Rare |
+|  ![](../.gitbook/assets/gun.png)  | Pistolet vide | 26 dégâts | Rare |
+|  ![](../.gitbook/assets/syringe.png)  | Seringue | 29 dégâts | Rare |
+|  ![](../.gitbook/assets/candle.png)  | Brûleur | 38 dégâts | Rare |
+|  ![](../.gitbook/assets/fishing_rod.png)  | Canne à pêche | 38 dégâts | Rare |
+|  ![](../.gitbook/assets/syringe.png)  | Seringue contaminée  | 41 dégâts | Rare |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Epée de débutant | 41 dégâts | Rare |
+|  ![](../.gitbook/assets/bow.png)  | Arc de soldat  | 45 dégâts | Rare |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Epée en fer | 50 dégâts | Rare |
+|  ![](../.gitbook/assets/dagger.png)  | Dague | 55 dégâts | Rare |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Double dagues | 60 dégâts | Rare |
+|  ![](../.gitbook/assets/axe.png)  | Hachoir | 60 | Rare |
+|  ![](../.gitbook/assets/syringe.png)  | Seringue sale | 48 dégâts | Spécial |
+|  ![](../.gitbook/assets/cooking.png)  | Poële  | 52 dégâts | Spécial |
+|  ![](../.gitbook/assets/hammer.png)  | Marteau de guerre | 62 dégâts | Spécial |
+|  ![](../.gitbook/assets/fishing_rod.png)  | Canne à pêche de maître | 67 dégâts | Spécial |
+|  ![](../.gitbook/assets/bow%20%281%29.png)  | Arc de chevalier | 73 dégâts | Spécial |
+|  ![](../.gitbook/assets/bomb.png)  | Bombe | 87 dégâts | Spécial |
+|  ![](../.gitbook/assets/bow%20%281%29.png)  | Arc | 87 dégâts | Spécial |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Epée sharpness 4 | 87 dégâts | Spécial |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Epées doubles | 94 dégâts | Spécial |
+|  ![](../.gitbook/assets/big_book.png)  | Vieux grimoire | 70 dégâts | Epique |
+|  ![](../.gitbook/assets/dagger.png)  | Epée Kokiri | 89 dégâts | Epique |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Beat saber  | 96 dégâts | Epique |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Épée nisse  | 96 dégâts | Epique |
+|  ![](../.gitbook/assets/zeus.png)  | Lame de charge | 113 dégâts | Epique  |
+|  ![](../.gitbook/assets/zeus.png)  | Foudre de Zeus | 122 dégâts | Epique |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Épée royale  | 132 dégâts | Epique |
+|  ![](../.gitbook/assets/gun.png)  | Pistolet chargé | 143 dégâts | Epique |
+|  ![](../.gitbook/assets/gun%20%281%29.png)  | Pistolet pan pan QQ | 125 dégâts  | Légendaire |
+|  ![](../.gitbook/assets/microbe.png)  | Arme biologique  | 134 dégâts | Légendaire |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Épée de Ragnell | 145 dégâts | Légendaire |
+|  ![](../.gitbook/assets/bow%20%281%29.png)  | Arc du Héros | 182 dégâts | Légendaire |
+|  ![](../.gitbook/assets/comet.png)  | L'âme du diable  | 182 dégâts | Légendaire |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Epée en diamant | 196 dégâts | Légendaire |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Master Sword | 196 dégâts | Légendaire |
+|   ![](../.gitbook/assets/dagger.png)  | Sabre | 212 dégâts | Légendaire |
+|  ![](../.gitbook/assets/firework.png)  | Sceptre aux 100 sorts  | 174 dégâts  | Mythique |
+|  ![](../.gitbook/assets/scuba_diving.png)  | Sabotage d'oxygène | 203 dégâts | Mythique  |
+|  ![](../.gitbook/assets/bomb.png)  | Bombe Atomique | 219 dégâts | Mythique |
 
 #### Liste des armures/boucliers
 
 | Symbole | Nom | Valeur | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Manteau | 3 défense  | Commun |
-|  | Blouse de laboratoire | 3 défense  | Commun |
-|  | Bouclier de débutant | 4 défense  | Commun |
-|  | Bouclier solide  | 6 défense  | Commun |
-|  | Égide contrefait  | 6 défense  | Commun |
-|  | Casque de chantier  | 7 défense  | Commun |
-|  | Bouclier renforcé | 9 défense  | Commun |
-|  | Petit bouclier  | 11 défense  | Commun |
-|  | Casque de guerre | 12 défense  | Commun |
-|  | Seau en fer | 7 défense  | Peu commun |
-|  | Bouclier en bois  | 9 défense  | Peu commun |
-|  | Bouclier simple  | 11 défense  | Peu commun |
-|  | Gilet de sécurité  | 12 défense  | Peu commun |
-|  | Scutum | 14 défense  | Peu commun |
-|  | Bouclier de Brennus | 15 défense  | Peu commun |
-|  | Tenue de combat | 19 défense  | Peu commun |
-|  | Carapace de Franklin | 22 défense  | Peu commun |
-|  | Bouclier usé  | 16 défense  | Exotique |
-|  | Parapluie de self defense  | 18 défense  | Exotique |
-|  | Bouclier  | 20 défense  | Exotique |
-|  | Bouclier de guerre | 22 défense  | Exotique |
-|  | Rondache | 22 défense  | Exotique |
-|  | Tente | 22 défense  | Exotique |
-|  | Bouclier de solitude  | 27 défense  | Exotique |
-|  | Bouclier rouillé | 29 défense  | Rare |
-|  | Plexiglas | 31 défense  | Rare |
-|  | Bouclier lourd | 34 défense  | Rare |
-|  | Bouclier de fer | 38 défense  | Rare |
-|  | Bouclier de gladiateur  | 41 défense  | Rare |
-|  | Lumière de Node  | 45 défense  | Rare |
-|  | Bouclier de Lynel | 55 défense  | Rare |
-|  | Égide puissante  |  _Undefined_ | Spécial |
-|  | Kimono renforcé | 48 défense  | Spécial |
-|  | Bras mécanique  | 67 défense  | Spécial |
-|  | Voie des pions  | 73 défense  | Spécial |
-|  | Champ de force  | 79 défense  | Spécial |
-|  | Bouclier royal | 87 défense  | Spécial |
-|  | Mur | 94 défense  | Spécial |
-|  | Forteresse japonaise  | 0 défense  | Épique |
-|  | Jurisprudence | 89 défense  | Épique |
-|  | Kimono de maître | 96 défense  | Épique |
-|  | Armure de fer | 113 défense  | Épique |
-|  | Bouclier solaire  | 113 défense  | Épique |
-|  | Bouclier puissant | 132 défense  | Épique |
-|  | Casque de robot  | 143 défense  | Épique |
-|  | Bouclier de maître | 169 défense  | Légendaire |
-|  | Bouclier déflecteur d'Engi | 182 défense  | Légendaire |
-|  | Bouclier humain  | 196 défense  | Légendaire |
-|  | Convention de Genève  | 212 défense  | Légendaire |
-|  | Bouclier ultime | 212 défense  | Légendaire |
-|  | Bouclier à pointe | 174 défense  | Mythique |
-|  | Blindage du major | 203 défense  | Mythique |
-|  | Bouclier en vibranium  | 219 défense  | Mythique |
+|  ![](../.gitbook/assets/coat%20%281%29.png)  | Manteau | 3 défense  | Commun |
+|  ![](../.gitbook/assets/lab_coat.png)  | Blouse de laboratoire | 3 défense  | Commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier de débutant | 4 défense  | Commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier solide  | 6 défense  | Commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Égide contrefait  | 6 défense  | Commun |
+|  ![](../.gitbook/assets/helmet_with_cross.png)  | Casque de chantier  | 7 défense  | Commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier renforcé | 9 défense  | Commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Petit bouclier  | 11 défense  | Commun |
+|  ![](../.gitbook/assets/military_helmet.png)  | Casque de guerre | 12 défense  | Commun |
+|  ![](../.gitbook/assets/coconut.png)  | Seau en fer | 7 défense  | Peu commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier en bois  | 9 défense  | Peu commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier simple  | 11 défense  | Peu commun |
+|  ![](../.gitbook/assets/safety_vest.png)  | Gilet de sécurité  | 12 défense  | Peu commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Scutum | 14 défense  | Peu commun |
+|  ![](../.gitbook/assets/fluxball%20%281%29.png)  | Bouclier de Brennus | 15 défense  | Peu commun |
+|  ![](../.gitbook/assets/coat.png)  | Tenue de combat | 19 défense  | Peu commun |
+|  ![](../.gitbook/assets/turtle.png)  | Carapace de Franklin | 22 défense  | Peu commun |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier usé  | 16 défense  | Exotique |
+|  ![](../.gitbook/assets/closed_umbrella.png)  | Parapluie de self defense  | 18 défense  | Exotique |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier  | 20 défense  | Exotique |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier de guerre | 22 défense  | Exotique |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Rondache | 22 défense  | Exotique |
+|  ![](../.gitbook/assets/tent.png)  | Tente | 22 défense  | Exotique |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier de solitude  | 27 défense  | Exotique |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier rouillé | 29 défense  | Rare |
+|  ![](../.gitbook/assets/window.png)  | Plexiglas | 31 défense  | Rare |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier lourd | 34 défense  | Rare |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier de fer | 38 défense  | Rare |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier de gladiateur  | 41 défense  | Rare |
+|  ![](../.gitbook/assets/shield%20%281%29.png)  | Lumière de Node  | 45 défense  | Rare |
+|  ![](../.gitbook/assets/shield.png)  | Bouclier de Lynel | 55 défense  | Rare |
+|  ![](../.gitbook/assets/shield.png)  | Égide puissante  |  _Undefined_ | Spécial |
+|  ![](../.gitbook/assets/kimono.png)  | Kimono renforcé | 48 défense  | Spécial |
+|  ![](../.gitbook/assets/mechanical_arm.png)  | Bras mécanique  | 67 défense  | Spécial |
+|  ![](../.gitbook/assets/chess_pawn.png)  | Voie des pions  | 73 défense  | Spécial |
+|  ![](../.gitbook/assets/sparkle.png)  | Champ de force  | 79 défense  | Spécial |
+|  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier royal | 87 défense  | Spécial |
+|  ![](../.gitbook/assets/brick.png)  | Mur | 94 défense  | Spécial |
+|  ![](../.gitbook/assets/japanese_fortress.png)  | Forteresse japonaise  | 0 défense  | Épique |
+|  ![](../.gitbook/assets/juge.png)  | Jurisprudence | 89 défense  | Épique |
+|  ![](../.gitbook/assets/martial-arts-uniform_1f94b.png)  | Kimono de maître | 96 défense  | Épique |
+|  ![](../.gitbook/assets/fencer.png)  | Armure de fer | 113 défense  | Épique |
+|  ![](../.gitbook/assets/high_brightness.png)  | Bouclier solaire  | 113 défense  | Épique |
+|  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier puissant | 132 défense  | Épique |
+|  ![](../.gitbook/assets/robot.png)  | Casque de robot  | 143 défense  | Épique |
+|  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier de maître | 169 défense  | Légendaire |
+|  ![](../.gitbook/assets/eye_in_speech_bubble.png)  | Bouclier déflecteur d'Engi | 182 défense  | Légendaire |
+|  ![](../.gitbook/assets/family_mmgb.png)  | Bouclier humain  | 196 défense  | Légendaire |
+|  ![](../.gitbook/assets/shield%20%282%29.png)  | Convention de Genève  | 212 défense  | Légendaire |
+|  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier ultime | 212 défense  | Légendaire |
+|  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier à pointe | 174 défense  | Mythique |
+|  ![](../.gitbook/assets/military_helmet.png)  | Blindage du major | 203 défense  | Mythique |
+|  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier en vibranium  | 219 défense  | Mythique |
 
