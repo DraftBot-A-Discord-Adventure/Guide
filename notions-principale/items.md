@@ -87,7 +87,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/big_book.png)  | Vieux grimoire | 70 dégâts | Epique |
 |  ![](../.gitbook/assets/dagger.png)  | Epée Kokiri | 89 dégâts | Epique |
 |  ![](../.gitbook/assets/crosses_sword.png)  | Beat saber  | 96 dégâts | Epique |
-|  ![](../.gitbook/assets/crosses_sword.png)  | Épée nisse  | 96 dégâts | Epique |
+|  ![](../.gitbook/assets/crosses_sword.png)  | Épée d'Ines | 96 dégâts | Epique |
 |  ![](../.gitbook/assets/zeus.png)  | Lame de charge | 113 dégâts | Epique  |
 |  ![](../.gitbook/assets/zeus.png)  | Foudre de Zeus | 122 dégâts | Epique |
 |  ![](../.gitbook/assets/crosses_sword.png)  | Épée royale  | 132 dégâts | Epique |
