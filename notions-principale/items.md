@@ -22,7 +22,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 
 #### Liste des armes
 
-| Symbole | Nom | Attaque | Rareté |
+| Symbole | Nom | Valeur | Rareté |
 | :--- | :--- | :--- | :--- |
 |  [![Cucumber 1f952](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Cucumber_1f952.png/revision/latest/scale-to-width-down/20?cb=20200229153605&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Cucumber_1f952.png/revision/latest?cb=20200229153605&path-prefix=fr) | Cornichon | 3 dégât | Commun |
 |  [![Emoji Herb](https://vignette.wikia.nocookie.net/draftbot/images/1/19/Emoji_Herb.png/revision/latest/scale-to-width-down/20?cb=20200229153849&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/1/19/Emoji_Herb.png/revision/latest?cb=20200229153849&path-prefix=fr) | Branche souple | 3 dégât | Commun |
@@ -103,4 +103,62 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  | Sceptre aux 100 sorts  | 174 dégâts  | Mythique |
 |  | Sabotage d'oxygène | 203 dégâts | Mythique  |
 |  [![Bomb 1f4a3](https://vignette.wikia.nocookie.net/draftbot/images/f/f9/Bomb_1f4a3.png/revision/latest/scale-to-width-down/20?cb=20200229151803&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/f9/Bomb_1f4a3.png/revision/latest?cb=20200229151803&path-prefix=fr) | Bombe Atomique | 219 dégâts | Mythique |
+
+#### Liste des armures/boucliers
+
+| Symbole | Nom | Valeur | Rareté |
+| :--- | :--- | :--- | :--- |
+|  | Manteau | 3 défense  | Commun |
+|  | Blouse de laboratoire | 3 défense  | Commun |
+|  | Bouclier de débutant | 4 défense  | Commun |
+|  | Bouclier solide  | 6 défense  | Commun |
+|  | Égide contrefait  | 6 défense  | Commun |
+|  | Casque de chantier  | 7 défense  | Commun |
+|  | Bouclier renforcé | 9 défense  | Commun |
+|  | Petit bouclier  | 11 défense  | Commun |
+|  | Casque de guerre | 12 défense  | Commun |
+|  | Seau en fer | 7 défense  | Peu commun |
+|  | Bouclier en bois  | 9 défense  | Peu commun |
+|  | Bouclier simple  | 11 défense  | Peu commun |
+|  | Gilet de sécurité  | 12 défense  | Peu commun |
+|  | Scutum | 14 défense  | Peu commun |
+|  | Bouclier de Brennus | 15 défense  | Peu commun |
+|  | Tenue de combat | 19 défense  | Peu commun |
+|  | Carapace de Franklin | 22 défense  | Peu commun |
+|  | Bouclier usé  | 16 défense  | Exotique |
+|  | Parapluie de self defense  | 18 défense  | Exotique |
+|  | Bouclier  | 20 défense  | Exotique |
+|  | Bouclier de guerre | 22 défense  | Exotique |
+|  | Rondache | 22 défense  | Exotique |
+|  | Tente | 22 défense  | Exotique |
+|  | Bouclier de solitude  | 27 défense  | Exotique |
+|  | Bouclier rouillé | 29 défense  | Rare |
+|  | Plexiglas | 31 défense  | Rare |
+|  | Bouclier lourd | 34 défense  | Rare |
+|  | Bouclier de fer | 38 défense  | Rare |
+|  | Bouclier de gladiateur  | 41 défense  | Rare |
+|  | Lumière de Node  | 45 défense  | Rare |
+|  | Bouclier de Lynel | 55 défense  | Rare |
+|  | Égide puissante  |  _Undefined_ | Spécial |
+|  | Kimono renforcé | 48 défense  | Spécial |
+|  | Bras mécanique  | 67 défense  | Spécial |
+|  | Voie des pions  | 73 défense  | Spécial |
+|  | Champ de force  | 79 défense  | Spécial |
+|  | Bouclier royal | 87 défense  | Spécial |
+|  | Mur | 94 défense  | Spécial |
+|  | Forteresse japonaise  | 0 défense  | Épique |
+|  | Jurisprudence | 89 défense  | Épique |
+|  | Kimono de maître | 96 défense  | Épique |
+|  | Armure de fer | 113 défense  | Épique |
+|  | Bouclier solaire  | 113 défense  | Épique |
+|  | Bouclier puissant | 132 défense  | Épique |
+|  | Casque de robot  | 143 défense  | Épique |
+|  | Bouclier de maître | 169 défense  | Légendaire |
+|  | Bouclier déflecteur d'Engi | 182 défense  | Légendaire |
+|  | Bouclier humain  | 196 défense  | Légendaire |
+|  | Convention de Genève  | 212 défense  | Légendaire |
+|  | Bouclier ultime | 212 défense  | Légendaire |
+|  | Bouclier à pointe | 174 défense  | Mythique |
+|  | Blindage du major | 203 défense  | Mythique |
+|  | Bouclier en vibranium  | 219 défense  | Mythique |
 
