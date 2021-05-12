@@ -4,15 +4,15 @@
 
 ### Niveaux de rareté
 
-1.  **Basique** ![:small\_orange\_diamond:](https://canary.discordapp.com/assets/2ed10f1e93fae671236707973405d39e.svg) ️ `Rareté de l'item possédé en début de jeu` 
-2.  **Commun** ![:large\_orange\_diamond:](https://canary.discordapp.com/assets/c2628f272e20001dcdda4a0839b17fb0.svg) `43,75% (1 item / 3)` 
-3.  **Peu commun** ![:fire:](https://canary.discordapp.com/assets/67069a13e006345ce28ecc581f2ed162.svg) `25% (1 item / 4)` 
-4.  **Exotique** ![:trident:](https://canary.discordapp.com/assets/7d7c9561cc5ab5259ff8023b8ef86c99.svg) `15% (1 item / 7)` 
-5.  **Rare** ![:comet:](https://canary.discordapp.com/assets/b1287f622ee40d8bfc5c008b176f0ea7.svg) `10% (1 item / 10)` 
-6.  **Spécial** ![:dizzy:](https://canary.discordapp.com/assets/1b3817ca3b1dc991baefdb3079ed0624.svg) `5% (1 item / 20)` 
-7.  **Épique** ![:star:](https://canary.discordapp.com/assets/141d49436743034a59dec6bd5618675d.svg) `1% (1 item / 100)` 
-8.  **Légendaire** ![:star2:](https://canary.discordapp.com/assets/030fc6691abd2ab36c1d90407e02505e.svg) `0,24% (1 item / 417)` 
-9.  **Mythique** ![:gem:](https://canary.discordapp.com/assets/5a8d9af8b5b3922097b2cccfce844630.svg) `0,01% (1 item / 10 000)`
+*  **Basique** ![:small\_orange\_diamond:](https://canary.discordapp.com/assets/2ed10f1e93fae671236707973405d39e.svg) `l'item possédé en début de jeu` 
+*  **Commun** ![:large\_orange\_diamond:](https://canary.discordapp.com/assets/c2628f272e20001dcdda4a0839b17fb0.svg) `43,75% (1 item / 3)` 
+*  **Peu commun** ![:fire:](https://canary.discordapp.com/assets/67069a13e006345ce28ecc581f2ed162.svg) `25% (1 item / 4)` 
+*  **Exotique** ![:trident:](https://canary.discordapp.com/assets/7d7c9561cc5ab5259ff8023b8ef86c99.svg) `15% (1 item / 7)` 
+*  **Rare** ![:comet:](https://canary.discordapp.com/assets/b1287f622ee40d8bfc5c008b176f0ea7.svg) `10% (1 item / 10)` 
+*  **Spécial** ![:dizzy:](https://canary.discordapp.com/assets/1b3817ca3b1dc991baefdb3079ed0624.svg) `5% (1 item / 20)` 
+*  **Épique** ![:star:](https://canary.discordapp.com/assets/141d49436743034a59dec6bd5618675d.svg) `1% (1 item / 100)` 
+*  **Légendaire** ![:star2:](https://canary.discordapp.com/assets/030fc6691abd2ab36c1d90407e02505e.svg) `0,24% (1 item / 417)` 
+*  **Mythique** ![:gem:](https://canary.discordapp.com/assets/5a8d9af8b5b3922097b2cccfce844630.svg) `0,01% (1 item / 10 000)`
 
 ### Valeur des équipements
 
@@ -20,9 +20,9 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 
 ### Liste des équipements
 
-#### Liste des armes
+### Liste des armes
 
-| Symbole | Nom | Valeur | Rareté |
+| Symbole | Nom | Attaque | Rareté |
 | :--- | :--- | :--- | :--- |
 |  ![](../.gitbook/assets/cucumber.png)  | Cornichon | 3 dégâts | Commun |
 |  ![](../.gitbook/assets/herb.png)  | Branche souple | 3 dégâts | Commun |
@@ -60,9 +60,9 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/gourdin%20%281%29.png)  | Massue | 22 dégâts | Exotique |
 |  ![](../.gitbook/assets/dagger.png)  | Dague fragile | 24 dégâts | Exotique |
 |  ![](../.gitbook/assets/knife.png)  | Couteau de débutant | 27 dégâts | Exotique |
-|   ![](../.gitbook/assets/boomerang.png)  | Boomerang | 30 dégâts | Exotique |
-|   ![](../.gitbook/assets/bow.png)  | Arc de novice | 33 dégâts | Exotique |
-|   ![](../.gitbook/assets/chopstick.png)  | Pew Pew  | 37 dégâts | Exotique |
+|  ![](../.gitbook/assets/boomerang.png)  | Boomerang | 30 dégâts | Exotique |
+|  ![](../.gitbook/assets/bow.png)  | Arc de novice | 33 dégâts | Exotique |
+|  ![](../.gitbook/assets/chopstick.png)  | Pew Pew  | 37 dégâts | Exotique |
 |  ![](../.gitbook/assets/banana.png)  | Banane | 26 dégâts | Rare |
 |  ![](../.gitbook/assets/gun.png)  | Pistolet déchargé | 26 dégâts | Rare |
 |  ![](../.gitbook/assets/syringe.png)  | Seringue | 29 dégâts | Rare |
@@ -104,9 +104,9 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/scuba_diving.png)  | Sabotage d'oxygène | 203 dégâts | Mythique  |
 |  ![](../.gitbook/assets/bomb.png)  | Bombe Atomique | 219 dégâts | Mythique |
 
-#### Liste des armures/boucliers
+### Liste des armures/boucliers
 
-| Symbole | Nom | Valeur | Rareté |
+| Symbole | Nom | Défense | Rareté |
 | :--- | :--- | :--- | :--- |
 |  ![](../.gitbook/assets/coat%20%281%29.png)  | Manteau | 3 défense  | Commun |
 |  ![](../.gitbook/assets/lab_coat.png)  | Blouse de laboratoire | 3 défense  | Commun |
@@ -161,4 +161,10 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier à pointe | 174 défense  | Mythique |
 |  ![](../.gitbook/assets/military_helmet.png)  | Blindage du major | 203 défense  | Mythique |
 |  ![](../.gitbook/assets/shield%20%282%29.png)  | Bouclier en vibranium  | 219 défense  | Mythique |
+
+### Liste des objets 
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
 
