@@ -1,6 +1,6 @@
 # Équipements
 
-### Obtenir des équipements
+## Obtenir des équipements
 
 ### Niveaux de rareté
 
@@ -18,7 +18,7 @@
 
 La valeur des équipements est calculée principalement en fonction de la rareté de l'équipement.
 
-### Liste des équipements
+## Liste des équipements
 
 ### Liste des armes
 
@@ -117,7 +117,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier renforcé | 9 défense  | Commun |
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Petit bouclier  | 11 défense  | Commun |
 |  ![](../.gitbook/assets/military_helmet.png)  | Casque de guerre | 12 défense  | Commun |
-|  ![](../.gitbook/assets/coconut.png)  | Seau en fer | 7 défense  | Peu commun |
+|  ![](../.gitbook/assets/bucket.png)  | Seau en fer | 7 défense  | Peu commun |
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier en bois  | 9 défense  | Peu commun |
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier simple  | 11 défense  | Peu commun |
 |  ![](../.gitbook/assets/safety_vest.png)  | Gilet de sécurité  | 12 défense  | Peu commun |
@@ -164,7 +164,173 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 
 ### Liste des objets 
 
+#### ![](../.gitbook/assets/x-.png) Aucun effet  
+
 | Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
+|  ![](../.gitbook/assets/fallen-leaf.png)  | Feuilles mortes  | Aucun effet  | Commun |
+|  ![](../.gitbook/assets/barel.png)  | Baril métallique  | Aucun effet | Commun |
+|  ![](../.gitbook/assets/candle%20%281%29.png)  | Vieille bougie  | Aucun effet | Commun |
+
+#### ![](../.gitbook/assets/heart.png) Bonus de vie 
+
+| Symbole  | Nom | Effet | Rareté  |
+| :--- | :--- | :--- | :--- |
+|  ![](../.gitbook/assets/apple.png)  | Pomme rouge | Vie + 1  | Peu commun |
+|  ![](../.gitbook/assets/green-apple.png)  | Pomme verte  | Vie + 2  | Exotique |
+|  ![](../.gitbook/assets/chapelet.png)  | Chapelet mythique  | Vie + 3  | Exotique  |
+|  ![](../.gitbook/assets/pansement.png)  | Pansement | Vie + 4  | Rare |
+|  ![](../.gitbook/assets/heart-container.png)  | Réceptacle de coeur  | Vie + 6  | Spécial |
+|  ![](../.gitbook/assets/banana.png)  | Banan'ase split  | Vie + 7  | Épique  |
+|  ![](../.gitbook/assets/squeeze-bottle.png)  | Gel hydro-alcoolique  | Vie + 7  | Épique  |
+|  ![](../.gitbook/assets/angel.png)  | Bague de l'ange sans vie | Vie + 8  | Épique  |
+|  ![](../.gitbook/assets/white-flag.png)  | Drapeau de la paix | Vie + 9  | Légendaire |
+|  ![](../.gitbook/assets/angel2.png)  | Bénédiction du ciel | Vie + 10  | Légendaire |
+|  ![](../.gitbook/assets/sax.png)  | Saxo magique  | Vie + 11 | Mythique  |
+
+#### ![](../.gitbook/assets/rocket.png) Bonus de vitesse 
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  ![](../.gitbook/assets/amphora.png)  | Pot en terre cuite  | Vitesse + 1 pendant le prochain combat | Commun |
+|  ![](../.gitbook/assets/volume-1.png)  | Livre d'incantations volume 1 | Vitesse + 5  pendant le prochain combat | Commun |
+|  ![](../.gitbook/assets/soap.png)  | Savon glissant  | Vitesse + 7 pendant le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/shoe.png)  | Chaussure de sport  | Vitesse + 15 pendant le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/crystal-ball.png)  | Boule de verre magique  | Vitesse + 25 pendant le prochain combat | Exotique  |
+|  ![](../.gitbook/assets/four-leaf.png)  | Feuille de vent  | Vitesse + 41 pendant le prochain combat | Exotique  |
+|  ![](../.gitbook/assets/skier.png)  | Skis glissants | Vitesse + 63 pendant le prochain combat | Rare |
+|  ![](../.gitbook/assets/mechanical-leg.png)  | Jambe mécanique  | Vitesse + 87 pendant le prochain combat | Spécial |
+|  ![](../.gitbook/assets/rosette.png)  | Fleur de l'espoir  | Vitesse + 105 pendant le prochain combat | Épique |
+|  ![](../.gitbook/assets/boots.png)  | Bottes Pégases  | Vitesse + 108 pendant le prochain combat | Légendaire |
+|  ![](../.gitbook/assets/broom.png)  | Nimbus 2000 | Vitesse + 151 pendant le prochain combat | Mythique |
+
+#### ![](../.gitbook/assets/crosses_sword.png) Bonus d'attaque 
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  ![](../.gitbook/assets/volume-2.png)  | Livre d'incantations volume 2  | Attaque + 15 pendant le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/horn.png)  | Cor de chasse | Attaque + 27 pendant le prochain combat | Exotique |
+|  ![](../.gitbook/assets/diamond-shape-with-a-dot-inside.png)  | Pouvoir de Nayru | Attaque + 38 pendant le prochain combat | Rare |
+|  ![](../.gitbook/assets/cat-laugh.png)  | Chat aux yeux lasers mignon | Attaque + 57 pendant le prochain combat | Spécial |
+|  ![](../.gitbook/assets/black-flag.png)  | Drapeau de la mort  | Attaque + 85 pendant le prochain combat | Épique |
+|  ![](../.gitbook/assets/gem.png)  | Diamant kératinisé | Attaque + 132 pendant le prochain combat | Légendaire |
+|  ![](../.gitbook/assets/guitar.png)  | Guitare terrifiante  | Attaque + 137 pendant le prochain combat | Mythique |
+
+#### ![](../.gitbook/assets/shield%20%282%29.png) Bonus de défense 
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  ![](../.gitbook/assets/spoon.png)  | Cuillère de Kyu | Défense + 9 pour le prochain combat | Commun |
+|  ![](../.gitbook/assets/teddy.png)  | Ours en peluche | Défense + 14 pour le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/jack.png)  | Citrouille | Défense + 15 pour le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/volume-3.png)  | Livre d'incantations volume 3 | Défense + 25 pour le prochain combat | Exotique |
+|  ![](../.gitbook/assets/new-moon.png)  | Bout d'obsidienne  | Défense + 42 pour le prochain combat | Rare |
+|  ![](../.gitbook/assets/fleur-de-lis.png)  | Fleur royale | Défense + 59 pour le prochain combat | Spécial |
+|  ![](../.gitbook/assets/moon-face.png)  | Lune mojaro | Défense + 90 pour le prochain combat | Épique |
+|  ![](../.gitbook/assets/cyclone.png)  | Amulette cyclonique | Défense + 143 pour le prochain combat | Légendaire |
+
+#### ![](../.gitbook/assets/clock1030.png) Bonus de temps
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  ![](../.gitbook/assets/apple.png)  | Pomme du grand arbre  | Avance le temps plus rapidement pendant 15 minutes | Spécial |
+|  ![](../.gitbook/assets/open-book.png)  | Kyuran | Avance le temps plus rapidement pendant 45 minutes | Épique |
+|  ![](../.gitbook/assets/moviecamera.png)  | Accélérateur de particules  | Avance le temps plus rapidement pendant 1 heure | Légendaire |
+|  ![](../.gitbook/assets/shooting-star.png)  | Étoile filante | Avance le temps plus rapidement pendant 1 heure 15 | Légendaire |
+|  ![](../.gitbook/assets/clock230.png)  | L'horloge du lapin | Avance le temps plus rapidement pendant 2 heures | Mythique |
+
+#### ![](../.gitbook/assets/moneybag.png) Bonus d'argent 
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  ![](../.gitbook/assets/key2.png)  | Clé rouillée | Argent + 25 | Commun |
+|  ![](../.gitbook/assets/medal.png)  | Super médaille | Argent + 47 | Peu commun |
+|  ![](../.gitbook/assets/die.png)  | Dé magique | Argent + 60 | Exotique  |
+|  ![](../.gitbook/assets/medal.png)  | Gros portefeuille | Argent + 94 | Exotique |
+|  ![](../.gitbook/assets/slot.png)  | Machine à sous  | Argent + 142 | Rare |
+|  ![](../.gitbook/assets/volume-4.png)  | Livre d'incantations volume 4 | Argent + 152 | Rare |
+|  ![](../.gitbook/assets/chains.png)  | Chaine magique  | Argent + 207 | Spécial |
+|  ![](../.gitbook/assets/amphora.png)  | Urne de minotaure ornée  | Argent + 256 | Épique |
+|  ![](../.gitbook/assets/creditcard.png)  | Carte de crédit  | Argent + 294 | Épique |
+|  ![](../.gitbook/assets/midas.png)  | Amulette de Midas | Argent + 378 | Légendaire |
+|  ![](../.gitbook/assets/magnet.png)  | Magnet | Argent + 466 | Légendaire |
+
+### Liste des potions 
+
+#### Aucun effet 
+
+| Symbole | Nom | Effet | Rareté  |
+| :--- | :--- | :--- | :--- |
+|  | Potion périmée  | Aucun effet | Commun |
+|  | Potion douteuse  | Aucun effet | Commun |
+|   | Eau purifiée  | Aucun effet | Commun |
+|  | Vin rouge  | Aucun effet | Commun |
+
+#### Bonus de vie
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  | Biberon | Vie + 1 | Commun |
+|  | Potion puante | Vie + 7 | Commun |
+|  | Potion morvique | Vie + 1 | Peu commun |
+|  | Soupe de grand mère | Vie + 10 | Peu commun |
+|  | Potion simple | Vie + 17 | Exotique |
+|  | Potion rouge | Vie + 53 | Spécial |
+|  | Bisous'koup | Vie + 70 | Spécial |
+|  | Potion de guérison | Vie + 80 | Spécial |
+|  | Potion acide | Vie + 84 | Épique |
+|  | Potion de soin | Vie + 100 | Épique |
+|  | Potion de soin ultime | Vie + 215 | Légendaire |
+|  | Essence de volaille n°5 | Vie + 270 | Mythique |
+
+#### Bonus de vitesse
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  | Thé | Vitesse + 1 pendant le prochain combat | Commun |
+|  | Café | Vitesse + 1 pendant le prochain combat | Commun |
+|  | Boisson tropicale | Vitesse + 8 pendant le prochain combat | Peu commun |
+|  | Jus de chaussette | Vitesse + 15 pendant le prochain combat | Peu commun |
+|  | Potion secouée | Vitesse + 25 pendant le prochain combat | Peu commun |
+|  | Potion verte | Vitesse + 45 pendant le prochain combat | Exotique |
+|  | Potion fumante | Vitesse + 88 pendant le prochain combat | Rare |
+|  | Potion de vitesse | Vitesse + 200 pendant le prochain combat | Spécial |
+|  | Grande potion | Vitesse + 255 pendant le prochain combat | Légendaire |
+
+#### Bonus d'attaque
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  | Alcool | Attaque + 5 pendant le prochain combat | Commun |
+|  | Larmes de l'adversaire | Attaque + 20 pendant le prochain combat | Peu commun |
+|  | Potion de force | Attaque + 45 pendant le prochain combat | Exotique |
+|  | Potion | Attaque + 60 pendant le prochain combat | Rare |
+|  | Potion explosive | Attaque + 65 pendant le prochain combat | Rare |
+|  | Potion magique | Attaque + 135 pendant le prochain combat | Spécial |
+|  | Potion de sang de loup | Attaque + 178 pendant le prochain combat | Légendaire |
+
+#### Bonus de défense
+
 |  |  |  |  |
+| :--- | :--- | :--- | :--- |
+|  | Verre de lait | Défense + 5 pour le prochain combat | Commun |
+|  | Potion bleue | Défense + 15 pour le prochain combat | Peu commun |
+|  | Potion sombre | Défense + 90 pour le prochain combat | Rare |
+|  | Super potion | Défense + 190 pour le prochain combat | Épique |
+
+#### Bonus de temps
+
+| Symbole | Nom | Effet | Rareté |
+| :--- | :--- | :--- | :--- |
+|  | Jus | Avance le temps plus rapidement pendant 1 heure | Rare |
+|  | Mélange d’Erythroxylum coca | Avance le temps plus rapidement pendant 1 heure | Rare |
+|  | Kyurburant | Avance le temps plus rapidement pendant 2 heures | Spécial |
+|  | Glaçons fondus  | Avance le temps plus rapidement pendant 3 heures | Spécial |
+|  | Sake | Avance le temps plus rapidement pendant 4 heures | Épique |
+|  | Champagne sabré | Avance le temps plus rapidement pendant 6 heures | Épique |
+|  | Maté | Avance le temps plus rapidement pendant 7 heures | Épique |
+|  | Potion violette | Avance le temps plus rapidement pendant 12 heures | Légendaire |
+|  | Potion ultime | Avance le temps plus rapidement pendant 20 heures | Légendaire  |
+
+
 
