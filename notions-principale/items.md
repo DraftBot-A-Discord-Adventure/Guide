@@ -31,11 +31,11 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/criquet.png)  | Bâton | 4 dégâts | Commun |
 |  ![](../.gitbook/assets/used_tools.png)  | Outils usés | 5 dégâts | Commun |
 |  ![](../.gitbook/assets/rusty_key.png)  | Clé rouillée | 5 dégâts | Commun |
-|  ![](../.gitbook/assets/pick.png)  | Pioche abimée  | 5 dégats  | Commun |
+|  ![](../.gitbook/assets/pick.png)  | Pioche abimée  | 5 dégâts  | Commun |
 |  ![](../.gitbook/assets/hammer.png)  | Marteau | 6 dégâts | Commun |
-|  ![](../.gitbook/assets/fluxball.png)  | Balle de Fluxball | 6 dégats  | Commun |
+|  ![](../.gitbook/assets/fluxball.png)  | Balle de Fluxball | 6 dégâts  | Commun |
 |  ![](../.gitbook/assets/reinforced_fist.png)  | Poing renforcé | 7 dégâts | Commun |
-|  ![](../.gitbook/assets/left_fist.png)    | Griffe de main  | 7 dégats  | Commun |
+|  ![](../.gitbook/assets/left_fist.png)    | Griffe de main  | 7 dégâts  | Commun |
 |  ![](../.gitbook/assets/field_hockey.png)  | Crosse de Hockey | 8 dégâts | Commun |
 |  ![](../.gitbook/assets/boxing_glove.png)  | Gant de boxe | 9 dégâts | Commun |
 |  ![](../.gitbook/assets/snowball.png)  | Boule de neige | 11 dégâts | Commun |
@@ -126,7 +126,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/coat.png)  | Tenue de combat | 19 défense  | Peu commun |
 |  ![](../.gitbook/assets/turtle.png)  | Carapace de Franklin | 22 défense  | Peu commun |
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier usé  | 16 défense  | Exotique |
-|  ![](../.gitbook/assets/closed_umbrella.png)  | Parapluie de self defense  | 18 défense  | Exotique |
+|  ![](../.gitbook/assets/closed_umbrella.png)  | Parapluie de self défense  | 18 défense  | Exotique |
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier  | 20 défense  | Exotique |
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Bouclier de guerre | 22 défense  | Exotique |
 |  ![](../.gitbook/assets/shield%20%281%29.png)  | Rondache | 22 défense  | Exotique |
@@ -180,9 +180,9 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/green-apple.png)  | Pomme verte  | Vie + 2  | Exotique |
 |  ![](../.gitbook/assets/chapelet.png)  | Chapelet mythique  | Vie + 3  | Exotique  |
 |  ![](../.gitbook/assets/pansement.png)  | Pansement | Vie + 4  | Rare |
-|  ![](../.gitbook/assets/heart-container.png)  | Réceptacle de coeur  | Vie + 6  | Spécial |
+|  ![](../.gitbook/assets/heart-container.png)  | Réceptacle de cœur  | Vie + 6  | Spécial |
 |  ![](../.gitbook/assets/banana.png)  | Banan'ase split  | Vie + 7  | Épique  |
-|  ![](../.gitbook/assets/squeeze-bottle.png)  | Gel hydro-alcoolique  | Vie + 7  | Épique  |
+|  ![](../.gitbook/assets/squeeze-bottle.png)  | Gel hydroalcoolique  | Vie + 7  | Épique  |
 |  ![](../.gitbook/assets/angel.png)  | Bague de l'ange sans vie | Vie + 8  | Épique  |
 |  ![](../.gitbook/assets/white-flag.png)  | Drapeau de la paix | Vie + 9  | Légendaire |
 |  ![](../.gitbook/assets/angel2.png)  | Bénédiction du ciel | Vie + 10  | Légendaire |
@@ -209,7 +209,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 | Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
 |  ![](../.gitbook/assets/volume-2.png)  | Livre d'incantations volume 2  | Attaque + 15 pendant le prochain combat | Peu commun |
-|  ![](../.gitbook/assets/horn.png)  | Cor de chasse | Attaque + 27 pendant le prochain combat | Exotique |
+|  ![](../.gitbook/assets/horn.png)  | Trompe de chasse | Attaque + 27 pendant le prochain combat | Exotique |
 |  ![](../.gitbook/assets/diamond-shape-with-a-dot-inside.png)  | Pouvoir de Nayru | Attaque + 38 pendant le prochain combat | Rare |
 |  ![](../.gitbook/assets/cat-laugh.png)  | Chat aux yeux lasers mignon | Attaque + 57 pendant le prochain combat | Spécial |
 |  ![](../.gitbook/assets/black-flag.png)  | Drapeau de la mort  | Attaque + 85 pendant le prochain combat | Épique |
