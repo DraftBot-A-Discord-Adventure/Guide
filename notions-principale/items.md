@@ -259,78 +259,78 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 
 #### Aucun effet 
 
-| Symbole | Nom | Effet | Rareté  |
+| Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Potion périmée  | Aucun effet | Commun |
-|  | Potion douteuse  | Aucun effet | Commun |
-|   | Eau purifiée  | Aucun effet | Commun |
-|  | Vin rouge  | Aucun effet | Commun |
+|  ![](../.gitbook/assets/potion-bleue-.png)  | Potion périmée  | Aucun effet | Commun |
+|  ![](../.gitbook/assets/green-potion.png)  | Potion douteuse  | Aucun effet | Commun |
+|  ![](../.gitbook/assets/eau-.png)  | Eau purifiée  | Aucun effet | Commun |
+|  ![](../.gitbook/assets/red-wine.png)  | Vin rouge  | Aucun effet | Commun |
 
 #### Bonus de vie
 
 | Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Biberon | Vie + 1 | Commun |
-|  | Potion puante | Vie + 7 | Commun |
-|  | Potion morvique | Vie + 1 | Peu commun |
-|  | Soupe de grand mère | Vie + 10 | Peu commun |
-|  | Potion simple | Vie + 17 | Exotique |
-|  | Potion rouge | Vie + 53 | Spécial |
-|  | Bisous'koup | Vie + 70 | Spécial |
-|  | Potion de guérison | Vie + 80 | Spécial |
-|  | Potion acide | Vie + 84 | Épique |
-|  | Potion de soin | Vie + 100 | Épique |
-|  | Potion de soin ultime | Vie + 215 | Légendaire |
-|  | Essence de volaille n°5 | Vie + 270 | Mythique |
+|  ![](../.gitbook/assets/biberon.png)  | Biberon | Vie + 1 | Commun |
+|  ![](../.gitbook/assets/green-potion.png)  | Potion puante | Vie + 7 | Commun |
+|  ![](../.gitbook/assets/petite-potion-.png)  | Potion morvique | Vie + 1 | Peu commun |
+|  ![](../.gitbook/assets/soup.png)  | Soupe de grand mère | Vie + 10 | Peu commun |
+|  ![](../.gitbook/assets/potion-rouge.png)  | Potion simple | Vie + 17 | Exotique |
+|  ![](../.gitbook/assets/potion-rouge.png)  | Potion rouge | Vie + 53 | Spécial |
+|  ![](../.gitbook/assets/potion-ultime.png)  | Bisous'koup | Vie + 70 | Spécial |
+|  ![](../.gitbook/assets/potion-ultime.png)  | Potion de guérison | Vie + 80 | Spécial |
+|  ![](../.gitbook/assets/potion-violette.png)  | Potion acide | Vie + 84 | Épique |
+|  ![](../.gitbook/assets/potion-ultime.png)  | Potion de soin | Vie + 100 | Épique |
+|  ![](../.gitbook/assets/potion-ultime.png)  | Potion de soin ultime | Vie + 215 | Légendaire |
+|  ![](../.gitbook/assets/poussin%20%281%29.png)  | Essence de volaille n°5 | Vie + 270 | Mythique |
 
 #### Bonus de vitesse
 
 | Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Thé | Vitesse + 1 pendant le prochain combat | Commun |
-|  | Café | Vitesse + 1 pendant le prochain combat | Commun |
-|  | Boisson tropicale | Vitesse + 8 pendant le prochain combat | Peu commun |
-|  | Jus de chaussette | Vitesse + 15 pendant le prochain combat | Peu commun |
-|  | Potion secouée | Vitesse + 25 pendant le prochain combat | Peu commun |
-|  | Potion verte | Vitesse + 45 pendant le prochain combat | Exotique |
-|  | Potion fumante | Vitesse + 88 pendant le prochain combat | Rare |
-|  | Potion de vitesse | Vitesse + 200 pendant le prochain combat | Spécial |
-|  | Grande potion | Vitesse + 255 pendant le prochain combat | Légendaire |
+|  ![](../.gitbook/assets/the.png)  | Thé | Vitesse + 1 pendant le prochain combat | Commun |
+|  ![](../.gitbook/assets/cafe.png)  | Café | Vitesse + 1 pendant le prochain combat | Commun |
+|  ![](../.gitbook/assets/tropical-dring.png)  | Boisson tropicale | Vitesse + 8 pendant le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/green-potion.png)  | Jus de chaussette | Vitesse + 15 pendant le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/potion-violette-2.png)  | Potion secouée | Vitesse + 25 pendant le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/green-potion.png)  | Potion verte | Vitesse + 45 pendant le prochain combat | Exotique |
+|  ![](../.gitbook/assets/green-potion.png)  | Potion fumante | Vitesse + 88 pendant le prochain combat | Rare |
+|  ![](../.gitbook/assets/potion-violette-2.png)  | Potion de vitesse | Vitesse + 200 pendant le prochain combat | Spécial |
+|  ![](../.gitbook/assets/potion-ultime.png)  | Grande potion | Vitesse + 255 pendant le prochain combat | Légendaire |
 
 #### Bonus d'attaque
 
 | Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Alcool | Attaque + 5 pendant le prochain combat | Commun |
-|  | Larmes de l'adversaire | Attaque + 20 pendant le prochain combat | Peu commun |
-|  | Potion de force | Attaque + 45 pendant le prochain combat | Exotique |
-|  | Potion | Attaque + 60 pendant le prochain combat | Rare |
-|  | Potion explosive | Attaque + 65 pendant le prochain combat | Rare |
-|  | Potion magique | Attaque + 135 pendant le prochain combat | Spécial |
-|  | Potion de sang de loup | Attaque + 178 pendant le prochain combat | Légendaire |
+|  ![](../.gitbook/assets/alcohol.png)  | Alcool | Attaque + 5 pendant le prochain combat | Commun |
+|  ![](../.gitbook/assets/tears.png)  | Larmes de l'adversaire | Attaque + 20 pendant le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/potion-violette-2.png)  | Potion de force | Attaque + 45 pendant le prochain combat | Exotique |
+|  ![](../.gitbook/assets/potion-rouge.png)  | Potion | Attaque + 60 pendant le prochain combat | Rare |
+|  ![](../.gitbook/assets/potion-violette-2.png)  | Potion explosive | Attaque + 65 pendant le prochain combat | Rare |
+|  ![](../.gitbook/assets/potion_bleue.png)  | Potion magique | Attaque + 135 pendant le prochain combat | Spécial |
+|  ![](../.gitbook/assets/wolf%20%281%29.png)  | Potion de sang de loup | Attaque + 178 pendant le prochain combat | Légendaire |
 
 #### Bonus de défense
 
-|  |  |  |  |
+| Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Verre de lait | Défense + 5 pour le prochain combat | Commun |
-|  | Potion bleue | Défense + 15 pour le prochain combat | Peu commun |
-|  | Potion sombre | Défense + 90 pour le prochain combat | Rare |
-|  | Super potion | Défense + 190 pour le prochain combat | Épique |
+|  ![](../.gitbook/assets/milk.png)  | Verre de lait | Défense + 5 pour le prochain combat | Commun |
+|  ![](../.gitbook/assets/potion_bleue.png)  | Potion bleue | Défense + 15 pour le prochain combat | Peu commun |
+|  ![](../.gitbook/assets/potion_bleue.png)  | Potion sombre | Défense + 90 pour le prochain combat | Rare |
+|  ![](../.gitbook/assets/potion-rouge.png)  | Super potion | Défense + 190 pour le prochain combat | Épique |
 
 #### Bonus de temps
 
 | Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Jus | Avance le temps plus rapidement pendant 1 heure | Rare |
-|  | Mélange d’Erythroxylum coca | Avance le temps plus rapidement pendant 1 heure | Rare |
-|  | Kyurburant | Avance le temps plus rapidement pendant 2 heures | Spécial |
-|  | Glaçons fondus  | Avance le temps plus rapidement pendant 3 heures | Spécial |
-|  | Sake | Avance le temps plus rapidement pendant 4 heures | Épique |
-|  | Champagne sabré | Avance le temps plus rapidement pendant 6 heures | Épique |
-|  | Maté | Avance le temps plus rapidement pendant 7 heures | Épique |
-|  | Potion violette | Avance le temps plus rapidement pendant 12 heures | Légendaire |
-|  | Potion ultime | Avance le temps plus rapidement pendant 20 heures | Légendaire  |
+|  ![](../.gitbook/assets/the.png)  | Jus | Avance le temps plus rapidement pendant 1 heure | Rare |
+|  ![](../.gitbook/assets/sprout.png)  | Mélange d’Erythroxylum coca | Avance le temps plus rapidement pendant 1 heure | Rare |
+|  ![](../.gitbook/assets/fuel.png)  | Kyurburant | Avance le temps plus rapidement pendant 2 heures | Spécial |
+|  ![](../.gitbook/assets/tears.png)  | Glaçons fondus  | Avance le temps plus rapidement pendant 3 heures | Spécial |
+|  ![](../.gitbook/assets/sake.png)  | Sake | Avance le temps plus rapidement pendant 4 heures | Épique |
+|  ![](../.gitbook/assets/champ.png)  | Champagne sabré | Avance le temps plus rapidement pendant 6 heures | Épique |
+|  ![](../.gitbook/assets/mate.png)  | Maté | Avance le temps plus rapidement pendant 7 heures | Épique |
+|  ![](../.gitbook/assets/potion-violette.png)  | Potion violette | Avance le temps plus rapidement pendant 12 heures | Légendaire |
+|  ![](../.gitbook/assets/petite-potion-.png)  | Potion ultime | Avance le temps plus rapidement pendant 20 heures | Légendaire  |
 
 
 
