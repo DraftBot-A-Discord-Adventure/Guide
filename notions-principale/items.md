@@ -209,7 +209,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 | Symbole | Nom | Effet | Rareté |
 | :--- | :--- | :--- | :--- |
 |  ![](../.gitbook/assets/volume-2.png)  | Livre d'incantations volume 2  | Attaque + 15 pendant le prochain combat | Peu commun |
-|  ![](../.gitbook/assets/horn.png)  | Trompe de chasse | Attaque + 27 pendant le prochain combat | Exotique |
+|  ![](../.gitbook/assets/horn.png)  | Cor de chasse | Attaque + 27 pendant le prochain combat | Exotique |
 |  ![](../.gitbook/assets/diamond-shape-with-a-dot-inside.png)  | Pouvoir de Nayru | Attaque + 38 pendant le prochain combat | Rare |
 |  ![](../.gitbook/assets/cat-laugh.png)  | Chat aux yeux lasers mignon | Attaque + 57 pendant le prochain combat | Spécial |
 |  ![](../.gitbook/assets/black-flag.png)  | Drapeau de la mort  | Attaque + 85 pendant le prochain combat | Épique |
