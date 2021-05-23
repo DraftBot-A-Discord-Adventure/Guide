@@ -8,7 +8,7 @@ Une guilde permets de réunir jusqu'à 6 personnes, afin de gagner des récompen
 
 ### Comment créer une guilde ?
 
-Créer une guilde est possible à l'aide de la commande `!guildcreate <nom de guilde>`. 
+Créer une guilde est possible à l'aide de la commande `!guildcreate <nom de guilde>`. Cela vous coûtera 5000 pièces d'argent.
 
 Vous pouvez ajouter une description à votre guilde avec la commande `!guilddesc <description de ma super guilde>`.
 
