@@ -14,23 +14,27 @@ Les familiers ont un **moral**, si vous le nourrissez à intervalle régulier so
 
 ### Comment obtenir un familier ?
 
-Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec 10% de chance.
+Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec 1% de chance ou alors dans un mini-évènement.
 
 La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
 | Niveau guilde/rareté familier | 1![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 2![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 3![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 4![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 5![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 | 0.9% | 0.09% | 0.009% | 0.0009% | 0.0001% |
-| 10 | 0.894% | 0.0916% | 0.01091% | 0.0023% | 0.00119% |
-| 20 | 0.876% | 0.0964% | 0.01664% | 0.0065% | 0.00446% |
-| 30 | 0.846% | 0.1044% | 0.02619% | 0.0135% | 0.00991% |
-| 40 | 0.804% | 0.1156% | 0.03956% | 0.0233% | 0.01754% |
-| 50 | 0.75% | 0.13% | 0.05675% | 0.0359% | 0.02735% |
-| 60 | 0.684% | 0.1476% | 0.07776% | 0.0513% | 0.03934% |
-| 70 | 0.606% | 0.1684% | 0.10259% | 0.069499% | 0.053511% |
-| 80 | 0.516% | 0.1924% | 0.13124% | 0.090499% | 0.069861% |
-| 90 | 0.414% | 0.2196% | 1.16371% | 0.114299% | 0.088391% |
-| 100 | 0.3% | 0.25% | 0.2% | 0.140899% | 0.109101% |
+| 0 | 90% | 9% | 0.9% | 0.09% | 0.01% |
+| 10 | 89.4% | 9.16% | 1.091% | 0.23% | 0.119% |
+| 20 | 87.6% | 9.64% | 1.664% | 0.65% | 0.446% |
+| 30 | 84.6% | 10.44% | 2.619% | 1.35% | 0.991% |
+| 40 | 80.4% | 11.56% | 3956% | 2.33% | 1.754% |
+| 50 | 75% | 13% | 5675% | 3.59% | 2.735% |
+| 60 | 68.4% | 14.76% | 7776% | 5.13% | 3.934% |
+| 70 | 60.6% | 16.84% | 10259% | 6.9499% | 5.3511% |
+| 80 | 51.6% | 19.24% | 13.124% | 9.0499% | 6.9861% |
+| 90 | 41.4% | 21.96% | 16.371% | 11.4299% | 8.8391% |
+| 100 | 30% | 25% | 20% | 14.0899% | 10.9101% |
+
+{% hint style="info" %}
+Si un pet est obtenu dans un mini-évènement, sa rareté est générée avec les statistiques des guildes de niveau 20.
+{% endhint %}
 
 Vous pouvez libérer votre familier avec la commande `!petfree` .
 
@@ -68,6 +72,10 @@ Ne négligez pas votre familier ! Son moral baissera si vous oubliez de vous en 
 
 {% hint style="warning" %}
 Le moral d'un familier baisse de deux points par jour en moyenne, cette baisse ne tient pas compte de la rareté du pet.
+{% endhint %}
+
+{% hint style="danger" %}
+Il n'est pas possible d'effectuer certaines actions avec un familier fielleux !
 {% endhint %}
 
 Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité de votre familier, ils sont classés de cette manière :
