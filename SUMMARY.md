@@ -17,6 +17,7 @@
 * [Altérations d'état](notions-principale/alterations-detat.md)
 * [Équipements](notions-principale/items.md)
 * [Classes](notions-principale/classes.md)
+* [Carte et lieux](notions-principale/carte-et-lieux.md)
 * [Familiers](notions-principale/familiers.md)
 
 ## Notions avancées

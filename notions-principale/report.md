@@ -2,30 +2,56 @@
 
 Les rapports représentent la base du jeu. Il s'agit d'une petite description de ce qu'il est advenu du personnage contrôlé par le joueur depuis leur dernière interaction. Pour demander un rapport, le joueur doit utiliser la commande `!report`.
 
-### Fonctionnement
+### Interface :
 
-Le personnage récolte environ 1 point à chaque minute et 1 d'argent toutes les 6 minutes. Il est impossible de récolter deux rapports à moins d'une heure d'intervalle. 
+La commande `!report` possède plusieurs états différents :
 
-Il existe **2 types** de rapports :
+* Le joueur est en train de voyager
+* Le joueur est victime d'une altération d'état
+* Le joueur réalise un évènement
+* Le joueur réalise un mini-évènement
 
-* Les rapports dits **simples**. Positifs à tous les coups, ils ne nécessitent pas de choix de la part des joueurs et ne permettent pas le changement de statut, le gain d'item et la perte ou le gain de vie.
-* Les **événements** \(ou évents\) sont souvent préférés grâce à l'interactivité qu'ils proposent. Ils ont plus de chance de subvenir lorsque le temps écoulé depuis le rapport précédent est conséquent.
+![Interface de la commande report quand le joueur est en train de voyager](../.gitbook/assets/image%20%2834%29.png)
 
-{% hint style="warning" %}
-Au bout de 16 heures et 40 minutes sans interaction, le personnage cesse de récolter des points et de l'argent.
+### Mini-Évènements : 
+
+Chaque ❓ correspond à un mini-évènement. Le joueur met 30 minutes à réaliser le trajet entre deux mini-évènements.
+
+![Un exemple de mini-&#xE9;v&#xE8;nement](../.gitbook/assets/image%20%2839%29.png)
+
+Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des items, de la vie ou encore des sous.
+
+{% hint style="info" %}
+Chaque mini évent rapporte au joueur 50 points. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
 {% endhint %}
 
-La probabilité d'obtenir un rapport simple dépend du temps écoulé depuis le rapport précédent effectué par le joueur. Plus un joueur attend plus il a de chance que quelque chose qui nécessite son attention soit survenu. Au bout de 6 heures et 40 minute la probabilité d'avoir un évènement est de 100%.
+![Une fois le mini-&#xE9;v&#xE8;nement pass&#xE9;, il appara&#xEE;t sur la carte.](../.gitbook/assets/image%20%2841%29.png)
 
-Avant les 6h40 la probabilité peut se calculer ainsi :
+### Évènements :
 
-$$
-Probabilité = x /400
-$$
+Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiple à l'aide des réactions discord. En fonction de son choix, différentes issues surviennent.
 
-Avec x le nombre de minutes écoulé depuis le précédent rapport.
+![Un exemple d&apos;&#xE9;v&#xE8;nement.](../.gitbook/assets/image%20%2837%29.png)
 
-{% hint style="danger" %}
-La durée d'une altération d'état ne compte pas dans le temps écoulé.
+Ici le joueur possède 5 choix différents : les 4 choix de réaction mais également le choix de ne rien faire
+
+{% hint style="success" %}
+Dans certains évènements, ne rien faire est le meilleur choix ! \(Dans d'autres c'est le pire\).
 {% endhint %}
+
+Une fois un choix réalisé par le joueur, ce dernier peut cliquer sur une réaction \(ou attendre 2 minutes\), ce qui déclenche l'issue.
+
+![Un exemple d&apos;issue](../.gitbook/assets/image%20%2838%29.png)
+
+### Destination :
+
+Après un évènement, le joueur est amené à choisir une destination. il n'est pas possible pour un joueur de faire un retour sur ses pas \(sauf si c'est le seul choix possible\).
+
+![Exemple de choix de destination](../.gitbook/assets/image%20%2836%29.png)
+
+Dans un tiers des cas, le bot choisis automatiquement la destination du joueur 
+
+![Voil&#xE0; votre information sur votre destination](../.gitbook/assets/image%20%2833%29.png)
+
+### 
 
