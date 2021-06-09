@@ -12,7 +12,7 @@ Vous permet d'acheter un item pour pas cher. \(60 % du prix\). Il n'est pas poss
 Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour bien trop cher !
 {% endhint %}
 
-![Un exemple de mini shop](../.gitbook/assets/image%20%2842%29.png)
+![Un exemple de mini-shop](../.gitbook/assets/image%20%2845%29.png)
 
 ### Interaction avec un familier :
 
@@ -44,5 +44,5 @@ Si un familier est dressé, il compte dans le calcul des récompenses accessible
 | Perte d'affection \(1 à 3\) | Moyenne |
 | Fuite du familier | Très faible |
 
-![Un exemple d&apos;interaction avec un familier.](../.gitbook/assets/image%20%2843%29.png)
+![Un exemple d&apos;interaction avec un familier.](../.gitbook/assets/image%20%2844%29.png)
 
