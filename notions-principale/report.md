@@ -11,7 +11,7 @@ La commande `!report` possède plusieurs états différents :
 * Le joueur réalise un évènement
 * Le joueur réalise un mini-évènement
 
-![Interface de la commande report quand le joueur est en train de voyager](../.gitbook/assets/image%20%2855%29.png)
+![Interface de la commande report quand le joueur est en train de voyager](../.gitbook/assets/image%20%2856%29.png)
 
 ### Mini-Évènements : 
 
@@ -47,7 +47,7 @@ Une fois un choix réalisé par le joueur, ce dernier peut cliquer sur une réac
 
 Après un évènement, le joueur est amené à choisir une destination. il n'est pas possible pour un joueur de faire un retour sur ses pas \(sauf si c'est le seul choix possible\).
 
-![Exemple de choix de destination](../.gitbook/assets/image%20%2854%29.png)
+![Exemple de choix de destination](../.gitbook/assets/image%20%2855%29.png)
 
 Dans un tiers des cas, le bot choisis automatiquement la destination du joueur 
 

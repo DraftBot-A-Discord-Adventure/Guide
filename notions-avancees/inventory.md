@@ -4,7 +4,7 @@ L'inventaire est l'endroit où sont placés les différents items ramassés par 
 
 ### Organisation de l'inventaire 
 
-![l&apos;inventaire d&apos;un joueur qui vient de commencer l&apos;aventure](../.gitbook/assets/image%20%289%29.png)
+![l&apos;inventaire d&apos;un joueur qui vient de commencer l&apos;aventure](../.gitbook/assets/image%20%2854%29.png)
 
 L'inventaire se décompose en deux parties distinctes, la première est dédiée aux objets équipés par le joueur, la seconde quant à elle est une réserve permettant de stocker un objet supplémentaire.
 
