@@ -30,7 +30,7 @@ Je vous invite a consulter la page du wiki dédié au [badges](../notions-avance
 
 ### Diverses autres nouveautés 
 
-La liste des nouveautés de cette mise à jour est disponible sur le site dédié aux historiques de mise à jour.
+La liste des nouveautés complète de cette mise à jour est disponible sur le site dédié aux historiques de mise à jour :
 
 {% embed url="https://history.draftbot.com/1.0.0" caption="Historique des nouveautés de la 1.0.0" %}
 
