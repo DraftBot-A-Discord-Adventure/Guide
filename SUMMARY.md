@@ -10,8 +10,8 @@
 
 ## Notions principales <a id="notions-principale"></a>
 
-* [Profil](notions-principale/profile.md)
 * [Rapports](notions-principale/report.md)
+* [Profil](notions-principale/profile.md)
 * [Combats](notions-principale/combats.md)
 * [Guildes](notions-principale/guildes.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
