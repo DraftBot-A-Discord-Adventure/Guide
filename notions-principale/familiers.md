@@ -137,3 +137,280 @@ Il y a des conditions importantes à respecter pour la vente de familier:
 Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience de guilde.
 {% endhint %}
 
+### **Liste des familiers disponibles**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Commun</b>
+      </th>
+      <th style="text-align:left"><b>Peu commun</b>
+      </th>
+      <th style="text-align:left"><b>Rare</b>
+      </th>
+      <th style="text-align:left"><b>Tr&#xE8;s rare</b>
+      </th>
+      <th style="text-align:left"><b>L&#xE9;gendaire</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Chien&#x1F415;</p>
+        <p>Caniche&#x1F429;</p>
+        <p>Chat&#x1F408;</p>
+        <p>Chat noir
+          <img src="https://discord.com/assets/a784784c984905c2a74507d57aa3523e.svg"
+          alt=":black_cat:" />
+        </p>
+        <p>Souris&#x1F401;</p>
+        <p>Hamster
+          <img src="https://discord.com/assets/fc50a173b1afcfb37d141e4bee11e479.svg"
+          alt=":hamster:" />
+        </p>
+        <p>Lapin
+          <img src="https://discord.com/assets/e076bda560b596a206ea032e02bd411b.svg"
+          alt=":rabbit2:" />
+        </p>
+        <p>Vache
+          <img src="https://discord.com/assets/3c6d0d0cdd8a07c4c6837fd143e1e60c.svg"
+          alt=":cow2:" />
+        </p>
+        <p>Cochon
+          <img src="https://discord.com/assets/d083412544c302d290775006877f6202.svg"
+          alt=":pig2:" />
+        </p>
+        <p>Poule / Coq
+          <img src="https://discord.com/assets/468644ef0a79a3d8163f7778164b756d.svg"
+          alt=":chicken:" />
+        </p>
+        <p>Oiseau
+          <img src="https://discord.com/assets/cf725f98edb284d25530f5dbd7d30ee4.svg"
+          alt=":bird:" />
+        </p>
+        <p>Canard
+          <img src="https://discord.com/assets/5e623785155f790f48901eeb4e5022c9.svg"
+          alt=":duck:" />
+        </p>
+        <p>Cheval
+          <img src="https://discord.com/assets/591183f3386ef43f266bd7bcf03ef83f.svg"
+          alt=":racehorse:" />
+        </p>
+        <p>Tortue
+          <img src="https://discord.com/assets/0da5614923cc73f71ea9641a5cdb5a3e.svg"
+          alt=":turtle:" />
+        </p>
+        <p>Serpent
+          <img src="https://discord.com/assets/dbfbe586e724f4a0cd993d0c1048316b.svg"
+          alt=":snake:" />
+        </p>
+        <p>L&#xE9;zard
+          <img src="https://discord.com/assets/1703f9a3721beece0d66f10c0ef9d3d0.svg"
+          alt=":lizard:" />
+        </p>
+        <p>B&#xE9;lier / Mouton
+          <img src="https://discord.com/assets/1118afb9d722b17e0cb0595bbe4f6e0a.svg"
+          alt=":sheep:" />
+        </p>
+        <p>Ch&#xE8;vre / Bouc
+          <img src="https://discord.com/assets/55aecf5f15c4f21115d04f8cd63fb3ab.svg"
+          alt=":goat:" />
+        </p>
+        <p>Dindon
+          <img src="https://discord.com/assets/618ca8489ae1ab5f94fde2e3a7fb2c0c.svg"
+          alt=":turkey:" />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>Renard
+          <img src="https://discord.com/assets/ba34ab28ffd9aeddbce8253362a33dd1.svg"
+          alt=":fox:" />
+        </p>
+        <p>Ours
+          <img src="https://discord.com/assets/589b531ad20f070bbee33f31f233c135.svg"
+          alt=":bear:" />
+        </p>
+        <p>Koala
+          <img src="https://discord.com/assets/6ea80059130bde711bef1b446f78e282.svg"
+          alt=":koala:" />
+        </p>
+        <p>Grenouille
+          <img src="https://discord.com/assets/68af06bbac9f4830d08fa474f201f92b.svg"
+          alt=":frog:" />
+        </p>
+        <p>Singe
+          <img src="https://discord.com/assets/766e42505fdf9dc7c390ecd08c0bc4a6.svg"
+          alt=":monkey:" />
+        </p>
+        <p>Pingouin
+          <img src="https://discord.com/assets/727bc86f98316c40c37e48797f2ab196.svg"
+          alt=":penguin:" />
+        </p>
+        <p>Hibou
+          <img src="https://discord.com/assets/59e611bd4994d2978d695df90db540c4.svg"
+          alt=":owl:" />
+        </p>
+        <p>Chauve-souris
+          <img src="https://discord.com/assets/af70a9ae5dd90f1078e363eab1c855cc.svg"
+          alt=":bat:" />
+        </p>
+        <p>Loup
+          <img src="https://discord.com/assets/70c59f59ef85eeddfd7d3962a4840cb8.svg"
+          alt=":wolf:" />
+        </p>
+        <p>Sanglier
+          <img src="https://discord.com/assets/1a7689368e6b9d41ce8db98f709ca08a.svg"
+          alt=":boar:" />
+        </p>
+        <p>Otarie
+          <img src="https://discord.com/assets/a6e116c71ab2e177001c5ca9977e68d1.svg"
+          alt=":seal:" />
+        </p>
+        <p>Hippopotame
+          <img src="https://discord.com/assets/77c65f388b96be7a8bd2d8334fb546bc.svg"
+          alt=":hippopotamus:" />
+        </p>
+        <p>Lama
+          <img src="https://discord.com/assets/fa08c3c8afc72844296f9c00465be77a.svg"
+          alt=":llama:" />
+        </p>
+        <p>Cygne
+          <img src="https://discord.com/assets/05d31fd63d5a6a3cef375d3d326a8a0c.svg"
+          alt=":swan:" />
+        </p>
+        <p>Flamand rose
+          <img src="https://discord.com/assets/430705f097a53695b1bf71c6de22b866.svg"
+          alt=":flamingo:" />
+        </p>
+        <p>Raton Laveur
+          <img src="https://discord.com/assets/09b38a6de1509c805be67eed340e2f8f.svg"
+          alt=":raccoon:" />
+        </p>
+        <p>Putois
+          <img src="https://discord.com/assets/7631a1b3137202d7b80e48d99987484f.svg"
+          alt=":skunk:" />
+        </p>
+        <p>Blaireau
+          <img src="https://discord.com/assets/82cb4a510436e4755388615426d2de73.svg"
+          alt=":badger:" />
+        </p>
+        <p>Castor
+          <img src="https://discord.com/assets/0ee00f8f2f780bb43828baa8684991e2.svg"
+          alt=":beaver:" />
+        </p>
+        <p>Paresseux
+          <img src="https://discord.com/assets/cdc3facd345983768d3bd16aa6021f90.svg"
+          alt=":sloth:" />
+        </p>
+        <p>Tamia
+          <img src="https://discord.com/assets/de0f03380b137cdb950b1a9d2ca04a3b.svg"
+          alt=":chipmunk:" />
+        </p>
+        <p>H&#xE9;risson&#x1F994;&#xFE0F;</p>
+      </td>
+      <td style="text-align:left">
+        <p>Ours polaire
+          <img src="https://discord.com/assets/eb3b52294d6cbab490cdb577afe40b11.svg"
+          alt=":polar_bear:" />
+        </p>
+        <p>Panda
+          <img src="https://discord.com/assets/ffa1f81e3c3364ef04f9a1a26b55b42b.svg"
+          alt=":panda_face:" />
+        </p>
+        <p>Scorpion
+          <img src="https://discord.com/assets/738160272d6024585562a55a39e1cb25.svg"
+          alt=":scorpion:" />
+        </p>
+        <p>Crocodile
+          <img src="https://discord.com/assets/fface028e87dd156db7f772d5009211e.svg"
+          alt=":crocodile:" />
+        </p>
+        <p>&#xC9;l&#xE9;phant
+          <img src="https://discord.com/assets/a2893dfac8eccc398a9b14402df114c2.svg"
+          alt=":elephant:" />
+        </p>
+        <p>Z&#xE8;bre
+          <img src="https://discord.com/assets/536b3e1a4ba312bd793ca96a4d0487f2.svg"
+          alt=":zebra:" />
+        </p>
+        <p>Rhinoc&#xE9;ros
+          <img src="https://discord.com/assets/1d5443faf52d355d2abd7900449eb5ae.svg"
+          alt=":rhino:" />
+        </p>
+        <p>Dromadaire
+          <img src="https://discord.com/assets/14baad8ac7905736f0505fef9e6761a8.svg"
+          alt=":dromedary_camel:" />
+        </p>
+        <p>Chameau
+          <img src="https://discord.com/assets/aa2e827a8b3c78ded1a842fa19f89326.svg"
+          alt=":camel:" />
+        </p>
+        <p>Girafe
+          <img src="https://discord.com/assets/d0f34dde89da79643396c7bdc41493bd.svg"
+          alt=":giraffe:" />
+        </p>
+        <p>Kangourou
+          <img src="https://discord.com/assets/e6afe8d972ad58432c61bd59e9df132f.svg"
+          alt=":kangaroo:" />
+        </p>
+        <p>Paon
+          <img src="https://discord.com/assets/4a5fb8d468c3d4c13216440813feb418.svg"
+          alt=":peacock:" />
+        </p>
+        <p>P&#xE9;rroquet
+          <img src="https://discord.com/assets/ef02cd8645bcdff874d23500b2b516fd.svg"
+          alt=":parrot:" />
+        </p>
+        <p>Loutre
+          <img src="https://discord.com/assets/a8ef7bbc89c69e7de6d38b6fc1f92dab.svg"
+          alt=":otter:" />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>Tigre
+          <img src="https://discord.com/assets/df8b26ce08bff3cc70d505b48ccdc71c.svg"
+          alt=":tiger2:" />
+        </p>
+        <p>Lion
+          <img src="https://discord.com/assets/e23557c7f844b57a30a431444b64af5f.svg"
+          alt=":lion_face:" />
+        </p>
+        <p>Aigle
+          <img src="https://discord.com/assets/eefee5ca29d3804705c4c61dc104efb1.svg"
+          alt=":eagle:" />
+        </p>
+        <p>Dodo
+          <img src="https://discord.com/assets/76174ac71d3cebcc5ec2949e33a2ed25.svg"
+          alt=":dodo:" />
+        </p>
+        <p>L&#xE9;opard
+          <img src="https://discord.com/assets/a4ae9ac0cb5ad12a68f767d39b249811.svg"
+          alt=":leopard:" />
+        </p>
+        <p>Mammouth
+          <img src="https://discord.com/assets/af5f26288872cf6f0f22ef421fc394cd.svg"
+          alt=":mammoth:" />
+        </p>
+        <p>Colombe
+          <img src="https://discord.com/assets/49533def46858e98682242755ef6912b.svg"
+          alt=":dove:" />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>Licorne&#x1F984;&#xFE0F;</p>
+        <p>Dragon
+          <img src="https://discord.com/assets/d73ab953aa1a3b9cca3a5a0bb6c37842.svg"
+          alt=":dragon:" />
+        </p>
+        <p>T-rex&#x1F996;&#xFE0F;</p>
+        <p>Stitch/Angel</p>
+        <p>
+          <img src="https://discord.com/assets/35fce59c5d17a56d69c3de3d8864ed22.svg"
+          alt=":blue_circle:" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
