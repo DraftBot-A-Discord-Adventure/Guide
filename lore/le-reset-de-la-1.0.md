@@ -30,16 +30,7 @@ Je vous invite a consulter la page du wiki dédié au [badges](../notions-avance
 
 ### Diverses autres nouveautés 
 
-* Certaines commandes ont été renommées: `!rapport` devient [`!report`](../notions-principale/report.md), `!inventaire` deviens [`!inventory`](../notions-avancees/inventory.md) et `!combat` devient [`!fight`]()\`\`
-* Ajout d'alias pour certaines commandes 
-* Possibilité pour les possesseurs d'un serveur qui contient le bot de changer le préfix de leur serveur via le salon \#🗣-server-managers dans le salon officiel du bot.
-* Le système de combat a été complétement revu.
-* Le système d'xp a été complètement revu.
-* Les pertes de temps sont mieux matérialisées.
-* Beaucoup de textes ont été réécris.
-* La commande [`!sell`]() vous demande une confirmation avant la vente d'un objet.
-* Il y a désormais plus de 100 pièces d'équipement différents à trouver dans les évents.
-* Ajout de 3 nouveaux évènements.
-* Le chargement du top est désormais instantanée.
-* Les easter eggs ont tous été supprimés GG à ceux qui en avaient trouvés.
+La liste des nouveautés de cette mise à jour est disponible sur le site dédié aux historiques de mise à jour.
+
+{% embed url="https://history.draftbot.com/1.0.0" caption="Historique des nouveautés de la 1.0.0" %}
 
