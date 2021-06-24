@@ -10,7 +10,7 @@ Pour avoir les informations sur votre familier vous devez utiliser la commande `
 
 Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles ![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)
 
-Les familiers ont un **moral**, si vous le nourrissez à intervalle régulier son moral augmentera. A contrario si vous délaissez votre familier son moral diminuera.
+Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier leur moral augmentera. A contrario si vous délaissez vos familiers leur moral diminuera.
 
 ### Comment obtenir un familier ?
 

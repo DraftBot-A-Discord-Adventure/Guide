@@ -23,7 +23,7 @@ Pendant un combat, vous devez impérativement prendre en compte les statistiques
 
 #### Les combats normaux
 
-Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight <@user>` permets de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat, et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction ![:white\_check\_mark:](https://discord.com/assets/212e30e47232be03033a87dc58edaa95.svg). Dans ce type de combat, le gagnant remporte des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement, et le perdant en perd.
+Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight <@user>` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat, et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction ![:white\_check\_mark:](https://discord.com/assets/212e30e47232be03033a87dc58edaa95.svg). Dans ce type de combat, le gagnant remporte des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement, et le perdant en perd.
 
 #### Les combats amicaux 
 
@@ -56,7 +56,7 @@ La notion de "puissance de l'attaque" sera utilisée pour comparer plus simpleme
 
 #### ![:crossed\_swords:](https://discord.com/assets/e7159ba0fcc85f39f95227dd85f44aeb.svg) Attaque simple
 
-Cette attaque est principalement utile en fin de combat être certain d'atteindre son adversaire. En effet, elle engendrera à coup sur un minimum de dégâts. Il est cependant difficile de se reposer seulement sur cette attaque pour gagner un combat puisqu'elle reste assez faible. Elle peut cependant s'avèrer utile pour éviter certaines prise de risques.
+Cette attaque est principalement utile en fin de combat pour être certain d'atteindre son adversaire. En effet, elle engendrera à coup sûr un minimum de dégâts. Il est cependant difficile de se reposer seulement sur cette attaque pour gagner un combat puisqu'elle reste assez faible. Elle peut cependant s'avérer utile pour éviter certaines prise de risques.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
