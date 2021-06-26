@@ -34,7 +34,7 @@ Les altérations d'état se soignent d'elles même avec le temps \(à l'exceptio
 
 Il est cependant possible de soigner une altération d'état autrement qu'en attendant.
 
-#### Obtention d'un "soin des altération d'état"
+#### Obtention d'un "soin des altérations d'état"
 
 Il est possible d'acheter un soin des altérations d'état dans le magasin en utilisant la commande `!shop`. Cet achat vous coûtera 500 d'argent et annulera votre altération d'état. Lorsque votre altération d'état est annulée, votre personnage est enregistré comme si il venait juste d'effectuer un rapport.
 
@@ -44,5 +44,5 @@ Le soin d'altération d'état est également une récompense de la récompense j
 
 #### Potions et objets permettant de faire avancer le temps plus vite
 
-Certains objets et certaines potions permettent de faire avancer le temps plus rapidement pendant un certain temps, lorsque ces derniers sont utilisés, c'est comme si le temps s'était écoulé mais seulement pour votre personnage.
+Certains objets et certaines potions permettent de faire avancer le temps plus rapidement pendant un certain temps, lorsque ces derniers sont utilisés, c'est comme si le temps s'était écoulé, mais seulement pour votre personnage.
 

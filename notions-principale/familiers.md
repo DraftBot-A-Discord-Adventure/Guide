@@ -1,16 +1,16 @@
 # Familiers
 
-Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)en fonction du niveau de votre guilde.
+Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot, vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)en fonction du niveau de votre guilde.
 
 {% hint style="info" %}
 Pour le moment les familiers sont purement esthétiques. Ils n'ont pas de fonction à proprement parler, mais cela est amené à changer dans une future mise à jour.
 {% endhint %}
 
-Pour avoir les informations sur votre familier vous devez utiliser la commande `!mypet` .
+Pour avoir les informations sur votre familier, vous devez utiliser la commande `!mypet` .
 
 Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles ![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg)
 
-Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier leur moral augmentera. A contrario si vous délaissez vos familiers leur moral diminuera.
+Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier leur moral augmentera. A contrario, si vous délaissez vos familiers leur moral diminuera.
 
 ### Comment obtenir un familier ?
 
@@ -39,7 +39,7 @@ Si un pet est obtenu dans un mini-évènement, sa rareté est générée avec le
 Vous pouvez libérer votre familier avec la commande `!petfree` .
 
 {% hint style="danger" %}
-`Attention cette action est irréversible, si vous libérez un familier c'est définitif.`
+`Attention, cette action est irréversible, si vous libérez un familier, c'est définitif.`
 {% endhint %}
 
 ### Comment nourrir mon familier ?
@@ -93,12 +93,12 @@ Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être n
 {% hint style="danger" %}
 Échanger ou vendre un familier avec un autre joueur réinitialisera son moral à ![:pouting\_cat:](https://discord.com/assets/551f9d76028c39299e0bc9bc20cd0e0d.svg) Sauvage.
 
-Changer de propriétaire c'est dur à supporter pour un animal !
+Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
 
 ### Comment stocker mon familier ?
 
-Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier n°1 du refuge.
+Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela, vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier n°1 du refuge.
 
 Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`.
 

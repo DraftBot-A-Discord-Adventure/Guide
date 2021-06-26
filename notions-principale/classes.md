@@ -41,7 +41,7 @@ Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de
 
 ### Statistiques des classes
 
-Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de DraftBot pour connaitre les différentes statistiques des classes.
+Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de DraftBot pour connaître les différentes statistiques des classes.
 
 Il s'agit de la commande `!classstats`.
 
