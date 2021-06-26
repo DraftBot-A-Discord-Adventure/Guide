@@ -4,7 +4,7 @@ description: Un guide à propos de la commande !profil.
 
 # Profil
 
-Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil vous devez utiliser la commande `!profile`.  
+Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande `!profile`.  
 Vous pouvez aussi utiliser la variante `!profile <@user>` pour accéder au profil d'un autre joueur.
 
 {% hint style="info" %}
@@ -43,7 +43,7 @@ Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'
 
 ### Classe et guilde
 
-Depuis les dernières versions de DraftBot, vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage. Ainsi que créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visible depuis cet espace de votre profil.
+Depuis les dernières versions de DraftBot, vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage. Ainsi que créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
 
 ### Badges
 

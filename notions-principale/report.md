@@ -6,10 +6,10 @@ Les rapports représentent la base du jeu. Il s'agit d'une petite description de
 
 La commande `!report` possède plusieurs états différents :
 
-* Le joueur est en train de voyager
-* Le joueur est victime d'une altération d'état
-* Le joueur réalise un évènement
-* Le joueur réalise un mini-évènement
+* Le joueur est en train de voyager.
+* Le joueur est victime d'une altération d'état.
+* Le joueur réalise un évènement.
+* Le joueur réalise un mini-évènement.
 
 ![Interface de la commande report quand le joueur est en train de voyager](../.gitbook/assets/image%20%2856%29.png)
 
@@ -33,7 +33,7 @@ Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une 
 
 ![Un exemple d&apos;&#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2846%29.png)
 
-Ici le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire
+Ici, le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire
 
 {% hint style="success" %}
 Dans certains évènements, ne rien faire est le meilleur choix ! \(Dans d'autres c'est le pire\).
@@ -45,7 +45,7 @@ Une fois un choix réalisé par le joueur, ce dernier peut cliquer sur une réac
 
 ### Destination :
 
-Après un évènement, le joueur est amené à choisir une destination. il n'est pas possible pour un joueur de faire un retour sur ses pas \(sauf si c'est le seul choix possible\).
+Après un évènement, le joueur est amené à choisir une destination. Il n'est pas possible pour un joueur de faire un retour sur ses pas \(sauf si c'est le seul choix possible\).
 
 ![Exemple de choix de destination](../.gitbook/assets/image%20%2855%29.png)
 

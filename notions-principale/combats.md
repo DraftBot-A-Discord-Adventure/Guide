@@ -51,7 +51,7 @@ Le joueur le plus rapide commence toujours le combat. \(en cas d'égalité, c'es
 Voici une présentation plus détaillée de chacune des actions que vous pouvez réaliser.
 
 {% hint style="info" %}
-La notion de "puissance de l'attaque" sera utilisée pour comparer plus simplement les différentes attaques ci-dessous. En réalité cette puissance est mise en facteur avec les statistiques d'attaque de l'attaquant.
+La notion de "puissance de l'attaque" sera utilisée pour comparer plus simplement les différentes attaques ci-dessous. En réalité, cette puissance est mise en facteur avec les statistiques d'attaque de l'attaquant.
 {% endhint %}
 
 #### ![:crossed\_swords:](https://discord.com/assets/e7159ba0fcc85f39f95227dd85f44aeb.svg) Attaque simple
@@ -80,7 +80,7 @@ $$
 
 #### ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg) Attaque Rapide
 
-Cette attaque permet d'atteindre un ennemi ayant une forte armure. Elle échoue également très peu et n'engendre aucun effet négatif sur les statistique de l'attaquant. Elle diminue cependant en puissance si elle est trop utilisée.
+Cette attaque permet d'atteindre un ennemi ayant une forte armure. Elle échoue également très peu et n'engendre aucun effet négatif sur les statistiques de l'attaquant. Elle diminue cependant en puissance si elle est trop utilisée.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -105,7 +105,7 @@ La puissance de cette attaque diminue progressivement à partir de la quatrième
 
 #### ![:axe:](https://discord.com/assets/76e6d179559520cd50c0f603ca15c517.svg) Attaque puissante
 
-Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien que puissante \(lol\) cette attaque doit cependant être utilisée avec parcimonie puisque chacune de ses utilisation engendre une perte de vitesse. Il est possible de contrer cette attaque en profitant d'une statistique de défense importante tant que l'attaque n'est pas réussie parfaitement.
+Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien que puissante \(lol\) cette attaque doit cependant être utilisée avec parcimonie puisque chacune de ses utilisations engendre une perte de vitesse. Il est possible de contrer cette attaque en profitant d'une statistique de défense importante tant que l'attaque n'est pas réussie parfaitement.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -130,7 +130,7 @@ Cette attaque diminue la vitesse de l'attaquant, de 10% si l'attaque échoue et 
 
 #### ![:bomb:](https://discord.com/assets/31ef50db484eb3d4b2fbebb4e91a0764.svg)Attaque ultime
 
-Cette attaque permet d’asséner un dernier coup à son adversaire quand la situation deviens trop difficile. Il peut être délicat d'utiliser cette attaque au bon moment mais elle peut également renverser le cours du match.
+Cette attaque permet d’asséner un dernier coup à son adversaire quand la situation devient trop difficile. Il peut être délicat d'utiliser cette attaque au bon moment, mais elle peut également renverser le cours du match.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -145,7 +145,7 @@ Cette attaque dure 2 tours ! Pendant le premier tour, vous ne pourrez faire aucu
 {% endhint %}
 
 {% hint style="danger" %}
-Cette attaque diminue la défense de l'attaquant de 40% ! A n'utiliser qu'en dernier recours !
+Cette attaque diminue la défense de l'attaquant de 40% ! À n'utiliser qu'en dernier recours !
 {% endhint %}
 
 **Voilà les probabilités d’échec ou de réussite de l'attaque :**
@@ -188,12 +188,12 @@ $$
 
 Dès lors que![:zap:](https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg)l'énergie de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat et gagnes des ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) points de classement.
 
-Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 25 tours consécutifs ou si les deux combattants arrivent à cours d'énergie durant le même tour.
+Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 25 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
 
  Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie![:zap:](https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg)que vous avez perdu.
 
 {% hint style="danger" %}
-Si un des adversaire est inactif pendant 30 seconde, le combat est considéré comme nul et s'arrête.
+Si un des adversaires est inactif pendant 30 seconde, le combat est considéré comme nul et s'arrête.
 {% endhint %}
 
 

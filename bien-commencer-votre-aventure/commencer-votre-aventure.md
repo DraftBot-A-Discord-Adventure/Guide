@@ -14,7 +14,7 @@ Le plus simple sera de rejoindre le serveur discord du bot ! Pour cela, utilisez
 Il est aussi possible d'inviter le bot sur votre serveur ! \(le lien d'invitation se trouve sur le discord du bot\)
 {% endhint %}
 
-Lors de votre arrivée vous serez accueilli par un message de bienvenue comme celui ci-dessous : 
+Lors de votre arrivée, vous serez accueilli par un message de bienvenue comme celui ci-dessous : 
 
 ![Le message de bienvenue que vous pouvez rencontrer](../.gitbook/assets/image%20%284%29.png)
 
