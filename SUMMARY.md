@@ -34,3 +34,7 @@
 * [Le reset de la 1.0](lore/le-reset-de-la-1.0.md)
 * [Redactor Gang](lore/redactor-gang.md)
 
+---
+
+* [Les personnages](les-personnages.md)
+
