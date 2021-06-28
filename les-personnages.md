@@ -2,9 +2,7 @@
 
 
 
-LES PERSONNAGES RECURRENTS 
-
-
+_**LES PERSONNAGES RECURRENTS**_ 
 
 Durant votre périple, vous rencontrerez certainement des personnages dont les noms sont souvent cité à travers les divers events auquel vous ferez face et dont voici la liste :
 
@@ -21,4 +19,12 @@ Durant votre périple, vous rencontrerez certainement des personnages dont les n
 
 
 * **Price** : Price est un garde du corps et chasseur de primes connu dans les terres du Duc, il est réputé pour sa discrétion et son efficacité.
+
+
+
+* **Gruffo** : Gruffo est un mystérieux personnage errant dans la région, ne sachant que faire de sa vie il s'essaye à différentes activités. Il semble avoir un passé commun avec Pérotin car ceux-ci avaient le même mentor, Périssien. Cependant, suite à une dispute, Gruffo a coupé les ponts avec son maître et est par la suite devenu le charlatan qu'il est aujourd'hui. 
+
+
+
+
 
