@@ -8,6 +8,7 @@ L'altération d'état d'un joueur, définit sa situation actuelle. Certains stat
 | :--- | :--- | :--- |
 |  ![:smiley:](https://discord.com/assets/66f6c781fe86c346fbaf3390618668fc.svg)  | Pas d'altération d'état | **Ø** |
 |  ![:baby:](https://discord.com/assets/7d4ab5c9735709184c38ef242f689647.svg)  | Statut de départ | **Ø** |
+| :scream: | effrayé | **10min** |
 |  ![:confounded:](https://discord.com/assets/1153efa69996f049aa121cb76dd29ac1.svg)  | Confus | **40min** |
 |  ![:cold\_face:](https://discord.com/assets/10ba107674fdf2d100be5592e7c85c74.svg)  | Gelé | **1h** |
 |  ![:drooling\_face:](https://discord.com/assets/bcee365bd88b9ad34961293f870fbc65.svg) | Affamé | **1h20** |
