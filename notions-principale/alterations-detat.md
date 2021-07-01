@@ -8,11 +8,11 @@ L'altération d'état d'un joueur, définit sa situation actuelle. Certains stat
 | :--- | :--- | :--- |
 |  ![:smiley:](https://discord.com/assets/66f6c781fe86c346fbaf3390618668fc.svg)  | Pas d'altération d'état | **Ø** |
 |  ![:baby:](https://discord.com/assets/7d4ab5c9735709184c38ef242f689647.svg)  | Statut de départ | **Ø** |
-| :scream: | effrayé | **10min** |
+| !\[:scream:\]\([https://discord.com/assets/](https://discord.com/assets/)860140453331992576.svg | effrayé | **10min** |
 |  ![:confounded:](https://discord.com/assets/1153efa69996f049aa121cb76dd29ac1.svg)  | Confus | **40min** |
 |  ![:cold\_face:](https://discord.com/assets/10ba107674fdf2d100be5592e7c85c74.svg)  | Gelé | **1h** |
 |  ![:drooling\_face:](https://discord.com/assets/bcee365bd88b9ad34961293f870fbc65.svg) | Affamé | **1h20** |
-|  ![:sleeping:](https://discord.com/assets/711ac22a92d00f844023ded91f820e8c.svg)  | Endormis | **3h** |
+|  ![:sleeping:](https://discord.com/assets/711ac22a92d00f844023ded91f820e8c.svg)  | Endormi | **3h** |
 |  ![:zany\_face:](https://discord.com/assets/aee3a8d989cabcd262db85fe0ce7cd0d.svg)  | Ivre | **4h** |
 |  ![:head\_bandage:](https://discord.com/assets/267b527f1be941e367bce73444c96f3b.svg)  | Blessé | **6h** |
 |  ![:nauseated\_face:](https://discord.com/assets/8212db2111debc4acc49ceb20cbfbdf0.svg)  | Malade | **6h** |
