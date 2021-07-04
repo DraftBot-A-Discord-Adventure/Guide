@@ -1,8 +1,4 @@
-# Les personnages
-
-
-
-_**LES PERSONNAGES RÉCURRENTS**_ 
+# Les personnages récurrents
 
 Durant votre périple, vous rencontrerez certainement des personnages dont les noms sont souvent cités à travers les divers évènements auquel vous ferez face et dont voici la liste :
 

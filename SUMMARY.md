@@ -33,5 +33,5 @@
 * [Historique des mises à jour](lore/historique-des-mises-a-jour.md)
 * [Le reset de la 1.0](lore/le-reset-de-la-1.0.md)
 * [Redactor Gang](lore/redactor-gang.md)
-* [Les personnages](lore/les-personnages.md)
+* [Les personnages récurrents](lore/les-personnages.md)
 
