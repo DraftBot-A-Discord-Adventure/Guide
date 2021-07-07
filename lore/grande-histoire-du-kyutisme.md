@@ -39,7 +39,7 @@ Au temps primordiaux, il n’y avait que Askeriel, flottant dans les limbes. Un 
 
 
 _**La Trinité :**_  
- La trinité représente l’équilibre, et les progrès de l’humanité :
+ La Trinité représente l’équilibre, et les progrès de l’humanité :
 
 * Orthgard est un ange mort, il représente le progrès technique de l’humanité : il lui apprit comment fabriquer des outils, comment s’abriter de l’extérieur. C’est lui qui gère les âmes des gens jugés bons par Iatneh, il est représenté par un anneau.
 * Iatneh est un Minotaure, il représente l’équilibre et la justice. Son autorité s’étend sur le droit et les valeurs de jugements, il enseigna aux humains comment vivre en groupe, comment réfléchir et s’organiser. Il juge les âmes des gens à leur mort, et les envoie selon son jugement à Orthgard ou Fenrir. L’artefact qui le symbolise est une urne.
