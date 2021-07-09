@@ -2,7 +2,7 @@
 
 ### Le Kyutisme en général :
 
-La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit de la religion de l’univers Draftbot. On distingue trois grands types de fidèles :
+La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit de la religion de l’univers DraftBot. On distingue trois grands types de fidèles :
 
 * les fidèles « simples », qui pratiquent mais ont leur profession et leur vie à côté.
 * les religieux.
