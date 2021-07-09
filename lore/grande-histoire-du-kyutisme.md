@@ -26,7 +26,7 @@ La hiérarchie religieuse se compose comme suit :
 
 ### Le Kyuran
 
-Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également divers présentations des différentes icones.  
+Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également divers présentations des différentes icônes.  
   
 On raconte que le livre dispose de pouvoirs magiques mais cette information est difficile à vérifier car les rares exemplaires s'arrachent à prix d'or. 
 
