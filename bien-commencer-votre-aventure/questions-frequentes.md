@@ -18,7 +18,7 @@ Si les permissions sont correctes pour le channel où vous avez fait la commande
 
 ### **Est-il possible de rajouter le bot sur mon serveur ?** 
 
-OUI ! Le lien pour inviter le bot est disponible dans le salon "⁉-questions-fréquentes" du serveur officiel du bot accessible ici :
+OUI ! Le lien pour inviter le bot est disponible sur [http://draftbot.com/](http://draftbot.com/), ainsi que sur notre [serveur discord](https://discord.gg/aJhQy4AtAA) dans le salon **\#👑-bienvenue** ou en messages épinglés dans les salons **🗣-général** ou **🗣-entraide-draftbot**. Une méthode plus simple consiste à cliquer sur le lien ci-dessous.
 
 {% embed url="https://discordapp.com/api/oauth2/authorize?client\_id=448110812801007618&permissions=280640&scope=bot" %}
 
@@ -26,7 +26,7 @@ OUI ! Le lien pour inviter le bot est disponible dans le salon "⁉-questions-fr
 
 _Node js_
 
-Les données enregistrées dans la base de données concernent uniquement le jeu \(les messages / photos envoyées sur le channel où se trouve le bot ne sont jamais sauvegardés\). Les pseudos de joueurs ne sont pas non plus enregistrés.
+Les données enregistrées dans la base de données concernent uniquement le jeu \(les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés\). Les pseudos de joueurs ne sont pas non plus enregistrés.
 
 ### Comment créer un bot discord ?
 
