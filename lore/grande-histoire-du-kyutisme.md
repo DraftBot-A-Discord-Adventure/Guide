@@ -10,7 +10,11 @@ La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit 
 
   culte d’Askeriel et vénèrent la Trinité.
 
+![La Kyuill&#xE8;re utilis&#xE9;e par les pr&#xEA;tres](../.gitbook/assets/image%20%2864%29.png)
+
 Les fidèles pratiquent dans des églises avec des prêtres\(ses\) Kyutistes, ces derniers vivant dans une annexe de l’église. La relique principale est la Sainte Kyuillère, les prêtres officiant d’ailleurs avec une kyuillère, grand bâton de 1m75 avec le bout en forme similaire à une cuillère. Le livre religieux est le Kyuran, où est transcrite l’histoire des dieux kyutistes \(résumée un peu plus bas\).
+
+![Des pales copies de l&apos;objet divin semblent circuler dans la contr&#xE9;e](../.gitbook/assets/image%20%2865%29.png)
 
 La hiérarchie religieuse se compose comme suit :
 
@@ -22,7 +26,11 @@ La hiérarchie religieuse se compose comme suit :
 
 ### Le Kyuran
 
-Voici une description du lore du Kyutisme et de ses icônes : 
+Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également divers présentations des différentes icones.  
+  
+On raconte que le livre dispose de pouvoirs magiques mais cette information est difficile à vérifier car les rares exemplaires s'arrachent à prix d'or. 
+
+![Un exemplaire du Kyuran vendu dans un march&#xE9; noir.](../.gitbook/assets/image%20%2866%29.png)
 
 #### La Genèse :
 
