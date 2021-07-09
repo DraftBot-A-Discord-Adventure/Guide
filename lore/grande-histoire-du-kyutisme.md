@@ -24,11 +24,11 @@ La hiérarchie religieuse se compose comme suit :
 
 Voici une description du lore du Kyutisme et de ses icônes : 
 
-### La Genèse :
+#### La Genèse :
 
 Au temps primordiaux, il n’y avait que Askeriel, flottant dans les limbes. Un jour, il eut l’idée d’employer ses forces pour créer quelque chose de plus : il créa donc le monde, la vie, et tout ce qui s’ensuit, façonnant tout de sa Kyuillère. Une fois le monde créé, il fit des Humains ses représentants. Ceux-ci commencèrent donc à le vénérer. Cependant, le temps passant, Askeriel prit pitié de ses protégés, car ceux-ci n’arrivaient pas à se démarquer des autres espèces, étant d’une nature très faible. Il créa donc ses bras droits afin de le seconder et d’apporter plus à ces Humains faibles: il créa la Trinité. À chacun de ces trois dieux, il délégua une part de son autorité, et il se mit en retrait afin d’avoir tout le loisir d’observer le monde sans le diriger seul.
 
-### La Trinité :
+#### La Trinité :
 
  La Trinité représente l’équilibre, et les progrès de l’humanité :
 
