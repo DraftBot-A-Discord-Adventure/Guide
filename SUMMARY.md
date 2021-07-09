@@ -11,13 +11,13 @@
 ## Notions principales <a id="notions-principale"></a>
 
 * [Rapports](notions-principale/report.md)
+* [Carte et lieux](notions-principale/carte-et-lieux.md)
 * [Profil](notions-principale/profile.md)
-* [Combats](notions-principale/combats.md)
-* [Guildes](notions-principale/guildes.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
+* [Combats](notions-principale/combats.md)
 * [Équipements](notions-principale/items.md)
 * [Classes](notions-principale/classes.md)
-* [Carte et lieux](notions-principale/carte-et-lieux.md)
+* [Guildes](notions-principale/guildes.md)
 * [Familiers](notions-principale/familiers.md)
 
 ## Notions avancées
