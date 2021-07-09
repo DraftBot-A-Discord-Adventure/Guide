@@ -1,8 +1,6 @@
 # Grande Histoire du Kyutisme
 
-## 
-
-_**Le Kyutisme en général :**_
+### Le Kyutisme en général :
 
 La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit de la religion de l’univers Draftbot. On distingue trois grands types de fidèles :
 
@@ -11,8 +9,6 @@ La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit 
 * Les membres de l’Ordre des Trois, kyutistes extrémistes qui rejettent le
 
   culte d’Askeriel et vénèrent la Trinité.
-
-
 
 Les fidèles pratiquent dans des églises avec des prêtres\(ses\) Kyutistes, ces derniers vivant dans une annexe de l’église. La relique principale est la Sainte Kyuillère, les prêtres officiant d’ailleurs avec une kyuillère, grand bâton de 1m75 avec le bout en forme similaire à une cuillère. Le livre religieux est le Kyuran, où est transcrite l’histoire des dieux kyutistes \(résumée un peu plus bas\).
 
@@ -24,21 +20,16 @@ La hiérarchie religieuse se compose comme suit :
 * Les prêtres Kyutistes officient dans les villes et villages du pays.
 * Les fidèles représentent la majorité de la population.
 
-
-
-_**Le Kyuran**_
+### Le Kyuran
 
 Voici une description du lore du Kyutisme et de ses icônes : 
 
-
-
-_**La Genèse :**_
+### La Genèse :
 
 Au temps primordiaux, il n’y avait que Askeriel, flottant dans les limbes. Un jour, il eut l’idée d’employer ses forces pour créer quelque chose de plus : il créa donc le monde, la vie, et tout ce qui s’ensuit, façonnant tout de sa Kyuillère. Une fois le monde créé, il fit des Humains ses représentants. Ceux-ci commencèrent donc à le vénérer. Cependant, le temps passant, Askeriel prit pitié de ses protégés, car ceux-ci n’arrivaient pas à se démarquer des autres espèces, étant d’une nature très faible. Il créa donc ses bras droits afin de le seconder et d’apporter plus à ces Humains faibles: il créa la Trinité. À chacun de ces trois dieux, il délégua une part de son autorité, et il se mit en retrait afin d’avoir tout le loisir d’observer le monde sans le diriger seul.
 
+### La Trinité :
 
-
-_**La Trinité :**_  
  La Trinité représente l’équilibre, et les progrès de l’humanité :
 
 * Orthgard est un ange mort, il représente le progrès technique de l’humanité : il lui apprit comment fabriquer des outils, comment s’abriter de l’extérieur. C’est lui qui gère les âmes des gens jugés bons par Iatneh, il est représenté par un anneau.
@@ -49,9 +40,7 @@ Ces dieux sont également vénérés lors de fêtes religieuses qui leurs s
 
 Une dernière divinité existe, mais est endormie : il s’agit de Y'ahnor, divinité destructrice.
 
-
-
-_**La secte**_
+### La secte
 
 La secte est un groupe de kyutistes extrémistes qui rejettent Askeriel. Ils se font nommer l’Ordre des Trois, et pensent qu’Askeriel est mort, détrôné par la Trinité sur les conseils de Y'ahnor, car il n’était pas digne de diriger le monde et l’humanité et les freine dans leur objectif de guider l’humanité. Ils sont dirigés par les trois Blusters, chacun symbolisant l’incarnation d’un des trois Dieux de la Trinité sur terre. D’après eux, tous les dieux sont foncièrement mauvais \(ce qui n’est pas le cas dans le kyutisme\), ils savent qu’ils iront auprès de Fenrir à leur mort à cause de leurs actes, mais ils espèrent recevoir un sort plus clément en effectuant des sacrifices divers en son honneur de leur vivant. Leur objectif final est de réveiller Y'ahnor grâce à des sacrifices humains, afin qu’elle guide l’humanité pour diriger le monde avec les Trois.
 
