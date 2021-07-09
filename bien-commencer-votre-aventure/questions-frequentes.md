@@ -44,7 +44,9 @@ OUI ! Le bot est complètement OPEN SOURCE !!! N'hésitez pas à contribuer ici 
 
 {% embed url="https://github.com/DraftBot-A-Discord-Adventure" %}
 
+### Pourquoi y a-t-il deux bots avec le même nom ?
 
+Il existe deux bots "Draftbot" , mais ils n'ont rien en commun en dehors du nom, et aucun des deux créateurs n'a plagié sur l'autre. Si vous cherchez de l'aide à propos de l'autre bot, nous vous conseillons de rejoindre leur plateforme de support.
 
 ​
 
