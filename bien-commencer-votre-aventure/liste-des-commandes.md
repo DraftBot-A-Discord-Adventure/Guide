@@ -170,8 +170,6 @@ Permet de récupèrer un des familiers présents dans le refuge de votre guilde,
 
 ## Autres commandes
 
-badge • dmnotification • help • idea • invite • ping • rarity • update • vote
-
 ### Badge
 
 Permet d'afficher l'aide relative aux badges.
