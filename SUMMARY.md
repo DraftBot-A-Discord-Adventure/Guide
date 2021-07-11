@@ -4,6 +4,7 @@
 
 ## Bien commencer votre aventure
 
+* [Liste des commandes](bien-commencer-votre-aventure/liste-des-commandes.md)
 * [Commencer votre aventure](bien-commencer-votre-aventure/commencer-votre-aventure.md)
 * [Apprendre les bases](bien-commencer-votre-aventure/apprendre-les-bases.md)
 * [Questions et problèmes fréquents](bien-commencer-votre-aventure/questions-frequentes.md)
