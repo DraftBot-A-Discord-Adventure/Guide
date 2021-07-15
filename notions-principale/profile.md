@@ -19,23 +19,23 @@ L'inventaire d'un joueur se décompose donc de cette façon :
 
 Ce sont les informations générales de votre personnage.
 
-* ![:heart:](https://discord.com/assets/0483f2b648dcc986d01385062052ae1c.svg) Points de vie
-* ![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) Points d'expérience
-* ![:moneybag:](https://discord.com/assets/6c42ea9f3e233d9110e04dcd87db55da.svg) Argent du jeu
+* ❤ Points de vie
+* ⭐ Points d'expérience
+* 💰 Argent du jeu
 
 ### Statistiques
 
 Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y retrouve :
 
-* ![:dagger:](https://discord.com/assets/47f10f1fb3beec3810f0f37cf4cccd95.svg) Points d'attaque
-* ![:shield:](https://discord.com/assets/ad2e4d6e7b90ca6005a5038e22b099cc.svg) Points de défense 
-* ![:rocket:](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) Points de vitesse
-* ![:zap:](https://discord.com/assets/bcca43b1c7aa91d47f62962ce2422ae1.svg) Énergie pour les combats
+* 🗡 Points d'attaque
+* 🛡 Points de défense 
+* 🚀 Points de vitesse
+* ⚡ Énergie pour les combats
 
 ### Classement et Score 
 
-* ![:trophy:](https://discord.com/assets/0a00e865c445d42dfb9f64bedfab8cf8.svg) Votre place de classement sur le nombre total de joueurs
-* ![:medal:](https://discord.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) Points de classement
+* 🏆 Votre place de classement sur le nombre total de joueurs
+* 🏅 Points de classement
 
 ### Temps restant 
 

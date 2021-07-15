@@ -47,7 +47,7 @@ Il existe également deux façons alternatives d'utiliser cette commande:
 
 #### Dans la boutique 
 
-Dans la boutique, l'expérience est représentée par l'icône⭐.   
+Dans la boutique, l'expérience est représentée par l'icône ⭐ .   
 Contre 1000 d'argent,  vous pourrez apporter aléatoirement entre 50 et 450 points d'expérience pour votre guilde. 
 
 ####  Dans les récompenses quotidiennes 
