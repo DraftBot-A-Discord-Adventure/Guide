@@ -4,7 +4,6 @@
 
 ## Bien commencer votre aventure
 
-* [Liste des commandes](bien-commencer-votre-aventure/liste-des-commandes.md)
 * [Commencer votre aventure](bien-commencer-votre-aventure/commencer-votre-aventure.md)
 * [Apprendre les bases](bien-commencer-votre-aventure/apprendre-les-bases.md)
 * [Questions et problèmes fréquents](bien-commencer-votre-aventure/questions-frequentes.md)
@@ -27,6 +26,7 @@
 * [Gestion de l'inventaire](notions-avancees/inventory.md)
 * [Mini-évènements](notions-avancees/mini-evenements.md)
 * [Badges](notions-avancees/badges.md)
+* [Liste complète des commandes](notions-avancees/liste-des-commandes.md)
 
 ## Lore et histoire du bot <a id="lore"></a>
 

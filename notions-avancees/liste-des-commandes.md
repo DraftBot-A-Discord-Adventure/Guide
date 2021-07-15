@@ -2,7 +2,7 @@
 description: Liste de toutes les commandes du bot.
 ---
 
-# Liste des commandes
+# Liste complète des commandes
 
 ## Commandes liées au serveur
 
