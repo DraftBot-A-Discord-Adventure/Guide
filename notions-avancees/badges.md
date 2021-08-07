@@ -4,7 +4,7 @@
 ![:medal:](https://canary.discordapp.com/assets/c9b563417a1ff01700edc358b5fc309f.svg) `Player in the top 10 at the 1.0 reset`   
 ![:crown:](https://canary.discordapp.com/assets/98fe9cdec2bf8ded782a7bf1e302b664.svg) `Owner of the bot`   
 ![:egg:](https://canary.discordapp.com/assets/5ca0c0b0ad60ee4b580e7ed918426cdb.svg) `Player that found every secrets of the bot`   
-![:heart:](https://canary.discordapp.com/assets/0483f2b648dcc986d01385062052ae1c.svg) `Player having the "soutien" role on the officiel server`   
+![:heart:](https://canary.discordapp.com/assets/0483f2b648dcc986d01385062052ae1c.svg) `Player having the "soutien" role on the official server`   
 ![:four\_leaf\_clover:](https://canary.discordapp.com/assets/ccb393b137e9218ac3af16b2c4617a2e.svg) `Badge that can be won sometimes in giveaways`   
 ![:money\_with\_wings:](https://canary.discordapp.com/assets/2e6603cd7e1cb691b1b858e4294640bd.svg) `Donator`   
 ![:beetle:](https://canary.discordapp.com/assets/d5b1663a1a49a2471ab3bce9f98bfc27.svg) `Players that report major bugs`   
@@ -23,7 +23,7 @@
 💎 `Member of a poserful guild`   
   🔖 `Early class adopter`  
  ⚔ `Tournament winner`   
- 🚩 `Person that accomplished a weekly mission on twitter`
+ 🚩 `Person that accomplished a weekly mission on twitter`                                                        💞  `Person that trained a legendary pet`       
 
 If you think that you merit a badge, please contact `Thero1st#9119` or `Ines#7400` on discord.  
 Once a badge is unlocked, it will show on your [profile](https://guide.draftbot.com/v/en/notions-principale/profile).
