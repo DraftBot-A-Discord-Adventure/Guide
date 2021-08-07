@@ -30,6 +30,7 @@ description: >-
 ![:gem:](https://discordapp.com/assets/5a8d9af8b5b3922097b2cccfce844630.svg) `Membre d'une guilde puissante`  
 ![:bookmark:](https://discordapp.com/assets/2424297076c0d1c8499820fc4f9d9f57.svg) `Adopteur de classes de la première heure`  
 ![:crossed\_swords:](https://discordapp.com/assets/e7159ba0fcc85f39f95227dd85f44aeb.svg) `Vainqueur d'un tournoi`  
+🚩`Joueur ayant accompli une mission hebdomadaire sur le twitter de bot`  
 💞`Joueur ayant dressé un familier légendaire`
 
 Si vous pensez mériter un badge, merci de contacter `Thero1st#9119` ou `Ines#7400` sur Discord.  
