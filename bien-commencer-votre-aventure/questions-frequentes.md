@@ -26,11 +26,11 @@ OUI ! Le lien pour inviter le bot est disponible sur [http://draftbot.com/](http
 
 _Node js_
 
-Les données enregistrées dans la base de données concernent uniquement le jeu \(les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés\). Les pseudos de joueurs ne sont pas non plus enregistrés.
+Les données enregistrées dans la base de données concernent uniquement le jeu \(les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés\). Les pseudonymes de joueurs ne sont pas non plus enregistrés.
 
 ### Comment créer un bot discord ?
 
-Désolé, je n'ai pas le temps d'aider tout le monde, cependant je ne peux que vous rediriger vers cet excellent guide pour débuter ;
+Désolé, je n'ai pas le temps d'aider tout le monde, cependant je ne peux que vous rediriger vers cet excellent guide pour débuter :
 
 {% embed url="https://anidiots.guide/" %}
 
