@@ -15,25 +15,25 @@ La commande `!report` possède plusieurs états différents :
 
 ### Mini-Évènements : 
 
-Chaque ❓ correspond à un mini-évènement. Le joueur met 30 minutes à réaliser le trajet entre deux mini-évènements.
+Le joueur met 10 minutes à réaliser le trajet entre deux mini-évènements.
 
 ![Un exemple de mini-&#xE9;v&#xE8;nement](../.gitbook/assets/image%20%2849%29.png)
 
 Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des items, de la vie ou encore des sous.
 
 {% hint style="info" %}
-Chaque mini évent rapporte au joueur 50 points. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
+Chaque mini évent rapporte au joueur une quantité de points qui diminuant à chaque nouveau mini évent. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
 {% endhint %}
 
 ![Une fois le mini-&#xE9;v&#xE8;nement pass&#xE9;, il appara&#xEE;t sur la carte.](../.gitbook/assets/image%20%2852%29.png)
 
 ### Évènements :
 
-Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiple à l'aide des réactions discord. En fonction de son choix, différentes issues surviennent.
+Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiples à l'aide des réactions Discord. En fonction de son choix, différentes issues surviennent.
 
 ![Un exemple d&apos;&#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2846%29.png)
 
-Ici, le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire
+Ici, le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire.
 
 {% hint style="success" %}
 Dans certains évènements, ne rien faire est le meilleur choix ! \(Dans d'autres c'est le pire\).
