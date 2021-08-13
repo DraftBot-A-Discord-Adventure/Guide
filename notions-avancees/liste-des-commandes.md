@@ -82,7 +82,7 @@ Permet de changer de classe.
 
 ### classstats
 
-Permet de comparer les différentes classes.
+Permet de comparer les statistiques des différentes classes.
 
 ### unlock
 
@@ -166,7 +166,7 @@ Permet d'échanger votre familier avec celui d'un autre joueur.
 
 ### pettransfer
 
-Permet de récupèrer un des familiers présents dans le refuge de votre guilde, d'échanger votre familier avec un des familiers présents dans le refuge de votre guilde ou de transfèrer votre familier vers le refuge de votre guilde.
+Permet de récupérer un des familiers présents dans le refuge de votre guilde, d'échanger votre familier avec un des familiers présents dans le refuge de votre guilde ou de transfèrer votre familier vers le refuge de votre guilde.
 
 ## Autres commandes
 
@@ -204,7 +204,7 @@ Affiche la version actuelle du bot ainsi que le lien pour aller lire les changem
 
 ### vote
 
-Affiche le lien pour aller voter pour Draftbot sur Discord Bot List.
+Affiche le lien pour aller voter pour DraftBot sur Discord Bot List.
 
 
 
