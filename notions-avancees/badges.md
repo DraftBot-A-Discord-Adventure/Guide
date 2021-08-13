@@ -1,7 +1,7 @@
 ---
 description: >-
   Les badges sont des petites récompenses purement visuelles que vous pourrez
-  gagner au fils de votre aventure en accomplissant des petits objectifs.
+  gagner au fil de votre aventure en accomplissant des petits objectifs.
   Certains sont plus faciles à obtenir que d'autres.
 ---
 
