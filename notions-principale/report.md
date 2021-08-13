@@ -49,7 +49,7 @@ Après un évènement, le joueur est amené à choisir une destination. Il n'est
 
 ![Exemple de choix de destination](../.gitbook/assets/image%20%2855%29.png)
 
-Dans un tiers des cas, le bot choisis automatiquement la destination du joueur 
+Dans un tiers des cas, le bot choisit automatiquement la destination du joueur. 
 
 ![Voil&#xE0; votre information sur votre destination](../.gitbook/assets/image%20%2848%29.png)
 
