@@ -62,7 +62,7 @@ Permet d'afficher votre inventaire.
 
 ### report
 
-Permet d'obtenir un petit événement tous les 30 minutes et un événement majeur toutes les 2 heures.
+Permet d'obtenir un petit événement tous les 10 minutes et un événement majeur une fois la destination atteinte.
 
 ### sell
 
