@@ -17,7 +17,7 @@ La commande `!report` possède plusieurs états différents :
 
 Le joueur met 10 minutes à réaliser le trajet entre deux mini-évènements.
 
-![Un exemple de mini-&#xE9;v&#xE8;nement](../.gitbook/assets/image%20%2849%29.png)
+![Un exemple de mini-&#xE9;v&#xE8;nement](../.gitbook/assets/mini-evenement.png)
 
 Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des items, de la vie ou encore des sous.
 
@@ -25,7 +25,7 @@ Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-
 Chaque mini évent rapporte au joueur une quantité de points diminuant à chaque nouveau mini évent. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
 {% endhint %}
 
-![Une fois le mini-&#xE9;v&#xE8;nement pass&#xE9;, il appara&#xEE;t sur la carte.](../.gitbook/assets/image%20%2852%29.png)
+![Une fois le mini-&#xE9;v&#xE8;nement pass&#xE9;, il appara&#xEE;t sur l&apos;interface de voyage.](../.gitbook/assets/voyage.png)
 
 ### Évènements :
 
