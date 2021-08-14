@@ -27,6 +27,8 @@ Chaque mini évent rapporte au joueur une quantité de points diminuant à chaqu
 
 ![Une fois le mini-&#xE9;v&#xE8;nement pass&#xE9;, il appara&#xEE;t sur l&apos;interface de voyage.](../.gitbook/assets/voyage.png)
 
+Vous pouvez voir le nombre de points récoltés avec les mini-évènements ainsi que le temps d'attente avant le prochain.
+
 ### Évènements :
 
 Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiples à l'aide des réactions Discord. En fonction de son choix, différentes issues surviennent.
