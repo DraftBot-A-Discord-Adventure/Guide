@@ -11,7 +11,7 @@ La commande `!report` possède plusieurs états différents :
 * Le joueur réalise un évènement.
 * Le joueur réalise un mini-évènement.
 
-![Interface de la commande report quand le joueur est en train de voyager](../.gitbook/assets/image%20%2856%29.png)
+![Interface de la commande report quand le joueur est en train de voyager](../.gitbook/assets/report.png)
 
 ### Mini-Évènements : 
 
@@ -25,7 +25,7 @@ Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-
 Chaque mini évent rapporte au joueur une quantité de points diminuant à chaque nouveau mini évent. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
 {% endhint %}
 
-![Une fois le mini-&#xE9;v&#xE8;nement pass&#xE9;, il appara&#xEE;t sur l&apos;interface de voyage.](../.gitbook/assets/voyage.png)
+![Une fois le mini-&#xE9;v&#xE8;nement pass&#xE9;, il appara&#xEE;t sur l&apos;interface de voyage](../.gitbook/assets/voyage.png)
 
 Vous pouvez voir le nombre de points récoltés avec les mini-évènements ainsi que le temps d'attente avant le prochain.
 
