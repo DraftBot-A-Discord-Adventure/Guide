@@ -49,11 +49,11 @@ Une fois un choix réalisé par le joueur, ce dernier peut cliquer sur une réac
 
 Après un évènement, le joueur est amené à choisir une destination. Il n'est pas possible pour un joueur de faire un retour sur ses pas \(sauf si c'est le seul choix possible\).
 
-![Exemple de choix de destination](../.gitbook/assets/image%20%2855%29.png)
+![Exemple de choix de destination](../.gitbook/assets/choix-destination.png)
 
-Dans un tiers des cas, le bot choisit automatiquement la destination du joueur. 
+Le temps indiqué entre parenthèses est le temps de voyage pour parvenir jusqu'au lieu, un point d'interrogation signifie que le temps est inconnu.  Dans un tiers des cas, le bot choisit automatiquement la destination du joueur. 
 
-![Voil&#xE0; votre information sur votre destination](../.gitbook/assets/image%20%2848%29.png)
+![Voil&#xE0; votre information sur votre destination](../.gitbook/assets/destination-choisie.png)
 
 ### 
 
