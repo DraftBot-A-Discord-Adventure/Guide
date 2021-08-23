@@ -11,8 +11,8 @@
 *  **Rare** ☄ `10% (1 item / 10)` 
 *  **Spécial** 💫 `5% (1 item / 20)` 
 *  **Épique** ⭐ `1% (1 item / 100)` 
-*  **Légendaire** 🌟 `0,24% (1 item / 417)` 
-*  **Mythique** 💎 `0,01% (1 item / 10 000)`
+*  **Légendaire** 🌟 `0,23% (1 item / 435)` 
+*  **Mythique** 💎 `0,02% (1 item / 5 000)`
 
 ### Valeur des équipements
 
