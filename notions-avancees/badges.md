@@ -7,7 +7,7 @@ description: >-
 
 # Badges
 
- 🏆`Meilleur joueur au moment du reset de la 1.0`   
+🏆`Meilleur joueur au moment du reset de la 1.0`   
 🏅 `Joueur dans le top 10 au reset de la 1.0`   
 👑 `Propriétaire du bot`   
 🥚 `Personne ayant trouvé tous les secrets du bot`   
