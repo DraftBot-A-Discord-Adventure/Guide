@@ -69,9 +69,9 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  🕯  | Brûleur | 38 dégâts | Rare |
 |  🎣  | Canne à pêche | 38 dégâts | Rare |
 |  💉  | Seringue contaminée  | 41 dégâts | Rare |
-|  ⚔  | Epée de débutant | 41 dégâts | Rare |
+|  ⚔  | Épée de débutant | 41 dégâts | Rare |
 |  🏹  | Arc de soldat  | 45 dégâts | Rare |
-|  ⚔  | Epée en fer | 50 dégâts | Rare |
+|  ⚔  | Épée en fer | 50 dégâts | Rare |
 |   🗡  | Dague | 55 dégâts | Rare |
 |  ⚔  | Double dagues | 60 dégâts | Rare |
 |  ![](../.gitbook/assets/axe.png)  | Hachoir | 60 dégâts | Rare |
@@ -82,12 +82,12 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  🏹  | Arc de chevalier | 73 dégâts | Spécial |
 |  💣  | Bombe | 87 dégâts | Spécial |
 |  🏹  | Arc | 87 dégâts | Spécial |
-|  ⚔  | Epée sharpness 4 | 87 dégâts | Spécial |
-|  ⚔  | Epées doubles | 94 dégâts | Spécial |
+|  ⚔  | Épée sharpness 4 | 87 dégâts | Spécial |
+|  ⚔  | Épées doubles | 94 dégâts | Spécial |
 |  📕  | Vieux grimoire | 70 dégâts | Epique |
-|  🗡  | Epée Kokiri | 89 dégâts | Epique |
+|  🗡  | Épée Kokiri | 89 dégâts | Epique |
 |  ⚔  | Beat saber  | 96 dégâts | Epique |
-|  ⚔  | Épée d'Ines | 96 dégâts | Epique |
+|  ⚔  | Ines'word | 96 dégâts | Epique |
 |  ⚡  | Lame de charge | 113 dégâts | Epique  |
 |  ⚡  | Foudre de Zeus | 122 dégâts | Epique |
 |  ⚔  | Épée royale  | 132 dégâts | Epique |
@@ -97,12 +97,12 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ⚔  | Épée de Ragnell | 145 dégâts | Légendaire |
 |  🏹  | Arc du Héros | 182 dégâts | Légendaire |
 |  ☄  | L'âme du diable  | 182 dégâts | Légendaire |
-|  ⚔  | Epée en diamant | 196 dégâts | Légendaire |
-|  ⚔  | Master Sword | 196 dégâts | Légendaire |
+|  ⚔  | Épée en diamant | 196 dégâts | Légendaire |
+|  ⚔  | Épée de maître | 196 dégâts | Légendaire |
 |  🗡  | Sabre | 212 dégâts | Légendaire |
 |   ✨  | Sceptre aux 100 sorts  | 174 dégâts  | Mythique |
 |  ![](../.gitbook/assets/scuba_diving.png)  | Sabotage d'oxygène | 203 dégâts | Mythique  |
-|  💣  | Bombe Atomique | 219 dégâts | Mythique |
+|  💣  | Bombe Atomique | 239 dégâts | Mythique |
 
 ### Liste des armures/boucliers
 
