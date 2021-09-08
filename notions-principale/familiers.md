@@ -198,7 +198,7 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         <p>Hippopotame &#x1F99B;</p>
         <p>Lama &#x1F999;</p>
         <p>Cygne &#x1F9A2;</p>
-        <p>Flamand rose
+        <p>Flamant rose
           <img src="https://discord.com/assets/430705f097a53695b1bf71c6de22b866.svg"
           alt=":flamingo:" />
         </p>
