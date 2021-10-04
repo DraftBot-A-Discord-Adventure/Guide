@@ -36,5 +36,5 @@ description: >-
 Si vous pensez mériter un badge, merci de contacter `Thero1st#9119` ou `Ines#7400` sur Discord.  
 Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
 
-Certains badges ne sont plus disponible depuis la version 1.0 de DraftBot, notamment 🏆🏅⛑️. Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
+Certains badges ne sont plus disponible depuis la version 1.0 de DraftBot, notamment ![:blue\_circle:](../.gitbook/assets/trophy.svg)![:blue\_circle:](../.gitbook/assets/medal.svg)![:blue\_circle:](../.gitbook/assets/helmet-with-cross.svg). Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
 
