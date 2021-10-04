@@ -201,8 +201,7 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         </p>
         <p>Raton Laveur &#x1F99D;</p>
         <p>Putois
-          <img src="https://discord.com/assets/7631a1b3137202d7b80e48d99987484f.svg"
-          alt=":skunk:" />
+          <img src="../.gitbook/assets/skunk.svg" alt=":skunk:" />
         </p>
         <p>Blaireau
           <img src="../.gitbook/assets/badger.svg" alt=":badger:" />
