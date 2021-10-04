@@ -57,8 +57,8 @@ La nourriture va permettre d'influer sur le moral de votre animal, pour nourrir 
 Chaque type de nourriture fera gagner une quantité différente de points d'affection à votre familier. 
 
 * Les friandises feront gagner 1 point d'affection.
-* Les steaks et salade feront gagner 3 points d'affections.
-* Les soupes ultimes feront gagner 5 points d'affections.
+* Les steaks et salade feront gagner 3 points d'affection.
+* Les soupes ultimes feront gagner 5 points d'affection.
 
 Cependant, le type de nourriture n'a pas d'influence sur la durée pendant laquelle votre familier n'a pas faim.
 
@@ -66,7 +66,7 @@ Cependant, le type de nourriture n'a pas d'influence sur la durée pendant laque
 La durée pendant laquelle un familier n'a pas faim dépend uniquement de la rareté du pet. Le nombre d'étoiles de rareté est égal au nombre d'heures qu'il faut attendre entre deux repas.
 {% endhint %}
 
-Certains familiers suivent un régime particulier \(herbivores ou carnivores\) et ne pourront donc pas profiter de certaines sources de nourritures. Ne donnez pas de salade à votre T-rex !
+Certains familiers suivent un régime particulier \(herbivore ou carnivore\) et ne pourront donc pas profiter de certaines sources de nourritures. Ne donnez pas de salade à votre T-rex !
 
 Ne négligez pas votre familier ! Son moral baissera si vous oubliez de vous en occuper. 
 
@@ -110,11 +110,9 @@ Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 
 ### Surnommer un familier
 
-Vous pouvez définir un surnom pour votre familier pour rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `!petnickname <surnom>` exemple : `!petnickname Henri` permet de surnommer votre familier "Henri".
+Vous pouvez définir un surnom pour votre familier afin de rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `!petnickname <surnom>` exemple : `!petnickname Henri` permet de surnommer votre familier "Henri".
 
 ![Commande !mypet avec affichage du surnom du familier](../.gitbook/assets/rename-pets.png)
-
-* Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience de guilde.
 
 ###  Échange de familiers
 
@@ -124,14 +122,14 @@ L'implémentation de cette mise à jour favorise l'interaction entre joueurs pui
 
 ### Vente de familiers
 
-Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, \(ou alors que vous aimez l'argent\), il est possible d'échanger le familier que vous transportez contre un peu d’expérience pour votre guilde. Pour cela, vous pouvez utiliser la commande `!petsell [prix]`.
+Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, \(ou alors que vous aimez l'argent\), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `!petsell [prix]`.
 
 ![Ici le familier &quot;Elle&quot; est vendu](../.gitbook/assets/image%20%2817%29.png)
 
 Il y a des conditions importantes à respecter pour la vente de familier:
 
-* Il n'est pas possible de vendre un pet à un membre de sa guilde.
-* Il est nécessaire d'appartenir à une guilde pour vendre un pet mais pas pour l'acheter.
+* Il n'est pas possible de vendre un familier à un membre de sa guilde.
+* Il est nécessaire d'appartenir à une guilde pour vendre un familier mais pas pour l'acheter.
 
 {% hint style="warning" %}
 Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience de guilde.
@@ -192,15 +190,14 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         <p>Loup &#x1F43A;</p>
         <p>Sanglier &#x1F417;</p>
         <p>Otarie
-          <img src="https://discord.com/assets/a6e116c71ab2e177001c5ca9977e68d1.svg"
-          alt=":seal:" />
+          <img src="../.gitbook/assets/seal.svg" alt=":seal:" />
         </p>
         <p>Hippopotame &#x1F99B;</p>
         <p>Lama &#x1F999;</p>
         <p>Cygne &#x1F9A2;</p>
         <p>Flamant rose
-          <img src="https://discord.com/assets/430705f097a53695b1bf71c6de22b866.svg"
-          alt=":flamingo:" />
+          <img src="../.gitbook/assets/flamingo.svg" alt=":flamingo:"
+          />
         </p>
         <p>Raton Laveur &#x1F99D;</p>
         <p>Putois
@@ -208,27 +205,23 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
           alt=":skunk:" />
         </p>
         <p>Blaireau
-          <img src="https://discord.com/assets/82cb4a510436e4755388615426d2de73.svg"
-          alt=":badger:" />
+          <img src="../.gitbook/assets/badger.svg" alt=":badger:" />
         </p>
         <p>Castor
-          <img src="https://discord.com/assets/0ee00f8f2f780bb43828baa8684991e2.svg"
-          alt=":beaver:" />
+          <img src="../.gitbook/assets/beaver.svg" alt=":beaver:" />
         </p>
         <p>Paresseux
-          <img src="https://discord.com/assets/cdc3facd345983768d3bd16aa6021f90.svg"
-          alt=":sloth:" />
+          <img src="../.gitbook/assets/sloth.svg" alt=":sloth:" />
         </p>
         <p>Tamia
-          <img src="https://discord.com/assets/de0f03380b137cdb950b1a9d2ca04a3b.svg"
-          alt=":chipmunk:" />
+          <img src="../.gitbook/assets/chipmunk.svg" alt=":chipmunk:" />
         </p>
         <p>H&#xE9;risson&#x1F994;&#xFE0F;</p>
       </td>
       <td style="text-align:left">
         <p>Ours polaire
-          <img src="https://discord.com/assets/eb3b52294d6cbab490cdb577afe40b11.svg"
-          alt=":polar_bear:" />
+          <img src="../.gitbook/assets/polar-bear.svg" alt=":polar_bear:"
+          />
         </p>
         <p>Panda &#x1F43C;</p>
         <p>Scorpion &#x1F982;</p>
@@ -241,13 +234,11 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         <p>Girafe &#x1F992;</p>
         <p>Kangourou &#x1F998;</p>
         <p>Paon
-          <img src="https://discord.com/assets/4a5fb8d468c3d4c13216440813feb418.svg"
-          alt=":peacock:" />
+          <img src="../.gitbook/assets/peacock.svg" alt=":peacock:" />
         </p>
         <p>P&#xE9;rroquet &#x1F99C;</p>
         <p>Loutre
-          <img src="https://discord.com/assets/a8ef7bbc89c69e7de6d38b6fc1f92dab.svg"
-          alt=":otter:" />
+          <img src="../.gitbook/assets/otter.svg" alt=":otter:" />
         </p>
       </td>
       <td style="text-align:left">
@@ -255,16 +246,14 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         <p>Lion &#x1F981;</p>
         <p>Aigle</p>
         <p>Dodo
-          <img src="https://discord.com/assets/76174ac71d3cebcc5ec2949e33a2ed25.svg"
-          alt=":dodo:" />
+          <img src="../.gitbook/assets/dodo.svg" alt=":dodo:" />
         </p>
         <p>L&#xE9;opard
-          <img src="https://discord.com/assets/a4ae9ac0cb5ad12a68f767d39b249811.svg"
-          alt=":leopard:" />
+          <img src="../.gitbook/assets/leopard.svg" alt=":leopard:"
+          />
         </p>
         <p>Mammouth
-          <img src="https://discord.com/assets/af5f26288872cf6f0f22ef421fc394cd.svg"
-          alt=":mammoth:" />
+          <img src="../.gitbook/assets/mammoth.svg" alt=":mammoth:" />
         </p>
         <p>Colombe &#x1F54A;</p>
       </td>
@@ -272,10 +261,9 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         <p>Licorne &#x1F984;</p>
         <p>Dragon &#x1F409;</p>
         <p>T-rex &#x1F996;</p>
-        <p>Stitch/Angel</p>
-        <p>
-          <img src="https://discord.com/assets/35fce59c5d17a56d69c3de3d8864ed22.svg"
-          alt=":blue_circle:" />
+        <p>Stitch/Angel
+          <img src="../.gitbook/assets/purple-circle.svg" alt=":blue_circle:"
+          />
         </p>
       </td>
     </tr>
