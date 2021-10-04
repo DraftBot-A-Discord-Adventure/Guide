@@ -159,8 +159,8 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         <p>Caniche&#x1F429;</p>
         <p>Chat&#x1F408;</p>
         <p>Chat noir
-          <img src="https://discord.com/assets/a784784c984905c2a74507d57aa3523e.svg"
-          alt=":black_cat:" />
+          <img src="../.gitbook/assets/black-cat.svg" alt=":black_cat:"
+          />
         </p>
         <p>Souris&#x1F401;</p>
         <p>Hamster &#x1F439;</p>
@@ -235,7 +235,7 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
         <p>Paon
           <img src="../.gitbook/assets/peacock.svg" alt=":peacock:" />
         </p>
-        <p>P&#xE9;rroquet &#x1F99C;</p>
+        <p>Perroquet &#x1F99C;</p>
         <p>Loutre
           <img src="../.gitbook/assets/otter.svg" alt=":otter:" />
         </p>
@@ -243,7 +243,9 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
       <td style="text-align:left">
         <p>Tigre &#x1F405;</p>
         <p>Lion &#x1F981;</p>
-        <p>Aigle</p>
+        <p>Aigle
+          <img src="../.gitbook/assets/eagle.svg" alt=":black_cat:" />
+        </p>
         <p>Dodo
           <img src="../.gitbook/assets/dodo.svg" alt=":dodo:" />
         </p>
