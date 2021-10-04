@@ -20,16 +20,16 @@ description: >-
 🥇 `Personne ayant atteint la première place du classement après le reset`   
 🤑 `Badge acheté dans le shop`   
 🌟 `Personne ayant aidé à mettre le bot sur un serv de plus de 2000 membres`   
-🌍 `Personne ayant participé activement à la traduction du bot`   
-🖋️ `Rédacteur du bot`   
-⚙️ `Equipe technique`   
-🎗️ `Personne ayant dominé un classement de la semaine`   
-🎄 `Badge pouvant être gagné chaque noël lors d'un concours`   
-😂 `Badge offert à ceux qui postent un bon meme sur le draftbot`   
-🗳️ `Personne ayant voté dans les 12 dernières heures`  
-💎 `Membre d'une guilde puissante`  
-🔖 `Adopteur de classes de la première heure`  
-⚔️ `Vainqueur d'un tournoi`  
+![:blue\_circle:](../.gitbook/assets/earth-africa.svg) `Personne ayant participé activement à la traduction du bot`   
+![:blue\_circle:](../.gitbook/assets/pen-fountain.svg) `Rédacteur du bot`   
+![:blue\_circle:](../.gitbook/assets/gear.svg) `Equipe technique`   
+![:blue\_circle:](../.gitbook/assets/reminder-ribbon.svg) `Personne ayant dominé un classement de la semaine`   
+![:blue\_circle:](../.gitbook/assets/christmas-tree.svg) `Badge pouvant être gagné chaque noël lors d'un concours`   
+![:blue\_circle:](../.gitbook/assets/joy.svg) `Badge offert à ceux qui postent un bon meme sur le draftbot`   
+![:blue\_circle:](../.gitbook/assets/ballot-box.svg) `Personne ayant voté dans les 12 dernières heures`  
+![:blue\_circle:](../.gitbook/assets/gem.png) `Membre d'une guilde puissante`  
+![:blue\_circle:](../.gitbook/assets/big_book.png) `Adopteur de classes de la première heure`  
+![:blue\_circle:](../.gitbook/assets/crosses_sword.png) `Vainqueur d'un tournoi`  
 🚩`Joueur ayant accompli une mission hebdomadaire sur le twitter de bot`  
 💞`Joueur ayant dressé un familier légendaire`
 
