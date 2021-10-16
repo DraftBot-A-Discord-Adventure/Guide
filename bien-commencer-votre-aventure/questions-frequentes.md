@@ -10,7 +10,7 @@ La liste des commandes du bot peut être obtenue en utilisant la commande `help`
 
 Vérifiez que vous avez donné les bonnes permissions au bot. 
 
-![Liste minimale des permissions n&#xE9;cessaires](../.gitbook/assets/image%20%2815%29.png)
+![Liste minimale des permissions nécessaires](<../.gitbook/assets/image (15).png>)
 
 Si les permissions sont correctes pour le channel où vous avez fait la commande, vérifiez que vous utilisez le bon préfixe en mentionnant DraftBot. Celui-ci vous communiquera le préfixe à utiliser.
 
@@ -18,15 +18,15 @@ Si les permissions sont correctes pour le channel où vous avez fait la commande
 
 ### **Est-il possible de rajouter le bot sur mon serveur ?** 
 
-OUI ! Le lien pour inviter le bot est disponible sur [http://draftbot.com/](http://draftbot.com/), ainsi que sur notre [serveur discord](https://discord.gg/aJhQy4AtAA) dans le salon **\#👑-bienvenue** ou en messages épinglés dans les salons **🗣-général** ou **🗣-entraide-draftbot**. Une méthode plus simple consiste à cliquer sur le lien ci-dessous.
+OUI ! Le lien pour inviter le bot est disponible sur [http://draftbot.com/](http://draftbot.com), ainsi que sur notre [serveur discord](https://discord.gg/aJhQy4AtAA) dans le salon **#👑-bienvenue** ou en messages épinglés dans les salons **🗣-général** ou **🗣-entraide-draftbot**. Une méthode plus simple consiste à cliquer sur le lien ci-dessous.
 
-{% embed url="https://discordapp.com/api/oauth2/authorize?client\_id=448110812801007618&permissions=280640&scope=bot" %}
+{% embed url="https://discordapp.com/api/oauth2/authorize?client_id=448110812801007618&permissions=280640&scope=bot" %}
 
 ### **En quel langage le bot est-il développé ?**
 
 _Node js_
 
-Les données enregistrées dans la base de données concernent uniquement le jeu \(les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés\). Les pseudonymes de joueurs ne sont pas non plus enregistrés.
+Les données enregistrées dans la base de données concernent uniquement le jeu (les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés). Les pseudonymes de joueurs ne sont pas non plus enregistrés.
 
 ### Comment créer un bot discord ?
 
@@ -49,4 +49,3 @@ OUI ! Le bot est complètement OPEN SOURCE !!! N'hésitez pas à contribuer ici 
 Il existe deux bots "Draftbot" , mais ils n'ont rien en commun en dehors du nom, et aucun des deux créateurs n'a plagié sur l'autre. Si vous cherchez de l'aide à propos de l'autre bot, nous vous conseillons de rejoindre leur plateforme de support.
 
 ​
-

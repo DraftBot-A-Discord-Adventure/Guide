@@ -6,23 +6,23 @@ Lors de cette mise à jour, la progression de la totalité des joueurs a été r
 
 ### Commandes ajoutées
 
-| Commande | Alias | Description |
-| :--- | :--- | :--- |
+| Commande  | Alias  | Description                                                                                                                                                        |
+| --------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **drink** | **dr** | Cette commande permet de consommer la potion que vous transportez. Certaines potions ne peuvent pas être bues et sont consommées automatiquement lors d'un combat. |
 
 ### Commandes supprimées
 
 Suppression des commandes `!regen` et `!levelup`. Ces deux actions sont désormais automatiques.
 
-La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`]().
+La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`](broken-reference).
 
 ###  Système du profile
 
 L'interface des combats et du profile ont été complètement réécrit. Pour vous donner un aperçu, voici l'interface du profile avant et après la v1.0.0.  
 
-![Syst&#xE8;me de profile avant la mise &#xE0; jour](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot_%2848%29.png/revision/latest/scale-to-width-down/617?cb=20200409185454&path-prefix=fr)
+![Système de profile avant la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot_\(48\).png/revision/latest/scale-to-width-down/617?cb=20200409185454\&path-prefix=fr)
 
-![Syst&#xE8;me de profile apr&#xE8;s la mise &#xE0; jour](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot_%2850%29.png/revision/latest?cb=20200409190521&path-prefix=fr)
+![Système de profile après la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot_\(50\).png/revision/latest?cb=20200409190521\&path-prefix=fr)
 
 ### Ajout des badges 
 
@@ -32,5 +32,6 @@ Je vous invite a consulter la page du wiki dédié au [badges](../notions-avance
 
 La liste des nouveautés complète de cette mise à jour est disponible sur le site dédié aux historiques de mise à jour :
 
-{% embed url="https://history.draftbot.com/1.0.0" caption="Historique des nouveautés de la 1.0.0" %}
-
+{% embed url="https://history.draftbot.com/1.0.0" %}
+Historique des nouveautés de la 1.0.0
+{% endembed %}

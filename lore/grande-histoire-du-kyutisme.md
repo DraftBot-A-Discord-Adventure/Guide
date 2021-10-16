@@ -6,15 +6,15 @@ La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit 
 
 * les fidèles « simples », qui pratiquent mais ont leur profession et leur vie à côté.
 * les religieux.
-* Les membres de l’Ordre des Trois, kyutistes extrémistes qui rejettent le
+*   Les membres de l’Ordre des Trois, kyutistes extrémistes qui rejettent le
 
-  culte d’Askeriel et vénèrent la Trinité.
+    culte d’Askeriel et vénèrent la Trinité.
 
-![La Kyuill&#xE8;re utilis&#xE9;e par les pr&#xEA;tres](../.gitbook/assets/image%20%2864%29.png)
+![La Kyuillère utilisée par les prêtres](<../.gitbook/assets/image (59).png>)
 
-Les fidèles pratiquent dans des églises avec des prêtres\(ses\) Kyutistes, ces derniers vivant dans une annexe de l’église. La relique principale est la Sainte Kyuillère, les prêtres officiant d’ailleurs avec une kyuillère, grand bâton de 1m75 avec le bout en forme similaire à une cuillère. Le livre religieux est le Kyuran, où est transcrite l’histoire des dieux kyutistes \(résumée un peu plus bas\).
+Les fidèles pratiquent dans des églises avec des prêtres(ses) Kyutistes, ces derniers vivant dans une annexe de l’église. La relique principale est la Sainte Kyuillère, les prêtres officiant d’ailleurs avec une kyuillère, grand bâton de 1m75 avec le bout en forme similaire à une cuillère. Le livre religieux est le Kyuran, où est transcrite l’histoire des dieux kyutistes (résumée un peu plus bas).
 
-![Des pales copies de l&apos;objet divin semblent circuler dans la contr&#xE9;e](../.gitbook/assets/image%20%2865%29.png)
+![Des pales copies de l'objet divin semblent circuler dans la contrée](<../.gitbook/assets/image (60).png>)
 
 La hiérarchie religieuse se compose comme suit :
 
@@ -26,11 +26,11 @@ La hiérarchie religieuse se compose comme suit :
 
 ### Le Kyuran
 
-Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également divers présentations des différentes icônes.  
-  
+Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également divers présentations des différentes icônes.\
+\
 On raconte que le livre dispose de pouvoirs magiques mais cette information est difficile à vérifier car les rares exemplaires s'arrachent à prix d'or. 
 
-![Un exemplaire du Kyuran vendu dans un march&#xE9; noir.](../.gitbook/assets/image%20%2866%29.png)
+![Un exemplaire du Kyuran vendu dans un marché noir.](<../.gitbook/assets/image (61).png>)
 
 #### La Genèse :
 
@@ -50,5 +50,4 @@ Une dernière divinité existe, mais est endormie : il s’agit de Y'ahnor, di
 
 ### La secte
 
-La secte est un groupe de kyutistes extrémistes qui rejettent Askeriel. Ils se font nommer l’Ordre des Trois, et pensent qu’Askeriel est mort, détrôné par la Trinité sur les conseils de Y'ahnor, car il n’était pas digne de diriger le monde et l’humanité et les freine dans leur objectif de guider l’humanité. Ils sont dirigés par les trois Blusters, chacun symbolisant l’incarnation d’un des trois Dieux de la Trinité sur terre. D’après eux, tous les dieux sont foncièrement mauvais \(ce qui n’est pas le cas dans le kyutisme\), ils savent qu’ils iront auprès de Fenrir à leur mort à cause de leurs actes, mais ils espèrent recevoir un sort plus clément en effectuant des sacrifices divers en son honneur de leur vivant. Leur objectif final est de réveiller Y'ahnor grâce à des sacrifices humains, afin qu’elle guide l’humanité pour diriger le monde avec les Trois.
-
+La secte est un groupe de kyutistes extrémistes qui rejettent Askeriel. Ils se font nommer l’Ordre des Trois, et pensent qu’Askeriel est mort, détrôné par la Trinité sur les conseils de Y'ahnor, car il n’était pas digne de diriger le monde et l’humanité et les freine dans leur objectif de guider l’humanité. Ils sont dirigés par les trois Blusters, chacun symbolisant l’incarnation d’un des trois Dieux de la Trinité sur terre. D’après eux, tous les dieux sont foncièrement mauvais (ce qui n’est pas le cas dans le kyutisme), ils savent qu’ils iront auprès de Fenrir à leur mort à cause de leurs actes, mais ils espèrent recevoir un sort plus clément en effectuant des sacrifices divers en son honneur de leur vivant. Leur objectif final est de réveiller Y'ahnor grâce à des sacrifices humains, afin qu’elle guide l’humanité pour diriger le monde avec les Trois.

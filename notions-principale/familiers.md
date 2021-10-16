@@ -8,7 +8,7 @@ Pour le moment les familiers sont purement esthétiques. Ils n'ont pas de foncti
 
 Pour avoir les informations sur votre familier, vous devez utiliser la commande `!mypet` .
 
-Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles ⭐ ⭐ ⭐ ⭐ ⭐ 
+Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles :star: :star: :star: :star: :star: 
 
 Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier leur moral augmentera. A contrario, si vous délaissez vos familiers leur moral diminuera.
 
@@ -18,25 +18,25 @@ Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec 1
 
 La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
-| Niveau guilde/rareté familier | 1⭐  | 2 ⭐  | 3 ⭐  | 4 ⭐  | 5 ⭐  |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 | 90% | 9% | 0.9% | 0.09% | 0.01% |
-| 10 | 89.4% | 9.16% | 1.091% | 0.23% | 0.119% |
-| 20 | 87.6% | 9.64% | 1.664% | 0.65% | 0.446% |
-| 30 | 84.6% | 10.44% | 2.619% | 1.35% | 0.991% |
-| 40 | 80.4% | 11.56% | 3.956% | 2.33% | 1.754% |
-| 50 | 75% | 13% | 5.675% | 3.59% | 2.735% |
-| 60 | 68.4% | 14.76% | 7.776% | 5.13% | 3.934% |
-| 70 | 60.6% | 16.84% | 10.259% | 6.9499% | 5.3511% |
-| 80 | 51.6% | 19.24% | 13.124% | 9.0499% | 6.9861% |
-| 90 | 41.4% | 21.96% | 16.371% | 11.4299% | 8.8391% |
-| 100 | 30% | 25% | 20% | 14.0899% | 10.9101% |
+| Niveau guilde/rareté familier | 1:star:  | 2 :star:  | 3 :star:  | 4 :star:  | 5 :star:  |
+| ----------------------------- | -------- | --------- | --------- | --------- | --------- |
+| 0                             | 90%      | 9%        | 0.9%      | 0.09%     | 0.01%     |
+| 10                            | 89.4%    | 9.16%     | 1.091%    | 0.23%     | 0.119%    |
+| 20                            | 87.6%    | 9.64%     | 1.664%    | 0.65%     | 0.446%    |
+| 30                            | 84.6%    | 10.44%    | 2.619%    | 1.35%     | 0.991%    |
+| 40                            | 80.4%    | 11.56%    | 3.956%    | 2.33%     | 1.754%    |
+| 50                            | 75%      | 13%       | 5.675%    | 3.59%     | 2.735%    |
+| 60                            | 68.4%    | 14.76%    | 7.776%    | 5.13%     | 3.934%    |
+| 70                            | 60.6%    | 16.84%    | 10.259%   | 6.9499%   | 5.3511%   |
+| 80                            | 51.6%    | 19.24%    | 13.124%   | 9.0499%   | 6.9861%   |
+| 90                            | 41.4%    | 21.96%    | 16.371%   | 11.4299%  | 8.8391%   |
+| 100                           | 30%      | 25%       | 20%       | 14.0899%  | 10.9101%  |
 
 {% hint style="info" %}
 Si un pet est obtenu dans un mini-évènement, sa rareté est générée avec les statistiques des guildes de niveau 20.
 {% endhint %}
 
-Vous pouvez libérer votre familier avec la commande `!petfree` .
+Vous pouvez libérer votre familier avec la commande `!petfree `.
 
 {% hint style="danger" %}
 `Attention, cette action est irréversible, si vous libérez un familier, c'est définitif.`
@@ -48,11 +48,11 @@ Vous pouvez libérer votre familier avec la commande `!petfree` .
 
 L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'a la forme la plus basique de nourriture pour votre animal.
 
-![Le magasin de guilde permet d&apos;acheter diff&#xE9;rentes sortes de nourritures](../.gitbook/assets/image%20%2818%29.png)
+![Le magasin de guilde permet d'acheter différentes sortes de nourritures](<../.gitbook/assets/image (17).png>)
 
 La nourriture va permettre d'influer sur le moral de votre animal, pour nourrir votre familier vous devez utiliser la commande `!feedpet` ou son alias `!fp`.
 
-![La commande feedpet](../.gitbook/assets/image%20%2819%29.png)
+![La commande feedpet](<../.gitbook/assets/image (19).png>)
 
 Chaque type de nourriture fera gagner une quantité différente de points d'affection à votre familier. 
 
@@ -66,7 +66,7 @@ Cependant, le type de nourriture n'a pas d'influence sur la durée pendant laque
 La durée pendant laquelle un familier n'a pas faim dépend uniquement de la rareté du pet. Le nombre d'étoiles de rareté est égal au nombre d'heures qu'il faut attendre entre deux repas.
 {% endhint %}
 
-Certains familiers suivent un régime particulier \(herbivore ou carnivore\) et ne pourront donc pas profiter de certaines sources de nourritures. Ne donnez pas de salade à votre T-rex !
+Certains familiers suivent un régime particulier (herbivore ou carnivore) et ne pourront donc pas profiter de certaines sources de nourritures. Ne donnez pas de salade à votre T-rex !
 
 Ne négligez pas votre familier ! Son moral baissera si vous oubliez de vous en occuper. 
 
@@ -80,18 +80,18 @@ Il n'est pas possible d'effectuer certaines actions avec un familier fielleux !
 
 Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité de votre familier, ils sont classés de cette manière :
 
-1.  😼 Fielleux
-2.  😾 Sauvage
-3.  🙀 Craintif
-4.  😺 Apprivoisé
-5.  😻 Dressé
+1.  :smirk_cat: Fielleux
+2.  :pouting_cat: Sauvage
+3.  :scream_cat: Craintif
+4.  :smiley_cat: Apprivoisé
+5.  :heart_eyes_cat: Dressé
 
 {% hint style="info" %}
-Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimé \(mais vous pouvez le faire quand même\).
+Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimé (mais vous pouvez le faire quand même).
 {% endhint %}
 
 {% hint style="danger" %}
-Échanger ou vendre un familier avec un autre joueur réinitialisera son moral à 😾 Sauvage.
+Échanger ou vendre un familier avec un autre joueur réinitialisera son moral à :pouting_cat: Sauvage.
 
 Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
@@ -102,7 +102,7 @@ Vous avez la possibilité de stocker votre familier dans le **refuge de votre gu
 
 Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`.
 
-![Refuge de la guilde Draftpedia](../.gitbook/assets/shelter-pets.png)
+![Refuge de la guilde Draftpedia](<../.gitbook/assets/Shelter pets.png>)
 
 {% hint style="info" %}
 Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
@@ -112,19 +112,19 @@ Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 
 Vous pouvez définir un surnom pour votre familier afin de rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `!petnickname <surnom>` exemple : `!petnickname Henri` permet de surnommer votre familier "Henri".
 
-![Commande !mypet avec affichage du surnom du familier](../.gitbook/assets/rename-pets.png)
+![Commande !mypet avec affichage du surnom du familier](<../.gitbook/assets/Rename pets.png>)
 
 ###  Échange de familiers
 
 L'implémentation de cette mise à jour favorise l'interaction entre joueurs puisque vous avez la possibilité d'échanger un familier avec la commande `!pettrade <mention joueur>` exemple : `!pettrade @Heliox#1119` permet d'ouvrir l'interface d'échange de familier avec le joueur **Heliox**.
 
-![Menu d&apos;&#xE9;change de familiers](../.gitbook/assets/trade-pets.png)
+![Menu d'échange de familiers](<../.gitbook/assets/Trade pets.png>)
 
 ### Vente de familiers
 
-Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, \(ou alors que vous aimez l'argent\), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `!petsell [prix]`.
+Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, (ou alors que vous aimez l'argent), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `!petsell [prix]`.
 
-![Ici le familier &quot;Elle&quot; est vendu](../.gitbook/assets/image%20%2817%29.png)
+![Ici le familier "Elle" est vendu](<../.gitbook/assets/image (18).png>)
 
 Il y a des conditions importantes à respecter pour la vente de familier:
 
@@ -137,137 +137,6 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
 
 ### **Liste des familiers disponibles**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Commun</b>
-      </th>
-      <th style="text-align:left"><b>Peu commun</b>
-      </th>
-      <th style="text-align:left"><b>Rare</b>
-      </th>
-      <th style="text-align:left"><b>Tr&#xE8;s rare</b>
-      </th>
-      <th style="text-align:left"><b>L&#xE9;gendaire</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>Chien&#x1F415;</p>
-        <p>Caniche&#x1F429;</p>
-        <p>Chat&#x1F408;</p>
-        <p>Chat noir
-          <img src="../.gitbook/assets/black-cat.svg" alt=":black_cat:"
-          />
-        </p>
-        <p>Souris&#x1F401;</p>
-        <p>Hamster &#x1F439;</p>
-        <p>Lapin &#x1F407;</p>
-        <p>Vache &#x1F404;</p>
-        <p>Cochon &#x1F437;</p>
-        <p>Poule / Coq &#x1F414;</p>
-        <p>Oiseau &#x1F426;</p>
-        <p>Canard &#x1F986;</p>
-        <p>Cheval &#x1F40E;</p>
-        <p>Tortue &#x1F422;</p>
-        <p>Serpent &#x1F40D;</p>
-        <p>L&#xE9;zard &#x1F98E;</p>
-        <p>B&#xE9;lier / Mouton &#x1F411;</p>
-        <p>Ch&#xE8;vre / Bouc &#x1F410;</p>
-        <p>Dindon &#x1F983;</p>
-      </td>
-      <td style="text-align:left">
-        <p>Renard &#x1F98A;</p>
-        <p>Ours &#x1F43B;</p>
-        <p>Koala &#x1F428;</p>
-        <p>Grenouille &#x1F438;</p>
-        <p>Singe &#x1F412;</p>
-        <p>Pingouin &#x1F427;</p>
-        <p>Hibou &#x1F989;</p>
-        <p>Chauve-souris &#x1F987;</p>
-        <p>Loup &#x1F43A;</p>
-        <p>Sanglier &#x1F417;</p>
-        <p>Otarie
-          <img src="../.gitbook/assets/seal.svg" alt=":seal:" />
-        </p>
-        <p>Hippopotame &#x1F99B;</p>
-        <p>Lama &#x1F999;</p>
-        <p>Cygne &#x1F9A2;</p>
-        <p>Flamant rose
-          <img src="../.gitbook/assets/flamingo.svg" alt=":flamingo:"
-          />
-        </p>
-        <p>Raton Laveur &#x1F99D;</p>
-        <p>Putois
-          <img src="../.gitbook/assets/skunk.svg" alt=":skunk:" />
-        </p>
-        <p>Blaireau
-          <img src="../.gitbook/assets/badger.svg" alt=":badger:" />
-        </p>
-        <p>Castor
-          <img src="../.gitbook/assets/beaver.svg" alt=":beaver:" />
-        </p>
-        <p>Paresseux
-          <img src="../.gitbook/assets/sloth.svg" alt=":sloth:" />
-        </p>
-        <p>Tamia
-          <img src="../.gitbook/assets/chipmunk.svg" alt=":chipmunk:" />
-        </p>
-        <p>H&#xE9;risson&#x1F994;&#xFE0F;</p>
-      </td>
-      <td style="text-align:left">
-        <p>Ours polaire
-          <img src="../.gitbook/assets/polar-bear.svg" alt=":polar_bear:"
-          />
-        </p>
-        <p>Panda &#x1F43C;</p>
-        <p>Scorpion &#x1F982;</p>
-        <p>Crocodile &#x1F40A;</p>
-        <p>&#xC9;l&#xE9;phant &#x1F418;</p>
-        <p>Z&#xE8;bre &#x1F993;</p>
-        <p>Rhinoc&#xE9;ros &#x1F98F;</p>
-        <p>Dromadaire &#x1F42A;</p>
-        <p>Chameau &#x1F42B;</p>
-        <p>Girafe &#x1F992;</p>
-        <p>Kangourou &#x1F998;</p>
-        <p>Paon
-          <img src="../.gitbook/assets/peacock.svg" alt=":peacock:" />
-        </p>
-        <p>Perroquet &#x1F99C;</p>
-        <p>Loutre
-          <img src="../.gitbook/assets/otter.svg" alt=":otter:" />
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>Tigre &#x1F405;</p>
-        <p>Lion &#x1F981;</p>
-        <p>Aigle
-          <img src="../.gitbook/assets/eagle.svg" alt=":black_cat:" />
-        </p>
-        <p>Dodo
-          <img src="../.gitbook/assets/dodo.svg" alt=":dodo:" />
-        </p>
-        <p>L&#xE9;opard
-          <img src="../.gitbook/assets/leopard.svg" alt=":leopard:"
-          />
-        </p>
-        <p>Mammouth
-          <img src="../.gitbook/assets/mammoth.svg" alt=":mammoth:" />
-        </p>
-        <p>Colombe &#x1F54A;</p>
-      </td>
-      <td style="text-align:left">
-        <p>Licorne &#x1F984;</p>
-        <p>Dragon &#x1F409;</p>
-        <p>T-rex &#x1F996;</p>
-        <p>Stitch/Angel
-          <img src="../.gitbook/assets/purple-circle.svg" alt=":blue_circle:"
-          />
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+| **Commun**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Peu commun**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Rare**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Très rare**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Légendaire**                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Chien<span data-gb-custom-inline data-tag="emoji" data-code="1f415">🐕</span> </p><p>Caniche<span data-gb-custom-inline data-tag="emoji" data-code="1f429">🐩</span> </p><p>Chat<span data-gb-custom-inline data-tag="emoji" data-code="1f408">🐈</span> </p><p>Chat noir<img src="../.gitbook/assets/Black cat.svg" alt=":black_cat:"></p><p>Souris<span data-gb-custom-inline data-tag="emoji" data-code="1f401">🐁</span> </p><p>Hamster <span data-gb-custom-inline data-tag="emoji" data-code="1f439">🐹</span> </p><p> Lapin <span data-gb-custom-inline data-tag="emoji" data-code="1f407">🐇</span> </p><p>Vache <span data-gb-custom-inline data-tag="emoji" data-code="1f404">🐄</span> </p><p>Cochon <span data-gb-custom-inline data-tag="emoji" data-code="1f437">🐷</span> </p><p> Poule / Coq <span data-gb-custom-inline data-tag="emoji" data-code="1f414">🐔</span> </p><p>Oiseau <span data-gb-custom-inline data-tag="emoji" data-code="1f426">🐦</span> </p><p> Canard <span data-gb-custom-inline data-tag="emoji" data-code="1f986">🦆</span> </p><p> Cheval <span data-gb-custom-inline data-tag="emoji" data-code="1f40e">🐎</span> </p><p>Tortue <span data-gb-custom-inline data-tag="emoji" data-code="1f422">🐢</span> </p><p> Serpent <span data-gb-custom-inline data-tag="emoji" data-code="1f40d">🐍</span> </p><p>Lézard <span data-gb-custom-inline data-tag="emoji" data-code="1f98e">🦎</span> </p><p>Bélier / Mouton <span data-gb-custom-inline data-tag="emoji" data-code="1f411">🐑</span> </p><p>Chèvre / Bouc <span data-gb-custom-inline data-tag="emoji" data-code="1f410">🐐</span> </p><p>Dindon <span data-gb-custom-inline data-tag="emoji" data-code="1f983">🦃</span> </p> | <p>Renard <span data-gb-custom-inline data-tag="emoji" data-code="1f98a">🦊</span> </p><p>Ours <span data-gb-custom-inline data-tag="emoji" data-code="1f43b">🐻</span> </p><p>Koala <span data-gb-custom-inline data-tag="emoji" data-code="1f428">🐨</span> </p><p>Grenouille <span data-gb-custom-inline data-tag="emoji" data-code="1f438">🐸</span> </p><p>Singe <span data-gb-custom-inline data-tag="emoji" data-code="1f412">🐒</span> </p><p>Pingouin <span data-gb-custom-inline data-tag="emoji" data-code="1f427">🐧</span> </p><p>Hibou <span data-gb-custom-inline data-tag="emoji" data-code="1f989">🦉</span> </p><p>Chauve-souris <span data-gb-custom-inline data-tag="emoji" data-code="1f987">🦇</span> </p><p>Loup <span data-gb-custom-inline data-tag="emoji" data-code="1f43a">🐺</span> </p><p>Sanglier <span data-gb-custom-inline data-tag="emoji" data-code="1f417">🐗</span> </p><p>Otarie<img src="../.gitbook/assets/seal.svg" alt=":seal:"></p><p>Hippopotame <span data-gb-custom-inline data-tag="emoji" data-code="1f99b">🦛</span> </p><p>Lama <span data-gb-custom-inline data-tag="emoji" data-code="1f999">🦙</span> </p><p>Cygne <span data-gb-custom-inline data-tag="emoji" data-code="1f9a2">🦢</span> </p><p>Flamant rose<img src="../.gitbook/assets/Flamingo.svg" alt=":flamingo:"></p><p>Raton Laveur <span data-gb-custom-inline data-tag="emoji" data-code="1f99d">🦝</span> </p><p>Putois<img src="../.gitbook/assets/Skunk.svg" alt=":skunk:"></p><p>Blaireau<img src="../.gitbook/assets/badger.svg" alt=":badger:"></p><p>Castor<img src="../.gitbook/assets/Beaver.svg" alt=":beaver:"></p><p>Paresseux<img src="../.gitbook/assets/Sloth.svg" alt=":sloth:"></p><p>Tamia<img src="../.gitbook/assets/Chipmunk.svg" alt=":chipmunk:"></p><p>Hérisson🦔️</p> | <p>Ours polaire<img src="../.gitbook/assets/Polar bear.svg" alt=":polar_bear:"></p><p>Panda <span data-gb-custom-inline data-tag="emoji" data-code="1f43c">🐼</span> </p><p>Scorpion <span data-gb-custom-inline data-tag="emoji" data-code="1f982">🦂</span> </p><p>Crocodile <span data-gb-custom-inline data-tag="emoji" data-code="1f40a">🐊</span> </p><p>Éléphant <span data-gb-custom-inline data-tag="emoji" data-code="1f418">🐘</span> </p><p>Zèbre <span data-gb-custom-inline data-tag="emoji" data-code="1f993">🦓</span> </p><p>Rhinocéros <span data-gb-custom-inline data-tag="emoji" data-code="1f98f">🦏</span> </p><p>Dromadaire <span data-gb-custom-inline data-tag="emoji" data-code="1f42a">🐪</span> </p><p>Chameau <span data-gb-custom-inline data-tag="emoji" data-code="1f42b">🐫</span> </p><p>Girafe <span data-gb-custom-inline data-tag="emoji" data-code="1f992">🦒</span> </p><p>Kangourou <span data-gb-custom-inline data-tag="emoji" data-code="1f998">🦘</span> </p><p>Paon<img src="../.gitbook/assets/Peacock.svg" alt=":peacock:"></p><p>Perroquet <span data-gb-custom-inline data-tag="emoji" data-code="1f99c">🦜</span> </p><p>Loutre<img src="../.gitbook/assets/otter.svg" alt=":otter:"></p> | <p>Tigre <span data-gb-custom-inline data-tag="emoji" data-code="1f405">🐅</span> </p><p>Lion <span data-gb-custom-inline data-tag="emoji" data-code="1f981">🦁</span> </p><p>Aigle <img src="../.gitbook/assets/Eagle.svg" alt=":black_cat:"></p><p>Dodo<img src="../.gitbook/assets/Dodo.svg" alt=":dodo:"></p><p>Léopard<img src="../.gitbook/assets/Leopard.svg" alt=":leopard:"></p><p>Mammouth<img src="../.gitbook/assets/Mammoth.svg" alt=":mammoth:"></p><p>Colombe <span data-gb-custom-inline data-tag="emoji" data-code="1f54a">🕊</span></p> | <p>Licorne <span data-gb-custom-inline data-tag="emoji" data-code="1f984">🦄</span> </p><p>Dragon <span data-gb-custom-inline data-tag="emoji" data-code="1f409">🐉</span> </p><p>T-rex <span data-gb-custom-inline data-tag="emoji" data-code="1f996">🦖</span> </p><p>Stitch/Angel<img src="../.gitbook/assets/purple circle.svg" alt=":blue_circle:"></p> |

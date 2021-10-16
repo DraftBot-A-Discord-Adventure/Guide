@@ -4,14 +4,14 @@ description: Un guide à propos de la commande !profil.
 
 # Profil
 
-Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande `!profile`.  
+Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande `!profile`.\
 Vous pouvez aussi utiliser la variante `!profile <@user>` pour accéder au profil d'un autre joueur.
 
 {% hint style="info" %}
 Vous pouvez aussi utiliser l'alias `!p` et sa variante `!p <@user>` pour ouvrir le profil.
 {% endhint %}
 
-![Profil d&apos;un joueur de Draftbot](../.gitbook/assets/profil-draftbot-energie.png)
+![Profil d'un joueur de Draftbot](<../.gitbook/assets/profil draftbot énergie.PNG>)
 
 L'inventaire d'un joueur se décompose donc de cette façon :
 
@@ -19,23 +19,23 @@ L'inventaire d'un joueur se décompose donc de cette façon :
 
 Ce sont les informations générales de votre personnage.
 
-* ❤ Points de vie
-* ⭐ Points d'expérience
-* 💰 Argent du jeu
+* :heart: Points de vie
+* :star: Points d'expérience
+* :moneybag: Argent du jeu
 
 ### Statistiques
 
 Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y retrouve :
 
-* 🗡 Points d'attaque
-* 🛡 Points de défense 
-* 🚀 Points de vitesse
-* ⚡ Énergie pour les combats
+* :dagger: Points d'attaque
+* :shield: Points de défense 
+* :rocket: Points de vitesse
+* :zap: Énergie pour les combats
 
 ### Classement et Score 
 
-* 🏆 Votre place de classement sur le nombre total de joueurs
-* 🏅 Points de classement
+* :trophy: Votre place de classement sur le nombre total de joueurs
+* :medal: Points de classement
 
 ### Temps restant 
 
@@ -48,4 +48,3 @@ Depuis les dernières versions de DraftBot, vous avez la possibilité de choisir
 ### Badges
 
 Pour finir, le bot ajoutera en réaction de votre profil des émojis correspondants aux [badges ](../notions-avancees/badges.md)que vous avez acquis durant votre aventure.
-

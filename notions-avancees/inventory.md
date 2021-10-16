@@ -4,7 +4,7 @@ L'inventaire est l'endroit où sont placés les différents items ramassés par 
 
 ### Organisation de l'inventaire 
 
-![l&apos;inventaire d&apos;un joueur qui vient de commencer l&apos;aventure](../.gitbook/assets/image%20%2854%29.png)
+![l'inventaire d'un joueur qui vient de commencer l'aventure](<../.gitbook/assets/image (51).png>)
 
 L'inventaire se décompose en deux parties distinctes, la première est dédiée aux objets équipés par le joueur, la seconde, quant à elle, est une réserve permettant de stocker un objet supplémentaire.
 
@@ -24,4 +24,3 @@ Les différents équipements se placent automatiquement dans la case de l'invent
 La commande `!daily` permet d'utiliser un objet placé dans la case "objet actif". 
 
 La commande `!switch` permet d'échanger l'objet de réserve avec l'objet actif.
-
