@@ -307,7 +307,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/potion-rouge.png)       | Potion                 | Attaque + 60 pendant le prochain combat  | Rare       |
 |  ![](../.gitbook/assets/potion-violette-2.png)  | Potion explosive       | Attaque + 65 pendant le prochain combat  | Rare       |
 |  ![](../.gitbook/assets/potion_bleue.png)       | Potion magique         | Attaque + 135 pendant le prochain combat | Spécial    |
-|  :wolf:                                         | Potion de sang de loup | Attaque + 178 pendant le prochain combat | Épique     |
+|  :wolf:                                         | Potion de sang de loup | Attaque + 178 pendant le prochain combat | Légendaire |
 
 #### Bonus de défense
 
