@@ -1,6 +1,8 @@
 # Questions et problèmes fréquents
 
-## Problèmes courants
+### Passer le bot en français
+
+La commande `language` permet de passer le jeu en français !
 
 ### Trouver la liste des commandes.
 
@@ -8,15 +10,13 @@ La liste des commandes du bot peut être obtenue en utilisant la commande `help`
 
 ### J'ai invité le bot sur mon serveur mais ce dernier ne répond pas.
 
-Vérifiez que vous avez donné les bonnes permissions au bot. 
+Vérifiez que vous avez donné les bonnes permissions au bot.
 
 ![Liste minimale des permissions nécessaires](<../.gitbook/assets/image (15).png>)
 
 Si les permissions sont correctes pour le channel où vous avez fait la commande, vérifiez que vous utilisez le bon préfixe en mentionnant DraftBot. Celui-ci vous communiquera le préfixe à utiliser.
 
-## Questions fréquentes
-
-### **Est-il possible de rajouter le bot sur mon serveur ?** 
+### **Est-il possible de rajouter le bot sur mon serveur ?**
 
 OUI ! Le lien pour inviter le bot est disponible sur [http://draftbot.com/](http://draftbot.com), ainsi que sur notre [serveur discord](https://discord.gg/aJhQy4AtAA) dans le salon **#👑-bienvenue** ou en messages épinglés dans les salons **🗣-général** ou **🗣-entraide-draftbot**. Une méthode plus simple consiste à cliquer sur le lien ci-dessous.
 
@@ -40,7 +40,7 @@ J'utilise OVH pour le moment et j'ai utilisé DigitalOcean, Amazon AWS et Google
 
 ### **Peut on voir le code du bot sur GitHub ou GitLab ?**
 
-OUI ! Le bot est complètement OPEN SOURCE !!! N'hésitez pas à contribuer ici : 
+OUI ! Le bot est complètement OPEN SOURCE !!! N'hésitez pas à contribuer ici :
 
 {% embed url="https://github.com/DraftBot-A-Discord-Adventure" %}
 

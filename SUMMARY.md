@@ -8,7 +8,7 @@
 * [Apprendre les bases](bien-commencer-votre-aventure/apprendre-les-bases.md)
 * [Questions et problèmes fréquents](bien-commencer-votre-aventure/questions-frequentes.md)
 
-## Notions principales <a id="notions-principale"></a>
+## Notions principales <a href="notions-principale" id="notions-principale"></a>
 
 * [Rapports](notions-principale/report.md)
 * [Carte et lieux](notions-principale/carte-et-lieux.md)
@@ -26,9 +26,8 @@
 * [Gestion de l'inventaire](notions-avancees/inventory.md)
 * [Mini-évènements](notions-avancees/mini-evenements.md)
 * [Badges](notions-avancees/badges.md)
-* [Liste complète des commandes](notions-avancees/liste-des-commandes.md)
 
-## Lore et histoire du bot <a id="lore"></a>
+## Lore et histoire du bot <a href="lore" id="lore"></a>
 
 * [Comment collaborer ?](lore/comment-collaborer.md)
 * [Historique des mises à jour](lore/historique-des-mises-a-jour.md)
@@ -36,4 +35,3 @@
 * [Redactor Gang](lore/redactor-gang.md)
 * [Les personnages récurrents](lore/les-personnages.md)
 * [Grande Histoire du Kyutisme](lore/grande-histoire-du-kyutisme.md)
-
