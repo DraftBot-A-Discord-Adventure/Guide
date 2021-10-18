@@ -2,7 +2,7 @@
 
 Il existe actuellement 15 types de mini-évènements différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder avec une vision plus stratégique de cette fonctionnalité.
 
-### :shopping\_cart: Mini-shop :
+### Mini-shop :
 
 **Taux d'apparition :** 5%
 
@@ -14,7 +14,7 @@ Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de 
 
 ![Un exemple de mini-shop](<../.gitbook/assets/image (44).png>)
 
-### :dog2: � Interaction avec un familier :
+### Interaction avec un familier :
 
 \*\*Taux d'apparition : \*\*6.25% - Nécessite d'avoir un familier équipé pour apparaître.
 
@@ -46,7 +46,7 @@ Si un familier est dressé, il compte dans le calcul des récompenses accessible
 
 ![Un exemple d'interaction avec un familier.](<../.gitbook/assets/image (45).png>)
 
-### :dog2: � Trouver un familier :�
+### Trouver un familier :
 
 **Taux d'apparition :** 2.5%
 
@@ -65,7 +65,7 @@ Voilà les probabilités d'obtention pour chaque rareté de familiers :
 
 ![Ne me demandez pas comment elle était montée là haut](<../.gitbook/assets/image (52).png>)
 
-### :grey\_exclamation: Trouver un équipement :
+### Trouver un équipement :
 
 **Taux d'apparition : **2.5%
 
@@ -73,7 +73,7 @@ Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir d
 
 ![Exemple de découverte d'un équipement](<../.gitbook/assets/image (53).png>)
 
-### :man\_walking: �Rien ne se passe :
+### Rien ne se passe :
 
 **Taux d'apparition :** 15%
 
@@ -81,7 +81,7 @@ Ce mini-évent affiche simplement une phrase d'encouragement pour le joueur.
 
 ![Un exemple du mini-évènement "Rien ne se passe"](<../.gitbook/assets/image (55).png>)
 
-### :confounded: �Petit malheur :
+### Petit malheur :
 
 **Taux d'apparition :** 10%
 
@@ -95,7 +95,7 @@ Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent 
 
 ![Un exemple de petit malheur](<../.gitbook/assets/image (56).png>)
 
-### :scream: �� Gros malheur :
+### Gros malheur :
 
 **Taux d'apparition :** 1.25%
 
@@ -109,9 +109,9 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 
 ![Un exemple de gros malheur](<../.gitbook/assets/image (57).png>)
 
-### :speech\_balloon: � Interaction avec un joueur sur le même trajet
+### Interaction avec un joueur sur le même trajet
 
-Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce mini-évènement permet de discuter avec un joueur que vous croisez que vous suivez ou que vous précédez !
+Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce miniévènement permet de discuter avec un joueur que vous croisez que vous suivez ou que vous précédez !
 
 Il existe une multitude de phrases en fonction de la situation de la personne que vous croisez !
 
