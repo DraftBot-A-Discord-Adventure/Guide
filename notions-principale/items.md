@@ -111,61 +111,61 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 ### Liste des armures/boucliers
 
-| Symbole                                  | Nom                        | Défense        | Rareté     |
-| ---------------------------------------- | -------------------------- | -------------- | ---------- |
-| :coat:                                   | Manteau                    | 3 défense      | Commun     |
-| :lab\_coat:                              | Blouse de laboratoire      | 3 défense      | Commun     |
-| :shield:                                 | Bouclier de débutant       | 4 défense      | Commun     |
-| :shield:                                 | Bouclier solide            | 6 défense      | Commun     |
-| :shield:                                 | Égide contrefait           | 6 défense      | Commun     |
-| :helmet\_with\_cross:                    | Casque de chantier         | 7 défense      | Commun     |
-| :shield:                                 | Bouclier renforcé          | 9 défense      | Commun     |
-| :shield:                                 | Petit bouclier             | 11 défense     | Commun     |
-| :helmet\_with\_cross:                    | Casque de guerre           | 12 défense     | Commun     |
-| :put\_litter\_in\_its\_place:            | Seau en fer                | 7 défense      | Peu commun |
-| :shield:                                 | Bouclier en bois           | 9 défense      | Peu commun |
-| :shield:                                 | Bouclier simple            | 11 défense     | Peu commun |
-| ![](../.gitbook/assets/safety\_vest.png) | Gilet de sécurité          | 12 défense     | Peu commun |
-| :shield:                                 | Scutum                     | 14 défense     | Peu commun |
-| :rugby\_football:                        | Bouclier de Brennus        | 15 défense     | Peu commun |
-| ![](<../.gitbook/assets/coat (1).png>)   | Tenue de combat            | 19 défense     | Peu commun |
-| :turtle:                                 | Carapace de Franklin       | 22 défense     | Peu commun |
-| :shield:                                 | Bouclier usé               | 16 défense     | Exotique   |
-| :umbrella2:                              | Parapluie de self défense  | 18 défense     | Exotique   |
-| :shield:                                 | Bouclier                   | 20 défense     | Exotique   |
-| :shield:                                 | Bouclier de guerre         | 22 défense     | Exotique   |
-| :shield:                                 | Rondache                   | 22 défense     | Exotique   |
-| :camping:                                | Tente                      | 22 défense     | Exotique   |
-| :shield:                                 | Bouclier de solitude       | 27 défense     | Exotique   |
-| :shield:                                 | Bouclier rouillé           | 29 défense     | Rare       |
-| ![](../.gitbook/assets/window.png)       | Plexiglas                  | 31 défense     | Rare       |
-| :shield:                                 | Bouclier lourd             | 34 défense     | Rare       |
-| :shield:                                 | Bouclier de fer            | 38 défense     | Rare       |
-| :shield:                                 | Bouclier de gladiateur     | 41 défense     | Rare       |
-| :shield:                                 | Lumière de Node            | 45 défense     | Rare       |
-| :shield:                                 | Bouclier de Lynel          | 55 défense     | Rare       |
-| :shield:                                 | Égide puissante            | \_ Undefined\_ | Spécial    |
-| :lab\_coat:                              | Kimono renforcé            | 48 défense     | Spécial    |
-| :muscle:                                 | Bras mécanique             | 67 défense     | Spécial    |
-| :chess\_pawn:                            | Voie des pions             | 73 défense     | Spécial    |
-| :eight\_spoked\_asterisk:                | Champ de force             | 79 défense     | Spécial    |
-| :shield:                                 | Bouclier royal             | 87 défense     | Spécial    |
-| :bricks:                                 | Mur                        | 94 défense     | Spécial    |
-| :shinto\_shrine:                         | Forteresse japonaise       | 0 défense      | Épique     |
-| :man\_judge:                             | Jurisprudence              | 89 défense     | Épique     |
-| :lab\_coat:                              | Kimono de maître           | 96 défense     | Épique     |
-| :person\_fencing:                        | Armure de fer              | 113 défense    | Épique     |
-| :sun\_with\_face:                        | Bouclier solaire           | 113 défense    | Épique     |
-| :shield:                                 | Bouclier puissant          | 132 défense    | Épique     |
-| :robot:                                  | Casque de robot            | 143 défense    | Épique     |
-| :shield:                                 | Bouclier de maître         | 169 défense    | Légendaire |
-| :eye\_in\_speech\_bubble:                | Bouclier déflecteur d'Engi | 182 défense    | Légendaire |
-| :family\_mmbb:                           | Bouclier humain            | 196 défense    | Légendaire |
-| :shield:                                 | Convention de Genève       | 212 défense    | Légendaire |
-| :shield:                                 | Bouclier ultime            | 212 défense    | Légendaire |
-| :shield:                                 | Bouclier à pointe          | 174 défense    | Mythique   |
-| :helmet\_with\_cross:                    | Blindage du major          | 203 défense    | Mythique   |
-| :shield:                                 | Bouclier en vibranium      | 219 défense    | Mythique   |
+| Symbole                                  | Nom                        | Statistiques                        | Rareté     |
+| ---------------------------------------- | -------------------------- | ----------------------------------- | ---------- |
+| :coat:                                   | Manteau                    | 3 défense                           | Commun     |
+| :lab\_coat:                              | Blouse de laboratoire      | 3 défense                           | Commun     |
+| :shield:                                 | Bouclier de débutant       | 4 défense                           | Commun     |
+| :shield:                                 | Bouclier solide            | 6 défense                           | Commun     |
+| :shield:                                 | Égide contrefait           | 6 défense                           | Commun     |
+| :helmet\_with\_cross:                    | Casque de chantier         | 7 défense                           | Commun     |
+| :put\_litter\_in\_its\_place:            | Seau en fer                | 7 défense                           | Peu commun |
+| :shield:                                 | Bouclier renforcé          | 9 défense                           | Commun     |
+| :shield:                                 | Bouclier en bois           | 9 défense                           | Peu commun |
+| :shield:                                 | Petit bouclier             | 11 défense                          | Commun     |
+| :shield:                                 | Bouclier simple            | 11 défense                          | Peu commun |
+| :helmet\_with\_cross:                    | Casque de guerre           | 12 défense                          | Commun     |
+| ![](../.gitbook/assets/safety\_vest.png) | Gilet de sécurité          | 12 défense                          | Peu commun |
+| :shield:                                 | Scutum                     | 14 défense                          | Peu commun |
+| :rugby\_football:                        | Bouclier de Brennus        | 15 défense                          | Peu commun |
+| :shield:                                 | Bouclier usé               | 16 défense                          | Exotique   |
+| :umbrella2:                              | Parapluie de self défense  | 18 défense                          | Exotique   |
+| ![](<../.gitbook/assets/coat (1).png>)   | Tenue de combat            | 19 défense                          | Peu commun |
+| :shield:                                 | Bouclier                   | 20 défense                          | Exotique   |
+| :turtle:                                 | Carapace de Franklin       | 22 défense, -10 vitesse             | Peu commun |
+| :shield:                                 | Bouclier de guerre         | 22 défense                          | Exotique   |
+| :shield:                                 | Rondache                   | 22 défense                          | Exotique   |
+| :camping:                                | Tente                      | 22 défense                          | Exotique   |
+| :shield:                                 | Bouclier de solitude       | 27 défense                          | Exotique   |
+| :shield:                                 | Bouclier rouillé           | 29 défense                          | Rare       |
+| ![](../.gitbook/assets/window.png)       | Plexiglas                  | 31 défense                          | Rare       |
+| :shield:                                 | Bouclier lourd             | 34 défense                          | Rare       |
+| :shield:                                 | Bouclier de fer            | 38 défense                          | Rare       |
+| :shield:                                 | Bouclier de gladiateur     | 41 défense                          | Rare       |
+| :shield:                                 | Lumière de Node            | 45 défense                          | Rare       |
+| :lab\_coat:                              | Kimono renforcé            | 48 défense                          | Spécial    |
+| :shield:                                 | Bouclier de Lynel          | 55 défense                          | Rare       |
+| :shield:                                 | Égide puissante            | 106 attaque, 40 défense             | Spécial    |
+| :muscle:                                 | Bras mécanique             | 67 défense                          | Spécial    |
+| :chess\_pawn:                            | Voie des pions             | 73 défense                          | Spécial    |
+| :eight\_spoked\_asterisk:                | Champ de force             | 79 défense                          | Spécial    |
+| :shield:                                 | Bouclier royal             | 87 défense                          | Spécial    |
+| :bricks:                                 | Mur                        | 94 défense                          | Spécial    |
+| :shinto\_shrine:                         | Forteresse japonaise       | 50 attaque, 64 défense              | Épique     |
+| :man\_judge:                             | Jurisprudence              | 45 attaque, 89 défense, -40 vitesse | Épique     |
+| :lab\_coat:                              | Kimono de maître           | 96 défense                          | Épique     |
+| :person\_fencing:                        | Armure de fer              | 113 défense                         | Épique     |
+| :sun\_with\_face:                        | Bouclier solaire           | 113 défense                         | Épique     |
+| :shield:                                 | Bouclier puissant          | 132 défense                         | Épique     |
+| :robot:                                  | Casque de robot            | 143 défense                         | Épique     |
+| :shield:                                 | Bouclier de maître         | 169 défense                         | Légendaire |
+| :eye\_in\_speech\_bubble:                | Bouclier déflecteur d'Engi | 182 défense                         | Légendaire |
+| :family\_mmbb:                           | Bouclier humain            | 196 défense                         | Légendaire |
+| :shield:                                 | Convention de Genève       | 212 défense                         | Légendaire |
+| :shield:                                 | Bouclier ultime            | 212 défense                         | Légendaire |
+| :shield:                                 | Bouclier à pointe          | 174 défense                         | Mythique   |
+| :helmet\_with\_cross:                    | Blindage du major          | 203 défense                         | Mythique   |
+| :shield:                                 | Bouclier en vibranium      | 219 défense                         | Mythique   |
 
 ### Liste des objets
 
