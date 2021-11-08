@@ -117,7 +117,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :lab\_coat:                              | Blouse de laboratoire      | 3 défense                           | Commun     |
 | :shield:                                 | Bouclier de débutant       | 4 défense                           | Commun     |
 | :shield:                                 | Bouclier solide            | 6 défense                           | Commun     |
-| :shield:                                 | Égide contrefait           | 6 défense                           | Commun     |
+| :shield:                                 | Égide contrefaite          | 6 défense                           | Commun     |
 | :helmet\_with\_cross:                    | Casque de chantier         | 7 défense                           | Commun     |
 | :put\_litter\_in\_its\_place:            | Seau en fer                | 7 défense                           | Peu commun |
 | :shield:                                 | Bouclier renforcé          | 9 défense                           | Commun     |
@@ -129,13 +129,13 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :shield:                                 | Scutum                     | 14 défense                          | Peu commun |
 | :rugby\_football:                        | Bouclier de Brennus        | 15 défense                          | Peu commun |
 | :shield:                                 | Bouclier usé               | 16 défense                          | Exotique   |
-| :umbrella2:                              | Parapluie de self défense  | 18 défense                          | Exotique   |
+| :umbrella2:                              | Parapluie d'auto défense   | 18 défense                          | Exotique   |
 | ![](<../.gitbook/assets/coat (1).png>)   | Tenue de combat            | 19 défense                          | Peu commun |
 | :shield:                                 | Bouclier                   | 20 défense                          | Exotique   |
 | :turtle:                                 | Carapace de Franklin       | 22 défense, -10 vitesse             | Peu commun |
 | :shield:                                 | Bouclier de guerre         | 22 défense                          | Exotique   |
 | :shield:                                 | Rondache                   | 22 défense                          | Exotique   |
-| :camping:                                | Tente                      | 22 défense                          | Exotique   |
+| :camping:                                | Tente                      | 22 défense, -25 vitesse             | Exotique   |
 | :shield:                                 | Bouclier de solitude       | 27 défense                          | Exotique   |
 | :shield:                                 | Bouclier rouillé           | 29 défense                          | Rare       |
 | ![](../.gitbook/assets/window.png)       | Plexiglas                  | 31 défense                          | Rare       |
