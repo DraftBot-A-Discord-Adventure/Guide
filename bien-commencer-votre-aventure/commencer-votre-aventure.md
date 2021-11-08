@@ -16,12 +16,12 @@ Il est aussi possible d'inviter le bot sur votre serveur ! (le lien d'invitation
 
 Lors de votre arrivée, vous serez accueilli par un message de bienvenue comme celui ci-dessous :
 
-![Le message de bienvenue que vous pouvez rencontrer](<../.gitbook/assets/image (1).png>)
+![Le message de bienvenue que vous pouvez rencontrer](<../.gitbook/assets/Accueil DB white.png>)
 
-Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Draftbot en Français" puis d'utiliser la commande `!report`
+Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Draftbot" puis d'utiliser la commande `!report`
 
-Suite à cette étape, le tutoriel du bot commencera. Suivez les instructions du bot pour continuer.
+Suite à cette étape, le tutoriel du bot commencera. Suivez ses instructions pour continuer.
 
 {% hint style="info" %}
-Une autre commande importante à connaitre est la commande`!help` Cette commande vous permettra d'obtenir la liste de toutes les commandes réalisables. Essayez les toutes !
+Une autre commande importante à connaitre est la commande`!help`. Cette commande vous permettra d'obtenir la liste de toutes les commandes réalisables. Essayez les toutes !
 {% endhint %}
