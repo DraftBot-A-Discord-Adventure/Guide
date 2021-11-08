@@ -48,6 +48,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :pushpin:                                 | Percingasiteur            | 8 dégâts   | Peu commun |
 | :seat:                                    | Chaise                    | 8 dégâts   | Peu commun |
 | :fishing\_pole\_and\_fish:                | Canne à pêche de débutant | 9 dégâts   | Peu commun |
+| :face\_with\_symbols\_over\_mouth:        | Infures                   | 9 dégâts   |            |
 | :bone:                                    | Gourdin                   | 11 dégâts  | Peu commun |
 | :bow\_and\_arrow:                         | Tueuse de loup            | 11 dégâts  | Peu commun |
 | :knife:                                   | Couteau ancien            | 12 dégâts  | Peu commun |
