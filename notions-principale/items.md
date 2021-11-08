@@ -4,9 +4,9 @@
 
 ### Niveaux de rareté
 
-* Basique:small\_orange\_diamond: `l'item possédé en début de jeu`
+* Basique :small\_orange\_diamond: `l'item possédé en début de jeu`
 * Commun :large\_orange\_diamond: `43,75% (1 item / 3)`
-* Peu commun:fire: `25% (1 item / 4)`
+* Peu commun :fire: `25% (1 item / 4)`
 * Exotique :trident: `15% (1 item / 7)`
 * Rare :comet: `10% (1 item / 10)`
 * Spécial :dizzy: `5% (1 item / 20)`
