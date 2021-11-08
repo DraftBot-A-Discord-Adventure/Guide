@@ -290,18 +290,18 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Bonus de vitesse
 
-| Symbole                                                                | Nom               | Effet                                    | Rareté     |
-| ---------------------------------------------------------------------- | ----------------- | ---------------------------------------- | ---------- |
-| :tea:                                                                  | Thé               | Vitesse + 1 pendant le prochain combat   | Commun     |
-| :coffee:                                                               | Café              | Vitesse + 1 pendant le prochain combat   | Commun     |
-| :tropical\_drink:                                                      | Boisson tropicale | Vitesse + 8 pendant le prochain combat   | Peu commun |
-| ![](<../.gitbook/assets/green potion.png>)                             | Jus de chaussette | Vitesse + 15 pendant le prochain combat  | Peu commun |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>)                    | Potion secouée    | Vitesse + 25 pendant le prochain combat  | Peu commun |
-| ![](<../.gitbook/assets/green potion.png>)                             | Potion verte      | Vitesse + 45 pendant le prochain combat  | Exotique   |
-| ![](<../.gitbook/assets/green potion.png>)                             | Potion fumante    | Vitesse + 88 pendant le prochain combat  | Rare       |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>)                    | Potion de vitesse | Vitesse + 200 pendant le prochain combat | Spécial    |
-| ![🔋](https://discord.com/assets/c63522b43c2c7bcbe934a22b4f7991bf.svg) | jus de batterie   | Vitesse + 212 pendant le prochain combat | épique     |
-| ![](<../.gitbook/assets/potion ultime.png>)                            | Grande potion     | Vitesse + 255 pendant le prochain combat | Légendaire |
+| Symbole                                             | Nom               | Effet                                    | Rareté     |
+| --------------------------------------------------- | ----------------- | ---------------------------------------- | ---------- |
+| :tea:                                               | Thé               | Vitesse + 1 pendant le prochain combat   | Commun     |
+| :coffee:                                            | Café              | Vitesse + 1 pendant le prochain combat   | Commun     |
+| :tropical\_drink:                                   | Boisson tropicale | Vitesse + 8 pendant le prochain combat   | Peu commun |
+| ![](<../.gitbook/assets/green potion.png>)          | Jus de chaussette | Vitesse + 15 pendant le prochain combat  | Peu commun |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion secouée    | Vitesse + 25 pendant le prochain combat  | Peu commun |
+| ![](<../.gitbook/assets/green potion.png>)          | Potion verte      | Vitesse + 45 pendant le prochain combat  | Exotique   |
+| ![](<../.gitbook/assets/green potion.png>)          | Potion fumante    | Vitesse + 88 pendant le prochain combat  | Rare       |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion de vitesse | Vitesse + 200 pendant le prochain combat | Spécial    |
+| :battery:                                           | jus de batterie   | Vitesse + 212 pendant le prochain combat | épique     |
+| ![](<../.gitbook/assets/potion ultime.png>)         | Grande potion     | Vitesse + 255 pendant le prochain combat | Légendaire |
 
 #### Bonus d'attaque
 
