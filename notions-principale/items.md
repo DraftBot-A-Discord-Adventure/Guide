@@ -26,88 +26,88 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 ### Liste des armes
 
-| Symbole                                   | Nom                       | Attaque    | Rareté     |
-| ----------------------------------------- | ------------------------- | ---------- | ---------- |
-| :cucumber:                                | Cornichon                 | 3 dégâts   | Commun     |
-| :herb:                                    | Branche souple            | 3 dégâts   | Commun     |
-| :rose:                                    | Bouquet de rose           | 3 dégâts   | Commun     |
-| :fork\_and\_knife:                        | Fourchette/couteau        | 4 dégâts   | Commun     |
-| :cricket:                                 | Bâton                     | 4 dégâts   | Commun     |
-| :hammer\_pick:                            | Outils usés               | 5 dégâts   | Commun     |
-| :key2:                                    | Clé rouillée              | 5 dégâts   | Commun     |
-| :pick:                                    | Pioche abimée             | 5 dégâts   | Commun     |
-| :hammer:                                  | Marteau                   | 6 dégâts   | Commun     |
-| :rugby\_football:                         | Balle de Fluxball         | 6 dégâts   | Commun     |
-| :punch:                                   | Poing renforcé            | 7 dégâts   | Commun     |
-| :left\_facing\_fist:                      | Griffe de main            | 7 dégâts   | Commun     |
-| :hockey:                                  | Crosse de Hockey          | 8 dégâts   | Commun     |
-| :boxing\_glove:                           | Gant de boxe              | 9 dégâts   | Commun     |
-| :snowflake:                               | Boule de neige            | 11 dégâts  | Commun     |
-| ![](../.gitbook/assets/razor.png)         | Rasoir                    | 12 dégâts  | Commun     |
-| :guitar:                                  | Guitare lourde            | 7 dégâts   | Peu commun |
-| :pushpin:                                 | Percingasiteur            | 8 dégâts   | Peu commun |
-| :seat:                                    | Chaise                    | 8 dégâts   | Peu commun |
-| :fishing\_pole\_and\_fish:                | Canne à pêche de débutant | 9 dégâts   | Peu commun |
-| :face\_with\_symbols\_over\_mouth:        | Injures                   | 9 dégâts   |            |
-| :bone:                                    | Gourdin                   | 11 dégâts  | Peu commun |
-| :bow\_and\_arrow:                         | Tueuse de loup            | 11 dégâts  | Peu commun |
-| :knife:                                   | Couteau ancien            | 12 dégâts  | Peu commun |
-| :knife:                                   | Épée en bois              | 12 dégâts  | Peu commun |
-| :umbrella2:                               | Parapluie                 | 14 dégâts  | Peu commun |
-| :knife:                                   | Couteau simple            | 15 dégâts  | Peu commun |
-| :closed\_book:                            | Gros livre                | 17 dégâts  | Peu commun |
-| :knife:                                   | Vieux couteau             | 19 dégâts  | Peu commun |
-| :bricks:                                  | Brique                    | 15 dégâts  | Exotique   |
-| :scissors:                                | Ciseaux                   | 16 dégâts  | Exotique   |
-| :family\_mmbb:                            | Pouvoir de l'amitié       | 18 dégâts  | Exotique   |
-| :fire\_extinguisher:                      | Extincteur                | 20 dégâts  | Exotique   |
-| :pick:                                    | Pioche                    | 22 dégâts  | Exotique   |
-| :bone:                                    | Massue                    | 22 dégâts  | Exotique   |
-| :dagger:                                  | Dague fragile             | 24 dégâts  | Exotique   |
-| :knife:                                   | Couteau de débutant       | 27 dégâts  | Exotique   |
-| ![](../.gitbook/assets/boomerang.png)     | Boomerang                 | 30 dégâts  | Exotique   |
-| :bow\_and\_arrow:                         | Arc de novice             | 33 dégâts  | Exotique   |
-| :chopsticks:                              | Pew Pew                   | 37 dégâts  | Exotique   |
-| :banana:                                  | Banane                    | 26 dégâts  | Rare       |
-| :gun:                                     | Pistolet déchargé         | 26 dégâts  | Rare       |
-| :syringe:                                 | Seringue                  | 29 dégâts  | Rare       |
-| :candle:                                  | Brûleur                   | 38 dégâts  | Rare       |
-| :fishing\_pole\_and\_fish:                | Canne à pêche             | 38 dégâts  | Rare       |
-| :syringe:                                 | Seringue contaminée       | 41 dégâts  | Rare       |
-| :crossed\_swords:                         | Épée de débutant          | 41 dégâts  | Rare       |
-| :bow\_and\_arrow:                         | Arc de soldat             | 45 dégâts  | Rare       |
-| :crossed\_swords:                         | Épée en fer               | 50 dégâts  | Rare       |
-| :dagger:                                  | Dague                     | 55 dégâts  | Rare       |
-| :crossed\_swords:                         | Double dagues             | 60 dégâts  | Rare       |
-| ![](../.gitbook/assets/axe.png)           | Hachoir                   | 60 dégâts  | Rare       |
-| :syringe:                                 | Seringue sale             | 48 dégâts  | Spécial    |
-| :cooking:                                 | Poële                     | 52 dégâts  | Spécial    |
-| :hammer:                                  | Marteau de guerre         | 62 dégâts  | Spécial    |
-| :fishing\_pole\_and\_fish:                | Canne à pêche de maître   | 67 dégâts  | Spécial    |
-| :bow\_and\_arrow:                         | Arc de chevalier          | 73 dégâts  | Spécial    |
-| :bomb:                                    | Bombe                     | 87 dégâts  | Spécial    |
-| :bow\_and\_arrow:                         | Arc                       | 87 dégâts  | Spécial    |
-| :crossed\_swords:                         | Épée sharpness 4          | 87 dégâts  | Spécial    |
-| :crossed\_swords:                         | Épées doubles             | 94 dégâts  | Spécial    |
-| :closed\_book:                            | Vieux grimoire            | 70 dégâts  | Epique     |
-| :dagger:                                  | Épée Kokiri               | 89 dégâts  | Epique     |
-| :crossed\_swords:                         | Beat saber                | 96 dégâts  | Epique     |
-| :crossed\_swords:                         | Ines'word                 | 96 dégâts  | Epique     |
-| :zap:                                     | Lame de charge            | 113 dégâts | Epique     |
-| :zap:                                     | Foudre de Zeus            | 122 dégâts | Epique     |
-| :crossed\_swords:                         | Épée royale               | 132 dégâts | Epique     |
-| :gun:                                     | Pistolet chargé           | 143 dégâts | Epique     |
-| :gun:                                     | Pistolet pan pan QQ       | 125 dégâts | Légendaire |
-| :biohazard:                               | Arme biologique           | 134 dégâts | Légendaire |
-| :crossed\_swords:                         | Épée de Ragnell           | 145 dégâts | Légendaire |
-| :bow\_and\_arrow:                         | Arc du Héros              | 182 dégâts | Légendaire |
-| :comet:                                   | L'âme du diable           | 182 dégâts | Légendaire |
-| :crossed\_swords:                         | Épée en diamant           | 196 dégâts | Légendaire |
-| :crossed\_swords:                         | Épée de maître            | 196 dégâts | Légendaire |
-| :dagger:                                  | Sabre                     | 212 dégâts | Légendaire |
-| :sparkles:                                | Sceptre aux 100 sorts     | 174 dégâts | Mythique   |
-| ![](../.gitbook/assets/scuba\_diving.png) | Sabotage d'oxygène        | 203 dégâts | Mythique   |
-| :bomb:                                    | Bombe Atomique            | 239 dégâts | Mythique   |
+| Symbole                                   | Nom                       | Stats        | Rareté     |
+| ----------------------------------------- | ------------------------- | ------------ | ---------- |
+| :cucumber:                                | Cornichon                 | 3 :dagger:   | Commun     |
+| :herb:                                    | Branche souple            | 3 :dagger:   | Commun     |
+| :rose:                                    | Bouquet de rose           | 3 :dagger:   | Commun     |
+| :fork\_and\_knife:                        | Fourchette/couteau        | 4 :dagger:   | Commun     |
+| :cricket:                                 | Bâton                     | 4 :dagger:   | Commun     |
+| :hammer\_pick:                            | Outils usés               | 5 :dagger:   | Commun     |
+| :key2:                                    | Clé rouillée              | 5 :dagger:   | Commun     |
+| :pick:                                    | Pioche abimée             | 5 :dagger:   | Commun     |
+| :hammer:                                  | Marteau                   | 6 :dagger:   | Commun     |
+| :rugby\_football:                         | Balle de Fluxball         | 6 :dagger:   | Commun     |
+| :punch:                                   | Poing renforcé            | 7 :dagger:   | Commun     |
+| :left\_facing\_fist:                      | Griffe de main            | 7 :dagger:   | Commun     |
+| :hockey:                                  | Crosse de Hockey          | 8 :dagger:   | Commun     |
+| :boxing\_glove:                           | Gant de boxe              | 9 :dagger:   | Commun     |
+| :snowflake:                               | Boule de neige            | 11 :dagger:  | Commun     |
+| ![](../.gitbook/assets/razor.png)         | Rasoir                    | 12 :dagger:  | Commun     |
+| :guitar:                                  | Guitare lourde            | 7 :dagger:   | Peu commun |
+| :pushpin:                                 | Percingasiteur            | 8 :dagger:   | Peu commun |
+| :seat:                                    | Chaise                    | 8 :dagger:   | Peu commun |
+| :fishing\_pole\_and\_fish:                | Canne à pêche de débutant | 9 :dagger:   | Peu commun |
+| :face\_with\_symbols\_over\_mouth:        | Injures                   | 9 :dagger:   | Peu commun |
+| :bone:                                    | Gourdin                   | 11 :dagger:  | Peu commun |
+| :bow\_and\_arrow:                         | Tueuse de loup            | 11 :dagger:  | Peu commun |
+| :knife:                                   | Couteau ancien            | 12 :dagger:  | Peu commun |
+| :knife:                                   | Épée en bois              | 12 :dagger:  | Peu commun |
+| :umbrella2:                               | Parapluie                 | 14 :dagger:  | Peu commun |
+| :knife:                                   | Couteau simple            | 15 :dagger:  | Peu commun |
+| :closed\_book:                            | Gros livre                | 17 :dagger:  | Peu commun |
+| :knife:                                   | Vieux couteau             | 19 :dagger:  | Peu commun |
+| :bricks:                                  | Brique                    | 15 :dagger:  | Exotique   |
+| :scissors:                                | Ciseaux                   | 16 :dagger:  | Exotique   |
+| :family\_mmbb:                            | Pouvoir de l'amitié       | 18 :dagger:  | Exotique   |
+| :fire\_extinguisher:                      | Extincteur                | 20 :dagger:  | Exotique   |
+| :pick:                                    | Pioche                    | 22 :dagger:  | Exotique   |
+| :bone:                                    | Massue                    | 22 :dagger:  | Exotique   |
+| :dagger:                                  | Dague fragile             | 24 :dagger:  | Exotique   |
+| :knife:                                   | Couteau de débutant       | 27 :dagger:  | Exotique   |
+| ![](../.gitbook/assets/boomerang.png)     | Boomerang                 | 30 :dagger:  | Exotique   |
+| :bow\_and\_arrow:                         | Arc de novice             | 33 :dagger:  | Exotique   |
+| :chopsticks:                              | Pew Pew                   | 37 :dagger:  | Exotique   |
+| :banana:                                  | Banane                    | 26 :dagger:  | Rare       |
+| :gun:                                     | Pistolet déchargé         | 26 :dagger:  | Rare       |
+| :syringe:                                 | Seringue                  | 29 :dagger:  | Rare       |
+| :candle:                                  | Brûleur                   | 38 :dagger:  | Rare       |
+| :fishing\_pole\_and\_fish:                | Canne à pêche             | 38 :dagger:  | Rare       |
+| :syringe:                                 | Seringue contaminée       | 41 :dagger:  | Rare       |
+| :crossed\_swords:                         | Épée de débutant          | 41 :dagger:  | Rare       |
+| :bow\_and\_arrow:                         | Arc de soldat             | 45 :dagger:  | Rare       |
+| :crossed\_swords:                         | Épée en fer               | 50 :dagger:  | Rare       |
+| :dagger:                                  | Dague                     | 55 :dagger:  | Rare       |
+| :crossed\_swords:                         | Double dagues             | 60 :dagger:  | Rare       |
+| ![](../.gitbook/assets/axe.png)           | Hachoir                   | 60 :dagger:  | Rare       |
+| :syringe:                                 | Seringue sale             | 48 :dagger:  | Spécial    |
+| :cooking:                                 | Poêle                     | 52 :dagger:  | Spécial    |
+| :hammer:                                  | Marteau de guerre         | 62 :dagger:  | Spécial    |
+| :fishing\_pole\_and\_fish:                | Canne à pêche de maître   | 67 :dagger:  | Spécial    |
+| :bow\_and\_arrow:                         | Arc de chevalier          | 73 :dagger:  | Spécial    |
+| :bomb:                                    | Bombe                     | 87 :dagger:  | Spécial    |
+| :bow\_and\_arrow:                         | Arc                       | 87 :dagger:  | Spécial    |
+| :crossed\_swords:                         | Épée sharpness 4          | 87 :dagger:  | Spécial    |
+| :crossed\_swords:                         | Épées doubles             | 94 :dagger:  | Spécial    |
+| :closed\_book:                            | Vieux grimoire            | 70 :dagger:  | Epique     |
+| :dagger:                                  | Épée Kokiri               | 89 :dagger:  | Epique     |
+| :crossed\_swords:                         | Beat saber                | 96 :dagger:  | Epique     |
+| :crossed\_swords:                         | Ines'word                 | 96 :dagger:  | Epique     |
+| :zap:                                     | Lame de charge            | 113 :dagger: | Epique     |
+| :zap:                                     | Foudre de Zeus            | 122 :dagger: | Epique     |
+| :crossed\_swords:                         | Épée royale               | 132 :dagger: | Epique     |
+| :gun:                                     | Pistolet chargé           | 143 :dagger: | Epique     |
+| :gun:                                     | Pistolet pan pan QQ       | 125 :dagger: | Légendaire |
+| :biohazard:                               | Arme biologique           | 134 :dagger: | Légendaire |
+| :crossed\_swords:                         | Épée de Ragnell           | 145 :dagger: | Légendaire |
+| :bow\_and\_arrow:                         | Arc du Héros              | 182 :dagger: | Légendaire |
+| :comet:                                   | L'âme du diable           | 182 :dagger: | Légendaire |
+| :crossed\_swords:                         | Épée en diamant           | 196 :dagger: | Légendaire |
+| :crossed\_swords:                         | Épée de maître            | 196 :dagger: | Légendaire |
+| :dagger:                                  | Sabre                     | 212 :dagger: | Légendaire |
+| :sparkles:                                | Sceptre aux 100 sorts     | 174 :dagger: | Mythique   |
+| ![](../.gitbook/assets/scuba\_diving.png) | Sabotage d'oxygène        | 203 :dagger: | Mythique   |
+| :bomb:                                    | Bombe Atomique            | 239 :dagger: | Mythique   |
 
 ### Liste des armures/boucliers
 
