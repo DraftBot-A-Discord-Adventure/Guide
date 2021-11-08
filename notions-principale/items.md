@@ -291,30 +291,30 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Bonus de vitesse
 
-| Symbole                                             | Nom               | Effet                                             | Rareté     |
-| --------------------------------------------------- | ----------------- | ------------------------------------------------- | ---------- |
-| :tea:                                               | Thé               | :rocket: Vitesse + 1 pendant le prochain combat   | Commun     |
-| :coffee:                                            | Café              | :rocket: Vitesse + 1 pendant le prochain combat   | Commun     |
-| :tropical\_drink:                                   | Boisson tropicale | :rocket: Vitesse + 8 pendant le prochain combat   | Peu commun |
-| ![](<../.gitbook/assets/green potion.png>)          | Jus de chaussette | :rocket: Vitesse + 15 pendant le prochain combat  | Peu commun |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion secouée    | :rocket: Vitesse + 25 pendant le prochain combat  | Peu commun |
-| ![](<../.gitbook/assets/green potion.png>)          | Potion verte      | :rocket: Vitesse + 45 pendant le prochain combat  | Exotique   |
-| ![](<../.gitbook/assets/green potion.png>)          | Potion fumante    | :rocket: Vitesse + 88 pendant le prochain combat  | Rare       |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion de vitesse | :rocket: Vitesse + 200 pendant le prochain combat | Spécial    |
-| :battery:                                           | jus de batterie   | :rocket: Vitesse + 212 pendant le prochain combat | épique     |
-| ![](<../.gitbook/assets/potion ultime.png>)         | Grande potion     | :rocket: Vitesse + 255 pendant le prochain combat | Légendaire |
+| Symbole                                             | Nom               | Effet                                    | Rareté     |
+| --------------------------------------------------- | ----------------- | ---------------------------------------- | ---------- |
+| :tea:                                               | Thé               | Vitesse + 1 pendant le prochain combat   | Commun     |
+| :coffee:                                            | Café              | Vitesse + 1 pendant le prochain combat   | Commun     |
+| :tropical\_drink:                                   | Boisson tropicale | Vitesse + 8 pendant le prochain combat   | Peu commun |
+| ![](<../.gitbook/assets/green potion.png>)          | Jus de chaussette | Vitesse + 15 pendant le prochain combat  | Peu commun |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion secouée    | Vitesse + 25 pendant le prochain combat  | Peu commun |
+| ![](<../.gitbook/assets/green potion.png>)          | Potion verte      | Vitesse + 45 pendant le prochain combat  | Exotique   |
+| ![](<../.gitbook/assets/green potion.png>)          | Potion fumante    | Vitesse + 88 pendant le prochain combat  | Rare       |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion de vitesse | Vitesse + 200 pendant le prochain combat | Spécial    |
+| :battery:                                           | jus de batterie   | Vitesse + 212 pendant le prochain combat | épique     |
+| ![](<../.gitbook/assets/potion ultime.png>)         | Grande potion     | Vitesse + 255 pendant le prochain combat | Légendaire |
 
 #### Bonus d'attaque
 
-| Symbole                                             | Nom                    | Effet                                             | Rareté     |
-| --------------------------------------------------- | ---------------------- | ------------------------------------------------- | ---------- |
-| :tumbler\_glass:                                    | Alcool                 | :dagger: Attaque + 5 pendant le prochain combat   | Commun     |
-| :tea:                                               | Larmes de l'adversaire | :dagger: Attaque + 20 pendant le prochain combat  | Peu commun |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion de force        | :dagger: Attaque + 45 pendant le prochain combat  | Exotique   |
-| ![](<../.gitbook/assets/potion rouge.png>)          | Potion                 | :dagger: Attaque + 60 pendant le prochain combat  | Rare       |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion explosive       | :dagger: Attaque + 65 pendant le prochain combat  | Rare       |
-| ![](../.gitbook/assets/Potion\_bleue.png)           | Potion magique         | :dagger: Attaque + 135 pendant le prochain combat | Spécial    |
-| :wolf:                                              | Potion de sang de loup | :dagger: Attaque + 178 pendant le prochain combat | Légendaire |
+| Symbole                                             | Nom                    | Effet                                    | Rareté     |
+| --------------------------------------------------- | ---------------------- | ---------------------------------------- | ---------- |
+| :tumbler\_glass:                                    | Alcool                 | Attaque + 5 pendant le prochain combat   | Commun     |
+| :tea:                                               | Larmes de l'adversaire | Attaque + 20 pendant le prochain combat  | Peu commun |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion de force        | Attaque + 45 pendant le prochain combat  | Exotique   |
+| ![](<../.gitbook/assets/potion rouge.png>)          | Potion                 | Attaque + 60 pendant le prochain combat  | Rare       |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion explosive       | Attaque + 65 pendant le prochain combat  | Rare       |
+| ![](../.gitbook/assets/Potion\_bleue.png)           | Potion magique         | Attaque + 135 pendant le prochain combat | Spécial    |
+| :wolf:                                              | Potion de sang de loup | Attaque + 178 pendant le prochain combat | Légendaire |
 
 #### Bonus de défense
 
