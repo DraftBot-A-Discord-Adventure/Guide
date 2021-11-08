@@ -141,6 +141,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | ![](../.gitbook/assets/window.png)       | Plexiglas                  | 31 défense                          | Rare       |
 | :shield:                                 | Bouclier lourd             | 34 défense                          | Rare       |
 | :shield:                                 | Bouclier de fer            | 38 défense                          | Rare       |
+| :moyai:                                  | Nam nam                    | 38 attaque, 38 défense, -10 vitesse |            |
 | :shield:                                 | Bouclier de gladiateur     | 41 défense                          | Rare       |
 | :shield:                                 | Lumière de Node            | 45 défense                          | Rare       |
 | :lab\_coat:                              | Kimono renforcé            | 48 défense                          | Spécial    |
