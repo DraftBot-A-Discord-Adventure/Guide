@@ -196,19 +196,19 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### ![](../.gitbook/assets/rocket.png) Bonus de vitesse
 
-| Symbole                             | Nom                           | Effet                                    | Rareté     |
-| ----------------------------------- | ----------------------------- | ---------------------------------------- | ---------- |
-| ![](../.gitbook/assets/amphora.png) | Pot en terre cuite            | Vitesse + 1 pendant le prochain combat   | Commun     |
-| :closed\_book:                      | Livre d'incantations volume 1 | Vitesse + 5 pendant le prochain combat   | Commun     |
-| :soap:                              | Savon glissant                | Vitesse + 7 pendant le prochain combat   | Peu commun |
-| :athletic\_shoe:                    | Chaussure de sport            | Vitesse + 15 pendant le prochain combat  | Peu commun |
-| :crystal\_ball:                     | Boule de verre magique        | Vitesse + 25 pendant le prochain combat  | Exotique   |
-| :four\_leaf\_clover:                | Feuille de vent               | Vitesse + 41 pendant le prochain combat  | Exotique   |
-| :skier:                             | Skis glissants                | Vitesse + 63 pendant le prochain combat  | Rare       |
-| :leg:                               | Jambe mécanique               | Vitesse + 87 pendant le prochain combat  | Spécial    |
-| :blossom:                           | Fleur de l'espoir             | Vitesse + 105 pendant le prochain combat | Épique     |
-| :mans\_shoe:                        | Bottes Pégases                | Vitesse + 108 pendant le prochain combat | Légendaire |
-| :broom:                             | Nimbus 2000                   | Vitesse + 151 pendant le prochain combat | Mythique   |
+| Symbole                             | Nom                           | Effet                              | Rareté     |
+| ----------------------------------- | ----------------------------- | ---------------------------------- | ---------- |
+| ![](../.gitbook/assets/amphora.png) | Pot en terre cuite            | + 1 :rocket: pendant les combats   | Commun     |
+| :closed\_book:                      | Livre d'incantations volume 1 | + 5 :rocket: pendant les combats   | Commun     |
+| :soap:                              | Savon glissant                | + 7 :rocket: pendant les combats   | Peu commun |
+| :athletic\_shoe:                    | Chaussure de sport            | + 15 :rocket: pendant les combats  | Peu commun |
+| :crystal\_ball:                     | Boule de verre magique        | + 25 :rocket: pendant les combats  | Exotique   |
+| :four\_leaf\_clover:                | Feuille de vent               | + 41 :rocket: pendant les combats  | Exotique   |
+| :skier:                             | Skis glissants                | + 63 :rocket: pendant les combats  | Rare       |
+| :leg:                               | Jambe mécanique               | + 87 :rocket: pendant les combats  | Spécial    |
+| :blossom:                           | Fleur de l'espoir             | + 105 :rocket: pendant les combats | Épique     |
+| :mans\_shoe:                        | Bottes Pégases                | + 108 :rocket: pendant les combats | Légendaire |
+| :broom:                             | Nimbus 2000                   | + 151 :rocket: pendant les combats | Mythique   |
 
 #### :crossed\_swords: Bonus d'attaque
 
