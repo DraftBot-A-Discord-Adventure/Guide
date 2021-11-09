@@ -180,19 +180,19 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### :heart: Bonus de vie
 
-| Symbole                               | Nom                      | Effet    | Rareté     |
-| ------------------------------------- | ------------------------ | -------- | ---------- |
-| :apple:                               | Pomme rouge              | Vie + 1  | Peu commun |
-| :green\_apple:                        | Pomme verte              | Vie + 2  | Exotique   |
-| :sparkles:                            | Chapelet mythique        | Vie + 3  | Exotique   |
-| ![](../.gitbook/assets/pansement.png) | Pansement                | Vie + 4  | Rare       |
-| :hearts:                              | Réceptacle de cœur       | Vie + 6  | Spécial    |
-| :banana:                              | Banan'ase split          | Vie + 7  | Épique     |
-| :squeeze\_bottle:                     | Gel hydroalcoolique      | Vie + 7  | Épique     |
-| :angel:                               | Bague de l'ange sans vie | Vie + 8  | Épique     |
-| :flag\_white:                         | Drapeau de la paix       | Vie + 9  | Légendaire |
-| :angel:                               | Bénédiction du ciel      | Vie + 10 | Légendaire |
-| :saxophone:                           | Saxo magique             | Vie + 11 | Mythique   |
+| Symbole                               | Nom                      | Effet                     | Rareté     |
+| ------------------------------------- | ------------------------ | ------------------------- | ---------- |
+| :apple:                               | Pomme rouge              | :heart: Vie + 1 par jour  | Peu commun |
+| :green\_apple:                        | Pomme verte              | :heart: Vie + 2 par jour  | Exotique   |
+| :sparkles:                            | Chapelet mythique        | :heart: Vie + 3 par jour  | Exotique   |
+| ![](../.gitbook/assets/pansement.png) | Pansement                | :heart: Vie + 4 par jour  | Rare       |
+| :hearts:                              | Réceptacle de cœur       | :heart: Vie + 6 par jour  | Spécial    |
+| :banana:                              | Banan'ase split          | :heart: Vie + 7 par jour  | Épique     |
+| :squeeze\_bottle:                     | Gel hydroalcoolique      | :heart: Vie + 7 par jour  | Épique     |
+| :angel:                               | Bague de l'ange sans vie | :heart: Vie + 8 par jour  | Épique     |
+| :flag\_white:                         | Drapeau de la paix       | :heart: Vie + 9 par jour  | Légendaire |
+| :angel:                               | Bénédiction du ciel      | :heart: Vie + 10 par jour | Légendaire |
+| :saxophone:                           | Saxo magique             | :heart: Vie + 11 par jour | Mythique   |
 
 #### ![](../.gitbook/assets/rocket.png) Bonus de vitesse
 
