@@ -4,9 +4,9 @@ Il existe actuellement 15 types de mini-évènements différents dans le bot. Vo
 
 ### Mini-shop :
 
-**Taux d'apparition :** 5%
+**Taux d'apparition :** 4.4%
 
-Vous permet d'acheter un item pour pas cher. (60 % du prix). Il n'est pas possible d'obtenir des items de rareté supérieure à spécial. Si vous achetez un item mais que vous n'acceptez pas de remplacer votre objet, l'item sera racheté par le vendeur pour un prix réduit à son prix d'achat.
+Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre objet, l'objet sera racheté par le vendeur pour un prix réduit à son prix d'achat.
 
 {% hint style="warning" %}
 Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour bien trop cher !
@@ -16,7 +16,7 @@ Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de 
 
 ### Interaction avec un familier :
 
-\*\*Taux d'apparition : \*\*6.25% - Nécessite d'avoir un familier équipé pour apparaître.
+**Taux d'apparition : **6.25% - Nécessite d'avoir un familier équipé pour apparaître.
 
 Réalise une interaction entre le propriétaire d'un familier et son familier. Ce mini-évènement peut être positif ou négatif en fonction de l'affection du familier. Les familiers plus rares permettent d'obtenir de meilleures récompenses.
 
@@ -48,7 +48,7 @@ Si un familier est dressé, il compte dans le calcul des récompenses accessible
 
 ### Trouver un familier :
 
-**Taux d'apparition :** 2.5%
+**Taux d'apparition :** 2.2%
 
 Le joueur découvre un familier qui le rejoint dans son aventure. Si le joueur a déjà un familier, le nouveau est placé dans le refuge de la guilde du joueur.
 
@@ -67,7 +67,7 @@ Voilà les probabilités d'obtention pour chaque rareté de familiers :
 
 ### Trouver un équipement :
 
-**Taux d'apparition : **2.5%
+**Taux d'apparition : **2.2%
 
 Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir des objets légendaires ou mythiques dans ce mini-évènement.
 
@@ -75,7 +75,7 @@ Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir d
 
 ### Rien ne se passe :
 
-**Taux d'apparition :** 15%
+**Taux d'apparition :** 8.8%
 
 Ce mini-évent affiche simplement une phrase d'encouragement pour le joueur.
 
@@ -83,7 +83,7 @@ Ce mini-évent affiche simplement une phrase d'encouragement pour le joueur.
 
 ### Petit malheur :
 
-**Taux d'apparition :** 10%
+**Taux d'apparition :** 8.8%
 
 Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent à de petits malus.
 
@@ -97,7 +97,7 @@ Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent 
 
 ### Gros malheur :
 
-**Taux d'apparition :** 1.25%
+**Taux d'apparition :** 1.1%
 
 Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent à de gros malus. Heureusement, cela reste très rare !
 
@@ -111,7 +111,7 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 
 ### Interaction avec un joueur sur le même trajet
 
-Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce miniévènement permet de discuter avec un joueur que vous croisez que vous suivez ou que vous précédez !
+Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce mini-évènement permet de discuter avec un joueur que vous croisez que vous suivez ou que vous précédez !
 
 Il existe une multitude de phrases en fonction de la situation de la personne que vous croisez !
 
