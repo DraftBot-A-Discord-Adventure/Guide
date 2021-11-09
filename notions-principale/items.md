@@ -117,7 +117,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :lab\_coat:                              | Blouse de laboratoire      | :shield:3                          | Commun     |
 | :shield:                                 | Bouclier de débutant       | :shield:4                          | Commun     |
 | :shield:                                 | Bouclier solide            | :shield:6                          | Commun     |
-| :shield:                                 | Égide contrefaite          | :shield:6                          | Commun     |
+| :shield:                                 | Égide contrefaite          | :dagger:6 :shield:6                | Commun     |
 | :helmet\_with\_cross:                    | Casque de chantier         | :shield:7                          | Commun     |
 | :put\_litter\_in\_its\_place:            | Seau en fer                | :shield:7                          | Peu commun |
 | :shield:                                 | Bouclier renforcé          | :shield:9                          | Commun     |
@@ -212,15 +212,15 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### :crossed\_swords: Bonus d'attaque
 
-| Symbole                | Nom                           | Effet                                    | Rareté     |
-| ---------------------- | ----------------------------- | ---------------------------------------- | ---------- |
-| :blue\_book:           | Livre d'incantations volume 2 | Attaque + 15 pendant le prochain combat  | Peu commun |
-| :trumpet:              | Cor de chasse                 | Attaque + 27 pendant le prochain combat  | Exotique   |
-| :small\_blue\_diamond: | Pouvoir de Nayru              | Attaque + 38 pendant le prochain combat  | Rare       |
-| :joy\_cat:             | Chat aux yeux lasers mignon   | Attaque + 57 pendant le prochain combat  | Spécial    |
-| :flag\_black:          | Drapeau de la mort            | Attaque + 85 pendant le prochain combat  | Épique     |
-| :gem:                  | Diamant kératinisé            | Attaque + 132 pendant le prochain combat | Légendaire |
-| :guitar:               | Guitare terrifiante           | Attaque + 137 pendant le prochain combat | Mythique   |
+| Symbole                | Nom                           | Effet                                             | Rareté     |
+| ---------------------- | ----------------------------- | ------------------------------------------------- | ---------- |
+| :blue\_book:           | Livre d'incantations volume 2 | :dagger: Attaque + 15 pendant le prochain combat  | Peu commun |
+| :trumpet:              | Cor de chasse                 | :dagger: Attaque + 27 pendant le prochain combat  | Exotique   |
+| :small\_blue\_diamond: | Pouvoir de Nayru              | :dagger: Attaque + 38 pendant le prochain combat  | Rare       |
+| :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque + 57 pendant le prochain combat  | Spécial    |
+| :flag\_black:          | Drapeau de la mort            | :dagger: Attaque + 85 pendant le prochain combat  | Épique     |
+| :gem:                  | Diamant kératinisé            | :dagger: Attaque + 132 pendant le prochain combat | Légendaire |
+| :guitar:               | Guitare terrifiante           | :dagger: Attaque + 137 pendant le prochain combat | Mythique   |
 
 #### :shield: Bonus de défense
 
