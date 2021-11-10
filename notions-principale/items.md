@@ -119,20 +119,20 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :shield:                                 | Bouclier solide            | :shield:6                          | Commun     |
 | :shield:                                 | Égide contrefaite          | :dagger:6 :shield:6                | Commun     |
 | :helmet\_with\_cross:                    | Casque de chantier         | :shield:7                          | Commun     |
-| :put\_litter\_in\_its\_place:            | Seau en fer                | :shield:7                          | Peu commun |
 | :shield:                                 | Bouclier renforcé          | :shield:9                          | Commun     |
-| :shield:                                 | Bouclier en bois           | :shield:9                          | Peu commun |
 | :shield:                                 | Petit bouclier             | :shield:11                         | Commun     |
-| :shield:                                 | Bouclier simple            | :shield:11                         | Peu commun |
 | :helmet\_with\_cross:                    | Casque de guerre           | :shield:12                         | Commun     |
+| :put\_litter\_in\_its\_place:            | Seau en fer                | :shield:7                          | Peu commun |
+| :shield:                                 | Bouclier en bois           | :shield:9                          | Peu commun |
+| :shield:                                 | Bouclier simple            | :shield:11                         | Peu commun |
 | ![](../.gitbook/assets/safety\_vest.png) | Gilet de sécurité          | :shield:12                         | Peu commun |
 | :shield:                                 | Scutum                     | :shield:14                         | Peu commun |
 | :rugby\_football:                        | Bouclier de Brennus        | :shield:15                         | Peu commun |
+| ![](<../.gitbook/assets/coat (1).png>)   | Tenue de combat            | :shield:19                         | Peu commun |
+| :turtle:                                 | Carapace de Franklin       | :shield:22 :rocket:-10             | Peu commun |
 | :shield:                                 | Bouclier usé               | :shield:16                         | Exotique   |
 | :umbrella2:                              | Parapluie d'auto défense   | :shield:18                         | Exotique   |
-| ![](<../.gitbook/assets/coat (1).png>)   | Tenue de combat            | :shield:19                         | Peu commun |
 | :shield:                                 | Bouclier                   | :shield:20                         | Exotique   |
-| :turtle:                                 | Carapace de Franklin       | :shield:22 :rocket:-10             | Peu commun |
 | :shield:                                 | Bouclier de guerre         | :shield:22                         | Exotique   |
 | :shield:                                 | Rondache                   | :shield:22                         | Exotique   |
 | :camping:                                | Tente                      | :shield:22 :rocket:-25             | Exotique   |
@@ -141,11 +141,11 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | ![](../.gitbook/assets/window.png)       | Plexiglas                  | :dagger:10 :shield:31              | Rare       |
 | :shield:                                 | Bouclier lourd             | :shield:34                         | Rare       |
 | :shield:                                 | Bouclier de fer            | :shield:38                         | Rare       |
-| :moyai:                                  | Nam nam                    | :dagger:38 :shield:38 :rocket:-10  |            |
+| :moyai:                                  | Nam nam                    | :dagger:38 :shield:38 :rocket:-10  | Rare       |
 | :shield:                                 | Bouclier de gladiateur     | :shield:41                         | Rare       |
 | :shield:                                 | Lumière de Node            | :shield:45                         | Rare       |
-| :lab\_coat:                              | Kimono renforcé            | :shield:48                         | Spécial    |
 | :shield:                                 | Bouclier de Lynel          | :shield:55                         | Rare       |
+| :lab\_coat:                              | Kimono renforcé            | :shield:48                         | Spécial    |
 | :shield:                                 | Égide puissante            | :dagger:106 :shield:40             | Spécial    |
 | :muscle:                                 | Bras mécanique             | :shield:67                         | Spécial    |
 | :chess\_pawn:                            | Voie des pions             | :shield:73                         | Spécial    |
@@ -163,8 +163,8 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :eye\_in\_speech\_bubble:                | Bouclier déflecteur d'Engi | :shield:182                        | Légendaire |
 | :family\_mmbb:                           | Bouclier humain            | :shield:196                        | Légendaire |
 | :shield:                                 | Convention de Genève       |  :dagger:-40 :shield:232           | Légendaire |
-| :helmet\_with\_cross:                    | Blindage du major          | :shield:203                        | Mythique   |
 | :shield:                                 | Bouclier ultime            | :shield:212                        | Légendaire |
+| :helmet\_with\_cross:                    | Blindage du major          | :shield:203                        | Mythique   |
 | :shield:                                 | Bouclier à pointes         | :dagger:15 :shield:174 :rocket:-20 | Mythique   |
 | :shield:                                 | Bouclier en vibranium      | :shield:219                        | Mythique   |
 
