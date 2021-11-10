@@ -212,28 +212,28 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### :crossed\_swords: Bonus d'attaque
 
-| Symbole                | Nom                           | Effet                                             | Rareté     |
-| ---------------------- | ----------------------------- | ------------------------------------------------- | ---------- |
-| :blue\_book:           | Livre d'incantations volume 2 | :dagger: Attaque + 15 pendant le prochain combat  | Peu commun |
-| :trumpet:              | Cor de chasse                 | :dagger: Attaque + 27 pendant le prochain combat  | Exotique   |
-| :small\_blue\_diamond: | Pouvoir de Nayru              | :dagger: Attaque + 38 pendant le prochain combat  | Rare       |
-| :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque + 57 pendant le prochain combat  | Spécial    |
-| :flag\_black:          | Drapeau de la mort            | :dagger: Attaque + 85 pendant le prochain combat  | Épique     |
-| :gem:                  | Diamant kératinisé            | :dagger: Attaque + 132 pendant le prochain combat | Légendaire |
-| :guitar:               | Guitare terrifiante           | :dagger: Attaque + 137 pendant le prochain combat | Mythique   |
+| Symbole                | Nom                           | Effet                                     | Rareté     |
+| ---------------------- | ----------------------------- | ----------------------------------------- | ---------- |
+| :blue\_book:           | Livre d'incantations volume 2 | :dagger: Attaque +15 pendant les combats  | Peu commun |
+| :trumpet:              | Cor de chasse                 | :dagger: Attaque +27 pendant les combats  | Exotique   |
+| :small\_blue\_diamond: | Pouvoir de Nayru              | :dagger: Attaque +38 pendant les combats  | Rare       |
+| :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque +57 pendant les combats  | Spécial    |
+| :flag\_black:          | Drapeau de la mort            | :dagger: Attaque +85 pendant les combats  | Épique     |
+| :gem:                  | Diamant kératinisé            | :dagger: Attaque +132 pendant les combats | Légendaire |
+| :guitar:               | Guitare terrifiante           | :dagger: Attaque +137 pendant les combats | Mythique   |
 
 #### :shield: Bonus de défense
 
-| Symbole                          | Nom                           | Effet                                 | Rareté     |
-| -------------------------------- | ----------------------------- | ------------------------------------- | ---------- |
-| :spoon:                          | Cuillère de Kyu               | Défense + 9 pour le prochain combat   | Commun     |
-| :bear:                           | Ours en peluche               | Défense + 14 pour le prochain combat  | Peu commun |
-| ![](../.gitbook/assets/jack.png) | Citrouille                    | Défense + 15 pour le prochain combat  | Peu commun |
-| :orange\_book:                   | Livre d'incantations volume 3 | Défense + 25 pour le prochain combat  | Exotique   |
-| :new\_moon:                      | Bout d'obsidienne             | Défense + 42 pour le prochain combat  | Rare       |
-| :white\_flower:                  | Fleur royale                  | Défense + 59 pour le prochain combat  | Spécial    |
-| :full\_moon\_with\_face:         | Lune mojaro                   | Défense + 90 pour le prochain combat  | Épique     |
-| :cyclone:                        | Amulette cyclonique           | Défense + 143 pour le prochain combat | Légendaire |
+| Symbole                          | Nom                           | Effet                                     | Rareté     |
+| -------------------------------- | ----------------------------- | ----------------------------------------- | ---------- |
+| :spoon:                          | Cuillère de Kyu               | :shield: Défense +9 pendant les combats   | Commun     |
+| :bear:                           | Ours en peluche               | :shield: Défense +14 pendant les combats  | Peu commun |
+| ![](../.gitbook/assets/jack.png) | Citrouille                    | :shield: Défense +15 pendant les combats  | Peu commun |
+| :orange\_book:                   | Livre d'incantations volume 3 | :shield: Défense +25 pendant les combats  | Exotique   |
+| :new\_moon:                      | Bout d'obsidienne             | :shield: Défense +42 pendant les combats  | Rare       |
+| :white\_flower:                  | Fleur royale                  | :shield: Défense +59 pendant les combats  | Spécial    |
+| :full\_moon\_with\_face:         | Lune mojaro                   | :shield: Défense +90 ppendant les combats | Épique     |
+| :cyclone:                        | Amulette cyclonique           | :shield: Défense +143 pendant les combats | Légendaire |
 
 #### :clock10: Bonus de temps
 
