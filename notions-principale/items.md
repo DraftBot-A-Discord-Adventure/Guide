@@ -30,17 +30,17 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | ----------------------------------------- | ------------------------- | ---------------------------------- | ---------- |
 | :cucumber:                                | Cornichon                 | :dagger:3                          | Commun     |
 | :herb:                                    | Branche souple            | :dagger:3                          | Commun     |
-| :rose:                                    | Bouquet de rose           | :dagger:3                          | Commun     |
-| :fork\_and\_knife:                        | Fourchette/couteau        | :dagger:4                          | Commun     |
+| :rose:                                    | Bouquet de roses          | :dagger:3                          | Commun     |
+| :fork\_and\_knife:                        | Fourchettecouteau         | :dagger:4                          | Commun     |
 | :cricket:                                 | Bâton                     | :dagger:4                          | Commun     |
 | :hammer\_pick:                            | Outils usés               | :dagger:5                          | Commun     |
-| :key2:                                    | Clé rouillée              | :dagger:5                          | Commun     |
+| :wrench:                                  | Clé rouillée              | :dagger:5                          | Commun     |
 | :pick:                                    | Pioche abimée             | :dagger:5                          | Commun     |
 | :hammer:                                  | Marteau                   | :dagger:6                          | Commun     |
 | :rugby\_football:                         | Balle de Fluxball         | :dagger:6                          | Commun     |
 | :punch:                                   | Poing renforcé            | :dagger:7                          | Commun     |
 | :left\_facing\_fist:                      | Griffe                    | :dagger:7 :shield:-20 :rocket:10   | Commun     |
-| :hockey:                                  | Crosse de Hockey          | :dagger:8                          | Commun     |
+| :hockey:                                  | Crosse                    | :dagger:8                          | Commun     |
 | :boxing\_glove:                           | Gant de boxe              | :dagger:9                          | Commun     |
 | :snowflake:                               | Boule de neige            | :dagger:11                         | Commun     |
 | ![](../.gitbook/assets/razor.png)         | Rasoir                    | :dagger:12                         | Commun     |
@@ -49,31 +49,32 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :seat:                                    | Chaise                    | :dagger:8                          | Peu commun |
 | :fishing\_pole\_and\_fish:                | Canne à pêche de débutant | :dagger:9                          | Peu commun |
 | :face\_with\_symbols\_over\_mouth:        | Injures                   | :dagger:9                          | Peu commun |
-| :bone:                                    | Gourdin                   | :dagger:11                         | Peu commun |
-| :bow\_and\_arrow:                         | Tueuse de loup            | :dagger:11                         | Peu commun |
+| :cricket:                                 | Assomoire                 | :dagger:11                         | Peu commun |
+| :bow\_and\_arrow:                         | Transperceur              | :dagger:11                         | Peu commun |
 | :knife:                                   | Couteau ancien            | :dagger:12                         | Peu commun |
 | :knife:                                   | Épée en bois              | :dagger:12                         | Peu commun |
 | :umbrella2:                               | Parapluie                 | :dagger:14                         | Peu commun |
 | :knife:                                   | Couteau simple            | :dagger:15                         | Peu commun |
-| :closed\_book:                            | Gros livre                | :dagger:17                         | Peu commun |
+| :bookmark:                                | Gros livre                | :dagger:17                         | Peu commun |
 | :knife:                                   | Vieux couteau             | :dagger:19                         | Peu commun |
 | :bricks:                                  | Brique                    | :dagger:15                         | Exotique   |
 | :scissors:                                | Ciseaux                   | :dagger:16                         | Exotique   |
-| :family\_mmbb:                            | Pouvoir de l'amitié       | :dagger:18                         | Exotique   |
+| :family\_mmbb:                            | Pouvoir de l'amitié       | :dagger:18 :shield:20 :rocket:15   | Exotique   |
 | :fire\_extinguisher:                      | Extincteur                | :dagger:20                         | Exotique   |
 | :pick:                                    | Pioche                    | :dagger:22                         | Exotique   |
-| :bone:                                    | Massue                    | :dagger:22                         | Exotique   |
+| :wrench:                                  | Masse                     | :dagger:22 :rocket:-10             | Exotique   |
 | :dagger:                                  | Dague fragile             | :dagger:24                         | Exotique   |
 | :knife:                                   | Couteau de débutant       | :dagger:27                         | Exotique   |
 | ![](../.gitbook/assets/boomerang.png)     | Boomerang                 | :dagger:30 :rocket:20              | Exotique   |
 | :bow\_and\_arrow:                         | Arc de novice             | :dagger:33 :shield:-10 :rocket:5   | Exotique   |
 | :chopsticks:                              | Pew Pew                   | :dagger:37                         | Exotique   |
 | :banana:                                  | Banane                    | :dagger:26                         | Rare       |
-| :gun:                                     | Pistolet déchargé         | :dagger:26                         | Rare       |
+| :gun:                                     | Pistolet vide             | :dagger:26                         | Rare       |
 | :syringe:                                 | Seringue                  | :dagger:29                         | Rare       |
+| :axe:                                     | Ashoir                    | :dagger:36                         | Rare       |
 | :candle:                                  | Brûleur                   | :dagger:38                         | Rare       |
 | :fishing\_pole\_and\_fish:                | Canne à pêche             | :dagger:38                         | Rare       |
-| :syringe:                                 | Seringue contaminée       | :dagger:41                         | Rare       |
+| :syringe:                                 | Seringue infectée         | :dagger:41                         | Rare       |
 | :crossed\_swords:                         | Épée de débutant          | :dagger:41                         | Rare       |
 | :bow\_and\_arrow:                         | Arc de soldat             | :dagger:45 :shield:-20 :rocket:10  | Rare       |
 | :crossed\_swords:                         | Épée en fer               | :dagger:50                         | Rare       |
@@ -82,7 +83,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | ![](../.gitbook/assets/axe.png)           | Hachoir                   | :dagger:60                         | Rare       |
 | :syringe:                                 | Seringue sale             | :dagger:48                         | Spécial    |
 | :cooking:                                 | Poêle                     | :dagger:52                         | Spécial    |
-| :hammer:                                  | Marteau de guerre         | :dagger:62                         | Spécial    |
+| :hammer:                                  | Marteau de combat         | :dagger:62 :rocket:-10             | Spécial    |
 | :fishing\_pole\_and\_fish:                | Canne à pêche de maître   | :dagger:67                         | Spécial    |
 | :bow\_and\_arrow:                         | Arc de chevalier          | :dagger:73 :shield:-30 :rocket:20  | Spécial    |
 | :bomb:                                    | Bombe                     | :dagger:87                         | Spécial    |
@@ -90,24 +91,27 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :crossed\_swords:                         | Épée sharpness 4          | :dagger:87                         | Spécial    |
 | :crossed\_swords:                         | Épées doubles             | :dagger:94                         | Spécial    |
 | :closed\_book:                            | Vieux grimoire            | :dagger:70                         | Epique     |
+| :feet:                                    | Griffe de chat enragé     | :dagger:70                         |            |
+| :syringe:                                 | Seringue contaminée       | :dagger:76                         | Epique     |
 | :dagger:                                  | Épée Kokiri               | :dagger:89                         | Epique     |
-| :crossed\_swords:                         | Beat saber                | :dagger:96                         | Epique     |
+| :crossed\_swords:                         | Beat Saber                | :dagger:96                         | Epique     |
 | :crossed\_swords:                         | Ines'word                 | :dagger:96                         | Epique     |
+| :dagger:                                  | Exagide                   | :dagger:96 :shield:30              | Epique     |
 | :zap:                                     | Volto-hache               | :dagger:113 :shield:-20            | Epique     |
 | :zap:                                     | Foudre de Zeus            | :dagger:122                        | Epique     |
 | :crossed\_swords:                         | Épée royale               | :dagger:132                        | Epique     |
 | :gun:                                     | Pistolet chargé           | :dagger:143                        | Epique     |
 | :gun:                                     | Pistolet pan pan QQ       | :dagger:125                        | Légendaire |
-| :biohazard:                               | Arme biologique           | :dagger:134                        | Légendaire |
+| :microbe:                                 | Bio-arme                  | :dagger:134                        | Légendaire |
 | :crossed\_swords:                         | Épée de Ragnell           | :dagger:145                        | Légendaire |
-| :bow\_and\_arrow:                         | Arc du Héros              | :dagger:182 :shield:-35 :rocket:25 | Légendaire |
-| :comet:                                   | L'âme du diable           | :dagger:182                        | Légendaire |
+| :bow\_and\_arrow:                         | Arc du héros              | :dagger:182 :shield:-35 :rocket:25 | Légendaire |
+| :comet:                                   | Âme du démon              | :dagger:182                        | Légendaire |
 | :crossed\_swords:                         | Épée en diamant           | :dagger:196                        | Légendaire |
 | :crossed\_swords:                         | Épée de maître            | :dagger:196                        | Légendaire |
 | :dagger:                                  | Sabre                     | :dagger:212                        | Légendaire |
 | :sparkles:                                | Sceptre aux 100 sorts     | :dagger:174                        | Mythique   |
-| ![](../.gitbook/assets/scuba\_diving.png) | Sabotage d'oxygène        | :dagger:203                        | Mythique   |
-| :bomb:                                    | Bombe Atomique            | :dagger:239 :rocket:-40            | Mythique   |
+| ![](../.gitbook/assets/scuba\_diving.png) | Sabotage de l'oxygène     | :dagger:203                        | Mythique   |
+| :bomb:                                    | Bombe atomique            | :dagger:239 :rocket:-40            | Mythique   |
 
 ### Liste des armures/boucliers
 
@@ -131,7 +135,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | ![](<../.gitbook/assets/coat (1).png>)   | Tenue de combat            | :shield:19                         | Peu commun |
 | :turtle:                                 | Carapace de Franklin       | :shield:22 :rocket:-10             | Peu commun |
 | :shield:                                 | Bouclier usé               | :shield:16                         | Exotique   |
-| :umbrella2:                              | Parapluie d'auto défense   | :shield:18                         | Exotique   |
+| :umbrella2:                              | Parapluie de grand-mère    | :shield:18                         | Exotique   |
 | :shield:                                 | Bouclier                   | :shield:20                         | Exotique   |
 | :shield:                                 | Bouclier de guerre         | :shield:22                         | Exotique   |
 | :shield:                                 | Rondache                   | :shield:22                         | Exotique   |
