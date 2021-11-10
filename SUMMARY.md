@@ -19,7 +19,6 @@
 * [Classes](notions-principale/classes.md)
 * [Guildes](notions-principale/guildes.md)
 * [Familiers](notions-principale/familiers.md)
-* [Page 1](notions-principale/page-1.md)
 
 ## Notions avancées
 
