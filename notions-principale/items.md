@@ -237,13 +237,13 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### :clock10: Bonus de temps
 
-| Symbole         | Nom                        | Effet                                              | Rareté     |
-| --------------- | -------------------------- | -------------------------------------------------- | ---------- |
-| :apple:         | Pomme du grand arbre       | Avance le temps plus rapidement pendant 15 minutes | Spécial    |
-| :book:          | Kyuran                     | Avance le temps plus rapidement pendant 45 minutes | Épique     |
-| :movie\_camera: | Accélérateur de particules | Avance le temps plus rapidement pendant 1 heure    | Légendaire |
-| :stars:         | Étoile filante             | Avance le temps plus rapidement pendant 1 heure 15 | Légendaire |
-| :clock12:       | L'horloge du lapin         | Avance le temps plus rapidement pendant 2 heures   | Mythique   |
+| Symbole         | Nom                        | Effet                                                        | Rareté     |
+| --------------- | -------------------------- | ------------------------------------------------------------ | ---------- |
+| :apple:         | Pomme du grand arbre       | :clock10: Avance le temps plus rapidement pendant 15 minutes | Spécial    |
+| :book:          | Kyuran                     | :clock10: Avance le temps plus rapidement pendant 45 minutes | Épique     |
+| :movie\_camera: | Accélérateur de particules | :clock10: Avance le temps plus rapidement pendant 1 heure    | Légendaire |
+| :stars:         | Étoile filante             | :clock10: Avance le temps plus rapidement pendant 1 heure 15 | Légendaire |
+| :clock12:       | L'horloge du lapin         | :clock10: Avance le temps plus rapidement pendant 2 heures   | Mythique   |
 
 #### ![](../.gitbook/assets/moneybag.png) Bonus d'argent
 
