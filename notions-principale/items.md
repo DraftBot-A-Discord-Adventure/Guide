@@ -247,19 +247,19 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### ![](../.gitbook/assets/moneybag.png) Bonus d'argent
 
-| Symbole                             | Nom                           | Effet        | Rareté     |
-| ----------------------------------- | ----------------------------- | ------------ | ---------- |
-| :key2:                              | Clé rouillée                  | Argent + 25  | Commun     |
-| :military\_medal:                   | Super médaille                | Argent + 47  | Peu commun |
-| :game\_die:                         | Dé magique                    | Argent + 60  | Exotique   |
-| :military\_medal:                   | Gros portefeuille             | Argent + 94  | Exotique   |
-| :slot\_machine:                     | Machine à sous                | Argent + 142 | Rare       |
-| :green\_book:                       | Livre d'incantations volume 4 | Argent + 152 | Rare       |
-| :chains:                            | Chaine magique                | Argent + 207 | Spécial    |
-| ![](../.gitbook/assets/amphora.png) | Urne de minotaure ornée       | Argent + 256 | Épique     |
-| :credit\_card:                      | Carte de crédit               | Argent + 294 | Épique     |
-| :large\_orange\_diamond:            | Amulette de Midas             | Argent + 378 | Légendaire |
-| :magnet:                            | Magnet                        | Argent + 466 | Légendaire |
+| Symbole                             | Nom                           | Effet                           | Rareté     |
+| ----------------------------------- | ----------------------------- | ------------------------------- | ---------- |
+| :key2:                              | Clé rouillée                  | :moneybag: Argent +25 par jour  | Commun     |
+| :military\_medal:                   | Super médaille                | :moneybag: Argent +47 par jour  | Peu commun |
+| :game\_die:                         | Dé magique                    | :moneybag: Argent +60 par jour  | Exotique   |
+| :military\_medal:                   | Gros portefeuille             | :moneybag: Argent +94 par jour  | Exotique   |
+| :slot\_machine:                     | Machine à sous                | :moneybag: Argent +142 par jour | Rare       |
+| :green\_book:                       | Livre d'incantations volume 4 | :moneybag: Argent +152 par jour | Rare       |
+| :chains:                            | Chaine magique                | :moneybag: Argent +207 par jour | Spécial    |
+| ![](../.gitbook/assets/amphora.png) | Urne de minotaure ornée       | :moneybag: Argent +256 par jour | Épique     |
+| :credit\_card:                      | Carte de crédit               | :moneybag: Argent +294 par jour | Épique     |
+| :large\_orange\_diamond:            | Amulette de Midas             | :moneybag: Argent +378 par jour | Légendaire |
+| :magnet:                            | Magnet                        | :moneybag: Argent +466 par jour | Légendaire |
 
 ### Liste des potions
 
