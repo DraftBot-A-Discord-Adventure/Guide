@@ -10,13 +10,10 @@ L'ajout de contenu et d'évènement dans le bot est possible par tous. Si vous �
 
 Voici la liste des principaux fondateurs du Redactor Gang :
 
-| Nom |
-| :--- |
-| `Ines#7400` |
-| `Kyusaki#9053` |
-| `Thero1st#9119` |
-| `ReallyMinoryo#1304` |
+| Nom                |
+| ------------------ |
+| `Ines#7400`        |
+| `Kyusaki#9053`     |
+| `Thero1st#9119`    |
+| `minoryo#6822`     |
 | `DeadAngelV6#6892` |
-
-
-
