@@ -118,7 +118,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | Symbole                                  | Nom                        | Statistiques                       | Rareté     |
 | ---------------------------------------- | -------------------------- | ---------------------------------- | ---------- |
 | :coat:                                   | Manteau                    | :shield:3                          | Commun     |
-| :lab\_coat:                              | Blouse de laboratoire      | :shield:3                          | Commun     |
+| :lab\_coat:                              | Blouse de protection       | :shield:3                          | Commun     |
 | :shield:                                 | Bouclier de débutant       | :shield:4                          | Commun     |
 | :shield:                                 | Bouclier solide            | :shield:6                          | Commun     |
 | :shield:                                 | Égide contrefaite          | :dagger:6 :shield:6                | Commun     |
@@ -223,20 +223,20 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :small\_blue\_diamond: | Pouvoir de Nayru              | :dagger: Attaque +38 pendant les combats  | Rare       |
 | :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque +57 pendant les combats  | Spécial    |
 | :flag\_black:          | Drapeau de la mort            | :dagger: Attaque +85 pendant les combats  | Épique     |
-| :gem:                  | Diamant kératinisé            | :dagger: Attaque +132 pendant les combats | Légendaire |
+| :gem:                  | Diamant kéraunique            | :dagger: Attaque +132 pendant les combats | Légendaire |
 | :guitar:               | Guitare terrifiante           | :dagger: Attaque +137 pendant les combats | Mythique   |
 
 #### :shield: Bonus de défense
 
 | Symbole                          | Nom                           | Effet                                     | Rareté     |
 | -------------------------------- | ----------------------------- | ----------------------------------------- | ---------- |
-| :spoon:                          | Cuillère de Kyu               | :shield: Défense +9 pendant les combats   | Commun     |
+| :spoon:                          | Kyuillère                     | :shield: Défense +9 pendant les combats   | Commun     |
 | :bear:                           | Ours en peluche               | :shield: Défense +14 pendant les combats  | Peu commun |
 | ![](../.gitbook/assets/jack.png) | Citrouille                    | :shield: Défense +15 pendant les combats  | Peu commun |
 | :orange\_book:                   | Livre d'incantations volume 3 | :shield: Défense +25 pendant les combats  | Exotique   |
 | :new\_moon:                      | Bout d'obsidienne             | :shield: Défense +42 pendant les combats  | Rare       |
 | :white\_flower:                  | Fleur royale                  | :shield: Défense +59 pendant les combats  | Spécial    |
-| :full\_moon\_with\_face:         | Lune mojaro                   | :shield: Défense +90 ppendant les combats | Épique     |
+| :full\_moon\_with\_face:         | Lune de Mojaro                | :shield: Défense +90 ppendant les combats | Épique     |
 | :cyclone:                        | Amulette cyclonique           | :shield: Défense +143 pendant les combats | Légendaire |
 
 #### :clock10: Bonus de temps
@@ -254,16 +254,16 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | Symbole                             | Nom                           | Effet                           | Rareté     |
 | ----------------------------------- | ----------------------------- | ------------------------------- | ---------- |
 | :key2:                              | Clé rouillée                  | :moneybag: Argent +25 par jour  | Commun     |
-| :military\_medal:                   | Super médaille                | :moneybag: Argent +47 par jour  | Peu commun |
+| :moneybag:                          | Médaille du mérite            | :moneybag: Argent +47 par jour  | Peu commun |
 | :game\_die:                         | Dé magique                    | :moneybag: Argent +60 par jour  | Exotique   |
-| :military\_medal:                   | Gros portefeuille             | :moneybag: Argent +94 par jour  | Exotique   |
+| :military\_medal:                   | Bourse du voleur              | :moneybag: Argent +94 par jour  | Exotique   |
 | :slot\_machine:                     | Machine à sous                | :moneybag: Argent +142 par jour | Rare       |
 | :green\_book:                       | Livre d'incantations volume 4 | :moneybag: Argent +152 par jour | Rare       |
-| :chains:                            | Chaine magique                | :moneybag: Argent +207 par jour | Spécial    |
+| :chains:                            | Chaînes magiques              | :moneybag: Argent +207 par jour | Spécial    |
 | ![](../.gitbook/assets/amphora.png) | Urne de minotaure ornée       | :moneybag: Argent +256 par jour | Épique     |
-| :credit\_card:                      | Carte de crédit               | :moneybag: Argent +294 par jour | Épique     |
+| :credit\_card:                      | Carte bancaire                | :moneybag: Argent +294 par jour | Épique     |
 | :large\_orange\_diamond:            | Amulette de Midas             | :moneybag: Argent +378 par jour | Légendaire |
-| :magnet:                            | Magnet                        | :moneybag: Argent +466 par jour | Légendaire |
+| :magnet:                            | Aimant                        | :moneybag: Argent +466 par jour | Légendaire |
 
 ### Liste des potions
 
@@ -286,7 +286,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :stew:                                        | Soupe de grand mère     | :heart: Vie + 10  | Peu commun |
 | ![](<../.gitbook/assets/potion rouge.png>)    | Potion simple           | :heart: Vie + 17  | Exotique   |
 | ![](<../.gitbook/assets/potion rouge.png>)    | Potion rouge            | :heart: Vie + 53  | Spécial    |
-| ![](<../.gitbook/assets/potion ultime.png>)   | Bisous'koup             | :heart: Vie + 70  | Spécial    |
+| ![](<../.gitbook/assets/potion ultime.png>)   | Bizssous'koup           | :heart: Vie + 70  | Spécial    |
 | ![](<../.gitbook/assets/potion ultime.png>)   | Potion de guérison      | :heart: Vie + 80  | Spécial    |
 | ![](<../.gitbook/assets/potion violette.png>) | Potion acide            | :heart: Vie + 84  | Épique     |
 | ![](<../.gitbook/assets/potion ultime.png>)   | Potion de soin          | :heart: Vie + 100 | Épique     |
@@ -295,18 +295,18 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Bonus de vitesse
 
-| Symbole                                             | Nom               | Effet                                            | Rareté     |
-| --------------------------------------------------- | ----------------- | ------------------------------------------------ | ---------- |
-| :tea:                                               | Thé               | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
-| :coffee:                                            | Café              | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
-| :tropical\_drink:                                   | Boisson tropicale | :rocket: Vitesse +8 pendant le prochain combat   | Peu commun |
-| ![](<../.gitbook/assets/green potion.png>)          | Jus de chaussette | :rocket: Vitesse +15 pendant le prochain combat  | Peu commun |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion secouée    | :rocket: Vitesse +25 pendant le prochain combat  | Peu commun |
-| ![](<../.gitbook/assets/green potion.png>)          | Potion verte      | :rocket: Vitesse +45 pendant le prochain combat  | Exotique   |
-| ![](<../.gitbook/assets/green potion.png>)          | Potion fumante    | :rocket: Vitesse +88 pendant le prochain combat  | Rare       |
-| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion de vitesse | :rocket: Vitesse +200 pendant le prochain combat | Spécial    |
-| :battery:                                           | jus de batterie   | :rocket: Vitesse +212 pendant le prochain combat | épique     |
-| ![](<../.gitbook/assets/potion ultime.png>)         | Grande potion     | :rocket: Vitesse +255 pendant le prochain combat | Légendaire |
+| Symbole                                             | Nom                | Effet                                            | Rareté     |
+| --------------------------------------------------- | ------------------ | ------------------------------------------------ | ---------- |
+| :tea:                                               | Thé                | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
+| :coffee:                                            | Café               | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
+| :tropical\_drink:                                   | Boisson tropicale  | :rocket: Vitesse +8 pendant le prochain combat   | Peu commun |
+| ![](<../.gitbook/assets/green potion.png>)          | Jus de chaussettes | :rocket: Vitesse +15 pendant le prochain combat  | Peu commun |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion secouée     | :rocket: Vitesse +25 pendant le prochain combat  | Peu commun |
+| ![](<../.gitbook/assets/green potion.png>)          | Potion verte       | :rocket: Vitesse +45 pendant le prochain combat  | Exotique   |
+| ![](<../.gitbook/assets/green potion.png>)          | Potion fumante     | :rocket: Vitesse +88 pendant le prochain combat  | Rare       |
+| ![](<../.gitbook/assets/potion violette 2 (1).png>) | Potion de vitesse  | :rocket: Vitesse +200 pendant le prochain combat | Spécial    |
+| :battery:                                           | jus de batterie    | :rocket: Vitesse +212 pendant le prochain combat | épique     |
+| ![](<../.gitbook/assets/potion ultime.png>)         | Grande potion      | :rocket: Vitesse +255 pendant le prochain combat | Légendaire |
 
 #### Bonus d'attaque
 
@@ -331,14 +331,14 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Bonus de temps
 
-| Symbole                                       | Nom                         | Effet                                                       | Rareté     |
-| --------------------------------------------- | --------------------------- | ----------------------------------------------------------- | ---------- |
-| :tea:                                         | Jus                         | :clock10: Avance le temps plus rapidement pendant 1 heure   | Rare       |
-| :herb:                                        | Mélange d’Erythroxylum coca | :clock10: Avance le temps plus rapidement pendant 1 heure   | Rare       |
-| :fuelpump:                                    | Kyurburant                  | :clock10: Avance le temps plus rapidement pendant 2 heures  | Spécial    |
-| ![](../.gitbook/assets/tears.png)             | Glaçons fondus              | :clock10: Avance le temps plus rapidement pendant 3 heures  | Spécial    |
-| ![](../.gitbook/assets/sake.png)              | Sake                        | :clock10: Avance le temps plus rapidement pendant 4 heures  | Épique     |
-| :champagne:                                   | Champagne sabré             | :clock10: Avance le temps plus rapidement pendant 6 heures  | Épique     |
-| :coconut:                                     | Maté                        | :clock10: Avance le temps plus rapidement pendant 7 heures  | Épique     |
-| ![](<../.gitbook/assets/potion violette.png>) | Potion violette             | :clock10: Avance le temps plus rapidement pendant 12 heures | Légendaire |
-| ![](<../.gitbook/assets/petite potion .png>)  | Potion ultime               | :clock10: Avance le temps plus rapidement pendant 20 heures | Légendaire |
+| Symbole                                       | Nom                     | Effet                                                       | Rareté     |
+| --------------------------------------------- | ----------------------- | ----------------------------------------------------------- | ---------- |
+| :tea:                                         | Jus                     | :clock10: Avance le temps plus rapidement pendant 1 heure   | Rare       |
+| :herb:                                        | Breuvage à base de coca | :clock10: Avance le temps plus rapidement pendant 1 heure   | Rare       |
+| :fuelpump:                                    | Kyurburant              | :clock10: Avance le temps plus rapidement pendant 2 heures  | Spécial    |
+| ![](../.gitbook/assets/tears.png)             | Glaçons fondus          | :clock10: Avance le temps plus rapidement pendant 3 heures  | Spécial    |
+| ![](../.gitbook/assets/sake.png)              | Sake                    | :clock10: Avance le temps plus rapidement pendant 4 heures  | Épique     |
+| :champagne:                                   | Champagne sabré         | :clock10: Avance le temps plus rapidement pendant 6 heures  | Épique     |
+| :coconut:                                     | Maté                    | :clock10: Avance le temps plus rapidement pendant 7 heures  | Épique     |
+| ![](<../.gitbook/assets/potion violette.png>) | Potion violette         | :clock10: Avance le temps plus rapidement pendant 12 heures | Légendaire |
+| ![](<../.gitbook/assets/petite potion .png>)  | Potion ultime           | :clock10: Avance le temps plus rapidement pendant 20 heures | Légendaire |
