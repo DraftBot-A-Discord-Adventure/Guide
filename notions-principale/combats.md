@@ -4,60 +4,59 @@ description: A guide about the figths.
 
 # Fights
 
-Once at level 8 you will unlock the figths. This guide will show you the bases.
+Once you reach at level 8 you will unlock the figths command `!fight`. This guide will show you the bases.
 
 ### Before starting
 
-In a figth, the following informations are to take into account :
+In a fight, the following information are to take into account :
 
-* the attack points🗡 
-* the defense points  🛡 
-* the speed points 🚀 
-* the energie points ⚡ 
+* The attack points :dagger:&#x20;
+* The defense points :shield:&#x20;
+* The speed points :rocket:&#x20;
+*   The energy points:zap:&#x20;
+
+
+
+
 
 {% hint style="info" %}
-For more informations about those numbers, please see the Profile section.
+For more information about those numbers, please see the profile section.
 {% endhint %}
 
-### Figths types
+### Fight types
 
 #### Normal fight
 
-A normal fight can be started with the `!fight` command. You can add a `@user` option just after the command, to specify a user to fight. If you are not the creator of the fight, and if you don't have any state alteration, you can click on the ✅ emoji in reaction. In these type of fights, the winner earns points, and the defeated player looses some.
+A normal fight can be started with the `!fight` command. You can add a `@user` option just after the command, to specify a user to fight. If you are not the creator of the fight, and if you don't have any state alteration, you can click on the :white\_check\_mark: emoji in reaction. In these type of fights, the winner earns points, and the defeated player looses some.
 
 #### Friendly fights
 
-The friendly fights works the same as the normal fights, no one is loosing or earning points at the end. To start one you can run the `!friendlyfight` command.
+The friendly fights works the same as the normal fights but no one is losing or earning points at the end. To start one you can run the`!friendlyfight` command.
 
 ### Progress of a fight
 
 The fight is a turn by turn system. At every turn you will have to choose between 6 options :
 
-⚔  **Simple attack**: An attack that has normal chances to succeed.
+:crossed\_swords: | **Simple attack**: An attack that has normal chances to succeed.
 
-🗡  **Fast attack**: An attack that has good chanced of succeeding if you are faster than your enemy.
+:dagger: | **Fast attack**: An attack that has good chances of succeeding if you're faster than your enemy.
 
-🔨  **Heavy attack**: the chances of succeeding are low, but it makes much damages.
+:hammer: |  **Heavy attack**: The chances of succeeding are low, but it deals much more damage.
 
-💣  **Ultimate attack**: an attack on 2 tuns, that is efficient if you have a lower speed than your enemy. She removes around 2/3 of your opponent's life.
+:bomb: | **Ultimate attack**: An attack on 2 turns, that is efficient if you have a lower speed than your enemy. This deals around 2/3 of your opponent's life.
 
-🧨  **Bull attack**: this attack does damages to all fighters, useful if you have more defenses than you ennemy.
+:firecracker: | **Bulk attack**: This attack deals damage to all fighters, useful if you have more defenses than you enemy.
 
-🚀 **Speed**: Get faster. If your speed is about your opponent's, your chance of succeeding an attack are higher except for the ultimate attack. The most the action is used, the less it will be efficient.
+:rocket: **Speed**: Increases your speed. If your speed is about your opponent's, your chance of succeeding an attack are higher except for the ultimate attack. The most the action is used, the less it will be efficient.
 
 {% hint style="info" %}
-The people with more speed start fight
+The person with more speed gets first turn.
 {% endhint %}
 
 ### Victory conditions
 
- The fight ends when the life of one of the opponents energie points ⚡ are about 0, or if one of the players doesn't answer for 30 seconds. If the 25th turn is reached, the fight will end in equality. 
+The fight ends when a fighter's life drops to 0, If fighters don't answer after 30 seconds or when the turn number 25 is reached. When the fight ends, you'll probably lose energy. But it'll be recovered over time.&#x20;
 
 {% hint style="warning" %}
-After each fights the energie points ⚡ are not given back instantly.
+After each fight the energy points :zap: are not given back instantly.
 {% endhint %}
-
-
-
-
-

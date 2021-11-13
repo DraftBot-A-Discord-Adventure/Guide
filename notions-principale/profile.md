@@ -4,41 +4,40 @@
 
 The `!profile` command allows you to see the different statistics of your character. Using the `@user` option after the command will let you see other's profiles
 
-### Informations 
+### Information's&#x20;
 
-This line contains every statistics about the adventure, contaning :
+This line contains every statistics about the adventure, containing :
 
-❤ Your health
+:heart: Your health
 
-⭐ Your experience points, and the number of experience required to reach the next level.
+:star: Your experience points, and the number of experience required to reach the next level.
 
-💰 Your money
+:moneybag: Your money
 
 ### Statistics
 
-This line is about every things gifths related. It shows :
+This line is about every things gifts related. It shows :
 
-🗡 Your attacks points.
+:dagger: Your attacks points
 
-🛡 Your defense points
+:shield: Your defense points
 
-🚀 Your speed points
+:rocket: Your speed points
 
-⚡ Your energie points
+:zap: Your energy points
 
 {% hint style="info" %}
-Be careful not to confuse the energie points ⚡ with the ❤ ! They do not have the same purpose.
+Be careful not to confuse the energy points :zap: with the :heart: ! They do not have the same purpose.
 {% endhint %}
 
-###  Ranking and Score
+### Ranking and Score
 
-This line shows your ranking 🏆as well as your score 🏅 .
+This line shows your ranking :trophy:as well as your score :medal: .
 
-### Remaining time 
+### Remaining time&#x20;
 
 This line show the current status of your player. If you have any active state alteration, the remaining time will be displayed, with the related emoji.
 
 {% hint style="info" %}
-To get a complete list of the state alteration, please visit the State Alteration page, in the Main functions category.
+To get a complete list of the state alteration, please visit the State Alteration page, in the main functions category.
 {% endhint %}
-

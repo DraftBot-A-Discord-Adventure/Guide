@@ -1,25 +1,25 @@
 # Guilds
 
-A guild can consist of up to 6 players, and get daily rewards which will improve with the level of the guild.
+A guild can consist upto 6 players, and get daily rewards which will improve with the level of the guild.
 
 ### How do you create a guild ?
 
-You can create a guild with the `!guildcreate <guild name` command. 
+You can create a guild with the `!guildcreate <guild name>` command.&#x20;
 
 {% hint style="warning" %}
-The name of a guild is unique, and must follow some rules. 
+The name of a guild must be unique, and must follow some rules.&#x20;
 
-    It must :
+&#x20;   It must :
 
-* be between 2 to 14 letters long
-* contain at least one letter 
-* not utilise to 2 spaces coming after one another 
-* not have special characters in it 
-* not be already taken
+* Be between 2 to 14 letters long
+* Contain at least one letter&#x20;
+* Not utilize upto 2 spaces coming after one another&#x20;
+* Not have special characters in it
+* Not be already taken
 {% endhint %}
 
 {% hint style="danger" %}
-It is impossible to rename a guild
+It is impossible to rename a guild.
 {% endhint %}
 
 ### How do you join a guild ?
@@ -39,30 +39,29 @@ There are two ways of using this command :
 * `!guild <guild name>` Let's you see a guild's information using its name.
 * `!guild <@user>` Let's you see a guild's information by mentioning a user.
 
-### Levelling the guild
+### Leveling up the guild
 
 #### In the shop
 
-In the shop, guild experience is represented with a⭐ emoji.   
-With 1000 gold you can buy a random amount between 50 and 450 guild experience.
+In the shop, guild experience is represented with a :star: emoji. With 1000 gold you can buy it and will receive a random amount between 50 and 450 guild experience.
 
-####  Daily rewards
+#### Daily rewards
 
-With a cooldown of 22 hours, you can use the `!guilddaily` command to get a reward. Between guild experience, money, hp, and etc. The reward type can change depending of your guilds level.
+With a cooldown of 22 hours, you can use the `!guilddaily` command to get a reward. Between guild experience, money, hp, and etc. The reward type can change depending of your guild's level.
 
 | Guild Level | Some money | Guild xp | User xp | Status reset | Health points | Full health regeneration | 350 gold | Badge |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0-10 | 100% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
-| 10-20 | 59.8% | 15% | 5% | 10% | 5% | 0.2% | 5% | 0% |
-| 20-30 | 55.7% | 15% | 5% | 10% | 6% | 0.3% | 8% | 0% |
-| 30-40 | 52.6% | 15% | 5% | 10% | 6% | 0.4% | 11% | 0% |
-| 40-50 | 49.5% | 10% | 10% | 10% | 6% | 0.5% | 14% | 0% |
-| 50-60 | 45.4% | 10% | 10% | 10% | 6% | 0.6% | 17% | 1% |
-| 60-70 | 41.3% | 10% | 10% | 10% | 6% | 0.7% | 20% | 2% |
-| 70-80 | 37.2% | 10% | 10% | 10% | 6% | 0.8% | 23% | 3% |
-| 80-90 | 33.1% | 15% | 5% | 10% | 6% | 0.9% | 26% | 4% |
-| 90-100 | 20% | 24% | 5% | 10% | 6% | 1% | 29% | 5% |
-| 100 | 20.5% | 0% | 20% | 10% | 6% | 1.5% | 32% | 10% |
+| ----------- | ---------- | -------- | ------- | ------------ | ------------- | ------------------------ | -------- | ----- |
+| 0-10        | 100%       | 0%       | 0%      | 0%           | 0%            | 0%                       | 0%       | 0%    |
+| 10-20       | 59.8%      | 15%      | 5%      | 10%          | 5%            | 0.2%                     | 5%       | 0%    |
+| 20-30       | 55.7%      | 15%      | 5%      | 10%          | 6%            | 0.3%                     | 8%       | 0%    |
+| 30-40       | 52.6%      | 15%      | 5%      | 10%          | 6%            | 0.4%                     | 11%      | 0%    |
+| 40-50       | 49.5%      | 10%      | 10%     | 10%          | 6%            | 0.5%                     | 14%      | 0%    |
+| 50-60       | 45.4%      | 10%      | 10%     | 10%          | 6%            | 0.6%                     | 17%      | 1%    |
+| 60-70       | 41.3%      | 10%      | 10%     | 10%          | 6%            | 0.7%                     | 20%      | 2%    |
+| 70-80       | 37.2%      | 10%      | 10%     | 10%          | 6%            | 0.8%                     | 23%      | 3%    |
+| 80-90       | 33.1%      | 15%      | 5%      | 10%          | 6%            | 0.9%                     | 26%      | 4%    |
+| 90-100      | 20%        | 24%      | 5%      | 10%          | 6%            | 1%                       | 29%      | 5%    |
+| 100         | 20.5%      | 0%       | 20%     | 10%          | 6%            | 1.5%                     | 32%      | 10%   |
 
 ### How do you set an elder ?
 
@@ -71,4 +70,3 @@ In your guild you can choose an elder with the command `!guildelder<@mentions>`.
 ### How do you leave a guild ?
 
 You can leave your guild at any moment by using the `!guildleave` command. The owner of the guild can kick users with the `!guildkick` command.
-
