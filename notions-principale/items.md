@@ -91,7 +91,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :crossed\_swords:                         | Épée sharpness 4          | :dagger:87                         | Spécial    |
 | :crossed\_swords:                         | Épées doubles             | :dagger:94                         | Spécial    |
 | :closed\_book:                            | Vieux grimoire            | :dagger:70                         | Epique     |
-| :feet:                                    | Griffe de chat enragé     | :dagger:70                         |            |
+| :feet:                                    | Griffe de chat enragé     | :dagger:70                         | Epique     |
 | :syringe:                                 | Seringue contaminée       | :dagger:76                         | Epique     |
 | :dagger:                                  | Épée Kokiri               | :dagger:89                         | Epique     |
 | :crossed\_swords:                         | Beat Saber                | :dagger:96                         | Epique     |
