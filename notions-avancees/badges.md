@@ -7,15 +7,15 @@ description: >-
 
 # Badges
 
-| Badge                                               | Signification                                                                        | Obtention                                                                                                   |
+| Badge                                               | Signification                                                                        | Précision                                                                                                   |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| :crown:                                             | Propriétaire du bot                                                                  | Badge non obtenable                                                                                         |
-| :trophy:                                            | Meilleur joueur au moment du reset de la 1.0                                         | Badge non obtenable                                                                                         |
-| :medal:                                             | Joueur dans le top 10 au reset de la 1.0                                             | Badge non obtenable                                                                                         |
-| :helmet\_with\_cross:                               | Personne faisant partie des 20 premières personnes à avoir rejoint le serveur du bot | Badge non obtenable                                                                                         |
-| :lady\_beetle:                                      | Personne ayant signalé des bugs majeurs                                              | Badge non obtenable                                                                                         |
-| :egg:                                               | Personne ayant découvert tous les secrets du bot                                     | Badge non obtenable                                                                                         |
-| ![:blue\_circle:](../.gitbook/assets/big\_book.png) | Adopteur de classe de la première heure                                              | Badge non obtenable                                                                                         |
+| :crown:                                             | Propriétaire du bot                                                                  | Indisponible                                                                                                |
+| :trophy:                                            | Meilleur joueur au moment du reset de la 1.0                                         | Indisponible                                                                                                |
+| :medal:                                             | Joueur dans le top 10 au reset de la 1.0                                             | Indisponible                                                                                                |
+| :helmet\_with\_cross:                               | Personne faisant partie des 20 premières personnes à avoir rejoint le serveur du bot | Indisponible                                                                                                |
+| :lady\_beetle:                                      | Personne ayant signalé des bugs majeurs                                              | Indisponible                                                                                                |
+| :egg:                                               | Personne ayant découvert tous les secrets du bot                                     | Indisponible                                                                                                |
+| ![:blue\_circle:](../.gitbook/assets/big\_book.png) | Adopteur de classe de la première heure                                              | Indisponible                                                                                                |
 | :first\_place:                                      | Personne ayant atteint la première place après le reset                              |                                                                                                             |
 | :gear:                                              | Equipe Technique                                                                     | Badge attribué aux personnes s'étant beaucoup investies au développement du bot                             |
 | :earth\_africa:                                     | Traducteur du bot                                                                    | Badge attribué aux personnes ayant participé à la traduction du jeu en anglais                              |
@@ -37,4 +37,4 @@ description: >-
 Si vous pensez mériter un badge, merci de contacter `Thero1st#9119` ou `Ines#7400` sur Discord.\
 Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
 
-Certains badges ne sont plus disponibles depuis la version 1.0 de DraftBot, notamment :trophy:, :medal:, :helmet\_with\_cross: et :egg:. Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
+Certains badges ne sont plus disponibles depuis la version 1.0 de DraftBot. Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
