@@ -58,4 +58,4 @@ La carte du bot permet aux joueurs de se repérer entre les différents lieux du
 
 :motorway: **Voie champêtre** : Toute région a le droit à son lot de mystères. La voie champêtre en est le parfait exemple. Champignons géants, cabane abandonnée dans la forêt, tous les ingrédients sont là pour créer un monde fantastique.
 
-:house: **Ville Forte** : Ancienne grande ville fortifiée, Ville Forte n’est plus que l’ombre d’elle-même. Ravagée par l’ancienne guerre, il ne reste qu’une dizaine de maisons et paysans. Le reste de l’ancienne fortification n’est que ruine.�
+:house: **Ville Forte** : Ancienne grande ville fortifiée, Ville Forte n’est plus que l’ombre d’elle-même. Ravagée par l’ancienne guerre, il ne reste qu’une dizaine de maisons et paysans. Le reste de l’ancienne fortification n’est que ruine.
