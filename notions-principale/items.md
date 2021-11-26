@@ -4,15 +4,15 @@
 
 ### Niveaux de rareté
 
-* Basique :small\_orange\_diamond: `l'item possédé en début de jeu`
-* Commun :large\_orange\_diamond: `43,75% (1 item / 3)`
-* Peu commun :fire: `25% (1 item / 4)`
-* Exotique :trident: `15% (1 item / 7)`
-* Rare :comet: `10% (1 item / 10)`
-* Spécial :dizzy: `5% (1 item / 20)`
-* Épique :star: `1% (1 item / 100)`
-* Légendaire :star2: `0,23% (1 item / 435)`
-* Mythique :gem: `0,02% (1 item / 5 000)`
+* Basique :small\_orange\_diamond: `équipement possédé au début du jeu`
+* Commun :large\_orange\_diamond: `43,75% (~1 équipement/2)`
+* Peu commun :fire: `25% (1 équipement/4)`
+* Exotique :trident: `15% (~1 équipement/7)`
+* Rare :comet: `10% (1 équipement/10)`
+* Spécial :dizzy: `5% (1 équipement/20)`
+* Épique :star: `1% (1 équipement/100)`
+* Légendaire :star2: `0,23% (~1 équipement/435)`
+* Mythique :gem: `0,02% (1 équipement/5000)`
 
 ### Valeur et puissance des équipements
 
