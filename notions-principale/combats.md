@@ -23,7 +23,7 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats normaux
 
-Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight <@user>` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat, et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark: . Dans ce type de combat, le gagnant remporte des :medal: points de classement, et le perdant en perd.
+Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight <@user>` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte des :medal: points de classement et le perdant en perd.
 
 #### Les combats amicaux
 
@@ -31,7 +31,7 @@ Les combats amicaux sont similaires aux combats normaux, à la seule différence
 
 ### Déroulement d'un combat
 
-Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez le choix entre 6 actions :
+Le combat est basé sur un système de tour par tour. À chaque tour, vous aurez le choix entre 6 actions :
 
 | Action                                                | Description                                                                                                                                                                                                                                 |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ Le combat est basé sur un système de tour par tour. A chaque tour, vous aurez 
 | :rocket: Prise d'élan                                 | Augmente vos points de vitesse. Toutes les attaques hormis l'attaque ultime et l'attaque bélier ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
 
 {% hint style="info" %}
-Le joueur le plus rapide commence toujours le combat. (en cas d'égalité, c'est aléatoire)
+Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est aléatoire.)
 {% endhint %}
 
 ### Présentation détaillée des actions
@@ -56,7 +56,7 @@ La notion de "puissance de l'attaque" sera utilisée pour comparer plus simpleme
 
 #### :crossed\_swords: Attaque simple
 
-Cette attaque est principalement utile en fin de combat pour être certain d'atteindre son adversaire. En effet, elle engendrera à coup sûr un minimum de dégâts. Il est cependant difficile de se reposer seulement sur cette attaque pour gagner un combat puisqu'elle reste assez faible. Elle peut cependant s'avérer utile pour éviter certaines prise de risques.
+Cette attaque est principalement utile en fin de combat pour être certain d'atteindre son adversaire. En effet, elle engendrera à coup sûr un minimum de dégâts. Il est cependant difficile de se reposer seulement sur cette attaque pour gagner un combat puisqu'elle reste assez faible. Elle peut cependant s'avérer utile pour éviter certaines prises de risques.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -105,7 +105,7 @@ La puissance de cette attaque diminue progressivement à partir de la quatrième
 
 #### ![:axe:](../.gitbook/assets/axe.png) Attaque puissante
 
-Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien que puissante (lol) cette attaque doit cependant être utilisée avec parcimonie puisque chacune de ses utilisations engendre une perte de vitesse. Il est possible de contrer cette attaque en profitant d'une statistique de défense importante tant que l'attaque n'est pas réussie parfaitement.
+Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien que puissante cette attaque doit cependant être utilisée avec parcimonie puisque chacune de ses utilisations engendre une perte de vitesse. Il est possible de contrer cette attaque en profitant d'une statistique de défense importante tant que l'attaque n'est pas parfaitement réussie.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -114,7 +114,7 @@ Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien qu
 | Puissance de l'attaque | 215                          | 140             | 0               |
 
 {% hint style="info" %}
-La défense est 50% plus efficace sur cette attaque, il vaut mieux avoir un gros bouclier qu'être un sac à pv. Cependant, ce boost ne suffira pas à se protéger d'une attaque parfaitement réussie.
+La défense est 50% plus efficace sur cette attaque, il vaut mieux avoir un gros bouclier qu'être un sac à points de vie. Cependant, ce boost ne suffira pas à se protéger d'une attaque parfaitement réussie.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -130,7 +130,7 @@ Cette attaque diminue la vitesse de l'attaquant, de 10% si l'attaque échoue et 
 
 #### :bomb: Attaque ultime
 
-Cette attaque permet d’asséner un dernier coup à son adversaire quand la situation devient trop difficile. Il peut être délicat d'utiliser cette attaque au bon moment, mais elle peut également renverser le cours du match.
+Cette attaque permet d’asséner un dernier coup à son adversaire quand la situation devient trop difficile. Il peut être délicat d'utiliser cette attaque au bon moment, mais elle peut également renverser le cours du combat.
 
 **Voilà les dégâts de l'attaque en fonction de la situation du combat :**
 
@@ -174,7 +174,7 @@ Un échec de cette attaque affaiblit l'attaquant en lui infligeant les dégâts 
 
 #### :rocket: Prise d'élan
 
-Cette action permet de gagner en vitesse. Plusieurs attaques dépendent de cette statistique pour être plus efficace. Il peut être intéressant de booster cette caractéristique pour mieux défendre contre ces attaques, pour mieux les utiliser, ou pour temporiser durant le combat. L'efficacité du boost décroît au fur et à mesure qu'il est utilisé.
+Cette action permet de gagner en vitesse. Plusieurs attaques dépendent de cette statistique pour être plus efficace. Il peut être intéressant d'augmenter cette caractéristique pour mieux défendre contre ces attaques et pour mieux les utiliser, ou pour temporiser durant le combat. L'efficacité du gain décroît au fur et à mesure qu'il est utilisé.
 
 $$
 Gain De Vitesse = random(0, x)
@@ -190,7 +190,7 @@ Dès lors que :zap: l'énergie de l'un des adversaire tombe à 0, le combat s'ar
 
 Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 25 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
 
-Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie  que vous avez perdu.
+Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu.
 
 {% hint style="danger" %}
 Si un des adversaires est inactif pendant 30 seconde, le combat est considéré comme nul et s'arrête.

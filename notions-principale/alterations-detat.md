@@ -31,7 +31,7 @@ L'altération d'état "Mort" bloque la totalité des commandes du bot excepté l
 
 ### Soin des altérations d'état
 
-Les altérations d'état se soignent d'elles même avec le temps (à l'exception de l'altération "Mort").
+Les altérations d'état se soignent d'elles-même avec le temps (à l'exception de l'altération "Mort").
 
 Il est cependant possible de soigner une altération d'état autrement qu'en attendant.
 
