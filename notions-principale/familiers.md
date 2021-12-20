@@ -8,7 +8,7 @@ Pour le moment les familiers sont purement esthétiques. Ils n'ont pas de foncti
 
 Pour avoir les informations sur votre familier, vous devez utiliser la commande `!mypet` .
 
-Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles :star: :star: :star: :star: :star:
+Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles :star: :star: :star: :star: :star:.
 
 Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier leur moral augmentera. A contrario, si vous délaissez vos familiers leur moral diminuera.
 
@@ -127,7 +127,7 @@ Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le c�
 
 ![Ici le familier "Elle" est vendu](<../.gitbook/assets/image (18).png>)
 
-Il y a des conditions importantes à respecter pour la vente de familier:
+Il y a des conditions importantes à respecter pour la vente de familier :
 
 * Il n'est pas possible de vendre un familier à un membre de sa guilde.
 * Il est nécessaire d'appartenir à une guilde pour vendre un familier mais pas pour l'acheter.
