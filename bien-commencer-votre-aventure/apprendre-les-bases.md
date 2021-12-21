@@ -6,7 +6,7 @@ description: >-
 
 # Apprendre les bases
 
-### En quoi consiste le gameplay
+### En quoi consiste le gameplay ?
 
 C'est un jeu de rôle en temps réel, cela signifie que vous n'aurez pas des commandes à effectuer en boucle, mais que vous devrez surveiller régulièrement la progression de votre personnage.
 
@@ -14,17 +14,17 @@ C'est un jeu de rôle en temps réel, cela signifie que vous n'aurez pas des com
 
 #### Faire des rapports réguliers
 
-Lorsqu'un joueur demande un rapport, il collecte les points remportés par le personnage qu'il contrôle auquel est ajouté un petit bonus. Cependant, au bout d'un certain temps, le personnage cesse de collecter des points, il faut donc veiller à effectuer la commande de rapport régulièrement. Il faut cependant attendre au moins une heure entre chaque rapports afin de laisser au personnage le temps de récolter les points. Vous trouverez plus d'informations sur la commande [`!report`](../notions-principale/report.md) sur la page du guide qui lui est dédiée.
+Lorsqu'un joueur demande un rapport, il collecte les points remportés par le personnage qu'il contrôle auquel est ajouté un petit bonus. Cependant, au bout d'un certain temps, le personnage cesse de collecter des points, il faut donc veiller à effectuer la commande de rapport régulièrement. Il est toutefois nécessaire d'attendre au moins une heure entre chaque rapports afin de laisser au personnage le temps de récolter les points. Vous trouverez plus d'informations sur la commande [`!report`](../notions-principale/report.md) sur la page du guide qui lui est dédiée.
 
 ### Lexique
 
-Durant votre jeu et si vous choisissez de prendre part dans la communauté et d'échanger autour du bot, vous serez amené à apprendre le vocabulaire utilisé pour décrire certains éléments spécifiques du jeu. Voilà une liste des principaux:
+Durant votre jeu, et si vous choisissez de prendre part dans la communauté et d'échanger autour du bot, vous serez amené à apprendre le vocabulaire utilisé pour décrire certains éléments spécifiques du jeu. Voici une liste des principaux :
 
-:exclamation: **Évènement :** Un évènement ou évent peut survenir lorsque le joueur effectue la commande `!report` pour demander un rapport. Si un évènement survient, le joueur aura un choix à effectuer à travers les réactions discord.
+:exclamation: **Évènement :** Un évènement, ou évent, peut survenir lorsque le joueur effectue la commande `!report` pour demander un rapport. Si cela arrive, le joueur aura un choix à effectuer grâce aux réactions Discord.
 
-:question: **Mini-Évènement :** Entre deux évènements, le joueur peut obtenir des mini-évènements. Il y en a un chaque 30 minutes. Ils ne nécessitent que très peu d'interaction avec le joueur (en dehors de la commande `!report`)
+:question: **Mini-Évènement :** Entre deux évènements, le joueur peut obtenir des mini-évènements. Il y en a toutes les 10 minutes. Ils ne nécessitent que très peu d'interaction avec le joueur (en dehors de la commande `!report`)
 
-:moneybag: **Argent :** L'argent est la monnaie du jeu. \_(oui le nom est original) \_Il est possible de la dépenser en utilisant la commande `!shop`. Avoir de l'argent vous permettra également de créer votre guilde avec la commande `!guildcreate`. Il est aussi possible de perdre de l'argent lors de certains évènements.
+:moneybag: **Argent :** L'argent est la monnaie du jeu. \_(oui le nom est original) \_Il est possible de le dépenser en utilisant la commande `!shop`. Avoir de l'argent vous permettra également de créer votre guilde avec la commande `!guildcreate`. Il est aussi possible de perdre de l'argent lors de certains évènements, ou mini-évènements.
 
 :nauseated\_face: **Altération d'état :** Une altération d'état peut survenir si un malheur arrive à votre personnage durant un rapport. Les altérations d'état empêchent le personnage de récolter des points et désactivent certains aspects du jeu pendant un certain temps.
 
@@ -34,7 +34,7 @@ Il existe 4 types d'équipements :
 
 :dagger: **Arme :** Une arme est une pièce d'équipement qui augmente l'attaque lors des combats. Les armes sont équipées automatiquement.
 
-:shield:** Armure :** Une armure est une pièce d'équipement qui augmente la défense lors des combats. Les armures sont équipées automatiquement.
+:shield: **Armure :** Une armure est une pièce d'équipement qui augmente la défense lors des combats. Les armures sont équipées automatiquement.
 
 ****![](../.gitbook/assets/Potion2.png) **Potion :** Une potion est une pièce d'équipement qui peut avoir divers effets. Certaines potions peuvent être bues par le joueur à l'aide de la commande `!drink`, d'autres ne peuvent pas être bues et sont utilisées automatiquement lors d'un combat.
 
@@ -42,4 +42,4 @@ Il existe 4 types d'équipements :
 Les potions sont les seules pièces d'équipement qui ne peuvent pas être revendues.
 {% endhint %}
 
-:key2: **Objets :** Les objets peuvent avoir des effets divers, ce sont les seules pièces d'équipement qui peuvent être transportées en deux exemplaires par le joueur. En effet, l'inventaire du joueur dispose d'une réserve et d'un objet actif. Par défaut, les objets seront placés dans la réserve qui peut contenir un seul objet. Pour utiliser le pouvoir d'un objet, il faut le placer dans la case "objet actif" de l'inventaire en utilisant la commande `!switch` puis il est possible d'utiliser la commande `!daily`
+:key2: **Objets :** Les objets peuvent avoir des effets divers, ce sont les seules pièces d'équipement qui peuvent être transportées en deux exemplaires par le joueur. En effet, l'inventaire du joueur dispose d'une réserve et d'un objet actif. Par défaut, les objets seront placés dans la réserve qui peut contenir un à trois objets. Pour utiliser le pouvoir d'un objet, il faut le placer dans la case "objet actif" de l'inventaire en utilisant la commande `!switch`. Une fois cela fait, vous pourrez utiliser la commande `!daily`.
