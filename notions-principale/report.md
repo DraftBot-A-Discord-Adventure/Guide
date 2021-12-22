@@ -4,7 +4,7 @@ Les rapports représentent la base du jeu. Il s'agit d'une petite description de
 
 ### Interface :
 
-La commande `!report` possède plusieurs états différents :
+La commande `!report` possède 4 états différents :
 
 * Le joueur est en train de voyager.
 * Le joueur est victime d'une altération d'état.
@@ -13,13 +13,13 @@ La commande `!report` possède plusieurs états différents :
 
 ![Interface de la commande report quand le joueur est en train de voyager](../.gitbook/assets/report.png)
 
-### Mini-Évènements : 
+### Mini-Évènements :
 
-Le joueur met 10 minutes à réaliser le trajet entre deux mini-évènements.
+Le joueur met 10 minutes à réaliser un trajet entre deux mini-évènements.
 
 ![Un exemple de mini-évènement](../.gitbook/assets/Mini-évènement.png)
 
-Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des items, de la vie ou encore des sous.
+Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des items, de la vie ou encore de l'argent.
 
 {% hint style="info" %}
 Chaque mini évent rapporte au joueur une quantité de points diminuant à chaque nouveau mini évent. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
@@ -51,8 +51,8 @@ Après un évènement, le joueur est amené à choisir une destination. Il n'est
 
 ![Exemple de choix de destination](../.gitbook/assets/choix-destination.png)
 
-Le temps indiqué entre parenthèses est le temps de voyage pour parvenir jusqu'au lieu, un point d'interrogation signifie que le temps est inconnu.  Dans un tiers des cas, le bot choisit automatiquement la destination du joueur. 
+Le temps indiqué entre parenthèses est le temps de voyage pour parvenir jusqu'au lieu, un point d'interrogation signifie que le temps est inconnu. Dans un tiers des cas, le bot choisit automatiquement la destination du joueur.
 
-![Voilà votre information sur votre destination](../.gitbook/assets/destination-choisie.png)
+![Voici votre information sur votre destination](../.gitbook/assets/destination-choisie.png)
 
 ###
