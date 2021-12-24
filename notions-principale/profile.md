@@ -21,29 +21,29 @@ Ce sont les informations générales de votre personnage.
 
 * :heart: Points de vie
 * :star: Points d'expérience
-* :moneybag: Argent du jeu
+* :moneybag: Argent
 
 ### Statistiques
 
 Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y retrouve :
 
 * :dagger: Points d'attaque
-* :shield: Points de défense 
+* :shield: Points de défense
 * :rocket: Points de vitesse
 * :zap: Énergie pour les combats
 
-### Classement et Score 
+### Classement et Score
 
 * :trophy: Votre place de classement sur le nombre total de joueurs
 * :medal: Points de classement
 
-### Temps restant 
+### Temps restant
 
-Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant sera affiché, précédé d'un émoji relatif à l'altération en question.
+Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant avant la fin de celle-ci sera affiché, précédé d'un émoji relatif à l'altération en question.
 
 ### Classe et guilde
 
-Depuis les dernières versions de DraftBot, vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage. Ainsi que créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
+Depuis les dernières versions de DraftBot, vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage. Ainsi que de créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
 
 ### Badges
 
