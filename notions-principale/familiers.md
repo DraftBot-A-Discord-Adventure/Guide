@@ -146,8 +146,8 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
 {% hint style="info" %}
 Le Bonhomme de neige existe en deux versions :
 
-* La version :star: qui est celle de base
-* La version :star::star::star::star: qui est une version beaucoup plus rare
+* La version :star: qui est celle de base.
+* La version :star::star::star::star: qui est une version bien plus rare.
 
-On peuut distinguer la version rare assez facilement car l'émoji qui la représente entouré de flocons de neige !
+On peut distinguer la version rare assez facilement car l'émoji qui la représente est entouré de flocons de neige !
 {% endhint %}
