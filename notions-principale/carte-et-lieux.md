@@ -2,7 +2,7 @@
 
 La carte du bot permet aux joueurs de se repérer entre les différents lieux du jeu.
 
-![La carte du monde de DraftBot !](../.gitbook/assets/map.jpg)
+![La carte du monde de DraftBot !](<../.gitbook/assets/unknown (1).png>)
 
 ### Liste des lieux :
 

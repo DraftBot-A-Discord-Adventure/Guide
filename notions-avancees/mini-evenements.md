@@ -16,7 +16,7 @@ Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de 
 
 ### Interaction avec un familier :
 
-**Taux d'apparition : **6.25% - Nécessite d'avoir un familier équipé pour apparaître.
+**Taux d'apparition :** 6.25% - Nécessite d'avoir un familier équipé pour apparaître.
 
 Réalise une interaction entre le propriétaire d'un familier et son familier. Ce mini-évènement peut être positif ou négatif en fonction de l'affection du familier. Les familiers plus rares permettent d'obtenir de meilleures récompenses.
 
@@ -67,7 +67,7 @@ Voilà les probabilités d'obtention pour chaque rareté de familiers :
 
 ### Trouver un équipement :
 
-**Taux d'apparition : **2.2%
+**Taux d'apparition :** 2.2%
 
 Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir des objets légendaires ou mythiques dans ce mini-évènement.
 
