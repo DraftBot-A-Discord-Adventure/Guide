@@ -2,10 +2,6 @@
 
 Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot, vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)en fonction du niveau de votre guilde.
 
-{% hint style="info" %}
-Pour le moment les familiers sont purement esthétiques. Ils n'ont pas de fonction à proprement parler, mais cela est amené à changer dans une future mise à jour.
-{% endhint %}
-
 Pour avoir les informations sur votre familier, vous devez utiliser la commande `!mypet` .
 
 Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles :star: :star: :star: :star: :star:.

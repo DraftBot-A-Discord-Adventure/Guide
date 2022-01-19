@@ -38,7 +38,7 @@ Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une 
 Ici, le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire.
 
 {% hint style="success" %}
-Dans certains évènements, ne rien faire est le meilleur choix ! (Dans d'autres c'est le pire).
+Dans certains évènements, ne rien faire est le meilleur choix ! (Dans d'autres c'est le pire.)
 {% endhint %}
 
 Une fois un choix réalisé par le joueur, ce dernier peut cliquer sur une réaction (ou attendre 2 minutes), ce qui déclenche l'issue.
