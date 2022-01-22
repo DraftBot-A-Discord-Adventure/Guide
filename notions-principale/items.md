@@ -210,7 +210,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :four\_leaf\_clover:                | Feuille de vent               | :rocket: Vitesse +41  pendant les combats   | Exotique   |
 | :skier:                             | Skis glissants                | :rocket: Vitesse +63  pendant les combats   | Rare       |
 | :leg:                               | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats   | Spécial    |
-| :blossom:                           | Fleur de l'espoir             | :rocket: Vitesse +105  pendant les combats  | Épique     |
+| :blossom:                           | Fleur de l'espoir             | :rocket: Vitesse +105  pendant les combats  | Légendaire |
 | :mans\_shoe:                        | Bottes Pégases                | :rocket:+ Vitesse +108  pendant les combats | Légendaire |
 | :broom:                             | Nimbus 2000                   | :rocket: Vitesse +151 pendant les combats   | Mythique   |
 
