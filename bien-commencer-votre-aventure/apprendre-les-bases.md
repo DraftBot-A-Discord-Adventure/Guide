@@ -26,7 +26,7 @@ Durant votre jeu, et si vous choisissez de prendre part dans la communauté et d
 
 :moneybag: **Argent :** L'argent est la monnaie du jeu. (oui le nom est original) Il est possible de le dépenser en utilisant la commande `!shop`. Avoir de l'argent vous permettra également de créer votre guilde avec la commande `!guildcreate`. Il est aussi possible de perdre de l'argent lors de certains évènements, ou mini-évènements. L'argent peut être obtenu dans les événements, les mini-événements, avec un objet quotidien ou bien dans les récompenses de guildes.
 
-:star: **Expérience :** L'expérience gagnée durant votre aventure à travers les événements vous permettra de passer des niveaux. Au fil des niveaux vos statistiques augmenteront et plus de possibilités s'offriront à vous.
+:star: **Expérience :** L'expérience gagnée durant votre aventure à travers les événements vous permettra de passer des niveaux. Au fil des niveaux vos statistiques augmenteront et plus de possibilités s'offriront à vous. Au niveau 4, vous pourrez acheter votre première classe ; au niveau 8, vous débloquerez les combats et au niveau 10 vous aurez la possibilité de créer ou rejoindre une guilde.
 
 :nauseated\_face: **Altération d'état :** Une altération d'état peut survenir si un malheur arrive à votre personnage durant un rapport. Les altérations d'état empêchent le personnage de récolter des points et désactivent certains aspects du jeu pendant un certain temps.
 
