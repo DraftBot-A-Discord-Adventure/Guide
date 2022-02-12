@@ -24,7 +24,9 @@ Durant votre jeu, et si vous choisissez de prendre part dans la communauté et d
 
 :question: **Mini-Évènement :** Entre deux évènements, le joueur peut obtenir des mini-évènements. Il y en a toutes les 10 minutes. Ils ne nécessitent que très peu d'interaction avec le joueur (en dehors de la commande `!report`)
 
-:moneybag: **Argent :** L'argent est la monnaie du jeu. \_(oui le nom est original) \_Il est possible de le dépenser en utilisant la commande `!shop`. Avoir de l'argent vous permettra également de créer votre guilde avec la commande `!guildcreate`. Il est aussi possible de perdre de l'argent lors de certains évènements, ou mini-évènements.
+:moneybag: **Argent :** L'argent est la monnaie du jeu. (oui le nom est original) Il est possible de le dépenser en utilisant la commande `!shop`. Avoir de l'argent vous permettra également de créer votre guilde avec la commande `!guildcreate`. Il est aussi possible de perdre de l'argent lors de certains évènements, ou mini-évènements. L'argent peut être obtenu dans les événements, les mini-événements, avec un objet quotidien ou bien dans les récompenses de guildes.
+
+:star: **Expérience :** L'expérience gagnée durant votre aventure à travers les événements vous permettra de passer des niveaux. Au fil des niveaux vos statistiques augmenteront et plus de possibilités s'offriront à vous.
 
 :nauseated\_face: **Altération d'état :** Une altération d'état peut survenir si un malheur arrive à votre personnage durant un rapport. Les altérations d'état empêchent le personnage de récolter des points et désactivent certains aspects du jeu pendant un certain temps.
 
