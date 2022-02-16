@@ -111,7 +111,7 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 
 ### Interaction avec un joueur sur le même trajet
 
-Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce mini-évènement permet de discuter avec un joueur que vous croisez que vous suivez ou que vous précédez !
+Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce mini-évènement permet de discuter avec un joueur que vous croisez, que vous suivez ou que vous précédez !
 
 Il existe une multitude de phrases en fonction de la situation de la personne que vous croisez !
 
