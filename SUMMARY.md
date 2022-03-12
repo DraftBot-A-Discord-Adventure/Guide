@@ -8,7 +8,7 @@
 * [Apprendre les bases](bien-commencer-votre-aventure/apprendre-les-bases.md)
 * [Questions et problèmes fréquents](bien-commencer-votre-aventure/questions-frequentes.md)
 
-## Notions principales <a href="notions-principale" id="notions-principale"></a>
+## Notions principales <a href="#notions-principale" id="notions-principale"></a>
 
 * [Rapports](notions-principale/report.md)
 * [Carte et lieux](notions-principale/carte-et-lieux.md)
@@ -19,6 +19,7 @@
 * [Classes](notions-principale/classes.md)
 * [Guildes](notions-principale/guildes.md)
 * [Familiers](notions-principale/familiers.md)
+* [Missions](notions-principale/missions.md)
 
 ## Notions avancées
 
@@ -27,7 +28,7 @@
 * [Mini-évènements](notions-avancees/mini-evenements.md)
 * [Badges](notions-avancees/badges.md)
 
-## Lore et histoire du bot <a href="lore" id="lore"></a>
+## Lore et histoire du bot <a href="#lore" id="lore"></a>
 
 * [Comment collaborer ?](lore/comment-collaborer.md)
 * [Historique des mises à jour](lore/historique-des-mises-a-jour.md)
