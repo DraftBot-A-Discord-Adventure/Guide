@@ -10,7 +10,7 @@ Les missions sont des objectifs à réaliser afin de gagner de l'expérience et 
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à ça :
 
-![Obtention d'une mission secondaire](../.gitbook/assets/j.png)
+![Obtention d'une mission secondaire](<../.gitbook/assets/Mission secondaire.png>)
 
 Les gemmes gagnées peuvent être dépensées dans le magasin des missions. Celui-ci se divise en 3 catégories :
 

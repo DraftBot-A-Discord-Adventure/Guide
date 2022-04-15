@@ -38,7 +38,7 @@ Il existe 4 types d'équipements :
 
 :shield: **Armure :** Une armure est une pièce d'équipement qui augmente la défense lors des combats. Les armures sont équipées automatiquement.
 
-****![](../.gitbook/assets/Potion2.png) **Potion :** Une potion est une pièce d'équipement qui peut avoir divers effets. Certaines potions peuvent être bues par le joueur à l'aide de la commande `!drink`, d'autres ne peuvent pas être bues et sont utilisées automatiquement lors d'un combat.
+****<img src="../.gitbook/assets/Potion2.png" alt="" data-size="line"> **Potion :** Une potion est une pièce d'équipement qui peut avoir divers effets. Certaines potions peuvent être bues par le joueur à l'aide de la commande `!drink`, d'autres ne peuvent pas être bues et sont utilisées automatiquement lors d'un combat.
 
 {% hint style="warning" %}
 Les potions sont les seules pièces d'équipement qui ne peuvent pas être revendues.

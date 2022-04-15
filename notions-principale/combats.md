@@ -33,14 +33,14 @@ Les combats amicaux sont similaires aux combats normaux, à la seule différence
 
 Le combat est basé sur un système de tour par tour. À chaque tour, vous aurez le choix entre 6 actions :
 
-| Action                                                | Description                                                                                                                                                                                                                                 |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| :crossed\_swords: Attaque simple                      | Attaque classique, les chances de réussite et les dégâts sont moyens.                                                                                                                                                                       |
-| :dagger: Attaque rapide                               | Attaque moins puissante mais qui ignore l'armure. Sa puissance diminue si on l'utilise trop.                                                                                                                                                |
-| ![:axe:](../.gitbook/assets/axe.png)Attaque puissante | Une attaque plus risquée mais plus puissante. Baisse la vitesse du combattant qui l'utilise.                                                                                                                                                |
-| :bomb: Attaque ultime                                 | Une attaque sur 2 tours à utiliser en dernier recours.                                                                                                                                                                                      |
-| :firecracker: Attaque bélier                          | Attaque qui fait des dégâts à tous les combattants, utile si vous avez plus de défense que votre adversaire.                                                                                                                                |
-| :rocket: Prise d'élan                                 | Augmente vos points de vitesse. Toutes les attaques hormis l'attaque ultime et l'attaque bélier ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
+| Action                                                                               | Description                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :crossed\_swords: Attaque simple                                                     | Attaque classique, les chances de réussite et les dégâts sont moyens.                                                                                                                                                                       |
+| :dagger: Attaque rapide                                                              | Attaque moins puissante mais qui ignore l'armure. Sa puissance diminue si on l'utilise trop.                                                                                                                                                |
+| <img src="../.gitbook/assets/axe.png" alt=":axe:" data-size="line">Attaque puissante | Une attaque plus risquée mais plus puissante. Baisse la vitesse du combattant qui l'utilise.                                                                                                                                                |
+| :bomb: Attaque ultime                                                                | Une attaque sur 2 tours à utiliser en dernier recours.                                                                                                                                                                                      |
+| :firecracker: Attaque bélier                                                         | Attaque qui fait des dégâts à tous les combattants, utile si vous avez plus de défense que votre adversaire.                                                                                                                                |
+| :rocket: Prise d'élan                                                                | Augmente vos points de vitesse. Toutes les attaques hormis l'attaque ultime et l'attaque bélier ont plus de chance de réussite si votre vitesse dépasse celle de votre adversaire. Plus cette action est utilisée, moins elle est efficace. |
 
 {% hint style="info" %}
 Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est aléatoire.)
@@ -103,7 +103,7 @@ La puissance de cette attaque diminue progressivement à partir de la quatrième
 | Adversaire plus rapide | 30%                          | 70%             |
 | Adversaire plus lent   | 95%                          | 5%              |
 
-#### ![:axe:](../.gitbook/assets/axe.png) Attaque puissante
+#### <img src="../.gitbook/assets/axe.png" alt=":axe:" data-size="line"> Attaque puissante
 
 Cette attaque permet d'infliger des dégâts importants à l'adversaire. Bien que puissante cette attaque doit cependant être utilisée avec parcimonie puisque chacune de ses utilisations engendre une perte de vitesse. Il est possible de contrer cette attaque en profitant d'une statistique de défense importante tant que l'attaque n'est pas parfaitement réussie.
 
