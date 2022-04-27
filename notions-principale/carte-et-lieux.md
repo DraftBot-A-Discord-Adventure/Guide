@@ -8,7 +8,7 @@ La carte du bot permet aux joueurs de se repérer entre les différents lieux du
 
 :european\_castle: **Château du Roi** : Le Château du Roi est l'endroit où le joueur pourra débuter son aventure et découvrir ainsi quelques notions de bases pour conquérir le cœur de la Princesse ! Mais celui-ci pourrait être amené a avoir d'autres fonctions...
 
-:deciduous\_tree: **Bois Hurlant** : Forêt mal famée au bord de Claire De Ville. Ce bois a une très mauvaise réputation dû aux repères de bandits et hors la loi en tout genre. La forêt tient surtout son nom de ces pratiques douteuses il y a de ça des centaines d’années.
+:deciduous\_tree: **Bois Hurlant** : Forêt mal famée au bord de Claire De Ville. Ce bois a une très mauvaise réputation dûe aux repaires de bandits et hors la loi en tout genre. La forêt tient surtout son nom de ces pratiques douteuses il y a de ça des centaines d’années.
 
 :house: **Boug-Coton** : Un village paisible réputé pour son auberge accueillante. Boug-Coton fait aussi du très bon vin, idéal pour oublier les petits tracas de la vie.
 
