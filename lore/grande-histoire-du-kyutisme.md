@@ -12,7 +12,7 @@ La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit 
 
 ![La Kyuillère utilisée par les prêtres](<../.gitbook/assets/image (59).png>)
 
-Les fidèles pratiquent dans des églises avec des prêtres(ses) Kyutistes, ces derniers vivant dans une annexe de l’église. La relique principale est la Sainte Kyuillère, les prêtres officiant d’ailleurs avec une kyuillère, grand bâton de 1m75 avec le bout en forme similaire à une cuillère. Le livre religieux est le Kyuran, où est transcrite l’histoire des dieux kyutistes (résumée un peu plus bas).
+Les fidèles pratiquent dans des églises avec des prêtres(ses) Kyutistes, ces derniers vivant dans une annexe de l’église. La relique principale est la Sainte Kyuillère, les prêtres officiant d’ailleurs avec une kyuillère, grand bâton de 1m75 dont l'extrémité a une forme similaire à une cuillère. Le livre religieux est le Kyuran, où est transcrite l’histoire des dieux kyutistes (résumée un peu plus bas).
 
 ![Des pales copies de l'objet divin semblent circuler dans la contrée](<../.gitbook/assets/image (60).png>)
 
@@ -26,15 +26,15 @@ La hiérarchie religieuse se compose comme suit :
 
 ### Le Kyuran
 
-Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également divers présentations des différentes icônes.\
+Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également diverses présentations des différentes icônes.\
 \
 On raconte que le livre dispose de pouvoirs magiques mais cette information est difficile à vérifier car les rares exemplaires s'arrachent à prix d'or. 
 
-![Un exemplaire du Kyuran vendu dans un marché noir.](<../.gitbook/assets/image (61).png>)
+![Un exemplaire du Kyuran vendu au marché noir.](<../.gitbook/assets/image (61).png>)
 
 #### La Genèse :
 
-Aux temps primordiaux, il n’y avait que Askeriel, flottant dans les limbes. Un jour, il eut l’idée d’employer ses forces pour créer quelque chose de plus : il créa donc le monde, la vie, et tout ce qui s’ensuit, façonnant tout de sa Kyuillère. Une fois le monde créé, il fit des Humains ses représentants. Ceux-ci commencèrent donc à le vénérer. Cependant, le temps passant, Askeriel prit pitié de ses protégés, car ceux-ci n’arrivaient pas à se démarquer des autres espèces, étant d’une nature très faible. Il créa donc ses bras droits afin de le seconder et d’apporter plus à ces Humains faibles: il créa la Trinité. À chacun de ces trois dieux, il délégua une part de son autorité, et il se mit en retrait afin d’avoir tout le loisir d’observer le monde sans le diriger seul.
+Aux temps primordiaux, il n’y avait qu'Askeriel, flottant dans les limbes. Un jour, il eut l’idée d’employer ses forces pour créer quelque chose de plus : il créa donc le monde, la vie, et tout ce qui s’ensuit, façonnant tout de sa Kyuillère. Une fois le monde créé, il fit des Humains ses représentants. Ceux-ci commencèrent donc à le vénérer. Cependant, le temps passant, Askeriel prit pitié de ses protégés, car ceux-ci n’arrivaient pas à se démarquer des autres espèces, étant d’une nature très faible. Il créa donc ses bras droits afin de le seconder et d’apporter plus à ces Humains faibles : il créa la Trinité. À chacun de ces trois dieux, il délégua une part de son autorité, et il se mit en retrait afin d’avoir tout le loisir d’observer le monde sans le diriger seul.
 
 #### La Trinité :
 
