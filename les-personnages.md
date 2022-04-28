@@ -4,7 +4,7 @@
 
 _**LES PERSONNAGES RÉCURRENTS**_ 
 
-Durant votre périple, vous rencontrerez certainement des personnages dont les noms sont souvent cités à travers les divers events auquel vous ferez face et dont voici la liste :
+Durant votre périple, vous rencontrerez certainement des personnages dont les noms sont souvent cités à travers les divers events auxquels vous ferez face et dont voici la liste :
 
 * **Le Duc Benatis** : souverain des terres connues, il est connu en temps que dictateur tyrannique vouant un culte aux bananes, il organise souvent des réceptions dans son palais. Gare à ceux qui oseront s'attaquer à ses bananes.
 
