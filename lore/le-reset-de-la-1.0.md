@@ -14,7 +14,7 @@ Lors de cette mise à jour, la progression de la totalité des joueurs a été r
 
 Suppression des commandes `!regen` et `!levelup`. Ces deux actions sont désormais automatiques.
 
-La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`](broken-reference).
+La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`](https://guide.draftbot.com/notions-avancees/monter-dans-les-classements#le-classement-du-serveur).
 
 ###  Système du profile
 
