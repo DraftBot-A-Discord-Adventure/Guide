@@ -1,6 +1,6 @@
 # Les personnages récurrents
 
-Durant votre périple, vous rencontrerez certainement des personnages dont les noms sont souvent cités à travers les divers évènements auquel vous ferez face et dont voici la liste :
+Durant votre périple, vous rencontrerez certainement des personnages dont les noms sont souvent cités à travers les divers évènements auxquels vous ferez face et dont voici la liste :
 
 * **Le Duc Benatis** : souverain des terres connues, il a une réputation de dictateur tyrannique vouant un culte aux bananes, il organise souvent des réceptions dans son palais. Gare à ceux qui oseront s'attaquer à ses bananes.
 * **Xetrix** : Xetrix est un ermite habitant dans une maison isolée de la forêt Célestrum, il aspire avant tout à une vie paisible et ne vous sera pas hostile tant que vous ne l'aurez pas provoqué.

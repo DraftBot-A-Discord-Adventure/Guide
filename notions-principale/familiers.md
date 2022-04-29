@@ -10,7 +10,7 @@ Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier l
 
 ### Comment obtenir un familier ?
 
-Les familiers s'obtiennent dans les récompenses de guildes `!guilddaily` avec 1% de chance ou alors dans un mini-évènement.
+Les familiers s'obtiennent dans les récompenses de guilde `!guilddaily` avec 1% de chance ou alors dans les mini-évènements.
 
 La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
@@ -43,7 +43,7 @@ Vous pouvez libérer votre familier avec la commande `!petfree` .
 
 #### Acheter de la nourriture.
 
-L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'a la forme la plus basique de nourriture pour votre animal.
+L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture pour votre animal.
 
 ![Le magasin de guilde permet d'acheter différentes sortes de nourritures](<../.gitbook/assets/image (17).png>)
 
@@ -84,7 +84,7 @@ Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité d
 5. :heart\_eyes\_cat: Dressé
 
 {% hint style="info" %}
-Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimé (mais vous pouvez le faire quand même).
+Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimés (mais vous pouvez le faire quand même).
 {% endhint %}
 
 {% hint style="danger" %}
@@ -95,7 +95,7 @@ Changer de propriétaire, c'est dur à supporter pour un animal !
 
 ### Comment stocker mon familier ?
 
-Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde**. Ou alors de le récupérer avec vous. Pour cela, vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier n°1 du refuge.
+Vous avez la possibilité de stocker votre familier dans le **refuge de votre guilde** ou alors de le récupérer avec vous. Pour cela, vous devez effectuer la commande `!pettransfer <id du familier>` exemple :`!pettransfer 1` permet de récupérer le familier n°1 du refuge.
 
 Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`.
 
@@ -105,25 +105,25 @@ Pour visualiser le refuge, vous pouvez utiliser la commande `!shelter`.
 Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 {% endhint %}
 
-### Surnommer un familier
+### Comment surnommer un familier ?
 
 Vous pouvez définir un surnom pour votre familier afin de rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `!petnickname <surnom>` exemple : `!petnickname Henri` permet de surnommer votre familier "Henri".
 
 ![Commande !mypet avec affichage du surnom du familier](<../.gitbook/assets/Rename pets.png>)
 
-### Échange de familiers
+### Comment échanger un familier ?
 
 L'implémentation de cette mise à jour favorise l'interaction entre joueurs puisque vous avez la possibilité d'échanger un familier avec la commande `!pettrade <mention joueur>` exemple : `!pettrade @Heliox#1119` permet d'ouvrir l'interface d'échange de familier avec le joueur **Heliox**.
 
 ![Menu d'échange de familiers](<../.gitbook/assets/Trade pets.png>)
 
-### Vente de familiers
+### Comment vendre un familier ?
 
 Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, (ou alors que vous aimez l'argent), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `!petsell [prix]`.
 
 ![Ici le familier "Elle" est vendu](<../.gitbook/assets/image (18).png>)
 
-Il y a des conditions importantes à respecter pour la vente de familier :
+Il y a des conditions importantes à respecter pour la vente de familiers :
 
 * Il n'est pas possible de vendre un familier à un membre de sa guilde.
 * Il est nécessaire d'appartenir à une guilde pour vendre un familier mais pas pour l'acheter.

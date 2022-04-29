@@ -39,6 +39,6 @@ Voilà une présentation de ce que vous pouvez faire pour nous aider !
 
 ****:tools: • **Testeur** - Aidez nous à tester les prochaines mises à jour.
 
-* **A savoir avant de candidater** : Ce rôle engendre un grand nombre de mentions
+* **À savoir avant de candidater** : Ce rôle engendre un grand nombre de mentions
 * **Pour plus de renseignements** : Contactez `@ΛSE#2286` sur le discord du bot (je vous laisse trouver le lien il n'est pas loin.)
 * **Pour candidater** : Contactez `@ΛSE#2286` en message privé sur discord

@@ -1,6 +1,6 @@
 # Gestion de l'inventaire
 
-L'inventaire est l'endroit où sont placés les différents items ramassés par le joueur dans les rapports ou achetés dans le magasin contre de l'argent.
+L'inventaire est l'endroit où sont placés les différents objets ramassés par le joueur dans les rapports ou achetés dans le magasin contre de l'argent.
 
 ### Organisation de l'inventaire
 

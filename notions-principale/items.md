@@ -49,7 +49,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :seat:                                                                  | Chaise                    | :dagger:8                          | Peu commun |
 | :fishing\_pole\_and\_fish:                                              | Canne à pêche de débutant | :dagger:9                          | Peu commun |
 | :face\_with\_symbols\_over\_mouth:                                      | Injures                   | :dagger:9                          | Peu commun |
-| :cricket:                                                               | Assomoire                 | :dagger:11                         | Peu commun |
+| :cricket:                                                               | Assomoir                  | :dagger:11                         | Peu commun |
 | :bow\_and\_arrow:                                                       | Transperceur              | :dagger:11                         | Peu commun |
 | :knife:                                                                 | Couteau ancien            | :dagger:12                         | Peu commun |
 | :knife:                                                                 | Épée en bois              | :dagger:12                         | Peu commun |
@@ -71,7 +71,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :banana:                                                                | Banane                    | :dagger:26                         | Rare       |
 | :gun:                                                                   | Pistolet vide             | :dagger:26                         | Rare       |
 | :syringe:                                                               | Seringue                  | :dagger:29                         | Rare       |
-| :axe:                                                                   | Ashoir                    | :dagger:36                         | Rare       |
+| :axe:                                                                   | Hachoir                   | :dagger:36                         | Rare       |
 | :candle:                                                                | Brûleur                   | :dagger:38                         | Rare       |
 | :fishing\_pole\_and\_fish:                                              | Canne à pêche             | :dagger:38                         | Rare       |
 | :syringe:                                                               | Seringue infectée         | :dagger:41                         | Rare       |
@@ -211,7 +211,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :skier:                                                            | Skis glissants                | :rocket: Vitesse +63  pendant les combats   | Rare       |
 | :leg:                                                              | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats   | Spécial    |
 | :blossom:                                                          | Fleur de l'espoir             | :rocket: Vitesse +105  pendant les combats  | Légendaire |
-| :mans\_shoe:                                                       | Bottes Pégases                | :rocket:+ Vitesse +108  pendant les combats | Légendaire |
+| :mans\_shoe:                                                       | Bottes Pégase                 | :rocket:+ Vitesse +108  pendant les combats | Légendaire |
 | :broom:                                                            | Nimbus 2000                   | :rocket: Vitesse +151 pendant les combats   | Mythique   |
 
 #### :crossed\_swords: Bonus d'attaque
@@ -260,7 +260,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :slot\_machine:                                                    | Machine à sous                | :moneybag: Argent +142 par jour | Rare       |
 | :green\_book:                                                      | Livre d'incantations volume 4 | :moneybag: Argent +152 par jour | Rare       |
 | :chains:                                                           | Chaînes magiques              | :moneybag: Argent +207 par jour | Spécial    |
-| <img src="../.gitbook/assets/amphora.png" alt="" data-size="line"> | Urne de minotaure ornée       | :moneybag: Argent +256 par jour | Épique     |
+| <img src="../.gitbook/assets/amphora.png" alt="" data-size="line"> | Urne ornée du minotaure       | :moneybag: Argent +256 par jour | Épique     |
 | :credit\_card:                                                     | Carte bancaire                | :moneybag: Argent +294 par jour | Épique     |
 | :large\_orange\_diamond:                                           | Amulette de Midas             | :moneybag: Argent +378 par jour | Légendaire |
 | :magnet:                                                           | Aimant                        | :moneybag: Argent +466 par jour | Légendaire |
@@ -286,7 +286,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :stew:                                                                     | Soupe de grand mère     | :heart: Vie + 10  | Peu commun |
 | <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line">    | Potion simple           | :heart: Vie + 17  | Exotique   |
 | <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line">    | Potion rouge            | :heart: Vie + 53  | Spécial    |
-| <img src="../.gitbook/assets/potion ultime.png" alt="" data-size="line">   | Bizssous'koup           | :heart: Vie + 70  | Spécial    |
+| <img src="../.gitbook/assets/potion ultime.png" alt="" data-size="line">   | Bizous'koup             | :heart: Vie + 70  | Spécial    |
 | <img src="../.gitbook/assets/potion ultime.png" alt="" data-size="line">   | Potion de guérison      | :heart: Vie + 80  | Spécial    |
 | <img src="../.gitbook/assets/potion violette.png" alt="" data-size="line"> | Potion acide            | :heart: Vie + 84  | Épique     |
 | <img src="../.gitbook/assets/potion ultime.png" alt="" data-size="line">   | Potion de soin          | :heart: Vie + 100 | Épique     |

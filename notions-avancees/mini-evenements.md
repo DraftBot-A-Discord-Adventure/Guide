@@ -1,8 +1,8 @@
 # Mini-évènements
 
-Il existe actuellement 15 types de mini-évènements différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder avec une vision plus stratégique de cette fonctionnalité.
+Il existe actuellement 15 types de mini-évènements différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
 
-### Mini-shop :
+### Mini-shop
 
 **Taux d'apparition :** 4.4%
 
@@ -14,7 +14,7 @@ Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de 
 
 ![Un exemple de mini-shop](<../.gitbook/assets/image (44).png>)
 
-### Interaction avec un familier :
+### Interaction avec un familier
 
 **Taux d'apparition :** 6.25% - Nécessite d'avoir un familier équipé pour apparaître.
 
@@ -46,7 +46,7 @@ Si un familier est dressé, il compte dans le calcul des récompenses accessible
 
 ![Un exemple d'interaction avec un familier.](<../.gitbook/assets/image (45).png>)
 
-### Trouver un familier :
+### Trouver un familier
 
 **Taux d'apparition :** 2.2%
 
@@ -65,7 +65,7 @@ Voilà les probabilités d'obtention pour chaque rareté de familiers :
 
 ![Ne me demandez pas comment elle était montée là haut](<../.gitbook/assets/image (52).png>)
 
-### Trouver un équipement :
+### Trouver un équipement
 
 **Taux d'apparition :** 2.2%
 
@@ -73,15 +73,15 @@ Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir d
 
 ![Exemple de découverte d'un équipement](<../.gitbook/assets/image (53).png>)
 
-### Rien ne se passe :
+### Rien ne se passe
 
 **Taux d'apparition :** 8.8%
 
-Ce mini-évent affiche simplement une phrase d'encouragement pour le joueur.
+Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur.
 
 ![Un exemple du mini-évènement "Rien ne se passe"](<../.gitbook/assets/image (55).png>)
 
-### Petit malheur :
+### Petit malheur
 
 **Taux d'apparition :** 8.8%
 
@@ -95,7 +95,7 @@ Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent 
 
 ![Un exemple de petit malheur](<../.gitbook/assets/image (56).png>)
 
-### Gros malheur :
+### Gros malheur
 
 **Taux d'apparition :** 1.1%
 

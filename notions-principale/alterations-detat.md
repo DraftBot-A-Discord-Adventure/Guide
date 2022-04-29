@@ -1,6 +1,6 @@
 # Altérations d'état
 
-L'altération d'état d'un joueur, définit sa situation actuelle. Certains statuts empêchent le joueur d'effectuer certaines actions dans le jeu.
+L'altération d'état d'un joueur définit sa situation actuelle. Certains statuts empêchent le joueur d'effectuer certaines actions dans le jeu.
 
 ### Liste des états
 
@@ -31,13 +31,13 @@ L'altération d'état "Mort" bloque la totalité des commandes du bot excepté l
 
 ### Soin des altérations d'état
 
-Les altérations d'état se soignent d'elles-même avec le temps (à l'exception de l'altération "Mort").
+Les altérations d'état se soignent d'elles-mêmes avec le temps (à l'exception de l'altération "Mort").
 
 Il est cependant possible de soigner une altération d'état autrement qu'en attendant.
 
 #### Obtention d'un "soin des altérations d'état"
 
-Il est possible d'acheter un soin des altérations d'état dans le magasin en utilisant la commande `!shop`. Cet achat vous coûtera 500 d'argent et annulera votre altération d'état. Lorsque votre altération d'état est annulée, votre personnage est enregistré comme si il venait juste d'effectuer un rapport.
+Il est possible d'acheter un soin des altérations d'état dans le magasin en utilisant la commande `!shop`. Cet achat vous coûtera 500 d'argent et annulera votre altération d'état. Lorsque votre altération d'état est annulée, votre personnage est enregistré comme s'il venait juste d'effectuer un rapport.
 
 {% hint style="info" %}
 Le soin d'altération d'état est également une récompense de la récompense journalière de guilde à partir d'un certain niveau de guilde.

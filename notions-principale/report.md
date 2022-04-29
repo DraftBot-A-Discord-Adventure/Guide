@@ -19,10 +19,10 @@ Le joueur met 10 minutes à réaliser un trajet entre deux mini-évènements.
 
 ![Un exemple de mini-évènement](../.gitbook/assets/Mini-évènement.png)
 
-Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des items, de la vie ou encore de l'argent.
+Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des objets, de la vie ou encore de l'argent.
 
 {% hint style="info" %}
-Chaque mini évent rapporte au joueur une quantité de points diminuant à chaque nouveau mini évent. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
+Chaque mini-évènement rapporte au joueur une quantité de points diminuant à chaque nouveau mini-évènement. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
 {% endhint %}
 
 ![Une fois le mini-évènement passé, il apparaît sur l'interface de voyage](../.gitbook/assets/Voyage.png)
@@ -33,7 +33,7 @@ Vous pouvez voir le nombre de points récoltés avec les mini-évènements ainsi
 
 Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiples à l'aide des réactions Discord. En fonction de son choix, différentes issues surviennent.
 
-![Un exemple d'événement](<../.gitbook/assets/image (47).png>)
+![Un exemple d'évènement](<../.gitbook/assets/image (47).png>)
 
 Ici, le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire.
 

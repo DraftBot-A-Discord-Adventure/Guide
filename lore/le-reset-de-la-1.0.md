@@ -1,8 +1,8 @@
 # Le reset de la 1.0
 
-Le 24 avril 2019, le bot est passé à la version 1.0.0 suite a une grosse mise a jour. Elle est plus couramment appelé « le reset ». Ce fameux reset amena son lot de nouveautés et de correction de bug en procédant à une réécriture quasiment complète du bot.
+Le 24 avril 2019, le bot est passé en version 1.0.0 suite à une grosse mise a jour. Elle est plus couramment appelée « le reset ». Ce fameux reset amena son lot de nouveautés et de corrections de bugs en procédant à une réécriture quasiment complète du bot.
 
-Lors de cette mise à jour, la progression de la totalité des joueurs a été remise à zero. Un badge a été offert au meilleur joueur.
+Lors de cette mise à jour, la progression de la totalité des joueurs a été remise à zéro. Un badge a été offert au meilleur joueur.
 
 ### Commandes ajoutées
 
@@ -14,23 +14,23 @@ Lors de cette mise à jour, la progression de la totalité des joueurs a été r
 
 Suppression des commandes `!regen` et `!levelup`. Ces deux actions sont désormais automatiques.
 
-La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`](broken-reference).
+La commande `!topguilde` a été supprimée et sera réintroduite dans une version future sous le nom de [`!topserver`](https://guide.draftbot.com/notions-avancees/monter-dans-les-classements#le-classement-du-serveur).
 
-###  Système du profile
+### Système du profil
 
-L'interface des combats et du profile ont été complètement réécrit. Pour vous donner un aperçu, voici l'interface du profile avant et après la v1.0.0.  
+Les interfaces de combat et du profil ont été complètement réécrites. Pour vous donner un aperçu, voici l'interface du profil avant et après la v1.0.0.
 
-![Système de profile avant la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot_\(48\).png/revision/latest/scale-to-width-down/617?cb=20200409185454\&path-prefix=fr)
+![Système de profil avant la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot\_\(48\).png/revision/latest/scale-to-width-down/617?cb=20200409185454\&path-prefix=fr)
 
-![Système de profile après la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot_\(50\).png/revision/latest?cb=20200409190521\&path-prefix=fr)
+![Système de profil après la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot\_\(50\).png/revision/latest?cb=20200409190521\&path-prefix=fr)
 
-### Ajout des badges 
+### Ajout des badges
 
-Je vous invite a consulter la page du wiki dédié au [badges](../notions-avancees/badges.md) pour plus détails.
+Je vous invite à consulter la page du wiki dédié au [badges](../notions-avancees/badges.md) pour plus détails.
 
-### Diverses autres nouveautés 
+### Nouveautés diverses
 
-La liste des nouveautés complète de cette mise à jour est disponible sur le site dédié aux historiques de mise à jour :
+La liste complète des nouveautés de cette mise à jour est disponible sur le site dédié aux historiques de mises à jour :
 
 {% embed url="https://history.draftbot.com/1.0.0" %}
 Historique des nouveautés de la 1.0.0

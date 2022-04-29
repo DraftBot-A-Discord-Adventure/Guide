@@ -27,7 +27,7 @@ Les gemmes gagnées peuvent être dépensées dans le magasin des missions. Celu
 {% endtab %}
 
 {% tab title="Prestige" %}
-* Le badge QuestMaster est un badge unique permettant de monter votre investissement dans les missions. Vous pouvez vous le procurer pour 150 gemmes.
+* Le badge Maître des quêtes est un badge unique permettant de monter votre investissement dans les missions. Vous pouvez vous le procurer pour 150 gemmes.
 {% endtab %}
 {% endtabs %}
 

@@ -10,7 +10,7 @@ Une fois que votre personnage a atteint le **niveau 8**, vous débloquez la capa
 
 Pendant un combat, vous devez impérativement prendre en compte les statistiques suivantes :
 
-* :zap: L'énergie
+* :zap: Énergie
 * :dagger: Points d'attaque
 * :shield: Points de défense
 * :rocket: Points de vitesse
@@ -23,7 +23,7 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats normaux
 
-Un combat normal peut être lancé avec la commande`!fight`. La variante `!fight <@user>` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte des :medal: points de classement et le perdant en perd.
+Un combat normal peut être lancé avec la commande `!fight`. La variante `!fight <@user>` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte des :medal: points de classement et le perdant en perd.
 
 #### Les combats amicaux
 
@@ -68,7 +68,7 @@ $$
 x = random(1, a / 4)
 $$
 
-* x représente le minimum de dégât qui sera effectué quoi qu'il arrive par l'attaque.
+* x représente le minimum de dégâts qui sera effectué quoi qu'il arrive par l'attaque.
 * a représente la statistique d'attaque du combattant effectuant l'attaque.
 
 **Voilà les probabilités d’échec ou de réussite de l'attaque :**
@@ -89,7 +89,7 @@ Cette attaque permet d'atteindre un ennemi ayant une forte armure. Elle échoue 
 | Puissance de l'attaque | 85                           | 10              |
 
 {% hint style="info" %}
-Cette attaque transperce l'armure, seul 10% des points de défense sont utilisés pour la contrer.
+Cette attaque transperce l'armure, seuls 10% des points de défense sont utilisés pour la contrer.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -118,7 +118,7 @@ La défense est 50% plus efficace sur cette attaque, il vaut mieux avoir un gros
 {% endhint %}
 
 {% hint style="danger" %}
-Cette attaque diminue la vitesse de l'attaquant, de 10% si l'attaque échoue et de 25% si elle réussie.
+Cette attaque diminue la vitesse de l'attaquant, de 10% si l'attaque échoue et de 25% si elle réussit.
 {% endhint %}
 
 **Voilà les probabilités d’échec ou de réussite de l'attaque :**
@@ -174,7 +174,7 @@ Un échec de cette attaque affaiblit l'attaquant en lui infligeant les dégâts 
 
 #### :rocket: Prise d'élan
 
-Cette action permet de gagner en vitesse. Plusieurs attaques dépendent de cette statistique pour être plus efficace. Il peut être intéressant d'augmenter cette caractéristique pour mieux défendre contre ces attaques et pour mieux les utiliser, ou pour temporiser durant le combat. L'efficacité du gain décroît au fur et à mesure qu'il est utilisé.
+Cette action permet de gagner en vitesse. Plusieurs attaques dépendent de cette statistique pour être plus efficaces. Il peut être intéressant d'augmenter cette caractéristique pour mieux se défendre contre ces attaques et pour mieux les utiliser, ou pour temporiser durant le combat. L'efficacité du gain décroît au fur et à mesure qu'il est utilisé.
 
 $$
 Gain De Vitesse = random(0, x)
@@ -193,5 +193,5 @@ Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 25 
 Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu.
 
 {% hint style="danger" %}
-Si un des adversaires est inactif pendant 30 seconde, le combat est considéré comme nul et s'arrête.
+Si un des adversaires est inactif pendant 30 secondes, le combat est considéré comme nul et s'arrête.
 {% endhint %}

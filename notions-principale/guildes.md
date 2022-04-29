@@ -28,20 +28,20 @@ Il est impossible de renommer une guilde
 
 ### Comment rejoindre une guilde ?
 
-Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'ainé peuvent inviter des joueurs dans sa guilde grâce à la commande `!guildadd <@player>`.
+Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'ainé peuvent inviter des joueurs dans leur guilde grâce à la commande `!guildadd <@player>`.
 
 {% hint style="info" %}
 Un salon destiné à recueillir les annonces de recrutement est disponible sur le discord du bot.
 {% endhint %}
 
-### Voir les statistiques d'une guilde ?
+### Comment voir les statistiques d'une guilde ?
 
 La commande `!guild` permet d'afficher les informations de la guilde de la personne effectuant la commande.
 
 Il existe également deux façons alternatives d'utiliser cette commande:
 
 * `!guild <nom de la guilde>` Permet de voir les informations d'une guilde à partir de son nom.
-* `!guild <@mention>` Permet de voir les informations d'une guilde à partir de l'un de ses membres.
+* `!guild <@mention>` Permet de voir les informations d'une guilde à partir du nom d'un de ses membres.
 
 ### Monter de niveau une guilde.
 
@@ -52,7 +52,7 @@ Contre 1000 d'argent, vous pourrez apporter aléatoirement entre 50 et 450 point
 
 #### Dans les récompenses quotidiennes
 
-Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent .... Le type de récompense varie en fonction du niveau de votre guilde.
+Toutes les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent... Le type de récompense varie en fonction du niveau de votre guilde.
 
 | Niveau de la guilde | Un peu d'Argent | Expérience de guilde | Expérience personnelle | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge | 5 friandises pour les familiers |
 | ------------------- | --------------- | -------------------- | ---------------------- | --------------------------- | ----------- | ----------------------------- | ------------ | ----- | ------------------------------- |
@@ -70,9 +70,9 @@ Tous les 22h, il est possible d'utiliser la commande `!guilddaily` afin d'obteni
 
 
 
-### Mettre un ainé ?
+### Mettre un aîné ?
 
-Vous pouvez mettre un ainé pour votre guilde avec la commande `!guildelder<@mention>`l'ainé pourra alors recruter des gens et modifier la description de votre guilde. Bien sur si celui-ci vous énerve vous pouvez le retirer avec la commande `!guildelderremove`.
+Vous pouvez mettre un aîné pour votre guilde avec la commande `!guildelder<@mention>`. L'aîné pourra alors recruter des gens et modifier la description de votre guilde. Bien sûr si celui-ci vous énerve vous pouvez le retirer avec la commande `!guildelderremove`.
 
 ### Voir le stockage de la guilde.
 
@@ -87,7 +87,7 @@ Vous pouvez afficher la nourriture stockée dans votre guilde avec la commande `
 Vous pouvez acheter de la nourriture dans la boutique.
 {% endhint %}
 
-### Quitter une guilde ?
+### Comment quitter une guilde ?
 
 Il est possible à tout moment de quitter une guilde avec la commande `!guildleave`.\
-Le chef de la guilde, peut aussi utiliser la commande `!guildkick`, pour expulser un membre de la guilde.
+Le chef de la guilde peut aussi utiliser la commande `!guildkick` pour expulser un membre de la guilde.

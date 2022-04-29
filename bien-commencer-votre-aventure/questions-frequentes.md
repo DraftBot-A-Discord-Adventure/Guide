@@ -24,9 +24,9 @@ OUI ! Le lien pour inviter le bot est disponible sur [http://draftbot.com/](http
 
 ### **En quel langage le bot est-il développé ?**
 
-_Node js_
+_Node.js_
 
-Les données enregistrées dans la base de données concernent uniquement le jeu (les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés). Les pseudonymes de joueurs ne sont pas non plus enregistrés.
+Les données enregistrées dans la base de données concernent uniquement le jeu (les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés). Les pseudonymes des joueurs ne sont pas non plus enregistrés.
 
 ### Comment créer un bot discord ?
 
@@ -46,6 +46,6 @@ OUI ! Le bot est complètement OPEN SOURCE !!! N'hésitez pas à contribuer ici 
 
 ### Pourquoi y a-t-il deux bots avec le même nom ?
 
-Il existe deux bots "Draftbot", mais ils n'ont rien en commun en dehors du nom, et aucun des deux créateurs n'a plagié sur l'autre. Si vous cherchez de l'aide à propos de l'autre bot, nous vous conseillons de rejoindre leur plateforme de support.
+Il existe deux bots "Draftbot", mais ils n'ont rien en commun en dehors du nom, et aucun des deux créateurs n'a plagié l'autre. Si vous cherchez de l'aide à propos de l'autre bot, nous vous conseillons de rejoindre leur plateforme de support.
 
 ​
