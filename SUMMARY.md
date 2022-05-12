@@ -30,9 +30,15 @@
 
 ## Lore et histoire du bot <a href="#lore" id="lore"></a>
 
-* [Comment collaborer ?](lore/comment-collaborer.md)
 * [Historique des mises à jour](lore/historique-des-mises-a-jour.md)
 * [Le reset de la 1.0](lore/le-reset-de-la-1.0.md)
 * [Redactor Gang](lore/redactor-gang.md)
 * [Les personnages récurrents](lore/les-personnages.md)
 * [Grande Histoire du Kyutisme](lore/grande-histoire-du-kyutisme.md)
+
+## Aidez-nous à développer DraftBot !
+
+* [Comment contribuer ?](aidez-nous-a-developper-draftbot/comment-contribuer/README.md)
+  * [Rédaction des évents](aidez-nous-a-developper-draftbot/comment-contribuer/redaction-des-events.md)
+  * [Test du bot](aidez-nous-a-developper-draftbot/comment-contribuer/test-du-bot.md)
+  * [Rédaction / Traduction du guide](aidez-nous-a-developper-draftbot/comment-contribuer/redaction-traduction-du-guide.md)
