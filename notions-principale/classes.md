@@ -27,13 +27,13 @@ Puis vous devez cliquer sur la réaction correspondante à la classe que vous so
 
 ### Liste des classes
 
-![Classes de palier 1](<../.gitbook/assets/Classes tier 1.png>)
+![Classes de palier 1](<../.gitbook/assets/Classes T1.png>)
 
-![Classes de palier 2](<../.gitbook/assets/Classes tier 2.png>)
+![Classes de palier 2](<../.gitbook/assets/Classes T2.png>)
 
-![Classes de palier 3](<../.gitbook/assets/Classes tier 3.png>)
+![Classes de palier 3](<../.gitbook/assets/Classes T3.png>)
 
-![Classes de palier 4](<../.gitbook/assets/Classes tier 4.png>)
+![Classes de palier 4](<../.gitbook/assets/Classes T4.png>)
 
 {% hint style="info" %}
 Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de fois que vous le souhaitez.
