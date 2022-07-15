@@ -6,9 +6,7 @@ La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit 
 
 * les fidèles « simples », qui pratiquent mais ont leur profession et leur vie à côté.
 * les religieux.
-*   Les membres de l’Ordre des Trois, kyutistes extrémistes qui rejettent le
-
-    culte d’Askeriel et vénèrent la Trinité.
+* Les membres de l’Ordre des Trois, kyutistes extrémistes qui rejettent le culte d’Askeriel et vénèrent la Trinité.
 
 ![La Kyuillère utilisée par les prêtres](<../.gitbook/assets/image (59).png>)
 
@@ -50,4 +48,4 @@ Une dernière divinité existe, mais est endormie : il s’agit de Y'ahnor, di
 
 ### La secte
 
-La secte est un groupe de kyutistes extrémistes qui rejettent Askeriel. Ils se font nommer l’Ordre des Trois, et pensent qu’Askeriel est mort, détrôné par la Trinité sur les conseils de Y'ahnor, car il n’était pas digne de diriger le monde et l’humanité et les freine dans leur objectif de guider l’humanité. Ils sont dirigés par les trois Blusters, chacun symbolisant l’incarnation d’un des trois Dieux de la Trinité sur terre. D’après eux, tous les dieux sont foncièrement mauvais (ce qui n’est pas le cas dans le kyutisme), ils savent qu’ils iront auprès de Fenrir à leur mort à cause de leurs actes, mais ils espèrent recevoir un sort plus clément en effectuant des sacrifices divers en son honneur de leur vivant. Leur objectif final est de réveiller Y'ahnor grâce à des sacrifices humains, afin qu’elle guide l’humanité pour diriger le monde avec les Trois.
+La secte est un groupe de kyutistes extrémistes qui rejettent Askeriel. Ils se font nommer l’Ordre des Trois, et pensent qu’ Askeriel est mort, détrôné par la Trinité sur les conseils de Y'ahnor, car il n’était pas digne de diriger le monde et l’humanité et les freine dans leur objectif de guider l’humanité. Ils sont dirigés par les trois Blusters, chacun symbolisant l’incarnation d’un des trois Dieux de la Trinité sur terre. D’après eux, tous les dieux sont foncièrement mauvais (ce qui n’est pas le cas dans le kyutisme), ils savent qu’ils iront auprès de Fenrir à leur mort à cause de leurs actes, mais ils espèrent recevoir un sort plus clément en effectuant des sacrifices divers en son honneur de leur vivant. Leur objectif final est de réveiller Y'ahnor grâce à des sacrifices humains, afin qu’elle guide l’humanité pour diriger le monde avec les Trois.

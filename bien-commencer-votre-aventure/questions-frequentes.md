@@ -2,11 +2,11 @@
 
 ### Passer le bot en français
 
-La commande `language` permet de passer le jeu en français !
+La commande `/language` permet de passer le jeu en français !
 
 ### Trouver la liste des commandes.
 
-La liste des commandes du bot peut être obtenue en utilisant la commande `help` dans un salon où le bot peut vous répondre.
+La liste des commandes du bot peut être obtenue en utilisant la commande `/help` dans un salon où le bot peut vous répondre.
 
 ### J'ai invité le bot sur mon serveur mais ce dernier ne répond pas.
 
@@ -14,7 +14,7 @@ Vérifiez que vous avez donné les bonnes permissions au bot.
 
 ![Liste minimale des permissions nécessaires](<../.gitbook/assets/image (15).png>)
 
-Si les permissions sont correctes pour le channel où vous avez fait la commande, vérifiez que vous utilisez le bon préfixe en mentionnant DraftBot. Celui-ci vous communiquera le préfixe à utiliser.
+Si les permissions sont correctes pour le channel où vous avez fait la commande, alors n'hésitez pas a demander de l'aide sur [le serveur officiel](https://discord.com/invite/aJhQy4AtAA).
 
 ### **Est-il possible de rajouter le bot sur mon serveur ?**
 

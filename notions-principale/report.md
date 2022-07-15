@@ -1,10 +1,10 @@
 # Rapports
 
-Les rapports représentent la base du jeu. Il s'agit d'une petite description de ce qu'il est advenu du personnage contrôlé par le joueur depuis leur dernière interaction. Pour demander un rapport, le joueur doit utiliser la commande `!report`.
+Les rapports représentent la base du jeu. Il s'agit d'une petite description de ce qu'il est advenu du personnage contrôlé par le joueur depuis leur dernière interaction. Pour demander un rapport, le joueur doit utiliser la commande `/report`.
 
 ### Interface :
 
-La commande `!report` possède 4 états différents :
+La commande `/report` possède 4 états différents :
 
 * Le joueur est en train de voyager.
 * Le joueur est victime d'une altération d'état.

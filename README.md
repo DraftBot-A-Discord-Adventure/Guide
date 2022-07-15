@@ -14,7 +14,7 @@ L'histoire se déroule dans un monde médiéval où le joueur contrôle un avent
 
 #### Voici un résumé des fonctionnalités principales.
 
-* Dirigez votre petit personnage et aidez-le à **sauver la princesse** !
+* Dirigez votre petit personnage et aidez-le à **conquérir la princesse** !
 * **Aucune permission n'est nécessaire.** Votre serveur est en sécurité !
 * **Configuration simple** : juste un salon.
 * Rejoignez **plusieurs milliers de joueurs**, combattez et créez votre guilde avec vos amis !

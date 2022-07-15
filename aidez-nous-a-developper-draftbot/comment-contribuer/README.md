@@ -5,4 +5,4 @@ Nous sommes en recherche permanente de personnes souhaitant s'investir pour nous
 * [Contribuer au développement du bot](redaction-des-events.md)
 * [Contribuer au test du bot](test-du-bot.md)
 * [Contribuer à la rédaction du guide](redaction-traduction-du-guide.md)
-* [Contribuer à la traduction du guide](broken-reference)
+* [Contribuer à la traduction du guide](redaction-traduction-du-guide.md#traduction-du-guide)

@@ -4,11 +4,10 @@ description: Un guide à propos de la commande !profil.
 
 # Profil
 
-Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande `!profile`.\
-Vous pouvez aussi utiliser la variante `!profile <@user>` pour accéder au profil d'un autre joueur.
+Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande /`profile`.
 
-{% hint style="info" %}
-Vous pouvez aussi utiliser l'alias `!p` et sa variante `!p <@user>` pour ouvrir le profil.
+{% hint style="success" %}
+Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement ou en le mentionnant avec les paramètres "rank" ou "user" !
 {% endhint %}
 
 ![Profil d'un joueur de Draftbot](<../.gitbook/assets/profil draftbot énergie.PNG>)

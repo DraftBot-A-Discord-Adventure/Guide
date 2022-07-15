@@ -14,6 +14,10 @@
 * Légendaire :star2: `0,23% (~1 équipement/435)`
 * Mythique :gem: `0,02% (1 équipement/5000)`
 
+{% hint style="info" %}
+Vous pouvez aussi les voir aves la commande `/rarity` !
+{% endhint %}
+
 ### Valeur et puissance des équipements
 
 La valeur des équipements est calculée principalement en fonction de la rareté de l'équipement.
