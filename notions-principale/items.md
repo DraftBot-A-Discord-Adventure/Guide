@@ -9,7 +9,7 @@
 * Peu commun :fire: `25% (1 équipement/4)`
 * Exotique :trident: `15% (~1 équipement/7)`
 * Rare :comet: `10% (1 équipement/10)`
-* Spécial :dizzy: `5% (1 équipement/20)`
+* Spécial :dizzy: `5% (1 équipement/20)`:dagger:``
 * Épique :star: `1% (1 équipement/100)`
 * Légendaire :star2: `0,23% (~1 équipement/435)`
 * Mythique :gem: `0,02% (1 équipement/5000)`
@@ -47,12 +47,12 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :hockey:                                                                | Crosse                    | :dagger:8                           | Commun     |
 | :boxing\_glove:                                                         | Gant de boxe              | :dagger:9                           | Commun     |
 | :snowflake:                                                             | Boule de neige            | :dagger:11                          | Commun     |
+| :face\_with\_symbols\_over\_mouth:                                      | Injures                   | :dagger:11                          | Commun     |
 | <img src="../.gitbook/assets/razor.png" alt="" data-size="line">        | Rasoir                    | :dagger:12                          | Commun     |
 | :guitar:                                                                | Guitare lourde            | :dagger:7                           | Peu commun |
 | :pushpin:                                                               | Percingasiteur            | :dagger:8                           | Peu commun |
 | :seat:                                                                  | Chaise                    | :dagger:8                           | Peu commun |
 | :fishing\_pole\_and\_fish:                                              | Canne à pêche de débutant | :dagger:9                           | Peu commun |
-| :face\_with\_symbols\_over\_mouth:                                      | Injures                   | :dagger:9                           | Peu commun |
 | :cricket:                                                               | Assomoir                  | :dagger:11                          | Peu commun |
 | :bow\_and\_arrow:                                                       | Transperceur              | :dagger:11                          | Peu commun |
 | :knife:                                                                 | Couteau ancien            | :dagger:12                          | Peu commun |
@@ -87,6 +87,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | <img src="../.gitbook/assets/axe.png" alt="" data-size="line">          | Hachoir                   | :dagger:60                          | Rare       |
 | :syringe:                                                               | Seringue sale             | :dagger:48                          | Spécial    |
 | :cooking:                                                               | Poêle                     | :dagger:52                          | Spécial    |
+| :heart:                                                                 | Pouvoir de l'amour        | :dagger:52 :shield:90 :rocket:23    | Spécial    |
 | :hammer:                                                                | Marteau de combat         | :dagger:62 :rocket:-10              | Spécial    |
 | :fishing\_pole\_and\_fish:                                              | Canne à pêche de maître   | :dagger:67                          | Spécial    |
 | :bow\_and\_arrow:                                                       | Arc de chevalier          | :dagger:73 :shield:-30 :rocket:20   | Spécial    |
@@ -94,17 +95,18 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :bow\_and\_arrow:                                                       | Arc                       | :dagger:87 :shield:-30 :rocket:20   | Spécial    |
 | :crossed\_swords:                                                       | Épée sharpness 4          | :dagger:87                          | Spécial    |
 | :crossed\_swords:                                                       | Épées doubles             | :dagger:104 :shield:30  :rocket:-50 | Spécial    |
-| :closed\_book:                                                          | Vieux grimoire            | :dagger:70                          | Epique     |
-| :feet:                                                                  | Griffe de chat enragé     | :dagger:70                          | Epique     |
-| :syringe:                                                               | Seringue contaminée       | :dagger:76                          | Epique     |
-| :dagger:                                                                | Épée Kokiri               | :dagger:89                          | Epique     |
-| :crossed\_swords:                                                       | Beat Saber                | :dagger:96                          | Epique     |
-| :crossed\_swords:                                                       | Ines'word                 | :dagger:96                          | Epique     |
-| :dagger:                                                                | Exagide                   | :dagger:96 :shield:30               | Epique     |
-| :zap:                                                                   | Volto-hache               | :dagger:113 :shield:-20             | Epique     |
-| :zap:                                                                   | Foudre de Zeus            | :dagger:122                         | Epique     |
-| :crossed\_swords:                                                       | Épée royale               | :dagger:132                         | Epique     |
-| :gun:                                                                   | Pistolet chargé           | :dagger:143                         | Epique     |
+| :closed\_book:                                                          | Vieux grimoire            | :dagger:70                          | Épique     |
+| :feet:                                                                  | Griffe de chat enragé     | :dagger:70                          | Épique     |
+| :syringe:                                                               | Seringue contaminée       | :dagger:76                          | Épique     |
+| :screwdriver:                                                           | Tournevis sonique         | :dagger:82 :rocket:35               | Épique     |
+| :dagger:                                                                | Épée Kokiri               | :dagger:89                          | Épique     |
+| :crossed\_swords:                                                       | Beat Saber                | :dagger:96                          | Épique     |
+| :crossed\_swords:                                                       | Ines'word                 | :dagger:96                          | Épique     |
+| :dagger:                                                                | Exagide                   | :dagger:96 :shield:30               | Épique     |
+| :zap:                                                                   | Volto-hache               | :dagger:113 :shield:-20             | Épique     |
+| :zap:                                                                   | Foudre de Zeus            | :dagger:122                         | Épique     |
+| :crossed\_swords:                                                       | Épée royale               | :dagger:132                         | Épique     |
+| :gun:                                                                   | Pistolet chargé           | :dagger:143                         | Épique     |
 | :gun:                                                                   | Pistolet pan pan QQ       | :dagger:125                         | Légendaire |
 | :microbe:                                                               | Bio-arme                  | :dagger:134                         | Légendaire |
 | :crossed\_swords:                                                       | Épée de Ragnell           | :dagger:145                         | Légendaire |
