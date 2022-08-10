@@ -230,6 +230,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque +57 pendant les combats  | Spécial    |
 | :flag\_black:          | Drapeau de la mort            | :dagger: Attaque +85 pendant les combats  | Épique     |
 | :gem:                  | Diamant kéraunique            | :dagger: Attaque +132 pendant les combats | Légendaire |
+| :eye:                  | Œil de Fatalis                | :dagger: Attaque +134 pendant les combats | Mythique   |
 | :guitar:               | Guitare terrifiante           | :dagger: Attaque +137 pendant les combats | Mythique   |
 
 #### :shield: Bonus de défense
