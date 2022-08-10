@@ -162,7 +162,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :eight\_spoked\_asterisk:                                              | Champ de force             | :shield:79                         | Spécial    |
 | :shield:                                                               | Bouclier royal             | :shield:87                         | Spécial    |
 | :bricks:                                                               | Mur                        | :shield:94                         | Spécial    |
-| :shinto\_shrine:                                                       | Forteresse japonaise       | :dagger:50 :shield:64              | Épique     |
+| :shinto\_shrine:                                                       | Forteresse japonaise       | :dagger:50 :shield:168             | Épique     |
 | :man\_judge:                                                           | Jurisprudence              | :dagger:45 :shield:89 :rocket:-40  | Épique     |
 | :lab\_coat:                                                            | Kimono de maître           | :shield:96                         | Épique     |
 | :person\_fencing:                                                      | Armure de fer              | :shield:113                        | Épique     |
@@ -197,12 +197,12 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :sparkles:                                                           | Chapelet mythique        | :heart: Vie + 3 par jour  | Exotique   |
 | <img src="../.gitbook/assets/pansement.png" alt="" data-size="line"> | Pansement                | :heart: Vie + 4 par jour  | Rare       |
 | :hearts:                                                             | Réceptacle de cœur       | :heart: Vie + 6 par jour  | Spécial    |
-| :banana:                                                             | Banan'ase split          | :heart: Vie + 7 par jour  | Épique     |
+| :banana:                                                             | Banan'ase split          | :heart: Vie + 9 par jour  | Épique     |
 | :squeeze\_bottle:                                                    | Gel hydroalcoolique      | :heart: Vie + 7 par jour  | Épique     |
-| :angel:                                                              | Bague de l'ange sans vie | :heart: Vie + 8 par jour  | Épique     |
-| :flag\_white:                                                        | Drapeau de la paix       | :heart: Vie + 9 par jour  | Légendaire |
-| :angel:                                                              | Bénédiction du ciel      | :heart: Vie + 10 par jour | Légendaire |
-| :saxophone:                                                          | Saxo magique             | :heart: Vie + 11 par jour | Mythique   |
+| :angel:                                                              | Bague de l'ange sans vie | :heart: Vie + 11 par jour | Épique     |
+| :flag\_white:                                                        | Drapeau de la paix       | :heart: Vie + 14 par jour | Légendaire |
+| :angel:                                                              | Bénédiction du ciel      | :heart: Vie + 15 par jour | Légendaire |
+| :saxophone:                                                          | Saxo magique             | :heart: Vie + 16 par jour | Mythique   |
 
 #### <img src="../.gitbook/assets/rocket.png" alt="" data-size="line"> Bonus de vitesse
 
@@ -268,8 +268,9 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :chains:                                                           | Chaînes magiques              | :moneybag: Argent +207 par jour | Spécial    |
 | <img src="../.gitbook/assets/amphora.png" alt="" data-size="line"> | Urne ornée du minotaure       | :moneybag: Argent +256 par jour | Épique     |
 | :credit\_card:                                                     | Carte bancaire                | :moneybag: Argent +294 par jour | Épique     |
-| :large\_orange\_diamond:                                           | Amulette de Midas             | :moneybag: Argent +378 par jour | Légendaire |
-| :magnet:                                                           | Aimant                        | :moneybag: Argent +466 par jour | Légendaire |
+| :large\_orange\_diamond:                                           | Amulette de Midas             | :moneybag: Argent +342 par jour | Légendaire |
+| :magnet:                                                           | Aimant                        | :moneybag: Argent +386 par jour | Légendaire |
+| :office:                                                           | Multinationale                | :moneybag: Argent +401 par jour | Mythique   |
 
 ### Liste des potions
 
