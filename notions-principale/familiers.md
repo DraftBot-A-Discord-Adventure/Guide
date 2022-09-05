@@ -88,7 +88,9 @@ Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être n
 {% endhint %}
 
 {% hint style="danger" %}
-Échanger ou vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_cat: Sauvage.
+Échanger un familier avec un autre joueur lui fera perdre 5 points par niveau de rareté (ou étoiles)
+
+Vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_cat: Sauvage.
 
 Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
