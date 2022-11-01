@@ -2,11 +2,11 @@
 
 ### Passer le bot en français
 
-La commande `/language` permet de passer le jeu en français !
+La commande `/langage` permet de passer le jeu en français !
 
 ### Trouver la liste des commandes.
 
-La liste des commandes du bot peut être obtenue en utilisant la commande `/help` dans un salon où le bot peut vous répondre.
+La liste des commandes du bot peut être obtenue en utilisant la commande `/aide` dans un salon où le bot peut vous répondre.
 
 ### J'ai invité le bot sur mon serveur mais ce dernier ne répond pas.
 

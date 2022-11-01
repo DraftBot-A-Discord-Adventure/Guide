@@ -25,8 +25,8 @@ La seconde partie de l'inventaire sert à **stocker des équipements supplément
 La réserve du joueur peut être améliorée dans le magasin.
 {% endhint %}
 
-La commande `daily` permet d'utiliser un objet placé dans la case "objet actif".
+La commande `/bonujournalier` permet d'utiliser un objet placé dans la case "objet actif".
 
-La commande `sell` permet de vendre n'importe quel équipement situé dans la réserve d'un joueur.
+La commande `/vendre` permet de vendre n'importe quel équipement situé dans la réserve d'un joueur.
 
-La commande `switch` permet d'échanger les équipements actifs avec les équipements de la réserve.
+La commande `/intervertir` permet d'échanger les équipements actifs avec les équipements de la réserve.

@@ -37,7 +37,7 @@ Il est cependant possible de soigner une altération d'état autrement qu'en att
 
 #### Obtention d'un "soin des altérations d'état"
 
-Il est possible d'acheter un soin des altérations d'état dans le magasin en utilisant la commande `/shop`. Cet achat vous coûtera 500 d'argent et annulera votre altération d'état. Lorsque votre altération d'état est annulée, votre personnage est enregistré comme s'il venait juste d'effectuer un rapport.
+Il est possible d'acheter un soin des altérations d'état dans le magasin en utilisant la commande `/magasin`. Cet achat vous coûtera 500 d'argent et annulera votre altération d'état. Lorsque votre altération d'état est annulée, votre personnage est enregistré comme s'il venait juste d'effectuer un rapport.
 
 {% hint style="info" %}
 Le soin d'altération d'état est également une récompense de la récompense journalière de guilde à partir d'un certain niveau de guilde.

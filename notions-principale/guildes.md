@@ -8,9 +8,9 @@ Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompens
 
 ### Comment créer une guilde ?
 
-Créer une guilde est possible à l'aide de la commande /`guildcreate`. Cela vous coûtera 5000 pièces d'argent.
+Créer une guilde est possible à l'aide de la commande `/creationguilde`. Cela vous coûtera 5000 pièces d'argent.
 
-Vous pouvez ajouter une description à votre guilde avec la commande `/guilddesc`.
+Vous pouvez ajouter une description à votre guilde avec la commande `/descriptionguilde`.
 
 {% hint style="warning" %}
 Le nom d'une guilde est unique, il doit respecter un certain nombre de règles :
@@ -28,7 +28,7 @@ Il est impossible de renommer une guilde
 
 ### Comment rejoindre une guilde ?
 
-Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'ainé peuvent inviter des joueurs dans leur guilde grâce à la commande `/guildadd`.
+Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'ainé peuvent inviter des joueurs dans leur guilde grâce à la commande `/invitationguilde`.
 
 {% hint style="info" %}
 Un salon destiné à recueillir les annonces de recrutement est disponible sur le discord du bot.
@@ -36,7 +36,7 @@ Un salon destiné à recueillir les annonces de recrutement est disponible sur l
 
 ### Comment voir les statistiques d'une guilde ?
 
-La commande `/guild` permet d'afficher les informations de la guilde de la personne effectuant la commande.
+La commande `/guilde` permet d'afficher les informations de la guilde de la personne effectuant la commande.
 
 Il existe également 3 options à cette commande:
 
@@ -53,7 +53,7 @@ Contre 1000 d'argent, vous pourrez apporter aléatoirement entre 50 et 450 point
 
 #### Dans les récompenses quotidiennes
 
-Toutes les 22h, il est possible d'utiliser la commande `/guilddaily` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent... Le type de récompense varie en fonction du niveau de votre guilde.
+Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent... Le type de récompense varie en fonction du niveau de votre guilde.
 
 | Niveau de la guilde | Un peu d'Argent | Expérience de guilde | Expérience personnelle | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge | 5 friandises pour les familiers |
 | ------------------- | --------------- | -------------------- | ---------------------- | --------------------------- | ----------- | ----------------------------- | ------------ | ----- | ------------------------------- |
@@ -73,11 +73,11 @@ Toutes les 22h, il est possible d'utiliser la commande `/guilddaily` afin d'obte
 
 ### Mettre un aîné ?
 
-Vous pouvez mettre un aîné pour votre guilde avec la commande /`guildelder`. L'aîné pourra alors recruter des gens et modifier la description de votre guilde. Bien sûr si celui-ci vous énerve vous pouvez le retirer avec la commande `/guildelderremove`.
+Vous pouvez mettre un aîné pour votre guilde avec la commande `/aineguilde`. L'aîné pourra alors recruter des gens et modifier la description de votre guilde. Bien sûr si celui-ci vous énerve vous pouvez le retirer avec la commande `/supprimeraineguilde`.
 
 ### Voir le stockage de la guilde.
 
-Vous pouvez afficher la nourriture stockée dans votre guilde avec la commande `/guildstorage`. Vous pouvez stocker jusqu'à :&#x20;
+Vous pouvez afficher la nourriture stockée dans votre guilde avec la commande `/entrepotguilde`. Vous pouvez stocker jusqu'à :&#x20;
 
 * 25 friandises
 * 15 salades
@@ -90,5 +90,5 @@ Vous pouvez acheter de la nourriture dans la boutique.
 
 ### Comment quitter une guilde ?
 
-Il est possible à tout moment de quitter une guilde avec la commande `/guildleave`.\
-Le chef de la guilde peut aussi utiliser la commande `/guildkick` pour expulser un membre de la guilde.
+Il est possible à tout moment de quitter une guilde avec la commande `/quitterguilde`.\
+Le chef de la guilde peut aussi utiliser la commande `/exclureguilde` pour expulser un membre de la guilde.
