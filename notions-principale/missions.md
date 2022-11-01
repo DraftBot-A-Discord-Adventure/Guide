@@ -1,6 +1,12 @@
 # Missions
 
-Les missions sont des objectifs à réaliser afin de gagner de l'expérience et des gemmes. Celles-ci peuvent se décomposer en 3 catégories :
+Les missions sont des objectifs à réaliser afin de gagner de l'expérience et des gemmes. Pour afficher vos missions en cours,  saisissez la commande `/missions`.
+
+{% hint style="info" %}
+Vous avez également la possibilité d'afficher les missions en cours d'un autre joueur. Utilisez les options `utilisateur` ou `classement` de la commande `/missions` pour cibler un autre joueur. Par exemple, `/missions classement:1337` affichera l'inventaire du joueur classé 1337ème.
+{% endhint %}
+
+Celles-ci peuvent se décomposer en 3 catégories :
 
 * Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il y en a 40 et leur difficulté évolue avec le joueur.
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.

@@ -1,6 +1,10 @@
 # Gestion de l'inventaire
 
-L'inventaire est l'endroit où sont placés les différents objets ramassés par le joueur dans les rapports ou achetés dans le magasin contre de l'argent.
+L'inventaire est l'endroit où sont placés les différents objets ramassés par le joueur dans les rapports ou achetés dans le magasin contre de l'argent. Pour afficher le contenu de votre inventaire,  saisissez la commande `/inventaire`.
+
+{% hint style="info" %}
+Vous avez également la possibilité d'afficher l'inventaire d'un autre joueur. Utilisez les options `utilisateur` ou `classement` de la commande `/inventaire` pour cibler un autre joueur. Par exemple, `/inventaire classement:1337` affichera l'inventaire du joueur classé 1337ème.
+{% endhint %}
 
 ### Organisation de l'inventaire
 
@@ -24,6 +28,8 @@ La seconde partie de l'inventaire sert à **stocker des équipements supplément
 {% hint style="info" %}
 La réserve du joueur peut être améliorée dans le magasin.
 {% endhint %}
+
+### Interaction avec les objets de l'inventaire
 
 La commande `/bonujournalier` permet d'utiliser un objet placé dans la case "objet actif".
 
