@@ -36,7 +36,7 @@ Si un pet est obtenu dans un mini-évènement, sa rareté est générée avec le
 Vous pouvez libérer votre familier avec la commande `/libererfamilier`.
 
 {% hint style="danger" %}
-`Attention, cette action est irréversible, si vous libérez un familier, c'est définitif.`
+`Attention, cette action est irréversible. Le fait de libérer un familier est définitif.`
 {% endhint %}
 
 ### Comment nourrir mon familier ?
@@ -47,7 +47,9 @@ L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde
 
 ![Le magasin de guilde permet d'acheter différentes sortes de nourritures](<../.gitbook/assets/image (17).png>)
 
-La nourriture va permettre d'influer sur le moral de votre animal, pour nourrir votre familier vous devez utiliser la commande `/nourrirfamilier`.
+#### Donner de la nourriture
+
+La nourriture va permettre d'influer sur le moral de votre animal. Pour nourrir votre familier, vous devez utiliser la commande `/nourrirfamilier`.
 
 ![La commande feedpet](<../.gitbook/assets/image (19).png>)
 
@@ -65,14 +67,12 @@ La durée pendant laquelle un familier n'a pas faim dépend uniquement de la rar
 
 Certains familiers suivent un régime particulier (herbivore ou carnivore) et ne pourront donc pas profiter de certaines sources de nourritures. Ne donnez pas de salade à votre T-rex !
 
+#### Niveaux de moral
+
 Ne négligez pas votre familier ! Son moral baissera si vous oubliez de vous en occuper.
 
 {% hint style="warning" %}
 Le moral d'un familier baisse de deux points par jour en moyenne, cette baisse ne tient pas compte de la rareté du pet.
-{% endhint %}
-
-{% hint style="danger" %}
-Il n'est pas possible d'effectuer certaines actions avec un familier fielleux !
 {% endhint %}
 
 Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité de votre familier, ils sont classés de cette manière :
@@ -88,12 +88,18 @@ Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être n
 {% endhint %}
 
 {% hint style="danger" %}
+Il n'est pas possible d'effectuer certaines actions avec un familier fielleux !
+{% endhint %}
+
+{% hint style="warning" %}
 Échanger un familier avec un autre joueur lui fera perdre 5 points par niveau de rareté (ou étoiles)
 
 Vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_cat: Sauvage.
 
 Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
+
+Contre 5 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement. La consultation s'obtient dans le [magasin de missions](missions.md#magasin-des-missions).
 
 ### Comment stocker mon familier ?
 

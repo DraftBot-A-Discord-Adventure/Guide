@@ -6,7 +6,9 @@ Les missions sont des objectifs à réaliser afin de gagner de l'expérience et 
 Vous avez également la possibilité d'afficher les missions en cours d'un autre joueur. Utilisez les options `utilisateur` ou `classement` de la commande `/missions` pour cibler un autre joueur. Par exemple, `/missions classement:1337` affichera l'inventaire du joueur classé 1337ème.
 {% endhint %}
 
-Celles-ci peuvent se décomposer en 3 catégories :
+### Catégories de mission
+
+Il existe trois catégories de mission :
 
 * Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il y en a 40 et leur difficulté évolue avec le joueur.
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
@@ -14,11 +16,15 @@ Celles-ci peuvent se décomposer en 3 catégories :
 
 ![Affichage de la commande mission](../.gitbook/assets/missions.png)
 
-Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à ça :
+Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
 ![Obtention d'une mission secondaire](<../.gitbook/assets/Mission secondaire.png>)
 
-Les gemmes gagnées peuvent être dépensées dans le magasin des missions. Celui-ci se divise en 3 catégories :
+### Magasin des missions <a href="#magasin-des-missions" id="magasin-des-missions"></a>
+
+Les gemmes gagnées en remplissant des missions peuvent être dépensées dans le magasin des missions. Le magasin des missions s'affiche grâce à la commande `/magasinmissions`.
+
+Celui-ci se divise en 3 catégories :
 
 {% tabs %}
 {% tab title="Ressources" %}
@@ -29,7 +35,7 @@ Les gemmes gagnées peuvent être dépensées dans le magasin des missions. Celu
 
 {% tab title="Utilitaires" %}
 * Le passe-mission permet, comme son nom l'indique, de passer une mission. Celui-ci coûte 10 gemmes.
-* Le vétérinaire de la cour permet de récupérer des informations sur le pet que vous avez actuellement. Celui-ci coûte 5 gemmes.
+* Le vétérinaire de la cour permet de récupérer des informations sur le familier que vous avez actuellement. Celui-ci coûte 5 gemmes.
 {% endtab %}
 
 {% tab title="Prestige" %}
