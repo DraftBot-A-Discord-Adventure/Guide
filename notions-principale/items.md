@@ -289,6 +289,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | Symbole                                                                    | Nom                     | Effet             | Rareté     |
 | -------------------------------------------------------------------------- | ----------------------- | ----------------- | ---------- |
 | :baby\_bottle:                                                             | Biberon                 | :heart: Vie + 1   | Commun     |
+| :fondue:                                                                   | Fondue hivernale        | :heart: Vie + 3   | Commun     |
 | :test\_tube:                                                               | Potion puante           | :heart: Vie + 7   | Commun     |
 | :test\_tube:                                                               | Potion morvique         | :heart: Vie + 1   | Peu commun |
 | :stew:                                                                     | Soupe de grand mère     | :heart: Vie + 10  | Peu commun |
@@ -335,6 +336,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :milk:                                                                  | Verre de lait | :shield: Défense +5 pour le prochain combat   | Commun     |
 | <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion bleue  | :shield: Défense +15 pour le prochain combat  | Peu commun |
 | <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion sombre | :shield: Défense +90 pour le prochain combat  | Rare       |
+| :peanuts:                                                               | Huile de noix | :shield: Défense +169 pour le prochain combat | Spécial    |
 | <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line"> | Super potion  | :shield: Défense +190 pour le prochain combat | Épique     |
 
 #### Bonus de temps
