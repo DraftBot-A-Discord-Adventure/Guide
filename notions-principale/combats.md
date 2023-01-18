@@ -14,6 +14,8 @@ Pendant un combat, vous devez impérativement prendre en compte les statistiques
 * :dagger: Points d'attaque
 * :shield: Points de défense
 * :rocket: Points de vitesse
+* 🌬 Souffle
+* :lungs: Récupération de souffle
 
 {% hint style="info" %}
 Vous trouverez plus d'informations sur les statistiques dans le guide consacré au [profil](profile.md).
@@ -42,11 +44,12 @@ Le combat est basé sur un système de tour par tour. À chaque tour, vous aurez
 Ces attaques sont réparties dans les différentes classes du jeu :&#x20;
 
 * Fantassin : Attaque simple, Attaque perçante, Attaque puissante, Attaque chargée, Protection.
-* Tank : Attaque simple, Attaque intense, Attaque empoisonnée, Attaque bouclier, Boost de la défense.
-* Cannonier : Attaque rapide, Attaque sabotage, Attaque fourbe, Attaque canon, Attaque troublante.
+* Tank : Attaque simple, Attaque intense, Attaque riposte, Attaque bouclier, Boost de la défense.
+* Cannonier : Attaque rapide, Attaque sabotage, Attaque boomerang, Attaque canon, Attaque intense.
 * Chevalier : Attaque simple, Attaque rapide, Attaque lourde, Bénédiction, Repos.
 * Paladin : Attaque simple, Attaque bélier, Attaque ultime, Attaque bouclier, Attaque divine.
 * Vétéran : Attaque rapide, Attaque énergique, Attaque chargée, Attaque perçante, Concentration.
+* Mage : Attaque vol de souffle, Attaque maudite, Attaque sombre, Attaque feu, Attaque empoisonnée
 
 {% hint style="danger" %}
 Les attaques ci-dessus restent toujours les mêmes pour l'équivalent de la classe associée en fonction du niveau.
@@ -60,16 +63,24 @@ Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est
 
 Vous pouvez retrouvez le détaillé des attaques sur le document ci-dessous.
 
-![détaillé des attaques](../.gitbook/assets/tinywow\_to\_jpg\_3488192\_1.jpg)
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption><p>Détail de toutes les attaques du jeu.</p></figcaption></figure>
+
+### Gestion du souffle
+
+Chaque attaque nécessite une certaine quantité de souffle. Chaque lancement de cette attaque retirera de la réserve de souffle du combatant le montant spécifié. Au début de son tour, un combatant reçoit une quantité de souffle en fonction de sa classe. Les informations sur les réserves de souffle liées à une classe où les consommation de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`
+
+{% hint style="info" %}
+Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus de souffle que ce dont il dispose, l'attaque n'aura qu'une faible probabilité d'être lancée.
+{% endhint %}
 
 ### Conditions de victoire
 
-Dès lors que :zap: l'énergie de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat et gagne des :medal: points de classement.
+Dès lors que :zap: l'énergie de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat.
 
-Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 25 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
+Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 24 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
 
-Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu.
+Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu, sauf si il s'agissait d'un combat amical.
 
 {% hint style="danger" %}
-Si un des adversaires est inactif pendant 30 secondes, le combat est considéré comme nul et s'arrête.
+Si un des adversaires est inactif pendant plus de 30 secondes, le combat est considéré comme nul et s'arrête. Le combatant innactif perd le combat.
 {% endhint %}

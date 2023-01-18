@@ -30,6 +30,8 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 * :shield: Points de défense
 * :rocket: Points de vitesse
 * :zap: Énergie pour les combats
+* 🌬  Souffle disponible / Souffle maximal
+* :lungs: Récupération de souffle
 
 ### Classement et Score
 

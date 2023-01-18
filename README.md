@@ -16,7 +16,7 @@ L'histoire se déroule dans un monde médiéval où le joueur contrôle un avent
 
 * Dirigez votre petit personnage et aidez-le à **conquérir la princesse** !
 * **Aucune permission n'est nécessaire.** Votre serveur est en sécurité !
-* **Configuration simple** : juste un salon.
+* **Configuration simple** : DraftBot a seulement besoin d'accèder à un salon pour fonctionner.
 * Rejoignez **plusieurs milliers de joueurs**, combattez et créez votre guilde avec vos amis !
 * Aidez-nous à améliorer le bot ! Projet complètement [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) !
 

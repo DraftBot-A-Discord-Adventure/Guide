@@ -22,7 +22,7 @@ L'altération d'état d'un joueur définit sa situation actuelle. Certains statu
 | :skull:           | Mort                            | **Ø**           |
 
 {% hint style="warning" %}
-L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder aux magasins.
+L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder aux magasins. C'est également la seule altération qui ne peut pas être soignée grâce à une récompense de guilde.
 {% endhint %}
 
 {% hint style="danger" %}

@@ -58,10 +58,10 @@ Si il n'y a plus de place dans le refuge de la guilde du joueur et que ce dernie
 
 Voilà les probabilités d'obtention pour chaque rareté de familiers :
 
-|                                                                             |                                                                             |                                                                             |                                                                             |                                                                             |
-| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 2![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 3![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 4![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) | 5![:star:](https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg) |
-| 87.6%                                                                       | 9.64%                                                                       | 1.664%                                                                      | 0.65%                                                                       | 0.446%                                                                      |
+|          |          |         |         |         |
+| -------- | -------- | ------- | ------- | ------- |
+| 1 :star: | 2 :star: | 3:star: | 4:star: | 5:star: |
+| 87.6%    | 9.64%    | 1.664%  | 0.65%   | 0.446%  |
 
 ![Ne me demandez pas comment elle était montée là haut](<../.gitbook/assets/image (52).png>)
 
