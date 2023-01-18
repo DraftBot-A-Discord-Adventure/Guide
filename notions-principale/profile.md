@@ -10,9 +10,9 @@ Comme quasiment tous les Role-Playing games, votre personnage possède un profil
 Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement ou en le mentionnant avec les paramètres "rank" ou "user" !
 {% endhint %}
 
-![Profil d'un joueur de Draftbot](<../.gitbook/assets/profil draftbot énergie.PNG>)
-
 L'inventaire d'un joueur se décompose donc de cette façon :
+
+<figure><img src="../.gitbook/assets/profil.PNG" alt=""><figcaption></figcaption></figure>
 
 ### Informations
 

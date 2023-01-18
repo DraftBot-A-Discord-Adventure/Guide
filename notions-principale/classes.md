@@ -33,7 +33,7 @@ Puis vous devez cliquer sur la réaction correspondante à la classe que vous so
 
 ![Classes de palier 3](<../.gitbook/assets/Classes T3.png>)
 
-![Classes de palier 4](<../.gitbook/assets/Classes T4.png>)
+<figure><img src="../.gitbook/assets/classes.PNG" alt=""><figcaption><p>Classes de palier 4</p></figcaption></figure>
 
 {% hint style="info" %}
 Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de fois que vous le souhaitez.
@@ -45,4 +45,4 @@ Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot
 
 Il s'agit de la commande `/classstats`.
 
-![Statistiques des classes](<../.gitbook/assets/Stats de classes.png>)
+<figure><img src="../.gitbook/assets/comparatif classes.PNG" alt=""><figcaption><p>Statistiques des classes</p></figcaption></figure>
