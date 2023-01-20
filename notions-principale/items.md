@@ -49,7 +49,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :snowflake:                                                             | Boule de neige            | :dagger:11                          | Commun     |
 | :face\_with\_symbols\_over\_mouth:                                      | Injures                   | :dagger:11                          | Commun     |
 | <img src="../.gitbook/assets/razor.png" alt="" data-size="line">        | Rasoir                    | :dagger:12                          | Commun     |
-| :guitar:                                                                | Guitare lourde            | :dagger:7                           | Peu commun |
+| :guitar:                                                                | Guitare lourde            | :dagger:7 :rocket:-10               | Peu commun |
 | :pushpin:                                                               | Percingasiteur            | :dagger:8                           | Peu commun |
 | :seat:                                                                  | Chaise                    | :dagger:8                           | Peu commun |
 | :fishing\_pole\_and\_fish:                                              | Canne à pêche de débutant | :dagger:9                           | Peu commun |
@@ -57,7 +57,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :bow\_and\_arrow:                                                       | Transperceur              | :dagger:11                          | Peu commun |
 | :knife:                                                                 | Couteau ancien            | :dagger:12                          | Peu commun |
 | :knife:                                                                 | Épée en bois              | :dagger:12                          | Peu commun |
-| :umbrella2:                                                             | Parapluie                 | :dagger:14                          | Peu commun |
+| :umbrella2:                                                             | Parapluie de grand-mère   | :dagger:14 :shield:10               | Peu commun |
 | :knife:                                                                 | Couteau simple            | :dagger:15                          | Peu commun |
 | :bookmark:                                                              | Gros livre                | :dagger:17                          | Peu commun |
 | :knife:                                                                 | Vieux couteau             | :dagger:19                          | Peu commun |
@@ -107,6 +107,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :zap:                                                                   | Foudre de Zeus            | :dagger:122                         | Épique     |
 | :crossed\_swords:                                                       | Épée royale               | :dagger:132                         | Épique     |
 | :gun:                                                                   | Pistolet chargé           | :dagger:143                         | Épique     |
+| :warning:                                                               | Plothammer                | :dagger:107 :shield:100             | Légendaire |
 | :gun:                                                                   | Pistolet pan pan QQ       | :dagger:125                         | Légendaire |
 | :microbe:                                                               | Bio-arme                  | :dagger:134                         | Légendaire |
 | :crossed\_swords:                                                       | Épée de Ragnell           | :dagger:145                         | Légendaire |
@@ -115,7 +116,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :crossed\_swords:                                                       | Épée en diamant           | :dagger:196                         | Légendaire |
 | :crossed\_swords:                                                       | Épée de maître            | :dagger:196                         | Légendaire |
 | :dagger:                                                                | Sabre                     | :dagger:212                         | Légendaire |
-| :sparkles:                                                              | Sceptre aux 100 sorts     | :dagger:174                         | Mythique   |
+| :sparkles:                                                              | Sceptre aux 100 sorts     | :dagger:150 :rocket:50              | Mythique   |
 | <img src="../.gitbook/assets/scuba_diving.png" alt="" data-size="line"> | Sabotage de l'oxygène     | :dagger:203                         | Mythique   |
 | :bomb:                                                                  | Bombe atomique            | :dagger:239 :rocket:-40             | Mythique   |
 
@@ -131,7 +132,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :helmet\_with\_cross:                                                  | Casque de chantier         | :shield:7                          | Commun     |
 | :shield:                                                               | Bouclier renforcé          | :shield:9                          | Commun     |
 | :shield:                                                               | Petit bouclier             | :shield:11                         | Commun     |
-| :helmet\_with\_cross:                                                  | Casque de guerre           | :shield:12                         | Commun     |
+| :helmet\_with\_cross:                                                  | Casque de guerre           | :shield:21 :rocket:-10             | Commun     |
 | :put\_litter\_in\_its\_place:                                          | Seau en fer                | :shield:7                          | Peu commun |
 | :shield:                                                               | Bouclier en bois           | :shield:9                          | Peu commun |
 | :shield:                                                               | Bouclier simple            | :shield:11                         | Peu commun |
@@ -161,14 +162,14 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :chess\_pawn:                                                          | Voie des pions             | :shield:73                         | Spécial    |
 | :eight\_spoked\_asterisk:                                              | Champ de force             | :shield:79                         | Spécial    |
 | :shield:                                                               | Bouclier royal             | :shield:87                         | Spécial    |
-| :bricks:                                                               | Mur                        | :shield:94                         | Spécial    |
+| :bricks:                                                               | Mur                        | :dagger:-20 :shield:99 :rocket:-20 | Spécial    |
 | :shinto\_shrine:                                                       | Forteresse japonaise       | :dagger:50 :shield:168             | Épique     |
 | :man\_judge:                                                           | Jurisprudence              | :dagger:45 :shield:89 :rocket:-40  | Épique     |
 | :lab\_coat:                                                            | Kimono de maître           | :shield:96                         | Épique     |
 | :person\_fencing:                                                      | Armure de fer              | :shield:113                        | Épique     |
 | :sun\_with\_face:                                                      | Bouclier solaire           | :shield:113                        | Épique     |
-| :shield:                                                               | Bouclier puissant          | :shield:132                        | Épique     |
-| :robot:                                                                | Casque de robot            | :shield:143                        | Épique     |
+| :shield:                                                               | Bouclier puissant          | :shield:122                        | Épique     |
+| :robot:                                                                | Casque de robot            | :shield:132                        | Épique     |
 | :shield:                                                               | Bouclier de maître         | :shield:169                        | Légendaire |
 | :eye\_in\_speech\_bubble:                                              | Bouclier déflecteur d'Engi | :shield:182                        | Légendaire |
 | :family\_mmbb:                                                         | Bouclier humain            | :shield:196                        | Légendaire |
@@ -206,19 +207,21 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### <img src="../.gitbook/assets/rocket.png" alt="" data-size="line"> Bonus de vitesse
 
-| Symbole                                                            | Nom                           | Effet                                       | Rareté     |
-| ------------------------------------------------------------------ | ----------------------------- | ------------------------------------------- | ---------- |
-| <img src="../.gitbook/assets/amphora.png" alt="" data-size="line"> | Pot en terre cuite            | :rocket: Vitesse +1 pendant les combats     | Commun     |
-| :closed\_book:                                                     | Livre d'incantations volume 1 | :rocket: Vitesse +5  pendant les combats    | Commun     |
-| :soap:                                                             | Savon glissant                | :rocket: Vitesse +7  pendant les combats    | Peu commun |
-| :athletic\_shoe:                                                   | Chaussure de sport            | :rocket: Vitesse +15  pendant les combats   | Peu commun |
-| :crystal\_ball:                                                    | Boule de verre magique        | :rocket: Vitesse +25  pendant les combats   | Exotique   |
-| :four\_leaf\_clover:                                               | Feuille de vent               | :rocket: Vitesse +41  pendant les combats   | Exotique   |
-| :skier:                                                            | Skis glissants                | :rocket: Vitesse +63  pendant les combats   | Rare       |
-| :leg:                                                              | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats   | Spécial    |
-| :blossom:                                                          | Fleur de l'espoir             | :rocket: Vitesse +105  pendant les combats  | Légendaire |
-| :mans\_shoe:                                                       | Bottes Pégase                 | :rocket:+ Vitesse +108  pendant les combats | Légendaire |
-| :broom:                                                            | Nimbus 2000                   | :rocket: Vitesse +151 pendant les combats   | Mythique   |
+| Symbole                                                                        | Nom                           | Effet                                       | Rareté     |
+| ------------------------------------------------------------------------------ | ----------------------------- | ------------------------------------------- | ---------- |
+| <img src="../.gitbook/assets/amphora.png" alt="" data-size="line">             | Pot en terre cuite            | :rocket: Vitesse +1 pendant les combats     | Commun     |
+| :closed\_book:                                                                 | Livre d'incantations volume 1 | :rocket: Vitesse +5  pendant les combats    | Commun     |
+| :soap:                                                                         | Savon glissant                | :rocket: Vitesse +7  pendant les combats    | Peu commun |
+| :athletic\_shoe:                                                               | Chaussure de sport            | :rocket: Vitesse +15  pendant les combats   | Peu commun |
+| :crystal\_ball:                                                                | Boule de verre magique        | :rocket: Vitesse +25  pendant les combats   | Exotique   |
+| :four\_leaf\_clover:                                                           | Feuille de vent               | :rocket: Vitesse +41  pendant les combats   | Exotique   |
+| :globe\_with\_meridians:                                                       | Fibre optique                 | :rocket: Vitesse +56 pendants les combats   | Rare       |
+| :skier:                                                                        | Skis glissants                | :rocket: Vitesse +63  pendant les combats   | Rare       |
+| :leg:                                                                          | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats   | Spécial    |
+| ![:red\_car:](https://discord.com/assets/53b7f069eafe8fd4fd29b1242eeb82e3.svg) | Kars                          | :rocket: Vitesse +74 pendant les combats    | Épique     |
+| :blossom:                                                                      | Fleur de l'espoir             | :rocket: Vitesse +105  pendant les combats  | Légendaire |
+| :mans\_shoe:                                                                   | Bottes Pégase                 | :rocket:+ Vitesse +108  pendant les combats | Légendaire |
+| :broom:                                                                        | Nimbus 2000                   | :rocket: Vitesse +151 pendant les combats   | Mythique   |
 
 #### :crossed\_swords: Bonus d'attaque
 
@@ -243,17 +246,19 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :orange\_book:                                                  | Livre d'incantations volume 3 | :shield: Défense +25 pendant les combats  | Exotique   |
 | :new\_moon:                                                     | Bout d'obsidienne             | :shield: Défense +42 pendant les combats  | Rare       |
 | :white\_flower:                                                 | Fleur royale                  | :shield: Défense +59 pendant les combats  | Spécial    |
-| :full\_moon\_with\_face:                                        | Lune de Mojaro                | :shield: Défense +90 ppendant les combats | Épique     |
+| :full\_moon\_with\_face:                                        | Lune de Mojaro                | :shield: Défense +90 pendant les combats  | Épique     |
 | :cyclone:                                                       | Amulette cyclonique           | :shield: Défense +143 pendant les combats | Légendaire |
 
 #### :clock10: Bonus de temps
 
 | Symbole         | Nom                        | Effet                                                        | Rareté     |
 | --------------- | -------------------------- | ------------------------------------------------------------ | ---------- |
-| :apple:         | Pomme du grand arbre       | :clock10: Avance le temps plus rapidement pendant 15 minutes | Spécial    |
-| :book:          | Kyuran                     | :clock10: Avance le temps plus rapidement pendant 45 minutes | Épique     |
-| :movie\_camera: | Accélérateur de particules | :clock10: Avance le temps plus rapidement pendant 1 heure    | Légendaire |
-| :stars:         | Étoile filante             | :clock10: Avance le temps plus rapidement pendant 1 heure 15 | Légendaire |
+| :apple:         | Pomme du grand arbre       | :clock10: Avance le temps plus rapidement pendant 20 minutes | Spécial    |
+| :notes:         | Harmonica du temps         | :clock10: Avance le temps plus rapidement pendant 40 minutes | Épique     |
+| :book:          | Kyuran                     | :clock10: Avance le temps plus rapidement pendant 55 minutes | Épique     |
+| :movie\_camera: | Accélérateur de particules | :clock10: Avance le temps plus rapidement pendant 1 heure 10 | Légendaire |
+| :stars:         | Étoile filante             | :clock10: Avance le temps plus rapidement pendant 1 heure 25 | Légendaire |
+| :blue\_square:  | Tardis                     | :clock10: Avance le temps plus rapidement pendant 1 heure 50 | Mythique   |
 | :clock12:       | L'horloge du lapin         | :clock10: Avance le temps plus rapidement pendant 2 heures   | Mythique   |
 
 #### <img src="../.gitbook/assets/moneybag.png" alt="" data-size="line"> Bonus d'argent
@@ -266,6 +271,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :military\_medal:                                                  | Bourse du voleur              | :moneybag: Argent +94 par jour  | Exotique   |
 | :slot\_machine:                                                    | Machine à sous                | :moneybag: Argent +142 par jour | Rare       |
 | :green\_book:                                                      | Livre d'incantations volume 4 | :moneybag: Argent +152 par jour | Rare       |
+| :man\_detective:                                                   | Voltou                        | :moneybag: Argent +184 par jour | Spécial    |
 | :chains:                                                           | Chaînes magiques              | :moneybag: Argent +207 par jour | Spécial    |
 | <img src="../.gitbook/assets/amphora.png" alt="" data-size="line"> | Urne ornée du minotaure       | :moneybag: Argent +256 par jour | Épique     |
 | :credit\_card:                                                     | Carte bancaire                | :moneybag: Argent +294 par jour | Épique     |
@@ -277,12 +283,24 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Aucun effet
 
-| Symbole          | Nom             | Effet       | Rareté |
-| ---------------- | --------------- | ----------- | ------ |
-| :tea:            | Potion périmée  | Aucun effet | Commun |
-| :test\_tube:     | Potion douteuse | Aucun effet | Commun |
-| :potable\_water: | Eau purifiée    | Aucun effet | Commun |
-| :wine\_glass:    | Vin rouge       | Aucun effet | Commun |
+| Symbole                                                                | Nom                | Effet       | Rareté     |
+| ---------------------------------------------------------------------- | ------------------ | ----------- | ---------- |
+| :tea:                                                                  | Potion périmée     | Aucun effet | Commun     |
+| :test\_tube:                                                           | Potion douteuse    | Aucun effet | Commun     |
+| :potable\_water:                                                       | Eau purifiée       | Aucun effet | Commun     |
+| :wine\_glass:                                                          | Vin rouge          | Aucun effet | Commun     |
+| :droplet:                                                              | Eau purifiée       | Aucun effet | Commun     |
+| :bubble\_tea:                                                          | Bubble tea         | Aucun effet | Commun     |
+| ![🫗](https://discord.com/assets/50bac7c3b7f21ea25538c6d2ff6371cb.svg) | Potion renversée   | Aucun effet | Commun     |
+| :recycle:                                                              | Potion recyclable  | Aucun effet | Peu commun |
+| ![🫙](https://discord.com/assets/7fa8e7fb17a9f47875f023c01362cb31.svg) | Potion vide        | Aucun effet | Peu commun |
+| ![🫧](https://discord.com/assets/5663ca34bbb761c8b326f7af4aa4d654.svg) | Potion à bulles    | Aucun effet | Peu commun |
+| :non-potable\_water:                                                   | Potion non potable | Aucun effet | Exotique   |
+| :ocean:                                                                | Potion de la mer   | Aucun effet | Rare       |
+| :sweat\_drops:                                                         | Sueur              | Aucun effet | Spécial    |
+| :honey\_pot:                                                           | Miel               | Aucun effet | Épique     |
+| :mount\_fuji:                                                          | Super Nariwa       | Aucun effet | Légendaire |
+| :beverage\_box:                                                        | Jus de pomme       | Aucun effet | Mythique   |
 
 #### Bonus de vie
 
@@ -304,40 +322,45 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Bonus de vitesse
 
-| Symbole                                                                          | Nom                | Effet                                            | Rareté     |
-| -------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------ | ---------- |
-| :tea:                                                                            | Thé                | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
-| :coffee:                                                                         | Café               | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
-| :tropical\_drink:                                                                | Boisson tropicale  | :rocket: Vitesse +8 pendant le prochain combat   | Peu commun |
-| <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Jus de chaussettes | :rocket: Vitesse +15 pendant le prochain combat  | Peu commun |
-| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion secouée     | :rocket: Vitesse +25 pendant le prochain combat  | Peu commun |
-| <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Potion verte       | :rocket: Vitesse +45 pendant le prochain combat  | Exotique   |
-| <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Potion fumante     | :rocket: Vitesse +88 pendant le prochain combat  | Rare       |
-| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion de vitesse  | :rocket: Vitesse +200 pendant le prochain combat | Spécial    |
-| :battery:                                                                        | jus de batterie    | :rocket: Vitesse +212 pendant le prochain combat | épique     |
-| <img src="../.gitbook/assets/potion ultime.png" alt="" data-size="line">         | Grande potion      | :rocket: Vitesse +255 pendant le prochain combat | Légendaire |
+| Symbole                                                                          | Nom                      | Effet                                            | Rareté     |
+| -------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------ | ---------- |
+| :tea:                                                                            | Thé                      | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
+| :coffee:                                                                         | Café                     | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
+| :beverage\_box:                                                                  | Jus d'orange             | :rocket: Vitesse +1 pendant le prochain combat   | Peu commun |
+| :tropical\_drink:                                                                | Boisson tropicale        | :rocket: Vitesse +8 pendant le prochain combat   | Peu commun |
+| <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Jus de chaussettes       | :rocket: Vitesse +15 pendant le prochain combat  | Peu commun |
+| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion secouée           | :rocket: Vitesse +25 pendant le prochain combat  | Peu commun |
+| <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Potion verte             | :rocket: Vitesse +45 pendant le prochain combat  | Exotique   |
+| <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Potion fumante           | :rocket: Vitesse +88 pendant le prochain combat  | Rare       |
+| :thunder\_cloud\_rain:                                                           | Jus d'orage              | :rocket: Vitesse +138 pendant le prochain combat | Spécial    |
+| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion de vitesse        | :rocket: Vitesse +200 pendant le prochain combat | Spécial    |
+| :battery:                                                                        | Jus de batterie          | :rocket: Vitesse +212 pendant le prochain combat | Épique     |
+| <img src="../.gitbook/assets/potion ultime.png" alt="" data-size="line">         | Grande potion            | :rocket: Vitesse +255 pendant le prochain combat | Légendaire |
+| :bricks:                                                                         | Potion de dureté extrême | :rocket: Vitesse +327 pendant le prochain combat | Mythique   |
 
 #### Bonus d'attaque
 
-| Symbole                                                                          | Nom                    | Effet                                                     | Rareté     |
-| -------------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------- | ---------- |
-| :tumbler\_glass:                                                                 | Alcool                 | :crossed\_swords: Attaque +5 pendant le prochain combat   | Commun     |
-| :tea:                                                                            | Larmes de l'adversaire | :crossed\_swords: Attaque +20 pendant le prochain combat  | Peu commun |
-| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion de force        | :crossed\_swords: Attaque +45 pendant le prochain combat  | Exotique   |
-| <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line">          | Potion                 | :crossed\_swords: Attaque +60 pendant le prochain combat  | Rare       |
-| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion explosive       | :crossed\_swords: Attaque +65 pendant le prochain combat  | Rare       |
-| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line">          | Potion magique         | :crossed\_swords: Attaque +135 pendant le prochain combat | Spécial    |
-| :wolf:                                                                           | Potion de sang de loup | :crossed\_swords: Attaque +178 pendant le prochain combat | Légendaire |
+| Symbole                                                                          | Nom                      | Effet                                                     | Rareté     |
+| -------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------- | ---------- |
+| :tumbler\_glass:                                                                 | Alcool                   | :crossed\_swords: Attaque +5 pendant le prochain combat   | Commun     |
+| :tea:                                                                            | Larmes de l'adversaire   | :crossed\_swords: Attaque +20 pendant le prochain combat  | Peu commun |
+| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion de force          | :crossed\_swords: Attaque +45 pendant le prochain combat  | Exotique   |
+| <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line">          | Potion                   | :crossed\_swords: Attaque +60 pendant le prochain combat  | Rare       |
+| <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion explosive         | :crossed\_swords: Attaque +65 pendant le prochain combat  | Rare       |
+| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line">          | Potion magique           | :crossed\_swords: Attaque +135 pendant le prochain combat | Spécial    |
+| :wolf:                                                                           | Potion de sang de loup   | :crossed\_swords: Attaque +178 pendant le prochain combat | Légendaire |
+| 🩸                                                                               | Potion de sang de dragon | :crossed\_swords: Attaque +312 pendant le prochain combat | Mythique   |
 
 #### Bonus de défense
 
-| Symbole                                                                 | Nom           | Effet                                         | Rareté     |
-| ----------------------------------------------------------------------- | ------------- | --------------------------------------------- | ---------- |
-| :milk:                                                                  | Verre de lait | :shield: Défense +5 pour le prochain combat   | Commun     |
-| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion bleue  | :shield: Défense +15 pour le prochain combat  | Peu commun |
-| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion sombre | :shield: Défense +90 pour le prochain combat  | Rare       |
-| :peanuts:                                                               | Huile de noix | :shield: Défense +169 pour le prochain combat | Spécial    |
-| <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line"> | Super potion  | :shield: Défense +190 pour le prochain combat | Épique     |
+| Symbole                                                                 | Nom           | Effet                                           | Rareté     |
+| ----------------------------------------------------------------------- | ------------- | ----------------------------------------------- | ---------- |
+| :milk:                                                                  | Verre de lait | :shield: Défense +5 pour le prochain combat     | Commun     |
+| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion bleue  | :shield: Défense +15 pour le prochain combat    | Peu commun |
+| :canned\_food:                                                          | Jus de banane | :shield: Défense +35 pendant le prochain combat | Peu commun |
+| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion sombre | :shield: Défense +90 pour le prochain combat    | Rare       |
+| :peanuts:                                                               | Huile de noix | :shield: Défense +169 pour le prochain combat   | Spécial    |
+| <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line"> | Super potion  | :shield: Défense +190 pour le prochain combat   | Épique     |
 
 #### Bonus de temps
 
