@@ -28,7 +28,7 @@ Celui-ci se divise en 3 catégories :
 
 {% tabs %}
 {% tab title="Ressources" %}
-* L'argent du roi permet de recevoir une quantité d'argent aléatoire entre 2200 et 2800 :moneybag:. Celui-ci coûte 50 gemmes.
+* L'argent du roi permet de recevoir une quantité d'argent aléatoire entre 5150 et 7850 :moneybag:. Celui-ci coûte 50 gemmes.
 * Le trésor du roi vous octroie un objet ayant pour rareté minimale Spécial. Celui-ci coûte 30 gemmes.
 * La ferveur du roi vous donne 1000 points mais ne peut être utilisée qu'une fois par semaine. Celle-ci coûte 5 gemmes.
 {% endtab %}
