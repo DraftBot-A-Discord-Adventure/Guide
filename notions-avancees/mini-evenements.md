@@ -109,6 +109,52 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 
 ![Un exemple de gros malheur](<../.gitbook/assets/image (57).png>)
 
+### Loterie
+
+#### Taux d'apparition : 2.94%
+
+#### :coin: Petite mise :&#x20;
+
+Gains possibles (80%) :&#x20;
+
+* 35 :medal:
+* 70 XP de guilde
+* 50 :moneybag:
+* 40 :star:
+
+Malus  :&#x20;
+
+* Rien (20%)
+
+#### :dollar: Mise intermédiaire :&#x20;
+
+Gains possibles (50%) :&#x20;
+
+* 105 :medal:
+* 210 XP de guilde
+* 150 :moneybag:
+* 120 :star:
+
+Malus :&#x20;
+
+* 10 minutes :clock1: (100%)
+
+#### :moneybag:Grosse mise :&#x20;
+
+Gains possibles (20%) :&#x20;
+
+* 350 :medal:
+* 700 XP de guilde
+* 500 :moneybag:
+* 400 :star:
+
+Malus :&#x20;
+
+* 10 minutes :clock1: (100%)
+* 175 :money\_with\_wings: (10%)
+
+<figure><img src="../.gitbook/assets/loterie.PNG" alt=""><figcaption><p>Un exemple de loterie</p></figcaption></figure>
+
 ### Interaction avec un joueur sur le même trajet
 
 Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce mini-évènement permet de discuter avec un joueur que vous croisez, que vous suivez ou que vous précédez !
