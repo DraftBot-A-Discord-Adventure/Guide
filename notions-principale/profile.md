@@ -7,7 +7,7 @@ description: Un guide à propos de la commande !profil.
 Comme quasiment tous les Role-Playing games, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande /`profil`.
 
 {% hint style="success" %}
-Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement ou en le mentionnant avec les paramètres "rank" ou "user" !
+Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via l'option "classement" ou en le mentionnant avec le paramètre "utilisateur" !
 {% endhint %}
 
 L'inventaire d'un joueur se décompose donc de cette façon :

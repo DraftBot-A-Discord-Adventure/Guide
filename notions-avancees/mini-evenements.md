@@ -9,7 +9,7 @@ Il existe actuellement 15 types de mini-évènements différents dans le bot. Vo
 Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre objet, l'objet sera racheté par le vendeur pour un prix réduit à son prix d'achat.
 
 {% hint style="warning" %}
-Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour bien trop cher !
+Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 10 fois plus cher !
 {% endhint %}
 
 ![Un exemple de mini-shop](<../.gitbook/assets/image (44).png>)
@@ -87,11 +87,11 @@ Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur
 
 Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent à de petits malus.
 
-| Malus                    | Effet                      |
-| ------------------------ | -------------------------- |
-| Perte de vie             | 1 à 5 points de vie perdus |
-| Perte d'argent           | 10 à 50 d'argent perdus    |
-| Perte de temps aléatoire | 1 à 24 minutes perdues     |
+| Malus                    | Effet                        |
+| ------------------------ | ---------------------------- |
+| Perte de vie             | 1 à 5 points de vie perdus   |
+| Perte d'argent           | 10 à 50 d'argent perdus      |
+| Perte de temps aléatoire | 5 minutes à 2 heures perdues |
 
 ![Un exemple de petit malheur](<../.gitbook/assets/image (56).png>)
 

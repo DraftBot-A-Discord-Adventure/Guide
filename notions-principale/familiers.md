@@ -36,14 +36,14 @@ Si un pet est obtenu dans un mini-évènement, sa rareté est générée avec le
 Vous pouvez libérer votre familier avec la commande `/libererfamilier`.
 
 {% hint style="danger" %}
-`Attention, cette action est irréversible. Le fait de libérer un familier est définitif.`
+Attention, cette action est irréversible. Le fait de libérer un familier est définitif.
 {% endhint %}
 
 ### Comment nourrir mon familier ?
 
 #### Acheter de la nourriture.
 
-L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture pour votre animal.
+L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise, pour votre animal.
 
 ![Le magasin de guilde permet d'acheter différentes sortes de nourritures](<../.gitbook/assets/image (17).png>)
 
@@ -77,11 +77,11 @@ Le moral d'un familier baisse de deux points par jour en moyenne, cette baisse n
 
 Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité de votre familier, ils sont classés de cette manière :
 
-1. :smirk\_cat: Fielleux
-2. :pouting\_cat: Sauvage
-3. :scream\_cat: Craintif
-4. :smiley\_cat: Apprivoisé
-5. :heart\_eyes\_cat: Dressé
+1. :smirk\_cat: Fielleux (entre 0 et 4 points d'affection)
+2. :pouting\_cat: Sauvage (entre 5 et 24 points d'affection)
+3. :scream\_cat: Craintif (entre 25 et 49 points d'affection)
+4. :smiley\_cat: Apprivoisé (entre 50 et 99 points d'affection)
+5. :heart\_eyes\_cat: Dressé (100 points d'affection)
 
 {% hint style="info" %}
 Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimés (mais vous pouvez le faire quand même).
@@ -100,6 +100,8 @@ Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
 
 Contre 5 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement. La consultation s'obtient dans le [magasin de missions](missions.md#magasin-des-missions).
+
+<figure><img src="../.gitbook/assets/Vétérinaire.png" alt=""><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, et quand il aura faim.</p></figcaption></figure>
 
 ### Comment stocker mon familier ?
 
@@ -135,7 +137,7 @@ Il y a des conditions importantes à respecter pour la vente de familiers :
 
 * Il n'est pas possible de vendre un familier à un membre de sa guilde.
 * Il est nécessaire d'appartenir à une guilde pour vendre un familier mais pas pour l'acheter.
-* Vous ne pouvez pas vendre un pet en dessous de 100 :moneybag:.
+* Vous ne pouvez pas vendre un pet en dessous de 100 :moneybag:, ni au dessus de 50 000 :moneybag:.
 
 {% hint style="warning" %}
 Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience de guilde.

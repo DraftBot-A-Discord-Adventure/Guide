@@ -4,7 +4,7 @@
 
 La commande `/classement` est une commande qui sert à savoir qui sont les meilleurs joueurs du DraftBot en les classant avec leur nombre de points. Elle affiche également votre classement, et la page à laquelle vous vous trouvez. Vous verrez les joueurs par tranche de 15, avec leur pseudonyme, leur état, leur nombre de points et leur niveau.
 
-![Exemple du résultat de la commande top](<../.gitbook/assets/image (5).png>)
+<figure><img src="../.gitbook/assets/Classement.png" alt=""><figcaption><p>Exemple de classement général, montrant le top 15</p></figcaption></figure>
 
 ### Les options de la commande /classement
 
@@ -23,7 +23,7 @@ Deux périodes sont disponibles pour le classement: "Depuis toujours" (par défa
 Exemple: `/classement duree:🕥 Cette semaine.` affichera le classement selon les points comptabilisés sur la semaine.
 
 {% hint style="success" %}
-`Les valurs possibles pour chaque option sont proposées par Discord dans une liste. Donc aucun risque de se tromper dans la syntaxe car il n'est pas nécessaire de taper cette commande entièrement à la main!`
+Les valurs possibles pour chaque option sont proposées par Discord dans une liste. Donc aucun risque de se tromper dans la syntaxe car il n'est pas nécessaire de taper cette commande entièrement à la main!
 {% endhint %}
 
 Le classement de la semaine est réinitialisé tous les dimanches. Seul le premier du classement de la semaine reçoit un badge:

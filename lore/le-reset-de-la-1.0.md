@@ -26,7 +26,7 @@ Les interfaces de combat et du profil ont été complètement réécrites. Pour 
 
 ### Ajout des badges
 
-Je vous invite à consulter la page du wiki dédié au [badges](../notions-avancees/badges.md) pour plus détails.
+Je vous invite à consulter la page du wiki dédiée aux [badges](../notions-avancees/badges.md) pour plus de détails.
 
 ### Nouveautés diverses
 

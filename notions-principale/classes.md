@@ -4,18 +4,19 @@ Depuis la version [**2.1.0** ](https://history.draftbot.com/draftbot-v2/2.1.0)de
 
 ### Comment choisir une classe ?
 
-Le choix de classe dépend de votre niveau, il existe **4 paliers** de classes différents :
+Le choix de classe dépend de votre niveau, il existe **5 paliers** de classes différents :
 
-* Palier 1 : Entre le niveau 4 et 16
-* Palier 2 : Entre le niveau 16 et 32
-* Palier 3 : Entre le niveau 32 et 48
-* Palier 4 : Au delà du niveau 48
+* Palier 1 : Du niveau 4 au niveau 15
+* Palier 2 : Du niveau 16 au niveau 31
+* Palier 3 : Du nveau 32 au niveau 47
+* Palier 4 : Du niveau 48 au niveau 79
+* Palier 5 : À partir du niveau 80
 
 {% hint style="info" %}
-Au total, il y a 18 classes disponibles dans le jeu.
+Au total, il y a 25 classes disponibles dans le jeu.
 {% endhint %}
 
-Pour changer de classe et à condition que votre personnage soit niveau 4 vous devez utiliser la commande `/class`.
+Pour changer de classe et à condition que votre personnage soit niveau 4 vous devez utiliser la commande `/classes`.
 
 {% hint style="success" %}
 Utilisez ce lien pour voir vos statistiques en fonction de votre classe et de votre niveau : [https://docs.google.com/spreadsheets/d/1jWFSMNHKj20iHflUqZr0xvugcRSI5kHCQfSmrPad\_po/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jWFSMNHKj20iHflUqZr0xvugcRSI5kHCQfSmrPad\_po/edit?usp=sharing)
@@ -33,7 +34,7 @@ Puis vous devez cliquer sur la réaction correspondante à la classe que vous so
 
 ![Classes de palier 3](<../.gitbook/assets/Classes T3.png>)
 
-<figure><img src="../.gitbook/assets/classes.PNG" alt=""><figcaption><p>Classes de palier 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/classes.PNG" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="info" %}
 Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de fois que vous le souhaitez.
@@ -43,6 +44,6 @@ Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de
 
 Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de DraftBot pour connaître les différentes statistiques des classes.
 
-Il s'agit de la commande `/classstats`.
+Il s'agit de la commande `/infosclasses`.
 
 <figure><img src="../.gitbook/assets/comparatif classes.PNG" alt=""><figcaption><p>Statistiques des classes</p></figcaption></figure>

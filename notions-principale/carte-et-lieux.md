@@ -18,7 +18,7 @@ La carte du monde de DrafBot permet aux joueurs de se repérer entre les différ
 
 :deciduous\_tree: **Forêt Du Vieillard** : Immense forêt au sud du Berceau. Celle-ci a longtemps appartenu à un riche agriculteur de Ville Forte. Cependant il y a perdu la vie dans de mystérieuses conditions. Le nom de sa forêt est resté, pas lui…
 
-:motorway: **L’Axe** : Dernière vraie route permettant encore de contourner le Mont Célestrum par le sud, l’Axe est encore très utilisé aujourd’hui principalement par les brigands.
+:motorway: **Le Grand Axe** : Dernière vraie route permettant encore de contourner le Mont Célestrum par le nord, le Grand Axe est encore très utilisé aujourd’hui principalement par les brigands.
 
 :beach: **La Dune** : Plage créée par les forts vents de la Vallée des Rois, la Dune protège les Plaines du Contre Bois de la chaleur et amène l’eau de la rivière Vacarme.
 
@@ -47,8 +47,6 @@ La carte du monde de DrafBot permet aux joueurs de se repérer entre les différ
 :mountain: **Mont Célestrum** : Le Mont Célestrum est la montagne dominante de la région. Haute de plusieurs kilomètres, Célestrum est visible de tous. On raconte qu’elle porte le nom de l’ancienne déesse. Par ailleurs, une seule personne est parvenue à grimper jusqu’au sommet. On ne retient d’elle que ses initiales : M-B.
 
 :beach: **Plage Sentinelle** : Une grande plage où trônent les vestiges d’une ancienne civilisation. Une relique circulaire capable de fournir une immense quantité d’énergie y est d’ailleurs cachée.
-
-:cherry\_blossom: **Plaines du Contre Bois** : Une vaste plaine paisible et agricole.
 
 :park: **Rivière Vacarme** : Cette rivière doit son nom au bruit produit par son fort courant qui a fait perdre la vie à de nombreux villageois.
 

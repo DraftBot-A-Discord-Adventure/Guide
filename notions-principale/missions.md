@@ -1,6 +1,6 @@
 # Missions
 
-Les missions sont des objectifs à réaliser afin de gagner de l'expérience et des gemmes. Pour afficher vos missions en cours,  saisissez la commande `/missions`.
+Les missions sont des objectifs à réaliser afin de gagner de l'expérience et des gemmes. Pour afficher vos missions en cours, saisissez la commande `/missions`.
 
 {% hint style="info" %}
 Vous avez également la possibilité d'afficher les missions en cours d'un autre joueur. Utilisez les options `utilisateur` ou `classement` de la commande `/missions` pour cibler un autre joueur. Par exemple, `/missions classement:1337` affichera l'inventaire du joueur classé 1337ème.
@@ -10,7 +10,7 @@ Vous avez également la possibilité d'afficher les missions en cours d'un autre
 
 Il existe trois catégories de mission :
 
-* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il y en a 40 et leur difficulté évolue avec le joueur.
+* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il y en a 59 et leur difficulté évolue avec le joueur.
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
 * Les missions secondaires sont un autre moyen d'obtenir des récompenses, celles-ci peuvent se trouver occasionnellement dans des [mini-évènements](report.md#mini-evenements).
 
@@ -34,7 +34,7 @@ Celui-ci se divise en 3 catégories :
 {% endtab %}
 
 {% tab title="Utilitaires" %}
-* Le passe-mission permet, comme son nom l'indique, de passer une mission. Celui-ci coûte 10 gemmes.
+* Le passe-mission permet, comme son nom l'indique, de passer une mission secondaire. Celui-ci coûte 10 gemmes.
 * Le vétérinaire de la cour permet de récupérer des informations sur le familier que vous avez actuellement. Celui-ci coûte 5 gemmes.
 {% endtab %}
 

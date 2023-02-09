@@ -23,7 +23,7 @@ Le nom d'une guilde est unique, il doit respecter un certain nombre de règles :
 {% endhint %}
 
 {% hint style="danger" %}
-Il est impossible de renommer une guilde
+Il est impossible de renommer une guilde. Soyez donc certains de vouloir donner tel nom à votre guilde avant de valider la commande !
 {% endhint %}
 
 ### Comment rejoindre une guilde ?
@@ -40,9 +40,9 @@ La commande `/guilde` permet d'afficher les informations de la guilde de la pers
 
 Il existe également 3 options à cette commande:
 
-* `name` Permet de voir les informations d'une guilde à partir de son nom.
-* `user` Permet de voir les informations d'une guilde à partir du nom d'un de ses membres.
-* `rank` Permet de voir les informations d'une guilde à partir du classement d'un de ses membres.
+* `guilde` Permet de voir les informations d'une guilde à partir de son nom.
+* `utilisateur` Permet de voir les informations d'une guilde à partir du nom d'un de ses membres.
+* `classement` Permet de voir les informations d'une guilde à partir du classement d'un de ses membres.
 
 ### Monter de niveau une guilde.
 
@@ -55,7 +55,7 @@ Contre 1000 d'argent, vous pourrez apporter aléatoirement entre 50 et 450 point
 
 Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent... Le type de récompense varie en fonction du niveau de votre guilde.
 
-| Niveau de la guilde | Un peu d'Argent | Expérience de guilde | Expérience personnelle | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge | 5 friandises pour les familiers |
+| Niveau de la guilde | Un peu d'argent | Expérience de guilde | Expérience personnelle | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge | 5 friandises pour les familiers |
 | ------------------- | --------------- | -------------------- | ---------------------- | --------------------------- | ----------- | ----------------------------- | ------------ | ----- | ------------------------------- |
 | 0-10                | 97              | 0                    | 0                      | 0                           | 0           | 0                             | 0            | 0     | 3                               |
 | 10-20               | 59.8            | 25                   | 5                      | 2                           | 5           | 0.2                           | 2.5          | 0     | 0.5                             |
@@ -85,7 +85,7 @@ Vous pouvez afficher la nourriture stockée dans votre guilde avec la commande `
 * 5 soupes ultime
 
 {% hint style="info" %}
-Vous pouvez acheter de la nourriture dans la boutique.
+Vous pouvez acheter de la nourriture dans le magasin de la guilde.
 {% endhint %}
 
 ### Comment quitter une guilde ?

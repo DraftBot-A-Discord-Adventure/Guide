@@ -26,7 +26,7 @@ L'altération d'état "Enfermé" est la seule altération d'état qui empêche l
 {% endhint %}
 
 {% hint style="danger" %}
-L'altération d'état "Mort" bloque la totalité des commandes du bot excepté la commande `!respawn`.
+L'altération d'état "Mort" bloque la totalité des commandes du bot excepté la commande `/revivre`.
 {% endhint %}
 
 ### Soin des altérations d'état

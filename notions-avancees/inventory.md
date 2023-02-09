@@ -26,12 +26,21 @@ La seconde partie de l'inventaire sert à **stocker des équipements supplément
 ![Un exemple de réserve d'inventaire](https://media.discordapp.net/attachments/429765574923649025/899778710331334676/unknown.png)
 
 {% hint style="info" %}
-La réserve du joueur peut être améliorée dans le magasin.
+La réserve du joueur peut être améliorée dans le magasin. Différents emplacements supplémentaires sont achetables:
+
+* 1 emplacement pour une arme,
+* 1 emplacement pour une armure,
+* 3 emplacements pour des potions,
+* 3 emplacements pour les objets.
+{% endhint %}
+
+{% hint style="warning" %}
+Lors de l'achat d'un emplacement supplémentaire, le prix de l'amélioration de la réserve dans le magasin augmente en conséquence.
 {% endhint %}
 
 ### Interaction avec les objets de l'inventaire
 
-La commande `/bonujournalier` permet d'utiliser un objet placé dans la case "objet actif".
+La commande `/bonusjournalier` permet d'utiliser un objet placé dans la case "objet actif".
 
 La commande `/vendre` permet de vendre n'importe quel équipement situé dans la réserve d'un joueur.
 
