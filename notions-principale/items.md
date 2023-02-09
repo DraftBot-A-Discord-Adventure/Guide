@@ -34,7 +34,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | ----------------------------------------------------------------------- | ------------------------- | ----------------------------------- | ---------- |
 | :cucumber:                                                              | Cornichon                 | :dagger:3                           | Commun     |
 | :herb:                                                                  | Branche souple            | :dagger:3                           | Commun     |
-| :rose:                                                                  | Bouquet de roses          | :dagger:3                           | Commun     |
+| :bouquet:                                                               | Bouquet de roses          | :dagger:3                           | Commun     |
 | :fork\_and\_knife:                                                      | Fourchettecouteau         | :dagger:4                           | Commun     |
 | :cricket:                                                               | Bâton                     | :dagger:4                           | Commun     |
 | :hammer\_pick:                                                          | Outils usés               | :dagger:5                           | Commun     |
@@ -51,15 +51,15 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | <img src="../.gitbook/assets/razor.png" alt="" data-size="line">        | Rasoir                    | :dagger:12                          | Commun     |
 | :guitar:                                                                | Guitare lourde            | :dagger:7 :rocket:-10               | Peu commun |
 | :pushpin:                                                               | Percingasiteur            | :dagger:8                           | Peu commun |
-| :seat:                                                                  | Chaise                    | :dagger:8                           | Peu commun |
+| :chair:                                                                 | Chaise                    | :dagger:8                           | Peu commun |
 | :fishing\_pole\_and\_fish:                                              | Canne à pêche de débutant | :dagger:9                           | Peu commun |
 | :cricket:                                                               | Assomoir                  | :dagger:11                          | Peu commun |
 | :bow\_and\_arrow:                                                       | Transperceur              | :dagger:11                          | Peu commun |
 | :knife:                                                                 | Couteau ancien            | :dagger:12                          | Peu commun |
-| :knife:                                                                 | Épée en bois              | :dagger:12                          | Peu commun |
+| :crossed\_swords:                                                       | Épée en bois              | :dagger:12                          | Peu commun |
 | :umbrella2:                                                             | Parapluie de grand-mère   | :dagger:14 :shield:10               | Peu commun |
 | :knife:                                                                 | Couteau simple            | :dagger:15                          | Peu commun |
-| :bookmark:                                                              | Gros livre                | :dagger:17                          | Peu commun |
+| :closed\_book:                                                          | Gros livre                | :dagger:17                          | Peu commun |
 | :knife:                                                                 | Vieux couteau             | :dagger:19                          | Peu commun |
 | :bricks:                                                                | Brique                    | :dagger:15                          | Exotique   |
 | :scissors:                                                              | Ciseaux                   | :dagger:16                          | Exotique   |
@@ -83,7 +83,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :bow\_and\_arrow:                                                       | Arc de soldat             | :dagger:45 :shield:-20 :rocket:10   | Rare       |
 | :crossed\_swords:                                                       | Épée en fer               | :dagger:50                          | Rare       |
 | :dagger:                                                                | Dague                     | :dagger:55                          | Rare       |
-| :crossed\_swords:                                                       | Double dagues             | :dagger:60                          | Rare       |
+| :crossed\_swords:                                                       | Paire de dagues           | :dagger:60                          | Rare       |
 | <img src="../.gitbook/assets/axe.png" alt="" data-size="line">          | Hachoir                   | :dagger:60                          | Rare       |
 | :syringe:                                                               | Seringue sale             | :dagger:48                          | Spécial    |
 | :cooking:                                                               | Poêle                     | :dagger:52                          | Spécial    |
