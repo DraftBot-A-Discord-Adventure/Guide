@@ -25,8 +25,8 @@ Une saison se déroule du dimanche au samedi : durant celle-ci, les joueurs réc
 
 Il y a 4 types de récompenses :&#x20;
 
-* L'XP et l'argent gagnée sont détaillés dans le tableau au dessus
-* Un item aléatoire dont la rareté varie en fonction de la ligue (voir le tableau).
+* L'XP et l'argent dont les montants sont détaillés dans le tableau au-dessus.
+* Un objet aléatoire dont la rareté varie en fonction de la ligue (voir le tableau).
 * Des points dont le nombre augmente en fonction du classement de la saison : le premier en gagne 4000 et cela baisse au fur et à mesure du classement.
 
 {% hint style="danger" %}
