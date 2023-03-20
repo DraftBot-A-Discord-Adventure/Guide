@@ -19,7 +19,7 @@ Voici un tableau un peu plus explicatif :&#x20;
 
 ### Saison
 
-Une saison se déroule du samedi au dimanche : durant celle-ci, les joueurs récupèrent de la gloire au fur et à mesure des combats qu'ils font. Une fois la saison finie, les joueurs peuvent effectuer la commande `/bonusligue` le dimanche afin de recevoir leurs récompenses de fin de saison.
+Une saison se déroule du dimanche au samedi : durant celle-ci, les joueurs récupèrent de la gloire au fur et à mesure des combats qu'ils font. Une fois la saison finie, les joueurs peuvent effectuer la commande `/bonusligue` le dimanche afin de recevoir leurs récompenses de fin de saison.
 
 ### Récompenses
 
