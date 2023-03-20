@@ -15,6 +15,7 @@
 * [Profil](notions-principale/profile.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
 * [Combats](notions-principale/combats.md)
+* [Ligues](notions-principale/ligues.md)
 * [Équipements](notions-principale/items.md)
 * [Classes](notions-principale/classes.md)
 * [Guildes](notions-principale/guildes.md)

@@ -25,13 +25,7 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats normaux
 
-Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte des :medal: points de classement et le perdant en perd.
-
-{% hint style="info" %}
-Les combats normaux sont désactivés pour le moment mais la commande reste la même : `/combat.`
-
-Ceci se dérouleront donc comme des combats amicaux (voir ci-dessous).
-{% endhint %}
+Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire et le perdant en perd.
 
 #### Les combats amicaux
 

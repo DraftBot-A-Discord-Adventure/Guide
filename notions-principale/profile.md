@@ -12,7 +12,7 @@ Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via 
 
 L'inventaire d'un joueur se décompose donc de cette façon :
 
-<figure><img src="../.gitbook/assets/profil.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-03-20 121841.png" alt=""><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 
 ### Informations
 
@@ -33,10 +33,14 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 * 🌬  Souffle disponible / Souffle maximal
 * :lungs: Récupération de souffle
 
-### Classement et Score
+### Gloire et Ligue
 
-* :trophy: Votre place de classement sur le nombre total de joueurs
-* :medal: Points de classement
+* :sparkles: Points de gloire
+* Votre ligue : celle-ci change en fonction de votre gloire : plus d'informations dans [ligues.md](ligues.md "mention").
+
+{% hint style="success" %}
+La couleur de l'embed indique aussi votre ligue actuelle !
+{% endhint %}
 
 ### Temps restant
 

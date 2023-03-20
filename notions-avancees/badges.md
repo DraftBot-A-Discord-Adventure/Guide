@@ -34,6 +34,7 @@ description: >-
 | :gem:                 | Membre d'une guilde puissante                                                        | Badge pouvant être gagné par les personnes dans une guilde niveau 50 ou plus                                            |  Bot              |
 | :crossed\_swords:     | Vainqueur d'un tournoi                                                               |                                                                                                                         | Gérant des badges |
 | :revolving\_hearts:   | Joueur ayant dressé un familier légendaire                                           |                                                                                                                         | Bot               |
+| :sparkles:            | Personne ayant remporté le plus de gloire durant une saison de combat                |                                                                                                                         | Bot               |
 
 Si vous pensez mériter un badge, merci de contacter un gérant des badges sur Discord.&#x20;
 
