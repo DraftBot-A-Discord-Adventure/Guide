@@ -34,5 +34,5 @@ Si vous êtes situés en dessous du top 200, vous ne gagnerez pas de points.
 {% endhint %}
 
 {% hint style="warning" %}
-Une fois 1500 de gloire gagnée, une perte de 30% sera appliquée sur les points gagnés au-dessus de cette limite à la fin de la saison.
+Une fois 1500 de gloire gagnée, une perte de 30% sera appliquée sur la gloire gagnée au-dessus de cette limite à la fin de la saison.
 {% endhint %}
