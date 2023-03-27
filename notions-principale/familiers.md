@@ -119,7 +119,7 @@ Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 
 Vous pouvez définir un surnom pour votre familier afin de rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `/surnomfamilier` exemple : `/surnomfamilier surnom:Henri` permet de surnommer votre familier "Henri".
 
-![Commande !mypet avec affichage du surnom du familier](<../.gitbook/assets/Rename pets.png>)
+![Commande /familier avec affichage du surnom du familier](<../.gitbook/assets/Rename pets.png>)
 
 ### Comment échanger un familier ?
 
@@ -131,7 +131,7 @@ L'implémentation de cette mise à jour favorise l'interaction entre joueurs pui
 
 Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, (ou alors que vous aimez l'argent), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `/vendrefamilier` en précisant le prix attendu. Par exemple, pour proposer votre familier à la vente pour 1000:moneybag:, entrez la commande `/vendrefamilier prix:1000`.
 
-![Ici le familier "Elle" est vendu](<../.gitbook/assets/image (18).png>)
+<figure><img src="../.gitbook/assets/petsell.PNG" alt=""><figcaption><p>Ici, le familier "Lionelle" va être vendu pour 1000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></p></figcaption></figure>
 
 Il y a des conditions importantes à respecter pour la vente de familiers :
 

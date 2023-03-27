@@ -43,4 +43,4 @@ Celui-ci se divise en 3 catégories :
 {% endtab %}
 {% endtabs %}
 
-![Le magasin des missions](../.gitbook/assets/Capture-1.png)
+<figure><img src="../.gitbook/assets/missionsshop.PNG" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>

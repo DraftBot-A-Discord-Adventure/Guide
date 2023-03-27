@@ -249,6 +249,23 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :full\_moon\_with\_face:                                        | Lune de Mojaro                | :shield: Défense +90 pendant les combats  | Épique     |
 | :cyclone:                                                       | Amulette cyclonique           | :shield: Défense +143 pendant les combats | Légendaire |
 
+#### :zap:Bonus d'énergie
+
+| Symbole                                                                            | Nom                        | Effet                       | Rareté     |
+| ---------------------------------------------------------------------------------- | -------------------------- | --------------------------- | ---------- |
+| :meat\_on\_bone:                                                                   | Nourriture pour chien      | :zap:Énergie + 15 par jour  | Commun     |
+| ![:low\_battery:](https://discord.com/assets/f8902502abf350aad7b2e7c06e5a989e.svg) | Batterie faible            | :zap:Énergie + 22 par jour  | Commun     |
+| :hot\_pepper:                                                                      | Piment                     | :zap:Énergie + 63 par jour  | Commun     |
+| ![:bed:](https://discord.com/assets/08148db134d007c67675a73a5c89bc19.svg)          | Lit                        | :zap:Énergie + 111 par jour | Peu commun |
+| :robot:                                                                            | Figurine Buzz l'éclair     | :zap:Énergie + 289 par jour | Exotique   |
+| :headphones:                                                                       | Musique                    | :zap:Énergie + 442 par jour | Rare       |
+| :roller\_coaster:                                                                  | Ticket de montagnes russes | :zap:Énergie + 527 par jour | Spécial    |
+| :sunny:                                                                            | Soleil                     | :zap:Énergie + 618 par jour | Spécial    |
+| :dna:                                                                              | Programme de dopage        | :zap:Énergie + 799 par jour | Épique     |
+| :heart:                                                                            | Cœur artificiel            | :zap:Énergie + 813 par jour | Épique     |
+| :health\_worker:                                                                   | Docteur de poche           | :zap:Énergie + 955 par jour | Légendaire |
+| :electric\_plug:                                                                   | Défibrillateur             | :zap:Énergie + 969 par jour | Mythique   |
+
 #### :clock10: Bonus de temps
 
 | Symbole         | Nom                        | Effet                                                        | Rareté     |
@@ -283,24 +300,25 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Aucun effet
 
-| Symbole                                                                | Nom                | Effet       | Rareté     |
-| ---------------------------------------------------------------------- | ------------------ | ----------- | ---------- |
-| :tea:                                                                  | Potion périmée     | Aucun effet | Commun     |
-| :test\_tube:                                                           | Potion douteuse    | Aucun effet | Commun     |
-| :potable\_water:                                                       | Eau purifiée       | Aucun effet | Commun     |
-| :wine\_glass:                                                          | Vin rouge          | Aucun effet | Commun     |
-| :droplet:                                                              | Eau purifiée       | Aucun effet | Commun     |
-| :bubble\_tea:                                                          | Bubble tea         | Aucun effet | Commun     |
-| ![🫗](https://discord.com/assets/50bac7c3b7f21ea25538c6d2ff6371cb.svg) | Potion renversée   | Aucun effet | Commun     |
-| :recycle:                                                              | Potion recyclable  | Aucun effet | Peu commun |
-| ![🫙](https://discord.com/assets/7fa8e7fb17a9f47875f023c01362cb31.svg) | Potion vide        | Aucun effet | Peu commun |
-| ![🫧](https://discord.com/assets/5663ca34bbb761c8b326f7af4aa4d654.svg) | Potion à bulles    | Aucun effet | Peu commun |
-| :non-potable\_water:                                                   | Potion non potable | Aucun effet | Exotique   |
-| :ocean:                                                                | Potion de la mer   | Aucun effet | Rare       |
-| :sweat\_drops:                                                         | Sueur              | Aucun effet | Spécial    |
-| :honey\_pot:                                                           | Miel               | Aucun effet | Épique     |
-| :mount\_fuji:                                                          | Super Nariwa       | Aucun effet | Légendaire |
-| :beverage\_box:                                                        | Jus de pomme       | Aucun effet | Mythique   |
+| Symbole                                                                 | Nom                 | Effet       | Rareté     |
+| ----------------------------------------------------------------------- | ------------------- | ----------- | ---------- |
+| :tea:                                                                   | Potion périmée      | Aucun effet | Commun     |
+| :test\_tube:                                                            | Potion douteuse     | Aucun effet | Commun     |
+| :potable\_water:                                                        | Eau purifiée        | Aucun effet | Commun     |
+| :wine\_glass:                                                           | Vin rouge           | Aucun effet | Commun     |
+| :droplet:                                                               | Eau purifiée        | Aucun effet | Commun     |
+| :bubble\_tea:                                                           | Bubble tea          | Aucun effet | Commun     |
+| ![🫗](https://discord.com/assets/50bac7c3b7f21ea25538c6d2ff6371cb.svg)  | Potion renversée    | Aucun effet | Commun     |
+| :recycle:                                                               | Potion recyclable   | Aucun effet | Peu commun |
+| ![🫙](https://discord.com/assets/7fa8e7fb17a9f47875f023c01362cb31.svg)  | Potion vide         | Aucun effet | Peu commun |
+| :non-potable\_water:                                                    | Potion non potable  | Aucun effet | Exotique   |
+| :black\_nib:                                                            | Encre               | Aucun effet | Exotique   |
+| ![🛏️](https://discord.com/assets/08148db134d007c67675a73a5c89bc19.svg) | Bave sur l'oreiller | Aucun effet | Rare       |
+| :sweat\_drops:                                                          | Sueur               | Aucun effet | Spécial    |
+| ![🫗](https://discord.com/assets/50bac7c3b7f21ea25538c6d2ff6371cb.svg)  | Potion renversante  | Aucun effet | Épique     |
+| :mount\_fuji:                                                           | Super Nariwa        | Aucun effet | Légendaire |
+| :beverage\_box:                                                         | Jus de pomme        | Aucun effet | Mythique   |
+| :hotsprings:                                                            | Eau bouillante      | Aucun effet | Exotique   |
 
 #### Bonus de vie
 
@@ -334,6 +352,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Potion fumante           | :rocket: Vitesse +88 pendant le prochain combat  | Rare       |
 | :thunder\_cloud\_rain:                                                           | Jus d'orage              | :rocket: Vitesse +138 pendant le prochain combat | Spécial    |
 | <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion de vitesse        | :rocket: Vitesse +200 pendant le prochain combat | Spécial    |
+| :snail:                                                                          | Bave d'escargot          | :rocket: Vitesse + 1 pendant le prochain combat  | Épique     |
 | :battery:                                                                        | Jus de batterie          | :rocket: Vitesse +212 pendant le prochain combat | Épique     |
 | <img src="../.gitbook/assets/potion ultime.png" alt="" data-size="line">         | Grande potion            | :rocket: Vitesse +255 pendant le prochain combat | Légendaire |
 | :bricks:                                                                         | Potion de dureté extrême | :rocket: Vitesse +327 pendant le prochain combat | Mythique   |
@@ -361,6 +380,26 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion sombre | :shield: Défense +90 pour le prochain combat    | Rare       |
 | :peanuts:                                                               | Huile de noix | :shield: Défense +169 pour le prochain combat   | Spécial    |
 | <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line"> | Super potion  | :shield: Défense +190 pour le prochain combat   | Épique     |
+
+#### Bonus d'énergie
+
+| Symbole                                                                | Nom                | Effet               | Rareté     |
+| ---------------------------------------------------------------------- | ------------------ | ------------------- | ---------- |
+| :shower:                                                               | Eau de douche      | :zap:Énergie + 12   | Commun     |
+| :coffee:                                                               | Expresso           | :zap:Énergie + 24   | Commun     |
+| :closed\_umbrella:                                                     | Gouttes de pluie   | :zap:Énergie + 61   | Commun     |
+| :cactus:                                                               | Jus de cactus      | :zap:Énergie + 112  | Peu commun |
+| ![🫧](https://discord.com/assets/5663ca34bbb761c8b326f7af4aa4d654.svg) | Potion à bulles    | :zap:Énergie + 199  | Peu commun |
+| :cold\_face:                                                           | Eau de stalactites | :zap:Énergie + 362  | Exotique   |
+| :ocean:                                                                | Potion de la mer   | :zap:Énergie + 802  | Rare       |
+| :soap:                                                                 | Eau savonneuse     | :zap:Énergie + 852  | Rare       |
+| :cocktail:                                                             | Cocktail tonique   | :zap:Énergie + 963  | Spécial    |
+| ![🪷](https://discord.com/assets/32d25744a68866fc82e2ff6c61319067.svg) | Rosée du matin     | :zap:Énergie + 1024 | Spécial    |
+| :pirate\_flag:                                                         | Rhum               | :zap:Énergie + 1504 | Épique     |
+| :honey\_pot:                                                           | Miel               | :zap:Énergie + 1669 | Épique     |
+| :syringe:                                                              | Substance inconnue | :zap:Énergie + 1775 | Épique     |
+| :motor\_scooter:                                                       | SP 95              | :zap:Énergie + 1874 | Légendaire |
+| :feather:                                                              | Essence de phénix  | :zap:Énergie + 2048 | Mythique   |
 
 #### Bonus de temps
 
