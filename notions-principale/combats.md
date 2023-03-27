@@ -25,11 +25,11 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats normaux
 
-Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire et le perdant en perd.
+Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire et le perdant en perd. L'énergie est consommée dans ce type de combat.
 
 #### Les combats amicaux
 
-Les combats amicaux sont similaires aux combats normaux, à la seule différence que vous ne perdez ni ne gagnez pas de points.
+Les combats amicaux sont similaires aux combats normaux, à la seule différence que vous ne perdez ni ne gagnez pas de points, et ne perdez aucune énergie à la fin de ceux-ci. Ils peuvent être lancés avec l'option `amical` de la commande à `true`.
 
 ### Déroulement d'un combat
 
@@ -61,7 +61,7 @@ Vous pouvez retrouvez le détaillé des attaques sur le document ci-dessous.
 
 ### Gestion du souffle
 
-Chaque attaque nécessite une certaine quantité de souffle. Chaque lancement de cette attaque retirera de la réserve de souffle du combatant le montant spécifié. Au début de son tour, un combatant reçoit une quantité de souffle en fonction de sa classe. Les informations sur les réserves de souffle liées à une classe où les consommation de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`
+Chaque attaque nécessite une certaine quantité de souffle. Chaque lancement de cette attaque retirera de la réserve de souffle du combatant le montant spécifié. Au début de son tour, un combatant reçoit une quantité de souffle en fonction de sa classe. Les informations sur les réserves de souffle liées à une classe où les consommation de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`.
 
 {% hint style="info" %}
 Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus de souffle que ce dont il dispose, l'attaque n'aura qu'une faible probabilité d'être lancée.
@@ -73,8 +73,8 @@ Dès lors que :zap: l'énergie de l'un des adversaire tombe à 0, le combat s'ar
 
 Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 24 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
 
-Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu, sauf si il s'agissait d'un combat amical.
+Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu, sauf s'il s'agissait d'un combat amical.
 
 {% hint style="danger" %}
-Si un des adversaires est inactif pendant plus de 30 secondes, le combat est considéré comme terminé. Le combatant inactif perdra le combat.
+Si un des adversaires est inactif pendant plus de 30 secondes, le combat est considéré comme terminé. Le combattant inactif perdra le combat, et donc la totalité de son énergie.
 {% endhint %}

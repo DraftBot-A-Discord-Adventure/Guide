@@ -15,7 +15,7 @@
 * Mythique :gem: `0,02% (1 équipement/5000)`
 
 {% hint style="info" %}
-Vous pouvez aussi les voir aves la commande `/rarity` !
+Vous pouvez aussi les voir aves la commande `/rarete` !
 {% endhint %}
 
 ### Valeur et puissance des équipements

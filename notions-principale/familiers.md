@@ -65,7 +65,9 @@ Cependant, le type de nourriture n'a pas d'influence sur la durée pendant laque
 La durée pendant laquelle un familier n'a pas faim dépend uniquement de la rareté du pet. Le nombre d'étoiles de rareté est égal au nombre d'heures qu'il faut attendre entre deux repas.
 {% endhint %}
 
+{% hint style="warning" %}
 Certains familiers suivent un régime particulier (herbivore ou carnivore) et ne pourront donc pas profiter de certaines sources de nourritures. Ne donnez pas de salade à votre T-rex !
+{% endhint %}
 
 #### Niveaux de moral
 

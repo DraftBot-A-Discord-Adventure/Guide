@@ -16,10 +16,10 @@ L'inventaire se décompose en deux parties distinctes, la première est dédiée
 
 La première partie de l'inventaire est partagée en **4 éléments** :
 
-* `L'emplacement d'arme`
-* `L'emplacement d'armure ou de bouclier`
-* `L'emplacement de la potion`
-* `L'emplacement de l'objet actif`
+* L'emplacement d'arme
+* L'emplacement d'armure ou de bouclier
+* L'emplacement de la potion
+* L'emplacement de l'objet actif
 
 La seconde partie de l'inventaire sert à **stocker des équipements supplémentaires** que vous pourrez échanger avec vos équipements actifs en fonction de vos besoins.
 
@@ -40,8 +40,12 @@ Lors de l'achat d'un emplacement supplémentaire, le prix de l'amélioration de 
 
 ### Interaction avec les objets de l'inventaire
 
-La commande `/bonusjournalier` permet d'utiliser un objet placé dans la case "objet actif".
+La commande `/bonusjournalier` permet d'utiliser un objet placé dans la case "objet actif". Un objet peut être utilisé toutes les 22h minimum.
 
 La commande `/vendre` permet de vendre n'importe quel équipement situé dans la réserve d'un joueur.
 
 La commande `/intervertir` permet d'échanger les équipements actifs avec les équipements de la réserve.
+
+{% hint style="warning" %}
+Intervertir deux objets journaliers augmentera la durée d'attente de 30 minutes par interversion avant de pouvoir utiliser celui placé dans votre inventaire, donc choisissez le bon moment pour l'exécuter et éviter d'avoir à attendre inutilement !
+{% endhint %}

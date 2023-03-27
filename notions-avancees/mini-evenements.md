@@ -9,7 +9,7 @@ Il existe actuellement 15 types de mini-évènements différents dans le bot. Vo
 Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre objet, l'objet sera racheté par le vendeur pour un prix réduit à son prix d'achat.
 
 {% hint style="warning" %}
-Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 10 fois plus cher !
+Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 5 fois plus cher !
 {% endhint %}
 
 ![Un exemple de mini-shop](<../.gitbook/assets/image (44).png>)
@@ -113,8 +113,16 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 
 #### Taux d'apparition : 2.94%
 
-#### :coin: Petite mise :&#x20;
+Durant votre voyage, un gérant de jeu de hasard peut vous croiser et vous proposer de tenter votre chance pour reçevoir un peu d'argent, d'XP ou de points. Pour celà, 3 mises sont à disposition:
 
+* :coin: **Petite mise**
+* ****:dollar: **Mise moyenne**
+* ****:moneybag: **Grosse mise**
+
+Les gains et malus dépendent de la mise choisie:
+
+{% tabs %}
+{% tab title="Petite mise" %}
 Gains possibles (80%) :&#x20;
 
 * 35 :medal:
@@ -125,9 +133,9 @@ Gains possibles (80%) :&#x20;
 Malus  :&#x20;
 
 * Rien (20%)
+{% endtab %}
 
-#### :dollar: Mise intermédiaire :&#x20;
-
+{% tab title="Mise moyenne" %}
 Gains possibles (50%) :&#x20;
 
 * 105 :medal:
@@ -138,9 +146,9 @@ Gains possibles (50%) :&#x20;
 Malus :&#x20;
 
 * 10 minutes :clock1: (100%)
+{% endtab %}
 
-#### :moneybag:Grosse mise :&#x20;
-
+{% tab title="Grosse mise" %}
 Gains possibles (20%) :&#x20;
 
 * 350 :medal:
@@ -152,6 +160,8 @@ Malus :&#x20;
 
 * 10 minutes :clock1: (100%)
 * 175 :money\_with\_wings: (10%)
+{% endtab %}
+{% endtabs %}
 
 <figure><img src="../.gitbook/assets/loterie.PNG" alt=""><figcaption><p>Un exemple de loterie</p></figcaption></figure>
 

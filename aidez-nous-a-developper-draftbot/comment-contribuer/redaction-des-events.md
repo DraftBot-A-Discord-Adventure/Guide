@@ -1,6 +1,6 @@
 # Rédaction des évents
 
-La rédaction du bot peut se faire sur GitHub mais il est très fortement conseillé de rejoindre le serveur discord du bot afin de pouvoir communiquer avec les autres créateurs et même de mieux comprendre le fonctionnement de l'outil.
+La rédaction du bot peut se faire sur GitHub mais il est très fortement conseillé de rejoindre le serveur Discord du bot afin de pouvoir communiquer avec les autres créateurs et même de mieux comprendre le fonctionnement de l'outil.
 
 Si vous souhaitez nous aider, vous pouvez donc rejoindre le serveur Discord ci-dessous et prendre le rôle "rédacteur" dans le channel `#infos-grades`.
 

@@ -15,7 +15,7 @@ La commande `/rapport` possède 4 états différents :
 
 ### Mini-Évènements :
 
-Le joueur met un peu moins de 10 minutes à réaliser un trajet entre deux mini-évènements.
+Le joueur met environ 9 minutes et 45 secondes à réaliser un trajet entre deux mini-évènements.
 
 ![Un exemple de mini-évènement](../.gitbook/assets/RapportMiniEvent.png)
 
