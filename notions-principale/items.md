@@ -9,13 +9,13 @@
 * Peu commun :fire: `25% (1 équipement/4)`
 * Exotique :trident: `15% (~1 équipement/7)`
 * Rare :comet: `10% (1 équipement/10)`
-* Spécial :dizzy: `5% (1 équipement/20)`:dagger:``
+* Spécial :dizzy: `5% (1 équipement/20)`:dagger:
 * Épique :star: `1% (1 équipement/100)`
 * Légendaire :star2: `0,23% (~1 équipement/435)`
 * Mythique :gem: `0,02% (1 équipement/5000)`
 
 {% hint style="info" %}
-Vous pouvez aussi les voir aves la commande `/rarete` !
+Vous pouvez aussi les voir aves la commande `/rareté` !
 {% endhint %}
 
 ### Valeur et puissance des équipements
