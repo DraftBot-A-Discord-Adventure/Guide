@@ -31,7 +31,11 @@ Puis vous devez cliquer sur la réaction correspondante à la classe que vous so
 <figure><img src="../.gitbook/assets/classes.PNG" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="info" %}
-Le changement de classe coûte de l'argent du jeu. Vous pouvez changer autant de fois que vous le souhaitez.
+Les screenshots ci-dessus ont été pris avant la v4.3.3, d'où la présence des prix. Ceux-ci ont été retirés dès cette version, les rendant gratuites.
+{% endhint %}
+
+{% hint style="danger" %}
+Cependant, le système de prix a été remplacé par un cooldown de soit deux semaines (pour les tiers 1 et 2), soit d'un mois (pour les autres tiers) afin d'éviter de spammer les changements de classe.
 {% endhint %}
 
 ### Statistiques des classes
