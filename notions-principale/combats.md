@@ -25,7 +25,7 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats normaux
 
-Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire et le perdant en perd. L'énergie est consommée dans ce type de combat.
+Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire. L'énergie est consommée dans ce type de combat.
 
 #### Les combats amicaux
 
