@@ -45,7 +45,3 @@ La commande `/bonusjournalier` permet d'utiliser un objet placé dans la case "o
 La commande `/vendre` permet de vendre n'importe quel équipement situé dans la réserve d'un joueur.
 
 La commande `/intervertir` permet d'échanger les équipements actifs avec les équipements de la réserve.
-
-{% hint style="warning" %}
-Intervertir deux objets journaliers augmentera la durée d'attente de 30 minutes par interversion avant de pouvoir utiliser celui placé dans votre inventaire, donc choisissez le bon moment pour l'exécuter et éviter d'avoir à attendre inutilement !
-{% endhint %}
