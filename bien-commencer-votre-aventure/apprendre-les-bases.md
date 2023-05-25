@@ -22,7 +22,7 @@ Durant votre jeu, et si vous choisissez de prendre part à la communauté et d'�
 
 :exclamation: **Évènement :** Un évènement, ou event, peut survenir lorsque le joueur effectue la commande `/rapport` pour demander un rapport. Si cela arrive, le joueur aura un choix à effectuer grâce aux réactions Discord.
 
-:question: **Mini-Évènement :** Entre deux évènements, le joueur peut obtenir des mini-évènements. Il y en a toutes les 10 minutes. Ils ne nécessitent que très peu d'interaction avec le joueur (en dehors de la commande `/rapport`)
+:question: **Mini-Évènement :** Entre deux évènements, le joueur peut obtenir des mini-évènements. Il y en a toutes les 9 minutes et 45 secondes environ. Ils ne nécessitent que très peu d'interaction avec le joueur (en dehors de la commande `/rapport`)
 
 :moneybag: **Argent :** L'argent est la monnaie du jeu (oui le nom est original). Il est possible de le dépenser en utilisant la commande `/magasin`. Avoir de l'argent vous permettra également de créer votre guilde avec la commande `/creationguilde`. Il est aussi possible de perdre de l'argent lors de certains évènements, ou mini-évènements. L'argent peut être obtenu dans les événements, les mini-événements, avec un objet quotidien ou bien dans les récompenses de guilde.
 
@@ -38,7 +38,7 @@ Il existe 4 types d'équipements :
 
 :shield: **Armure :** Une armure est une pièce d'équipement qui augmente la défense lors des combats. Les armures sont équipées automatiquement.
 
-****<img src="../.gitbook/assets/Potion2.png" alt="" data-size="line"> **Potion :** Une potion est une pièce d'équipement qui peut avoir divers effets. Certaines potions peuvent être bues par le joueur à l'aide de la commande `/boire`, d'autres ne peuvent pas être bues et sont utilisées automatiquement lors d'un combat.
+<img src="../.gitbook/assets/Potion2.png" alt="" data-size="line"> **Potion :** Une potion est une pièce d'équipement qui peut avoir divers effets. Certaines potions peuvent être bues par le joueur à l'aide de la commande `/boire`, d'autres ne peuvent pas être bues et sont utilisées automatiquement lors d'un combat.
 
 {% hint style="warning" %}
 Les potions sont les seules pièces d'équipement qui ne peuvent pas être revendues.
