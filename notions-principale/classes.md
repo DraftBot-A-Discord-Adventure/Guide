@@ -22,20 +22,18 @@ Puis vous devez cliquer sur la réaction correspondante à la classe que vous so
 
 ### Liste des classes
 
-![Classes de palier 1](<../.gitbook/assets/Classes T1.png>)
+![Classes de palier 1](../.gitbook/assets/tier1.png)
 
-![Classes de palier 2](<../.gitbook/assets/Classes T2.png>)
+![Classes de palier 2](../.gitbook/assets/tier2.png)
 
-![Classes de palier 3](<../.gitbook/assets/Classes T3.png>)
+![Classes de palier 3](../.gitbook/assets/tier3.png)
 
-<figure><img src="../.gitbook/assets/classes.PNG" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tier4.png" alt=""><figcaption><p>Classes de palier 4</p></figcaption></figure>
 
-{% hint style="info" %}
-Les screenshots ci-dessus ont été pris avant la v4.3.3, d'où la présence des prix. Ceux-ci ont été retirés dès cette version, les rendant gratuites.
-{% endhint %}
+<figure><img src="../.gitbook/assets/tier5.png" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="danger" %}
-Cependant, le système de prix a été remplacé par un cooldown de soit deux semaines (pour les tiers 1 et 2), soit d'un mois (pour les autres tiers) afin d'éviter de spammer les changements de classe.
+Vu que les classes sont gratuites, un cooldown de soit deux semaines (pour les tiers 1 et 2), soit d'un mois (pour les autres tiers) a été mis en place afin d'éviter de spammer les changements de classe.
 {% endhint %}
 
 ### Statistiques des classes

@@ -116,8 +116,8 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 Durant votre voyage, un gérant de jeu de hasard peut vous croiser et vous proposer de tenter votre chance pour reçevoir un peu d'argent, d'XP ou de points. Pour celà, 3 mises sont à disposition:
 
 * :coin: **Petite mise**
-* ****:dollar: **Mise moyenne**
-* ****:moneybag: **Grosse mise**
+* :dollar: **Mise moyenne**
+* :moneybag: **Grosse mise**
 
 Les gains et malus dépendent de la mise choisie:
 
