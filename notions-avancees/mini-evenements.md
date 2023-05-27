@@ -1,10 +1,16 @@
 # Mini-évènements
 
-Il existe actuellement 15 types de mini-évènements différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
+Il existe actuellement 25 types de mini-évènements différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
 
-### Mini-shop
+Plus la valeur de la rareté d'un mini-évènement est élevée, plus celui-ci est fréquent.
 
-**Taux d'apparition :** 4.4%
+{% hint style="info" %}
+La rareté maximale actuelle est de 12 (très fréquent) !
+{% endhint %}
+
+## Mini-shop
+
+**Rareté :** **4**
 
 Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre objet, l'objet sera racheté par le vendeur pour un prix réduit à son prix d'achat.
 
@@ -14,9 +20,9 @@ Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de 
 
 ![Un exemple de mini-shop](<../.gitbook/assets/image (44).png>)
 
-### Interaction avec un familier
+## Interaction avec un familier
 
-**Taux d'apparition :** 6.25% - Nécessite d'avoir un familier équipé pour apparaître.
+**Rareté : 10** - Nécessite d'avoir un familier équipé pour apparaître.
 
 Réalise une interaction entre le propriétaire d'un familier et son familier. Ce mini-évènement peut être positif ou négatif en fonction de l'affection du familier. Les familiers plus rares permettent d'obtenir de meilleures récompenses.
 
@@ -31,6 +37,7 @@ Réalise une interaction entre le propriétaire d'un familier et son familier. C
 | Temps (5 à 20 minutes)     | 3                            | Faible      |
 | Points bonus (20 à 70)     | 1                            | Moyenne     |
 | Badge                      | 6                            | Très faible |
+| Énergie (10 à 250)         | 1                            | Élevée      |
 
 {% hint style="success" %}
 Si un familier est dressé, il compte dans le calcul des récompenses accessibles comme ayant une étoile en plus.
@@ -46,9 +53,9 @@ Si un familier est dressé, il compte dans le calcul des récompenses accessible
 
 ![Un exemple d'interaction avec un familier.](<../.gitbook/assets/image (45).png>)
 
-### Trouver un familier
+## Trouver un familier
 
-**Taux d'apparition :** 2.2%
+**Rareté : 2**
 
 Le joueur découvre un familier qui le rejoint dans son aventure. Si le joueur a déjà un familier, le nouveau est placé dans le refuge de la guilde du joueur.
 
@@ -65,25 +72,25 @@ Voilà les probabilités d'obtention pour chaque rareté de familiers :
 
 ![Ne me demandez pas comment elle était montée là haut](<../.gitbook/assets/image (52).png>)
 
-### Trouver un équipement
+## Trouver un équipement
 
-**Taux d'apparition :** 2.2%
+**Rareté : 2**
 
 Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir des objets légendaires ou mythiques dans ce mini-évènement.
 
 ![Exemple de découverte d'un équipement](<../.gitbook/assets/image (53).png>)
 
-### Rien ne se passe
+## Rien ne se passe
 
-**Taux d'apparition :** 8.8%
+**Rareté : 8**&#x20;
 
 Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur.
 
 ![Un exemple du mini-évènement "Rien ne se passe"](<../.gitbook/assets/image (55).png>)
 
-### Petit malheur
+## Petit malheur
 
-**Taux d'apparition :** 8.8%
+**Rareté : 8**
 
 Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent à de petits malus.
 
@@ -95,9 +102,9 @@ Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent 
 
 ![Un exemple de petit malheur](<../.gitbook/assets/image (56).png>)
 
-### Gros malheur
+## Gros malheur
 
-**Taux d'apparition :** 1.1%
+**Rareté : 1**
 
 Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent à de gros malus. Heureusement, cela reste très rare !
 
@@ -109,11 +116,11 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 
 ![Un exemple de gros malheur](<../.gitbook/assets/image (57).png>)
 
-### Loterie
+## Loterie
 
-#### Taux d'apparition : 2.94%
+**Rareté : 3**
 
-Durant votre voyage, un gérant de jeu de hasard peut vous croiser et vous proposer de tenter votre chance pour reçevoir un peu d'argent, d'XP ou de points. Pour celà, 3 mises sont à disposition:
+Durant votre voyage, un gérant de jeu de hasard peut vous croiser et vous proposer de tenter votre chance pour recevoir un peu d'argent, d'XP ou de points. Pour cela, 3 mises sont à disposition:
 
 * :coin: **Petite mise**
 * :dollar: **Mise moyenne**
@@ -165,7 +172,9 @@ Malus :&#x20;
 
 <figure><img src="../.gitbook/assets/loterie.PNG" alt=""><figcaption><p>Un exemple de loterie</p></figcaption></figure>
 
-### Interaction avec un joueur sur le même trajet
+## Interaction avec un joueur sur le même trajet
+
+**Rareté : 12**
 
 Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce mini-évènement permet de discuter avec un joueur que vous croisez, que vous suivez ou que vous précédez !
 
@@ -200,3 +209,265 @@ Voilà la liste des caractéristiques qui peuvent être exploitées :
 * Inventaire du joueur
 
 ![Un exemple d'interaction avec un autre joueur](<../.gitbook/assets/image (58).png>)
+
+## Avancement du temps
+
+**Rareté : 6**
+
+Avance le temps de 10 à 50 minutes.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 162600.png" alt=""><figcaption><p>Exemple d'avancement du temps</p></figcaption></figure>
+
+## Faits du Bot
+
+**Rareté : 2**
+
+Raconte une information à propos du bot parmi celles-ci :
+
+* Moyenne des points totaux des joueurs
+* Moyenne des points durant la semaine
+* Nombre de joueurs qui ont commencé leur aventure
+* Moyenne du niveaux des joueurs
+* Argent total en circulation
+* Balance du joueur le plus riche
+* Nombre de pets dressés
+* Nombre de pets fielleux
+* Pourcentage de pets femelles dans le jeu
+* Pourcentage de pets mâles dans le jeu
+* Moyenne du niveau des guildes
+* Nombre de joueurs d'une classe
+* Nombre de joueurs voyageant sur notre chemin&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 164600.png" alt=""><figcaption><p>Exemple d'une information à propos du bot</p></figcaption></figure>
+
+## Vote
+
+**Rareté : 4**
+
+Obtenir une récompense en ayant voté pour le bot sur top.gg parmi celles-ci :
+
+* Argent (entre 150 et 250)
+* Item aléatoire
+
+Si vous n'aviez pas voté pour le bot, vous ne verrez qu'un rappel pour voter pour celui-ci.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 164938.png" alt=""><figcaption><p>Exemple de récompense du vote</p></figcaption></figure>
+
+## Classes
+
+**Rareté : 4**
+
+Vous gagnez une récompense qui dépend de votre classe.
+
+| Classes                               | Items                                                                   |
+| ------------------------------------- | ----------------------------------------------------------------------- |
+| Recrue :herb:                         | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Combattant :axe:                      | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Soldat :dagger:                       | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Fantassin :crossed\_swords:           | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Ganté :boxing\_glove:                 | Objet de défense, potion de défense ou armure                           |
+| Casqué :military\_helmet:             | Objet de défense, potion de défense ou armure                           |
+| Maillé :chains:                       | Objet de défense, potion de défense ou armure                           |
+| Tank :shield:                         | Objet de défense, potion de défense ou armure                           |
+| Lanceur de pierre :rock:              | Objet d'attaque, potion d'attaque ou arme                               |
+| Frondeur :mechanical\_arm:            | Objet d'attaque, potion d'attaque ou arme                               |
+| Archer :bow\_and\_arrow:              | Objet d'attaque, potion d'attaque ou arme                               |
+| Canonnier :gun:                       | Objet d'attaque, potion d'attaque ou arme                               |
+| Ecuyer :broom:                        | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Cavalier :horse\_racing:              | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Piquier :probing\_cane:               | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Chevalier :person\_fencing:           | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Paladin :fleur-de-lis:                | Objet de défense, potion de défense ou armure                           |
+| Vétéran :trident:                     | Item au hasard ou gagner des points de vie (entre 1:heart:et 5:heart:)  |
+| Fantassin puissant :crossed\_swords:  | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Tank impénétrable :shield:            | Objet de défense, potion de défense ou armure                           |
+| Canonnier redoutable :gun:            | Objet d'attaque, potion d'attaque ou arme                               |
+| Chevalier valeureux :person\_fencing: | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
+| Paladin lumineux :fleur-de-lis:       | Objet de défense, potion de défense ou armure                           |
+| Vétéran chevronné :trident:           | Item au hasard ou gagner des points de vie (entre 1 :heart:et 5:heart:) |
+| Mage mystique :mage:                  | Item au hasard ou gagner des points de vie (entre 1 :heart:et 5:heart:) |
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 171548.png" alt=""><figcaption><p>Exemple de gain dépendant d'une classe</p></figcaption></figure>
+
+## Trouver une mission
+
+**Rareté : 6**
+
+Vous obtenez une mission secondaire.
+
+{% hint style="info" %}
+Vous pouvez avoir jusqu'à 3 missions secondaires au maximum.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot_20230526_212110_Discord[1] (1).jpg" alt=""><figcaption><p>Exemple d'obtention d'une mission secondaire</p></figcaption></figure>
+
+## Trouver une potion
+
+**Rareté : 8**
+
+Vous trouvez une potion aléatoire.
+
+<figure><img src="../.gitbook/assets/Screenshot_20230526_213001_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain de potion</p></figcaption></figure>
+
+## Gobelets
+
+**Rareté : 2**
+
+Un homme suspect s'approche de vous et vous fait participer à un jeu composé de trois gobelets :&#x20;
+
+* Gobelet en métal :dragon\_face:
+* Grand gobelet :bucket:
+* Gobelet scintillant sculpté dans un bois bleu :sparkles:
+
+Vous devrez faire un choix entre ces trois gobelets qui vous donnera une des issues suivantes :&#x20;
+
+* Perdre une certaine quantité de vie dépendant de votre niveau
+* Une altération qui dépend de votre niveau
+* Rien
+
+{% hint style="info" %}
+En réagissant avec :end:, l'action "Ne rien faire" se déclenche et vous perdez une quantité de vie dépendant de votre niveau.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot_20230526_215537_Discord[1].jpg" alt=""><figcaption><p>Exemple du jeu de gobelets</p></figcaption></figure>
+
+## Membres du staff
+
+**Rareté : 1**
+
+Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
+
+* Nysvaa
+* Thero1st
+* Oscar
+* QQtin
+* LePourfendeur
+* Ines
+* romain22222
+* Izuku
+* Draft
+* Royal
+* Max
+* Eagle
+* DeadAngelV6
+* Kyusaki
+* Greninja\_san
+* nwcubeok
+* SuperBananeNinja
+* Hitori
+* Pietagorh
+* Doctor
+* KirIcare
+* symsym
+* Pagotortoise
+* Voltou
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_091722_Discord[1].jpg" alt=""><figcaption><p>Exemple de légende d'un staff</p></figcaption></figure>
+
+## Espace
+
+**Rareté : 3**
+
+Vous rencontrez un homme se disant être un oracle, il vous donnera une vraie information (hormis quelques détails, comme les noms) sur l'espace parmi celles-ci :
+
+* Un objet se rapprochant de la Terre
+* Les phases de la Lune
+* La prochaine pleine Lune
+* La prochaine éclipse lunaire partielle
+* La prochaine éclipse lunaire totale
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_092955_Discord[1].jpg" alt=""><figcaption><p>Exemple de rencontre avec l'oracle</p></figcaption></figure>
+
+## Récupération totale d'énergie
+
+**Rareté : 8**
+
+Vous rencontrez une jeune femme qui vous fera regagner toute votre énergie.
+
+{% hint style="info" %}
+Vous n'obtiendrez ce mini-évènement uniquement si votre énergie n'est pas déjà complète.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-27 105208.png" alt=""><figcaption><p>Exemple de récupération d'énergie</p></figcaption></figure>
+
+## Gagner de l'expérience de guilde
+
+**Rareté : 5**
+
+Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience de guilde dépendant du niveau de celle-ci.
+
+{% hint style="info" %}
+Vous n'obtiendrez ce mini-évènement uniquement si vous faites parti d'une guilde qui n'est pas niveau 100.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_095045_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain d'expérience de guilde</p></figcaption></figure>
+
+## Gagner des points de vies
+
+**Rareté : 3**
+
+Durant votre voyage, il vous arrivera de pouvoir récupérer des points de vies entre 1:heart:et 4:heart:.&#x20;
+
+{% hint style="info" %}
+Vous n'obtiendrez ce mini-évènement uniquement si votre vie n'est pas déjà à son maximum.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_100240_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain de points de vie</p></figcaption></figure>
+
+## Gagner de l'expérience
+
+**Rareté : 3**
+
+Durant votre voyage, il vous arrivera de gagner de l'expérience entre 10:star:et 35:star:.
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_100724_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain d'expérience</p></figcaption></figure>
+
+## Sorcière
+
+**Rareté : 4**
+
+Vous rencontrez une sorcière préparant une potion. Vous pourrez lui conseiller de :&#x20;
+
+* Faire une action
+* Ajouter un ingrédient
+* Ajouter un ingrédient ou faire une action
+
+Selon votre choix, vous pourrez :&#x20;
+
+* Recevoir une potion
+* Avoir une altération d'état
+* Perdre la vie
+* Ne rien avoir
+
+{% hint style="info" %}
+En réagissant avec :end:, l'action "Ne rien faire" se déclenche et il ne vous arrivera rien.
+{% endhint %}
+
+{% hint style="info" %}
+Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offrira à vous et vous pourrez soit ajouter un ingrédient ou faire une action.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_102423_Discord[1].jpg" alt=""><figcaption><p>Exemple de rencontre avec la sorcière</p></figcaption></figure>
+
+## Marchand ultime de nourriture
+
+**Rareté : 1**
+
+Vous rencontrez un marchand qui vous donnera une récompense parmi celles-ci :
+
+* XP pour votre guilde si celle-ci n'est pas déjà au niveau max.
+* Des bonbons si votre guilde est inférieur au niveau 30 et que votre entrepôt vous le permet
+* Des soupes ultimes si votre guilde est supérieure ou égale au niveau 30 et que votre entrepôt vous le permet
+* Un item aléatoire, dépendant de votre niveau, si votre guilde est supérieure ou égale au niveau 30
+
+Si vous n'avez pas de guilde, vous recevrez de l'argent.
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_114742_Discord[1].jpg" alt=""><figcaption><p>Exemple du marchand ultime de nourriture</p></figcaption></figure>
+
+## Récompenses de ligue
+
+**Rareté : 2**
+
+Ce mini-évènement vous donnera des informations sur les récompenses de votre ligue.
+
+<figure><img src="../.gitbook/assets/Screenshot_20230527_123645_Discord[1].jpg" alt=""><figcaption><p>Exemple d'informations des récompenses de ligue</p></figcaption></figure>
