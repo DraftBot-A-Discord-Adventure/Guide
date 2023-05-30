@@ -1,43 +1,51 @@
 # Profile
 
+As in every roleplaying game, your character has a profile used to show different statistics. To open your profile, just type `/profile`.
 
+{% hint style="success" %}
+You can also see other players' profiles using their rank or just by mentioning him with the "rank" or "user" parameters !
+{% endhint %}
 
-The `!profile` command allows you to see the different statistics of your character. Using the `@user` option after the command will let you see other's profiles
+A player profile is cut like this :&#x20;
 
-### Information's&#x20;
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p>A player's profile</p></figcaption></figure>
 
-This line contains every statistics about the adventure, containing :
+### Informations&#x20;
 
-:heart: Your health
+This line contains every statistics about the adventure, containing :&#x20;
 
-:star: Your experience points, and the number of experience required to reach the next level.
-
-:moneybag: Your money
+* :heart: Your health
+* :star: Your experience points
+* :moneybag: Your money
 
 ### Statistics
 
-This line is about every things gifts related. It shows :
+This line is about everything [fights ](combats.md)related. It shows :&#x20;
 
-:dagger: Your attacks points
+* :dagger: Your attack points
+* :shield: Your defense points
+* :rocket: Your speed points
+* :zap: Your energy points
+* :wind\_blowing\_face: Breath available / max breath
+* :lungs: Breath recovery
 
-:shield: Your defense points
+### Glory and League
 
-:rocket: Your speed points
+* :sparkles: Glory points
+* Your league : it changes depending on your glory : More on [leagues.md](leagues.md "mention")
 
-:zap: Your energy points
-
-{% hint style="info" %}
-Be careful not to confuse the energy points :zap: with the :heart: ! They do not have the same purpose.
+{% hint style="success" %}
+The embed's border color also indicates your actual league.
 {% endhint %}
-
-### Ranking and Score
-
-This line shows your ranking :trophy:as well as your score :medal: .
 
 ### Remaining time&#x20;
 
-This line show the current status of your player. If you have any active state alteration, the remaining time will be displayed, with the related emoji.
+This line shows the current status of your player. If you have any active [state alteration](alterations-detat.md), the remaining time will be displayed, with the related emoji.
 
-{% hint style="info" %}
-To get a complete list of the state alteration, please visit the State Alteration page, in the main functions category.
-{% endhint %}
+### Guilds and classes
+
+Since the latest versions of DraftBot, you have the possibility to choose a [class ](classes.md)for your character but also to create or join a [guild](guildes.md). These 2 pieces of information are shown in this part of your profile.
+
+### Badges
+
+Finally, the bot will add in reaction to your profile emojis corresponding to all of your earned [badges ](../notions-avancees/badges.md)during your adventure.

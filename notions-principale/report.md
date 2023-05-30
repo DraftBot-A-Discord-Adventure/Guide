@@ -1,30 +1,60 @@
 # Reports
 
-The report is the main function of the game. It can be used to get the last information's about your player, since the last interaction. You can ask a report by executing the `!report` (or `!r`) command.
+The report is the main function of the game. It can be used to get the last informations about your player, since the last interaction. You can ask for a report by executing the `/report` command.
 
-### How does it work
+### Interface :
 
-The player receives around 1 point every minute, and 1 money every 6 minutes. The report command has a 1h cooldown.
+The report command has 4 differents states :
 
-There is **2 types** of reports :
+* The player is travelling.
+* The player has a [state alteration](alterations-detat.md).
+* The player is doing an event.
+* The player is doing a mini event.
 
-* **Simple reports**. Always positive, they don't need the user to make any choice, and won't give any state alteration, neither than items, and life.
-* The **events**, are mostly likes because of the interactivity. They have more chance to happened when the time since last report is big.
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Command interface when the player is travelling</p></figcaption></figure>
 
-{% hint style="warning" %}
-After 16 hours and 40 minutes of inactivity, the player stops collecting points and money.
+### Mini events :&#x20;
+
+The player takes circa 9 minutes and 45 seconds to travel between 2 mini events.
+
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>A mini event example</p></figcaption></figure>
+
+A mini event is mostly a short sentence. However, some can give you items, health or even money.
+
+{% hint style="info" %}
+Each mini event gives the player a quantity of points which decreases at each mini event. These points are added to the total number of points earned at the next event.
 {% endhint %}
 
-The probability of having simple report depends of the time since last report. The more a user wait, the more chance he has to get an event with a choice.
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Once the mini event finished, it appears on the tavelling interface</p></figcaption></figure>
 
-Before 6h40 the probability can be calculated like that :
+You can see the number of points earned with the mini events and the waiting time before the next one.
 
-$$
-Probability = x /400
-$$
+### Events :&#x20;
 
-Considering that x equals to the number of minute(s) since the last report.
+The events are the core of the game, the player just needs to react to a multiple-choice situation with the Discord reactions. Acoording to his choice, different endings can occur.
 
-{% hint style="danger" %}
-The cooldown of a state alteration is not counted.
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>An event example</p></figcaption></figure>
+
+In this example above, the player has 3 different choices : the 2 reaction choices and also the possibility to add no reaction to it.
+
+{% hint style="info" %}
+The non-choice "do nothing" happens automatically 2 minutes after no explicit choices were given. You can force this non-choice by manually adding the :end:(:end:) reaction to the event's text.
 {% endhint %}
+
+{% hint style="success" %}
+In some events, doing nothing is the best choice ! (In others, it's the worst)
+{% endhint %}
+
+Once the player has set their mind on what to choose, he can press a reaction (or wait 2 minutes), which triggers the issue.
+
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>An issue example</p></figcaption></figure>
+
+### Destination :&#x20;
+
+After an event, the player is led to choose a destination. It is not possible for a player to go back on their steps (unless it is the only possible choice).
+
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Example of a destination choice</p></figcaption></figure>
+
+The time indicated in parenthesis is the travel time to reach the location, a question mark means that the time is unknown. In one-third of cases, the bot automatically chooses the player's destination.
+
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Here is your information about your destination.</p></figcaption></figure>

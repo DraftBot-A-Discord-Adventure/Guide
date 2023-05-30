@@ -1,34 +1,41 @@
 # Rank up
 
-## The leaderboard command
+## The `/top score` command
 
-The `!top` command can be used to see the leaderboard of the DraftBot players, by points count. She also displays your ranking, and the page at which you are. The players will be displayed 15 by 15, showing their name, their status, their points count, and their level.
+The `/top score` command (not to be confused with `/top glory`) can be used to see the leaderboard of the DraftBot players, by points count. It also displays your ranking, and the page at which you are. The players will be displayed 15 by 15, showing their name, their status, their points count, and their level.
 
-![An example of the top command](../.gitbook/assets/image%20%285%29.png)
+![An example of the /top score command, showcasing the top 15 as of this screenshot's upload](<../.gitbook/assets/Capture d’écran 2023-05-06 à 16.57.52.png>)
 
-### Tricks
+### `/top score` options
 
-It is possible to see a specific page of the leaderboard, by typing `!top <page number>`.
+#### Display a specific page of the leaderboard
+
+It is possible to see a specific page of the leaderboard, by typing `/top score page:<page number>`.
 
 {% hint style="warning" %}
-In the example above you don't need to write &lt;&gt;
+In the example above you don't need to write <>. For example, typing `/top score page:215` will display the users who are ranked between the 3211th and the 3225th place.
 {% endhint %}
 
-### Others leaderboards
+#### Get a specific timing on the leaderboard
 
-#### Weekly leaderboard
+Two periods are available for this command: "All time" (the default option when you don't specify the `duration` option), and "This week". The `duration` option will specify the period on which the leaderboard should be displayed.
 
-The weekly leaderboard is reset every sunday
+For example: `/top score duration:🕥 This week.` will show the leaderboard taking account on the points gathered during the week it was launched.
 
-The topweek command is `!topweek <page number>`.
+{% hint style="success" %}
+The available values are automatically proposed by Discord, thus there's no possible syntax error as you don't need to write the command entirely by hand!
+{% endhint %}
 
-At the topweek reset, the first player will receive a permanent badge.
+The weekly leaderboard is reset every sunday. The winner of that leaderboard will receive the following badge:
 
 🎗️ `Player that has won a weekly leaderboard`
 
-#### Server ranking
+More informations about badges can be viewed here:
 
-The server ranking is used to display the local top, counting only the player in the guild.
+{% embed url="https://guide.draftbot.com/v/en/notions-avancees/badges" %}
 
-The local top command is `!topserv <page number>`
+#### Set a specific scope to the leaderboard
 
+The leaderboard can be set on two possible scopes: "Global" (by default), and "Server". The `scope` option lets you choose if you want to limit the leaderboard to those who are in your server only or not.
+
+For example: `/top score scope:🚩 Server ranking` will display the leaderboard of the server on which this command was executed.

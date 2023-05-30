@@ -16,7 +16,7 @@ You can also add the bot to your server! (the link is on the bot server)
 
 Once you have joined the server, a welcoming message will appear like this:
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 To start the adventure, press "Try Draftbot in English", then use the command `/report`.
 
