@@ -116,7 +116,7 @@ The same applies to the power of the equipment. However, the power of an equipme
 | :crossed\_swords:                                                       | Diamond sword          | :dagger:196                         | Legendary |
 | :crossed\_swords:                                                       | Master sword           | :dagger:196                         | Legendary |
 | :dagger:                                                                | Saber                  | :dagger:212                         | Legendary |
-| :sparkles:                                                              | 100 spell scepter      | :dagger:150 :rocket:50              | Mythical  |
+| :sparkles:                                                              | 100 spell scepter      | :dagger:174 :rocket:50              | Mythical  |
 | <img src="../.gitbook/assets/scuba_diving.png" alt="" data-size="line"> | Oxygen sabotage        | :dagger:203                         | Mythical  |
 | :bomb:                                                                  | Atomic bomb            | :dagger:239 :rocket:-40             | Mythical  |
 
