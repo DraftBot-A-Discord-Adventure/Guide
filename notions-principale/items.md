@@ -9,13 +9,13 @@
 * Peu commun :fire: `25% (1 équipement/4)`
 * Exotique :trident: `15% (~1 équipement/7)`
 * Rare :comet: `10% (1 équipement/10)`
-* Spécial :dizzy: `5% (1 équipement/20)`:dagger:
+* Spécial :dizzy: `5% (1 équipement/20)`
 * Épique :star: `1% (1 équipement/100)`
 * Légendaire :star2: `0,23% (~1 équipement/435)`
 * Mythique :gem: `0,02% (1 équipement/5000)`
 
 {% hint style="info" %}
-Vous pouvez aussi les voir aves la commande `/rareté` !
+Vous pouvez aussi les voir aves la commande `/rarete` !
 {% endhint %}
 
 ### Valeur et puissance des équipements
@@ -116,7 +116,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :crossed\_swords:                                                       | Épée en diamant           | :dagger:196                         | Légendaire |
 | :crossed\_swords:                                                       | Épée de maître            | :dagger:196                         | Légendaire |
 | :dagger:                                                                | Sabre                     | :dagger:212                         | Légendaire |
-| :sparkles:                                                              | Sceptre aux 100 sorts     | :dagger:150 :rocket:50              | Mythique   |
+| :sparkles:                                                              | Sceptre aux 100 sorts     | :dagger:174 :rocket:50              | Mythique   |
 | <img src="../.gitbook/assets/scuba_diving.png" alt="" data-size="line"> | Sabotage de l'oxygène     | :dagger:203                         | Mythique   |
 | :bomb:                                                                  | Bombe atomique            | :dagger:239 :rocket:-40             | Mythique   |
 
@@ -231,6 +231,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :trumpet:              | Cor de chasse                 | :dagger: Attaque +27 pendant les combats  | Exotique   |
 | :small\_blue\_diamond: | Pouvoir de Nayru              | :dagger: Attaque +38 pendant les combats  | Rare       |
 | :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque +57 pendant les combats  | Spécial    |
+| :pick:                 | Pied de biche                 | :dagger:Attaque +64 pendant les combats   | Spécial    |
 | :flag\_black:          | Drapeau de la mort            | :dagger: Attaque +85 pendant les combats  | Épique     |
 | :gem:                  | Diamant kéraunique            | :dagger: Attaque +132 pendant les combats | Légendaire |
 | :eye:                  | Œil de Fatalis                | :dagger: Attaque +134 pendant les combats | Mythique   |
