@@ -427,4 +427,4 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :coconut:                                                                  | Maté                      | :clock10: Avance le temps plus rapidement pendant 7 heures  | Épique     |
 | <img src="../.gitbook/assets/potion violette.png" alt="" data-size="line"> | Potion violette           | :clock10: Avance le temps plus rapidement pendant 12 heures | Légendaire |
 | <img src="../.gitbook/assets/petite potion .png" alt="" data-size="line">  | Potion ultime             | :clock10: Avance le temps plus rapidement pendant 20 heures | Légendaire |
-| ![☠️](https://discord.com/assets/39cb7a326a67437dfed8216b0523d055.svg)     | Potion de la mort qui tue | :clock10:Avance le temps plus rapidement pendant 40 heures  | Mythique   |
+|                                                                            | Potion de la mort qui tue | :clock10:Avance le temps plus rapidement pendant 40 heures  | Mythique   |
