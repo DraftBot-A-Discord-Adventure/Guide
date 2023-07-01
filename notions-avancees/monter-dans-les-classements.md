@@ -23,7 +23,7 @@ Deux périodes sont disponibles pour le classement: "Depuis toujours" (par défa
 Exemple: `/classement score duree:🕥 Cette semaine.` affichera le classement selon les points comptabilisés sur la semaine.
 
 {% hint style="success" %}
-Les valurs possibles pour chaque option sont proposées par Discord dans une liste. Donc aucun risque de se tromper dans la syntaxe car il n'est pas nécessaire de taper cette commande entièrement à la main!
+Les valeurs possibles pour chaque option sont proposées par Discord dans une liste. Donc aucun risque de se tromper dans la syntaxe car il n'est pas nécessaire de taper cette commande entièrement à la main!
 {% endhint %}
 
 Le classement de la semaine est réinitialisé tous les dimanches. Seul le premier du classement de la semaine reçoit un badge:

@@ -29,17 +29,17 @@ Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisa
 
 #### Les combats amicaux
 
-Les combats amicaux sont similaires aux combats normaux, à la seule différence que vous ne perdez ni ne gagnez pas de points, et ne perdez aucune énergie à la fin de ceux-ci. Ils peuvent être lancés avec l'option `amical` de la commande à `true`.
+Les combats amicaux sont similaires aux combats normaux, à la seule différence que vous ne gagnez pas de points, et ne perdez aucune énergie à la fin de ceux-ci. Ils peuvent être lancés avec l'option `amical` de la commande à `true`.
 
 ### Déroulement d'un combat
 
-Le combat est basé sur un système de tour par tour. À chaque tour, vous aurez le choix entre 5 attaques qui dépendent de votre classe.
+Le combat est basé sur un système de tour par tour. À chaque tour, vous aurez le choix entre des attaques qui dépendent de votre classe.
 
 Ces attaques sont réparties dans les différentes classes du jeu :&#x20;
 
 * Fantassin : Attaque simple, Attaque perçante, Attaque puissante, Attaque chargée, Protection.
 * Tank : Attaque simple, Attaque intense, Attaque riposte, Attaque bouclier, Boost de la défense.
-* Cannonier : Attaque rapide, Attaque sabotage, Attaque boomerang, Attaque canon, Attaque intense.
+* Canonnier : Attaque rapide, Attaque sabotage, Attaque boomerang, Attaque canon, Attaque intense.
 * Chevalier : Attaque simple, Attaque rapide, Attaque lourde, Bénédiction, Repos.
 * Paladin : Attaque simple, Attaque bélier, Attaque ultime, Attaque bouclier, Attaque divine.
 * Vétéran : Attaque rapide, Attaque énergique, Attaque chargée, Attaque perçante, Concentration.
@@ -61,7 +61,7 @@ Vous pouvez retrouvez le détaillé des attaques sur le document ci-dessous.
 
 ### Gestion du souffle
 
-Chaque attaque nécessite une certaine quantité de souffle. Chaque lancement de cette attaque retirera de la réserve de souffle du combatant le montant spécifié. Au début de son tour, un combatant reçoit une quantité de souffle en fonction de sa classe. Les informations sur les réserves de souffle liées à une classe où les consommation de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`.
+Chaque attaque nécessite une certaine quantité de souffle. Chaque lancement de cette attaque retirera de la réserve de souffle du combattant le montant spécifié. Au début de son tour, un combattant reçoit une quantité de souffle en fonction de sa classe. Les informations sur les réserves de souffle liées à une classe où les consommations de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`.
 
 {% hint style="info" %}
 Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus de souffle que ce dont il dispose, l'attaque n'aura qu'une faible probabilité d'être lancée.

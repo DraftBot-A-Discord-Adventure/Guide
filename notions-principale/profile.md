@@ -1,5 +1,5 @@
 ---
-description: Un guide à propos de la commande !profil.
+description: Un guide à propos de la commande /profil.
 ---
 
 # Profil

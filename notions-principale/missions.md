@@ -14,7 +14,7 @@ Il existe trois catégories de mission :
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
 * Les missions secondaires sont un autre moyen d'obtenir des récompenses, celles-ci peuvent se trouver occasionnellement dans des [mini-évènements](report.md#mini-evenements).
 
-![Affichage de la commande mission](../.gitbook/assets/missions.png)
+![Affichage de la commande /mission](../.gitbook/assets/missions.png)
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 

@@ -35,7 +35,7 @@ Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une 
 
 ![Un exemple d'évènement](../.gitbook/assets/RapportEvent.png)
 
-Ici, le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire.
+Ici, le joueur possède 5 choix différents : les 4 choix de réaction mais également le choix de ne rien faire.
 
 {% hint style="info" %}
 Le non-choix ("Ne rien faire") se déclenche automatiquement au bout de 2 minutes en l'absence de choix explicite. Il est possible de forcer ce non-choix en ajoutant manuellement la réaction :end: (:end:) au texte de l'évènement.

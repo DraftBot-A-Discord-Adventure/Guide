@@ -10,7 +10,7 @@ Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier l
 
 ### Comment obtenir un familier ?
 
-Les familiers s'obtiennent dans les récompenses de guilde `/bonusjournalier` avec 1% de chance ou alors dans les mini-évènements.
+Les familiers s'obtiennent dans les récompenses de guilde `/bonusjournalierguilde` avec 1% de chance ou alors dans les mini-évènements.
 
 La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
@@ -51,7 +51,7 @@ L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde
 
 La nourriture va permettre d'influer sur le moral de votre animal. Pour nourrir votre familier, vous devez utiliser la commande `/nourrirfamilier`.
 
-![La commande feedpet](<../.gitbook/assets/image (19).png>)
+![La commande /nourrirfamilier](<../.gitbook/assets/image (19).png>)
 
 Chaque type de nourriture fera gagner une quantité différente de points d'affection à votre familier.
 
