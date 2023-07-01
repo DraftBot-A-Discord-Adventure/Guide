@@ -170,6 +170,10 @@ Malus :&#x20;
 {% endtab %}
 {% endtabs %}
 
+{% hint style="warning" %}
+Vous devez avoir au moins 175 d'argent pour tenter votre chance à la loterie. Si vous en possédez moins, votre mise sera rejetée par le gérant du jeu de hasard.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/loterie.PNG" alt=""><figcaption><p>Un exemple de loterie</p></figcaption></figure>
 
 ## Interaction avec un joueur sur le même trajet
@@ -386,6 +390,10 @@ Vous rencontrez une jeune femme qui vous fera regagner toute votre énergie.
 
 {% hint style="info" %}
 Vous n'obtiendrez ce mini-évènement uniquement si votre énergie n'est pas déjà complète.
+{% endhint %}
+
+{% hint style="info" %}
+La guérisseuse ne se balade qu'autour de Claire De Ville.&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-05-27 105208.png" alt=""><figcaption><p>Exemple de récupération d'énergie</p></figcaption></figure>
