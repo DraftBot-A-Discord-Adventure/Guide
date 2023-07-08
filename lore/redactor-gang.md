@@ -12,8 +12,8 @@ Voici la liste des principaux fondateurs du Redactor Gang :
 
 | Nom                |
 | ------------------ |
-| `Ines#7400`        |
-| `Kyusaki#9053`     |
-| `Thero1st#9119`    |
-| `minoryo#6822`     |
+| ines33             |
+| kyusaki\_          |
+| th`ero1st`         |
+| `minoryo`          |
 | `DeadAngelV6#3582` |

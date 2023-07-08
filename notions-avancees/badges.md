@@ -37,7 +37,7 @@ description: >-
 
 Si vous pensez mériter un badge, merci de contacter un gérant des badges sur Discord.&#x20;
 
-Les gérant des badges sont :`Thero1st#9119` et `Ines#7400`&#x20;
+Les gérant des badges sont :`thero1st`et `ines33`&#x20;
 
 Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
 
