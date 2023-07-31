@@ -47,7 +47,7 @@ Pendant le combat, si vous êtes plusieurs dans votre guilde à être sur l'île
 {% endhint %}
 
 {% hint style="warning" %}
-Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanément l'île et serez déposé à un trajet aléatoire avec l'altération :confounded:.
+Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanément l'île et serez déposé à un trajet aléatoire avec l'altération :confounded:. De plus, vous perdez de l'argent :moneybag: et des points de guilde (si vous appartenez à une guilde). Si vous n'avez pas de guilde, vous perdez le double d'argent.
 {% endhint %}
 
 ### Forêt de la pénombre
