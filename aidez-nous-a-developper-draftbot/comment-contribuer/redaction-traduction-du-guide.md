@@ -32,4 +32,4 @@ Si besoin, la documentation complète de l'outil GitBook est accessible à l'adr
 
 ### Traduction du guide
 
-Pour la traduction, rien de plus simple ! Il suffit de faire exactement comme pour la rédaction mais en cliquant sur le wiki [english](http://localhost:5000/o/-MH1\_FERaV0tsl55ERgC/s/-MH1fCvNZ7zikrWd7dJj-1972196547/) !
+Pour la traduction, rien de plus simple ! Il suffit de faire exactement comme pour la rédaction mais en cliquant sur le wiki [english](http://127.0.0.1:5000/o/-MH1\_FERaV0tsl55ERgC/s/-MH1fCvNZ7zikrWd7dJj-1972196547/) !

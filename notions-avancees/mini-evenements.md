@@ -479,3 +479,15 @@ Si vous n'avez pas de guilde, vous recevrez de l'argent.
 Ce mini-évènement vous donnera des informations sur les récompenses de votre ligue.
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_123645_Discord[1].jpg" alt=""><figcaption><p>Exemple d'informations des récompenses de ligue</p></figcaption></figure>
+
+## Voyage vers l'île du [PVE](pve.md)
+
+**Rareté : 12 (si les conditions sont remplies)**
+
+Ce mini-event vous permet de voyager vers l'île du PVE, celui-ci ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué.&#x20;
+
+{% hint style="warning" %}
+Ce mini-event ne se déclenche qu'au bord d'un point d'eau !
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption><p>Direction l'île !</p></figcaption></figure>

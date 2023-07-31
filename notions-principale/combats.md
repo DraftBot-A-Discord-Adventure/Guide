@@ -31,6 +31,10 @@ Un combat normal peut être lancé avec la commande `/combat`. L'option `utilisa
 
 Les combats amicaux sont similaires aux combats normaux, à la seule différence que vous ne gagnez pas de points, et ne perdez aucune énergie à la fin de ceux-ci. Ils peuvent être lancés avec l'option `amical` de la commande à `true`.
 
+#### Les combats de monstres
+
+Voir [#combats](../notions-avancees/pve.md#combats "mention")
+
 ### Déroulement d'un combat
 
 Le combat est basé sur un système de tour par tour. À chaque tour, vous aurez le choix entre des attaques qui dépendent de votre classe.
