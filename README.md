@@ -20,7 +20,7 @@ L'histoire se déroule dans un monde médiéval où le joueur contrôle un avent
 * Rejoignez **plusieurs milliers de joueurs**, combattez et créez votre guilde avec vos amis !
 * Aidez-nous à améliorer le bot ! Projet complètement [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) !
 
-![Un exemple de rapport effectué par un joueur.](.gitbook/assets/image.png)
+![Un exemple de rapport effectué par un joueur.](<.gitbook/assets/image (2).png>)
 
 ## Comment contribuer ?
 

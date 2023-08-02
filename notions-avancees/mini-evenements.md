@@ -484,10 +484,10 @@ Ce mini-évènement vous donnera des informations sur les récompenses de votre 
 
 **Rareté : 12 (si les conditions sont remplies)**
 
-Ce mini-event vous permet de voyager vers l'île du PVE, celui-ci ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué.&#x20;
+Ce mini-event vous permet de voyager vers l'île du PVE, celui-ci ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué dans l'ordre suivant : Gratuit - 15 :gem: - 25 :gem:. Une fois 3 trajets effectués il ne vous est plus possible d'aller sur l'île, vous devrez attendre la semaine prochaine !
 
 {% hint style="warning" %}
 Ce mini-event ne se déclenche qu'au bord d'un point d'eau !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption><p>Direction l'île !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
