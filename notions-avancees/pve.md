@@ -56,11 +56,31 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 
 > Un grand troll qui vit dans les forêts. Très fort et très résistant, il est aussi très agressif et attaque tout ce qui bouge. Il est très dangereux pour les aventuriers qui s'aventurent dans les forêts.
 
+**Attaques**:
+
+| Nom de l'attaque   | Description                                                                                                         | Consommation en souffle |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Attaque gourdin    | Niveau 50+ uniquement. Attaque en deux tours, avec une charge puissante au deuxième.                                | 9                       |
+| Attaque projection | Projète l'adversaire s'il utilise une attaque physique. Peut étourdir l'adversaire.                                 | 6                       |
+| Colère             | Augmente son attaque de 100%, en dépit de 75% de sa défense.                                                        | 0                       |
+| Rugissement        | Baisse l'attaque et la vitesse de l'adversaire.                                                                     | 4                       |
+| Attaque intense    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques) | 4                       |
+
 ### Mine brumeuse
 
 **Monstre : Araignée**
 
 > Une grosse araignée poilue. D'une espèce inconnue, elle attaque tous les voyageurs qui s'approchent de son nid. Venimeuse, elle peut aussi projeter de la soie pour immobiliser ses proies.
+
+**Attaques**:
+
+| Nom de l'attaque     | Description                                                                                                                                                                     | Consommation en souffle |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Attaque empoisonnée  | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                             | 3                       |
+| Attaque jet de toile | Envoie un jet de toile qui blesse et ralentit l'adversaire.                                                                                                                     | 8                       |
+| Discrétion           | Se cache afin de doubler les dégâts de la prochaine attaque.                                                                                                                    | 6                       |
+| Attaque simple       | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                             | 2                       |
+| Repas de famille     | Niveau 50+ uniquement. Appelle des alliés pour dévorer l'adversaire et l'empoisonner au passage. Inflige l'altération "Repu" au lanceur, l'empêchant de bouger pendant 2 tours. | 20                      |
 
 ### Village en ruines
 
@@ -68,17 +88,47 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 
 > Un squelette étrange, il semble être un ancien guerrier. Il paraît faible mais est en réalité très dangereux et nombreux sont ceux qui se sont laissé surprendre.
 
+**Attaques**:
+
+| Nom de l'attaque    | Description                                                                                                                                   | Consommation en souffle |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Attaque simple      | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 2                       |
+| Attaque bouclier    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 5                       |
+| Repos               | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 0                       |
+| Attaque maudite     | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 6                       |
+| Invocation d'alliés | Niveau 50+ uniquement. Appelle des alliés afin de cumuler les dégâts infligés par chacun des adversaires invoqués en plus de ceux du lanceur. | 10                      |
+
 ### Chemin escarpé
 
 **Monstre : Golem de roche**
 
 > Un immense golem de roche. Animé par le désir d'écraser tout ce qui s'en approche. Il est très lent, mais ses attaques sont dévastatrices.
 
+**Attaques**:
+
+| Nom de l'attaque  | Description                                                                                                                                     | Consommation en souffle |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Lancer de rocher  | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                            | 6                       |
+| Attaque impact    | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                 | 6                       |
+| Peau de roche     | Recouvre sa peau de roches, augentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                         | 3                       |
+| Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
+| Pétrification     | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
+
 ### Volcan grondant
 
 **Monstre : Titan de magma**
 
 > Le monstre le plus puissant de l'île. Bouillant de chaleur, il est capable de faire fondre les roches les plus dures. Très peu d'aventuriers ont réussi à s'en défaire et il serait périlleux de l'attaquer seul.
+
+**Attaques**:
+
+| Nom de l'attaque | Description                                                                                                                                                                                                        | Consommation en souffle |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| Éruption         | Fait entrer en éruption le volcan grondant. Émet des rochers en fusion infligeant des dégâts à l'adversaire pensant quelques tours.                                                                                | 8                       |
+| Attaque impact   | Cf golem de roche                                                                                                                                                                                                  | 6                       |
+| Drain de chaleur | Récupère la chaleur de l'adversaire, le gelant au passage. Augmente l'attaque du lanceur de 20%.                                                                                                                   | 7                       |
+| Bain de magma    | Fonctionne comme Repos (cf page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
+| Vague de lave    | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                                      | 15                      |
 
 ## Mini-events
 
