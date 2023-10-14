@@ -98,7 +98,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :closed\_book:                     | Vieux grimoire            | :dagger:70                          | Épique     |
 | :feet:                             | Griffe de chat enragé     | :dagger:70                          | Épique     |
 | :syringe:                          | Seringue contaminée       | :dagger:76                          | Épique     |
-| :screwdriver:                      | Tournevis sonique         | :dagger:82 :rocket:35               | Épique     |
+| :screwdriver:                      | Tournevis sonique         | :dagger:82 :rocket:55               | Épique     |
 | :dagger:                           | Épée Kokiri               | :dagger:89                          | Épique     |
 | :feather:                          | Aile gauche d'Icare       | :dagger:89 :rocket:30               | Épique     |
 | :crossed\_swords:                  | Beat Saber                | :dagger:96                          | Épique     |
@@ -223,7 +223,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :globe\_with\_meridians:                                           | Fibre optique                 | :rocket: Vitesse +56 pendants les combats   | Rare       |
 | :skier:                                                            | Skis glissants                | :rocket: Vitesse +63  pendant les combats   | Spécial    |
 | :taxi:                                                             | Kars                          | :rocket: Vitesse +74 pendant les combats    | Épique     |
-| :leg:                                                              | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats   | Épique     |
+| :mechanical\_leg:                                                  | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats   | Épique     |
 | :blossom:                                                          | Fleur de l'espoir             | :rocket: Vitesse +105  pendant les combats  | Légendaire |
 | :mans\_shoe:                                                       | Bottes Pégase                 | :rocket:+ Vitesse +108  pendant les combats | Légendaire |
 | :broom:                                                            | Nimbus 2000                   | :rocket: Vitesse +151 pendant les combats   | Mythique   |
@@ -265,6 +265,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :battery:         | Batterie faible            | :zap:Énergie + 22 par jour  | Commun     |
 | :hot\_pepper:     | Piment                     | :zap:Énergie + 63 par jour  | Commun     |
 | :bed:             | Lit                        | :zap:Énergie + 111 par jour | Peu commun |
+| :battery:         | Batterie pleine            | :zap:Énergie + 264 par jour | Exotique   |
 | :robot:           | Figurine Buzz l'éclair     | :zap:Énergie + 289 par jour | Exotique   |
 | :headphones:      | Musique                    | :zap:Énergie + 442 par jour | Rare       |
 | :roller\_coaster: | Ticket de montagnes russes | :zap:Énergie + 527 par jour | Spécial    |
@@ -308,24 +309,24 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Aucun effet
 
-| Symbole                                                                   | Nom                 | Effet       | Rareté     |
-| ------------------------------------------------------------------------- | ------------------- | ----------- | ---------- |
-| :bubble\_tea:                                                             | Bubble tea          | Aucun effet | Commun     |
-| :droplet:                                                                 | Eau purifiée        | Aucun effet | Commun     |
-| :wine\_glass:                                                             | Vin rouge           | Aucun effet | Commun     |
-| :test\_tube:                                                              | Potion douteuse     | Aucun effet | Commun     |
-| :tea:                                                                     | Potion périmée      | Aucun effet | Commun     |
-| <img src="../.gitbook/assets/pouring-liquid.png" alt="" data-size="line"> | Potion renversée    | Aucun effet | Commun     |
-| :recycle:                                                                 | Potion recyclable   | Aucun effet | Peu commun |
-| <img src="../.gitbook/assets/jar.png" alt="" data-size="line">            | Potion vide         | Aucun effet | Peu commun |
-| :hotsprings:                                                              | Eau bouillante      | Aucun effet | Exotique   |
-| :black\_nib:                                                              | Encre               | Aucun effet | Exotique   |
-| :non-potable\_water:                                                      | Potion non potable  | Aucun effet | Exotique   |
-| :bed:                                                                     | Bave sur l'oreiller | Aucun effet | Rare       |
-| :sweat\_drops:                                                            | Sueur               | Aucun effet | Spécial    |
-| <img src="../.gitbook/assets/pouring-liquid.png" alt="" data-size="line"> | Potion renversante  | Aucun effet | Épique     |
-| :mount\_fuji:                                                             | Super Nariwa        | Aucun effet | Légendaire |
-| :beverage\_box:                                                           | Jus de pomme        | Aucun effet | Mythique   |
+| Symbole                                                                                 | Nom                 | Effet       | Rareté     |
+| --------------------------------------------------------------------------------------- | ------------------- | ----------- | ---------- |
+| :bubble\_tea:                                                                           | Bubble tea          | Aucun effet | Commun     |
+| :droplet:                                                                               | Eau purifiée        | Aucun effet | Commun     |
+| :wine\_glass:                                                                           | Vin rouge           | Aucun effet | Commun     |
+| :test\_tube:                                                                            | Potion douteuse     | Aucun effet | Commun     |
+| :tea:                                                                                   | Potion périmée      | Aucun effet | Commun     |
+| <img src="../.gitbook/assets/pouring-liquid.png" alt="" data-size="line">               | Potion renversée    | Aucun effet | Commun     |
+| :recycle:                                                                               | Potion recyclable   | Aucun effet | Peu commun |
+| <img src="../.gitbook/assets/jar.png" alt="" data-size="line">                          | Potion vide         | Aucun effet | Peu commun |
+| :hotsprings:                                                                            | Eau bouillante      | Aucun effet | Exotique   |
+| :black\_nib:                                                                            | Encre               | Aucun effet | Exotique   |
+| :non-potable\_water:                                                                    | Potion non potable  | Aucun effet | Exotique   |
+| :bed:                                                                                   | Bave sur l'oreiller | Aucun effet | Rare       |
+| :sweat\_drops:                                                                          | Sueur               | Aucun effet | Spécial    |
+| <p></p><p><img src="../.gitbook/assets/pouring-liquid.png" alt="" data-size="line"></p> | Potion renversante  | Aucun effet | Épique     |
+| :mount\_fuji:                                                                           | Super Nariwa        | Aucun effet | Légendaire |
+| :beverage\_box:                                                                         | Jus de pomme        | Aucun effet | Mythique   |
 
 #### Bonus de vie
 
