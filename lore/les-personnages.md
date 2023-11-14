@@ -7,6 +7,3 @@ Durant votre périple, vous rencontrerez certainement des personnages dont les n
 * **Pérotin** : Pérotin est un barde itinérant cherchant l'inspiration dans ses nombreux voyages, vous serez amené à le rencontrer d'une manière ou d'une autre pendant votre aventure, prenez particulièrement garde aux drogues qu'il utilise en complément de ses chants pour envoûter ses auditeurs et leur faire vivre ses chansons.
 * **Price** : Price est un garde du corps et chasseur de primes connu dans les terres du Duc, il est réputé pour sa discrétion et son efficacité.
 * **Gruffo** : Gruffo est un mystérieux personnage errant dans la région, ne sachant que faire de sa vie il s'essaye à différentes activités. Il semble avoir un passé commun avec Pérotin car ceux-ci avaient le même mentor, Périssien. Cependant, suite à une dispute, Gruffo a coupé les ponts avec son maître et est par la suite devenu le charlatan qu'il est aujourd'hui.
-*   **Gaspard-Jo** : Gaspard-Jo est un marchand de soupe qui erre dans la contrée à la recherche d'aventuriers afin de vendre ses soupes. Sage et généreux, il n'hésitera pas à donner de la nourriture ou un objet gratuitement à une personne croisée. Mais on ignore d'où il détient sa marchandise.
-
-    \
