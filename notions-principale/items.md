@@ -30,97 +30,103 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 ### Liste des armes
 
-| Symbole                            | Nom                       | Stats                               | Rareté     |
-| ---------------------------------- | ------------------------- | ----------------------------------- | ---------- |
-| :cucumber:                         | Cornichon                 | :dagger:3                           | Commun     |
-| :herb:                             | Branche souple            | :dagger:3                           | Commun     |
-| :bouquet:                          | Bouquet de roses          | :dagger:3                           | Commun     |
-| :fork\_and\_knife:                 | Fourchettecouteau         | :dagger:4                           | Commun     |
-| :cricket:                          | Bâton                     | :dagger:4                           | Commun     |
-| :hammer\_pick:                     | Outils usés               | :dagger:5                           | Commun     |
-| :wrench:                           | Clé rouillée              | :dagger:5                           | Commun     |
-| :pick:                             | Pioche abimée             | :dagger:5                           | Commun     |
-| :hammer:                           | Marteau                   | :dagger:6                           | Commun     |
-| :rugby\_football:                  | Ballon de Fluxball        | :dagger:6                           | Commun     |
-| :punch:                            | Poing renforcé            | :dagger:7                           | Commun     |
-| :left\_facing\_fist:               | Griffe                    | :dagger:7 :shield:-20 :rocket:10    | Commun     |
-| :hockey:                           | Crosse                    | :dagger:8                           | Commun     |
-| :boxing\_glove:                    | Gant de boxe              | :dagger:9                           | Commun     |
-| :snowflake:                        | Boule de neige            | :dagger:11                          | Commun     |
-| :face\_with\_symbols\_over\_mouth: | Injures                   | :dagger:11                          | Commun     |
-| :razor:                            | Rasoir                    | :dagger:12                          | Commun     |
-| :guitar:                           | Guitare lourde            | :dagger:7 :rocket:-10               | Peu commun |
-| :pushpin:                          | Percingasiteur            | :dagger:8                           | Peu commun |
-| :chair:                            | Chaise                    | :dagger:8                           | Peu commun |
-| :fishing\_pole\_and\_fish:         | Canne à pêche de débutant | :dagger:9                           | Peu commun |
-| :cricket:                          | Assomoire                 | :dagger:11                          | Peu commun |
-| :bow\_and\_arrow:                  | Transperceur              | :dagger:11                          | Peu commun |
-| :knife:                            | Couteau ancien            | :dagger:12                          | Peu commun |
-| :crossed\_swords:                  | Épée en bois              | :dagger:12                          | Peu commun |
-| :umbrella2:                        | Parapluie de grand-mère   | :dagger:14 :shield:10               | Peu commun |
-| :knife:                            | Couteau simple            | :dagger:15                          | Peu commun |
-| :closed\_book:                     | Gros livre                | :dagger:17                          | Peu commun |
-| :knife:                            | Vieux couteau             | :dagger:19                          | Peu commun |
-| :bricks:                           | Brique                    | :dagger:15                          | Exotique   |
-| :scissors:                         | Ciseaux                   | :dagger:16                          | Exotique   |
-| :family\_mmbb:                     | Pouvoir de l'amitié       | :dagger:18 :shield:20 :rocket:15    | Exotique   |
-| :fire\_extinguisher:               | Extincteur                | :dagger:20                          | Exotique   |
-| :pick:                             | Pioche                    | :dagger:22                          | Exotique   |
-| :wrench:                           | Masse                     | :dagger:22 :rocket:-10              | Exotique   |
-| :dagger:                           | Dague fragile             | :dagger:24                          | Exotique   |
-| :knife:                            | Couteau de débutant       | :dagger:27                          | Exotique   |
-| :boomerang:                        | Boomerang                 | :dagger:30 :rocket:20               | Exotique   |
-| :bow\_and\_arrow:                  | Arc de novice             | :dagger:33 :shield:-10 :rocket:5    | Exotique   |
-| :chopsticks:                       | Pew Pew                   | :dagger:37                          | Exotique   |
-| :banana:                           | Banane                    | :dagger:26                          | Rare       |
-| :gun:                              | Pistolet vide             | :dagger:26                          | Rare       |
-| :syringe:                          | Seringue                  | :dagger:29                          | Rare       |
-| :axe:                              | Hachoir                   | :dagger:36                          | Rare       |
-| :candle:                           | Brûleur                   | :dagger:38                          | Rare       |
-| :fishing\_pole\_and\_fish:         | Canne à pêche             | :dagger:38                          | Rare       |
-| :syringe:                          | Seringue infectée         | :dagger:41                          | Rare       |
-| :crossed\_swords:                  | Épée de débutant          | :dagger:41                          | Rare       |
-| :bow\_and\_arrow:                  | Arc de soldat             | :dagger:45 :shield:-20 :rocket:10   | Rare       |
-| :crossed\_swords:                  | Épée en fer               | :dagger:50                          | Rare       |
-| :dagger:                           | Dague                     | :dagger:55                          | Rare       |
-| :axe:                              | Ashoir                    | :dagger:60  :rocket:-10             | Rare       |
-| :crossed\_swords:                  | Paire de dagues           | :dagger:60                          | Rare       |
-| :syringe:                          | Seringue sale             | :dagger:48                          | Spécial    |
-| :cooking:                          | Poêle                     | :dagger:52                          | Spécial    |
-| :heart:                            | Pouvoir de l'amour        | :dagger:52 :shield:90 :rocket:23    | Spécial    |
-| :hammer:                           | Marteau de combat         | :dagger:62 :rocket:-10              | Spécial    |
-| :fishing\_pole\_and\_fish:         | Canne à pêche de maître   | :dagger:67                          | Spécial    |
-| :bow\_and\_arrow:                  | Arc de chevalier          | :dagger:73 :shield:-30 :rocket:20   | Spécial    |
-| :bomb:                             | Bombe                     | :dagger:87                          | Spécial    |
-| :bow\_and\_arrow:                  | Arc                       | :dagger:87 :shield:-30 :rocket:20   | Spécial    |
-| :crossed\_swords:                  | Épée sharpness 4          | :dagger:87                          | Spécial    |
-| :crossed\_swords:                  | Épées doubles             | :dagger:104 :shield:30  :rocket:-50 | Spécial    |
-| :closed\_book:                     | Vieux grimoire            | :dagger:70                          | Épique     |
-| :feet:                             | Griffe de chat enragé     | :dagger:70                          | Épique     |
-| :syringe:                          | Seringue contaminée       | :dagger:76                          | Épique     |
-| :screwdriver:                      | Tournevis sonique         | :dagger:82 :rocket:55               | Épique     |
-| :dagger:                           | Épée Kokiri               | :dagger:89                          | Épique     |
-| :feather:                          | Aile gauche d'Icare       | :dagger:89 :rocket:30               | Épique     |
-| :crossed\_swords:                  | Beat Saber                | :dagger:96                          | Épique     |
-| :crossed\_swords:                  | Ines'word                 | :dagger:96                          | Épique     |
-| :dagger:                           | Exagide                   | :dagger:96 :shield:30               | Épique     |
-| :performing\_arts:                 | Masque Mojaro             | :dagger:104 :shield:15              | Épique     |
-| :zap:                              | Volto-hache               | :dagger:113 :shield:-20             | Épique     |
-| :zap:                              | Foudre de Zeus            | :dagger:122                         | Épique     |
-| :crossed\_swords:                  | Épée royale               | :dagger:132                         | Épique     |
-| :gun:                              | Pistolet chargé           | :dagger:143                         | Épique     |
-| :warning:                          | Plothammer                | :dagger:107 :shield:100             | Légendaire |
-| :gun:                              | Pistolet pan pan QQ       | :dagger:125                         | Légendaire |
-| :microbe:                          | Bio-arme                  | :dagger:134                         | Légendaire |
-| :crossed\_swords:                  | Épée de Ragnell           | :dagger:145                         | Légendaire |
-| :bow\_and\_arrow:                  | Arc du héros              | :dagger:182 :shield:-35 :rocket:25  | Légendaire |
-| :comet:                            | Âme du démon              | :dagger:182                         | Légendaire |
-| :crossed\_swords:                  | Épée en diamant           | :dagger:196                         | Légendaire |
-| :crossed\_swords:                  | Épée de maître            | :dagger:196                         | Légendaire |
-| :dagger:                           | Sabre                     | :dagger:212                         | Légendaire |
-| :sparkles:                         | Sceptre aux 100 sorts     | :dagger:174 :rocket:50              | Mythique   |
-| :diving\_mask:                     | Sabotage de l'oxygène     | :dagger:203                         | Mythique   |
-| :bomb:                             | Bombe atomique            | :dagger:239 :rocket:-40             | Mythique   |
+| Symbole                             | Nom                       | Stats                               | Rareté     |
+| ----------------------------------- | ------------------------- | ----------------------------------- | ---------- |
+| :cucumber:                          | Cornichon                 | :dagger:3                           | Commun     |
+| :herb:                              | Branche souple            | :dagger:3                           | Commun     |
+| :bouquet:                           | Bouquet de roses          | :dagger:3                           | Commun     |
+| :fork\_and\_knife:                  | Fourchettecouteau         | :dagger:4                           | Commun     |
+| :cricket:                           | Bâton                     | :dagger:4                           | Commun     |
+| :hammer\_pick:                      | Outils usés               | :dagger:5                           | Commun     |
+| :wrench:                            | Clé rouillée              | :dagger:5                           | Commun     |
+| :pick:                              | Pioche abimée             | :dagger:5                           | Commun     |
+| :hammer:                            | Marteau                   | :dagger:6                           | Commun     |
+| :rugby\_football:                   | Ballon de Fluxball        | :dagger:6                           | Commun     |
+| :punch:                             | Poing renforcé            | :dagger:7                           | Commun     |
+| :left\_facing\_fist:                | Griffe                    | :dagger:7 :shield:-20 :rocket:10    | Commun     |
+| :hockey:                            | Crosse                    | :dagger:8                           | Commun     |
+| :boxing\_glove:                     | Gant de boxe              | :dagger:9                           | Commun     |
+| :snowflake:                         | Boule de neige            | :dagger:11                          | Commun     |
+| :face\_with\_symbols\_over\_mouth:  | Injures                   | :dagger:11                          | Commun     |
+| :razor:                             | Rasoir                    | :dagger:12                          | Commun     |
+| :guitar:                            | Guitare lourde            | :dagger:7 :rocket:-10               | Peu commun |
+| :pushpin:                           | Percingasiteur            | :dagger:8                           | Peu commun |
+| :chair:                             | Chaise                    | :dagger:8                           | Peu commun |
+| :fishing\_pole\_and\_fish:          | Canne à pêche de débutant | :dagger:9                           | Peu commun |
+| :cricket:                           | Assomoire                 | :dagger:11                          | Peu commun |
+| :bow\_and\_arrow:                   | Transperceur              | :dagger:11                          | Peu commun |
+| :knife:                             | Couteau ancien            | :dagger:12                          | Peu commun |
+| :crossed\_swords:                   | Épée en bois              | :dagger:12                          | Peu commun |
+| :umbrella2:                         | Parapluie de grand-mère   | :dagger:14 :shield:10               | Peu commun |
+| :knife:                             | Couteau simple            | :dagger:15                          | Peu commun |
+| :closed\_book:                      | Gros livre                | :dagger:17                          | Peu commun |
+| :knife:                             | Vieux couteau             | :dagger:19                          | Peu commun |
+| :bricks:                            | Brique                    | :dagger:15                          | Exotique   |
+| :scissors:                          | Ciseaux                   | :dagger:16                          | Exotique   |
+| :family\_mmbb:                      | Pouvoir de l'amitié       | :dagger:18 :shield:20 :rocket:15    | Exotique   |
+| :fire\_extinguisher:                | Extincteur                | :dagger:20                          | Exotique   |
+| :pick:                              | Pioche                    | :dagger:22                          | Exotique   |
+| :wrench:                            | Masse                     | :dagger:22 :rocket:-10              | Exotique   |
+| :dagger:                            | Dague fragile             | :dagger:24                          | Exotique   |
+| :knife:                             | Couteau de débutant       | :dagger:27                          | Exotique   |
+| :boomerang:                         | Boomerang                 | :dagger:30 :rocket:20               | Exotique   |
+| :bow\_and\_arrow:                   | Arc de novice             | :dagger:33 :shield:-10 :rocket:5    | Exotique   |
+| :chopsticks:                        | Pew Pew                   | :dagger:37                          | Exotique   |
+| :banana:                            | Banane                    | :dagger:26                          | Rare       |
+| :gun:                               | Pistolet vide             | :dagger:26                          | Rare       |
+| :unicorn:                           | Corne de Licorne          | :dagger:26 :rocket:52               | Rare       |
+| :syringe:                           | Seringue                  | :dagger:29                          | Rare       |
+| :fork\_and\_knife:                  | Torchon du Cuisinier      | :dagger:31 :shield:15               | Rare       |
+| :axe:                               | Hachoir                   | :dagger:36                          | Rare       |
+| :candle:                            | Brûleur                   | :dagger:38                          | Rare       |
+| :fishing\_pole\_and\_fish:          | Canne à pêche             | :dagger:38                          | Rare       |
+| :syringe:                           | Seringue infectée         | :dagger:41                          | Rare       |
+| :crossed\_swords:                   | Épée de débutant          | :dagger:41                          | Rare       |
+| :bow\_and\_arrow:                   | Arc de soldat             | :dagger:45 :shield:-20 :rocket:10   | Rare       |
+| :crossed\_swords:                   | Épée en fer               | :dagger:50                          | Rare       |
+| :dagger:                            | Dague                     | :dagger:55                          | Rare       |
+| :axe:                               | Ashoir                    | :dagger:60  :rocket:-10             | Rare       |
+| :crossed\_swords:                   | Paire de dagues           | :dagger:60                          | Rare       |
+| :syringe:                           | Seringue sale             | :dagger:48                          | Spécial    |
+| :cooking:                           | Poêle                     | :dagger:52                          | Spécial    |
+| :heart:                             | Pouvoir de l'amour        | :dagger:52 :shield:90 :rocket:23    | Spécial    |
+| :hammer:                            | Marteau de combat         | :dagger:62 :rocket:-10              | Spécial    |
+| :fishing\_pole\_and\_fish:          | Canne à pêche de maître   | :dagger:67                          | Spécial    |
+| :bow\_and\_arrow:                   | Arc de chevalier          | :dagger:73 :shield:-30 :rocket:20   | Spécial    |
+| :skull:                             | Poudre de Squelette       | :dagger:79                          | Spécial    |
+| :bomb:                              | Bombe                     | :dagger:87                          | Spécial    |
+| :bow\_and\_arrow:                   | Arc                       | :dagger:87 :shield:-30 :rocket:20   | Spécial    |
+| :crossed\_swords:                   | Épée sharpness 4          | :dagger:87                          | Spécial    |
+| :crossed\_swords:                   | Épées doubles             | :dagger:104 :shield:30  :rocket:-50 | Spécial    |
+| :closed\_book:                      | Vieux grimoire            | :dagger:70                          | Épique     |
+| :feet:                              | Griffe de chat enragé     | :dagger:70                          | Épique     |
+| :syringe:                           | Seringue contaminée       | :dagger:76                          | Épique     |
+| :screwdriver:                       | Tournevis sonique         | :dagger:82 :rocket:55               | Épique     |
+| :dagger:                            | Épée Kokiri               | :dagger:89                          | Épique     |
+| :feather:                           | Aile gauche d'Icare       | :dagger:89 :rocket:30               | Épique     |
+| :crossed\_swords:                   | Beat Saber                | :dagger:96                          | Épique     |
+| :crossed\_swords:                   | Ines'word                 | :dagger:96                          | Épique     |
+| :dagger:                            | Exagide                   | :dagger:96 :shield:30               | Épique     |
+| :performing\_arts:                  | Masque Mojaro             | :dagger:104 :shield:15              | Épique     |
+| :zap:                               | Volto-hache               | :dagger:113 :shield:-20             | Épique     |
+| :zap:                               | Foudre de Zeus            | :dagger:122                         | Épique     |
+| :crossed\_swords:                   | Épée royale               | :dagger:132                         | Épique     |
+| :gun:                               | Pistolet chargé           | :dagger:143                         | Épique     |
+| :dragon:                            | **Épée du Dragon**        | :dagger:99 :shield:117 :rocket:18   | Légendaire |
+| :warning:                           | Plothammer                | :dagger:107 :shield:100             | Légendaire |
+| :gun:                               | Pistolet pan pan QQ       | :dagger:125                         | Légendaire |
+| :microbe:                           | Bio-arme                  | :dagger:134                         | Légendaire |
+| :crossed\_swords:                   | Épée de Ragnell           | :dagger:145                         | Légendaire |
+| :bow\_and\_arrow:                   | Arc du héros              | :dagger:182 :shield:-35 :rocket:25  | Légendaire |
+| :comet:                             | Âme du démon              | :dagger:182                         | Légendaire |
+| :crossed\_swords:                   | Épée en diamant           | :dagger:196                         | Légendaire |
+| :crossed\_swords:                   | Épée de maître            | :dagger:196                         | Légendaire |
+| :dagger:                            | Sabre                     | :dagger:212                         | Légendaire |
+| :video\_game:                       | Game Over                 | :dagger:162 :shield:70              | Mythique   |
+| :sparkles:                          | Sceptre aux 100 sorts     | :dagger:174 :rocket:50              | Mythique   |
+| :lollipop:                          | Baguette de Fibonacci     | :dagger:188 :shield:20 :rocket:20   | Mythique   |
+| :diving\_mask:                      | Sabotage de l'oxygène     | :dagger:203                         | Mythique   |
+| :bomb:                              | Bombe atomique            | :dagger:239 :rocket:-40             | Mythique   |
 
 ### Liste des armures/boucliers
 
@@ -143,6 +149,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :rugby\_football:             | Bouclier de Brennus      | :shield:15                         | Peu commun |
 | :coat:                        | Doudoune de combat       | :shield:19 :rocket:10              | Peu commun |
 | :turtle:                      | Carapace de Franklin     | :shield:22 :rocket:-10             | Peu commun |
+| :mage:                        | Chapeau Magique          | :dagger:15 :shield:15 :rocket:10   | Exotique   |
 | :shield:                      | Bouclier usé             | :shield:16                         | Exotique   |
 | :umbrella2:                   | Parapluie d'auto défense | :shield:18                         | Exotique   |
 | :shield:                      | Bouclier                 | :shield:20                         | Exotique   |
@@ -160,9 +167,10 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :shield:                      | Bouclier de Lynel        | :shield:55                         | Rare       |
 | :clown:                       | Autodérision             | :shield:60 :dagger:-25             | Rare       |
 | :lab\_coat:                   | Kimono renforcé          | :shield:48                         | Spécial    |
-| :shield:                      | Égide puissante          | :dagger:106 :shield:40             | Spécial    |
+| :shield:                      | Égide puissante          | :dagger:60 :shield:62              | Spécial    |
 | :muscle:                      | Bras mécanique           | :shield:67                         | Spécial    |
 | :chess\_pawn:                 | Rangée de pions          | :shield:73 :dagger:-15             | Spécial    |
+| :genie:                       | Lampe Magique            | :dagger:10 :shield:73              | Spécial    |
 | :eight\_spoked\_asterisk:     | Champ de force           | :shield:79                         | Spécial    |
 | :shield:                      | Bouclier royal           | :shield:87                         | Spécial    |
 | :bricks:                      | Mur                      | :dagger:-20 :shield:99 :rocket:-20 | Spécial    |
@@ -174,11 +182,13 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :shield:                      | Bouclier puissant        | :shield:122                        | Épique     |
 | :robot:                       | Casque de robot          | :shield:132                        | Épique     |
 | :shinto\_shrine:              | Forteresse japonaise     | :dagger:50 :shield:168             | Épique     |
+| :sparkles:                    | Cri UwUrlant             | :dagger:45 :shield:156             | Légendaire |
 | :shield:                      | Bouclier de maître       | :shield:169                        | Légendaire |
 | :eye\_in\_speech\_bubble:     | Bouclier déflecteur Engi | :shield:182                        | Légendaire |
 | :family\_mmbb:                | Bouclier humain          | :shield:196                        | Légendaire |
 | :shield:                      | Convention de Genève     |  :dagger:-40 :shield:232           | Légendaire |
 | :shield:                      | Bouclier ultime          | :shield:212                        | Légendaire |
+| :bearded\_person:             | Giga Chad                | :dagger:85 :shield:111             | Mythique   |
 | :helmet\_with\_cross:         | Blindage du major        | :shield:203                        | Mythique   |
 | :shield:                      | Bouclier à pointes       | :dagger:15 :shield:174 :rocket:-20 | Mythique   |
 | :shield:                      | Bouclier en vibranium    | :shield:219                        | Mythique   |
@@ -212,36 +222,41 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### <img src="../.gitbook/assets/rocket.png" alt="" data-size="line"> Bonus de vitesse
 
-| Symbole                                                            | Nom                           | Effet                                       | Rareté     |
-| ------------------------------------------------------------------ | ----------------------------- | ------------------------------------------- | ---------- |
-| <img src="../.gitbook/assets/amphora.png" alt="" data-size="line"> | Pot en terre cuite            | :rocket: Vitesse +1 pendant les combats     | Commun     |
-| :closed\_book:                                                     | Livre d'incantations volume 1 | :rocket: Vitesse +5  pendant les combats    | Commun     |
-| :soap:                                                             | Savon glissant                | :rocket: Vitesse +7  pendant les combats    | Peu commun |
-| :athletic\_shoe:                                                   | Chaussure de course           | :rocket: Vitesse +15  pendant les combats   | Peu commun |
-| :crystal\_ball:                                                    | Boule de verre magique        | :rocket: Vitesse +25  pendant les combats   | Exotique   |
-| :four\_leaf\_clover:                                               | Feuille de vent               | :rocket: Vitesse +41  pendant les combats   | Rare       |
-| :globe\_with\_meridians:                                           | Fibre optique                 | :rocket: Vitesse +56 pendants les combats   | Rare       |
-| :skier:                                                            | Skis glissants                | :rocket: Vitesse +63  pendant les combats   | Spécial    |
-| :taxi:                                                             | Kars                          | :rocket: Vitesse +74 pendant les combats    | Épique     |
-| :mechanical\_leg:                                                  | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats   | Épique     |
-| :blossom:                                                          | Fleur de l'espoir             | :rocket: Vitesse +105  pendant les combats  | Légendaire |
-| :mans\_shoe:                                                       | Bottes Pégase                 | :rocket:+ Vitesse +108  pendant les combats | Légendaire |
-| :broom:                                                            | Nimbus 2000                   | :rocket: Vitesse +151 pendant les combats   | Mythique   |
+| Symbole                                                            | Nom                           | Effet                                      | Rareté     |
+| ------------------------------------------------------------------ | ----------------------------- | ------------------------------------------ | ---------- |
+| <img src="../.gitbook/assets/amphora.png" alt="" data-size="line"> | Pot en terre cuite            | :rocket: Vitesse +1 pendant les combats    | Commun     |
+| :closed\_book:                                                     | Livre d'incantations volume 1 | :rocket: Vitesse +5  pendant les combats   | Commun     |
+| :soap:                                                             | Savon glissant                | :rocket: Vitesse +7  pendant les combats   | Peu commun |
+| :athletic\_shoe:                                                   | Chaussure de course           | :rocket: Vitesse +15  pendant les combats  | Peu commun |
+| :crystal\_ball:                                                    | Boule de verre magique        | :rocket: Vitesse +25  pendant les combats  | Exotique   |
+| :four\_leaf\_clover:                                               | Feuille de vent               | :rocket: Vitesse +41  pendant les combats  | Rare       |
+| :globe\_with\_meridians:                                           | Fibre optique                 | :rocket: Vitesse +56 pendants les combats  | Rare       |
+| :skier:                                                            | Skis glissants                | :rocket: Vitesse +63  pendant les combats  | Spécial    |
+| :floppy\_disk:                                                     | Carte SYM                     | :rocket:Vitesse + 72 pendant les combats   | Spécial    |
+| :mechanical\_leg:                                                  | Jambe mécanique               | :rocket: Vitesse +87  pendant les combats  | Épique     |
+| :taxi:                                                             | Kars                          | :rocket: Vitesse +104 pendant les combats  | Épique     |
+|  :hiking\_boot:                                                    | Bottes de Pégase              | :rocket: Vitesse +128  pendant les combats | Légendaire |
+| :blossom:                                                          | Fleur de l'espoir             | :rocket: Vitesse +145 pendant les combats  | Légendaire |
+| :broom:                                                            | Nimbus 2000                   | :rocket: Vitesse +151 pendant les combats  | Mythique   |
 
 #### :crossed\_swords: Bonus d'attaque
 
 | Symbole                | Nom                           | Effet                                     | Rareté     |
 | ---------------------- | ----------------------------- | ----------------------------------------- | ---------- |
+| :roll\_of\_paper:      | Roulo PQ                      | :dagger:Attaque +3 pendant les combats    | Commun     |
 | :high\_heel:           | Chaussures à talon            | :dagger:Attaque +10 pendant les combats   | Commun     |
 | :blue\_book:           | Livre d'incantations volume 2 | :dagger: Attaque +15 pendant les combats  | Peu commun |
+| :bricks:               | Lego                          | :dagger:Attaque + 17 pendant les combats  | Peu commun |
 | :trumpet:              | Cor de chasse                 | :dagger: Attaque +27 pendant les combats  | Exotique   |
 | :small\_blue\_diamond: | Pouvoir de Nayru              | :dagger: Attaque +38 pendant les combats  | Rare       |
+| :guitar:               | Guitare électrique            | :dagger:Attaque +51 pendant les combats   | Rare       |
 | :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque +57 pendant les combats  | Spécial    |
 | :pick:                 | Pied de biche                 | :dagger:Attaque +64 pendant les combats   | Spécial    |
 | :flag\_black:          | Drapeau de la mort            | :dagger: Attaque +85 pendant les combats  | Épique     |
-| :gem:                  | Diamant Kéraunique            | :dagger: Attaque +132 pendant les combats | Légendaire |
-| :eye:                  | Œil de Fatalis                | :dagger: Attaque +134 pendant les combats | Mythique   |
-| :guitar:               | Guitare terrifiante           | :dagger: Attaque +137 pendant les combats | Mythique   |
+| :cockroach:            | Script de Easy                | Attaque +107 pendant les combats:dagger:  | Épique     |
+| :gem:                  | Diamant Kéraunique            | :dagger: Attaque +143 pendant les combats | Légendaire |
+| :eye:                  | Œil de Fatalis                | :dagger: Attaque +144 pendant les combats | Mythique   |
+| :guitar:               | Guitare terrifiante           | :dagger: Attaque +151 pendant les combats | Mythique   |
 
 #### :shield: Bonus de défense
 
@@ -253,7 +268,9 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :orange\_book:           | Livre d'incantations volume 3 | :shield: Défense +25 pendant les combats  | Exotique   |
 | :new\_moon:              | Bout d'obsidienne             | :shield: Défense +42 pendant les combats  | Rare       |
 | :white\_flower:          | Fleur royale                  | :shield: Défense +59 pendant les combats  | Spécial    |
+| :four\_leaf\_clover:     | Trèfle à 4 Feuilles           | :shield:Défense +69 pendant les combats   | Spécial    |
 | :full\_moon\_with\_face: | Lune de Mojaro                | :shield: Défense +90 pendant les combats  | Épique     |
+| :star2:                  | Étoile du Destin              | :shield:Défense +132 pendant les combats  | Légendaire |
 | :cyclone:                | Amulette cyclonique           | :shield: Défense +143 pendant les combats | Légendaire |
 | :ringed\_planet:         | Anneaux de défense            | :shield: Défense +151 pendant les combats | Mythique   |
 
@@ -280,6 +297,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | Symbole         | Nom                        | Effet                                                        | Rareté     |
 | --------------- | -------------------------- | ------------------------------------------------------------ | ---------- |
 | :apple:         | Pomme du grand arbre       | :clock10: Avance le temps plus rapidement pendant 20 minutes | Spécial    |
+| :rocket:        | Fusée en Carton            | :clock10:Avance le temps plus rapidement pendant 30 minutes  | Spécial    |
 | :notes:         | Harmonica du temps         | :clock10: Avance le temps plus rapidement pendant 40 minutes | Épique     |
 | :book:          | Kyuran                     | :clock10: Avance le temps plus rapidement pendant 55 minutes | Épique     |
 | :movie\_camera: | Accélérateur de particules | :clock10: Avance le temps plus rapidement pendant 1 heure 10 | Légendaire |
@@ -317,6 +335,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | :test\_tube:                                                                            | Potion douteuse     | Aucun effet | Commun     |
 | :tea:                                                                                   | Potion périmée      | Aucun effet | Commun     |
 | <img src="../.gitbook/assets/pouring-liquid.png" alt="" data-size="line">               | Potion renversée    | Aucun effet | Commun     |
+| :ocean:                                                                                 | Eau de Mer          | Aucun effet | Peu commun |
 | :recycle:                                                                               | Potion recyclable   | Aucun effet | Peu commun |
 | <img src="../.gitbook/assets/jar.png" alt="" data-size="line">                          | Potion vide         | Aucun effet | Peu commun |
 | :hotsprings:                                                                            | Eau bouillante      | Aucun effet | Exotique   |
@@ -377,6 +396,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 | <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion explosive         | :crossed\_swords: Attaque +65 pendant le prochain combat  | Rare       |
 | <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line">          | Potion magique           | :crossed\_swords: Attaque +135 pendant le prochain combat | Spécial    |
 | :wolf:                                                                           | Potion de sang de loup   | :crossed\_swords: Attaque +178 pendant le prochain combat | Épique     |
+| 🧌                                                                               | Bave de Troll            | :crossed\_swords:Attaque +187pendant le prochain combat   | Épique     |
 | :hot\_pepper:                                                                    | Huile de ghost pepper    | :crossed\_swords:Attaque +243 pendant le prochain combat  | Légendaire |
 | 🩸                                                                               | Potion de sang de dragon | :crossed\_swords: Attaque +312 pendant le prochain combat | Mythique   |
 
@@ -396,28 +416,30 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 #### Bonus d'énergie
 
-| Symbole                                                            | Nom                | Effet               | Rareté     |
-| ------------------------------------------------------------------ | ------------------ | ------------------- | ---------- |
-| :shower:                                                           | Eau de douche      | :zap:Énergie + 12   | Commun     |
-| :coffee:                                                           | Expresso           | :zap:Énergie + 24   | Commun     |
-| :closed\_umbrella:                                                 | Gouttes de pluie   | :zap:Énergie + 61   | Commun     |
-| :cactus:                                                           | Jus de cactus      | :zap:Énergie + 112  | Peu commun |
-| <img src="../.gitbook/assets/bubbles.png" alt="" data-size="line"> | Potion à bulles    | :zap:Énergie + 199  | Peu commun |
-| :cold\_face:                                                       | Eau de stalactites | :zap:Énergie + 362  | Exotique   |
-| :ocean:                                                            | Potion de la mer   | :zap:Énergie + 802  | Rare       |
-| :soap:                                                             | Eau savonneuse     | :zap:Énergie + 852  | Rare       |
-| :cocktail:                                                         | Cocktail tonique   | :zap:Énergie + 963  | Spécial    |
-| <img src="../.gitbook/assets/lotus.png" alt="" data-size="line">   | Rosée du matin     | :zap:Énergie + 1024 | Spécial    |
-| :pirate\_flag:                                                     | Rhum               | :zap:Énergie + 1504 | Épique     |
-| :honey\_pot:                                                       | Miel               | :zap:Énergie + 1669 | Épique     |
-| :syringe:                                                          | Substance inconnue | :zap:Énergie + 1775 | Épique     |
-| :motor\_scooter:                                                   | SP 95              | :zap:Énergie + 1874 | Légendaire |
-| :feather:                                                          | Essence de phénix  | :zap:Énergie + 2048 | Mythique   |
+| Symbole                                                            | Nom                | Effet                           | Rareté     |
+| ------------------------------------------------------------------ | ------------------ | ------------------------------- | ---------- |
+| :shower:                                                           | Eau de douche      | :zap:Énergie + 12               | Commun     |
+| :coffee:                                                           | Expresso           | :zap:Énergie + 24               | Commun     |
+| :closed\_umbrella:                                                 | Gouttes de pluie   | :zap:Énergie + 61               | Commun     |
+| :cactus:                                                           | Jus de cactus      | :zap:Énergie + 112              | Peu commun |
+| <img src="../.gitbook/assets/bubbles.png" alt="" data-size="line"> | Potion à bulles    | :zap:Énergie + 199              | Peu commun |
+| :cold\_face:                                                       | Eau de stalactites | :zap:Énergie + 362              | Exotique   |
+| :ocean:                                                            | Potion de la mer   | :zap:Énergie + 802              | Rare       |
+| :soap:                                                             | Eau savonneuse     | :zap:Énergie + 852              | Rare       |
+| :cocktail:                                                         | Cocktail tonique   | :zap:Énergie + 963              | Spécial    |
+| <img src="../.gitbook/assets/lotus.png" alt="" data-size="line">   | Rosée du matin     | :zap:Énergie Énergie + 18+ 1024 | Spécial    |
+| :pirate\_flag:                                                     | Rhum               | :zap:Énergie + 1504             | Épique     |
+| :honey\_pot:                                                       | Miel               | :zap:Énergie + 1669             | Épique     |
+| :syringe:                                                          | Substance inconnue | :zap:Énergie + 1775             | Épique     |
+| :motor\_scooter:                                                   | SP 95              | :zap:Énergie + 1874             | Légendaire |
+| :volcano:                                                          | Larme de Titan     | :zap:Énergie + 1899             | Légendaire |
+| :feather:                                                          | Essence de phénix  | :zap:Énergie + 2048             | Mythique   |
 
 #### Bonus de temps
 
 | Symbole                                                                    | Nom                       | Effet                                                       | Rareté     |
 | -------------------------------------------------------------------------- | ------------------------- | ----------------------------------------------------------- | ---------- |
+| :potato:                                                                   | Jus de Pomme de Terre     | :clock10:Avance le temps plus rapidement pendant 15 minutes | Exotique   |
 | :tea:                                                                      | Jus                       | :clock10: Avance le temps plus rapidement pendant 1 heure   | Rare       |
 | :herb:                                                                     | Breuvage à base de coca   | :clock10: Avance le temps plus rapidement pendant 1 heure   | Rare       |
 | :fuelpump:                                                                 | Kyurburant                | :clock10: Avance le temps plus rapidement pendant 2 heures  | Spécial    |

@@ -61,7 +61,7 @@ Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est
 
 Vous pouvez retrouvez le détaillé des attaques sur le document ci-dessous.
 
-<figure><img src="../.gitbook/assets/AttaquesInfos.png" alt=""><figcaption><p>Détail de toutes les attaques du jeu.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/combat.png" alt=""><figcaption><p>Détail de toutes les attaques du jeu.</p></figcaption></figure>
 
 ### Gestion du souffle
 
