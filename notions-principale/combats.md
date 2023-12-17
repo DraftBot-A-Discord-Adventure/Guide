@@ -61,8 +61,6 @@ Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est
 
 Vous pouvez retrouvez le détaillé des attaques sur le document ci-dessous.
 
-<figure><img src="../.gitbook/assets/combat.png" alt=""><figcaption><p>Détail de toutes les attaques du jeu.</p></figcaption></figure>
-
 ### Gestion du souffle
 
 Chaque attaque nécessite une certaine quantité de souffle. Chaque lancement de cette attaque retirera de la réserve de souffle du combattant le montant spécifié. Au début de son tour, un combattant reçoit une quantité de souffle en fonction de sa classe. Les informations sur les réserves de souffle liées à une classe où les consommations de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`.

@@ -35,7 +35,7 @@ Celui-ci se divise en 3 catégories :
 
 {% tab title="Utilitaires" %}
 * Le remplace-mission permet, comme son nom l'indique, de passer une mission secondaire et de la remplacer par une nouvelle choisie aléatoirement. Celui-ci coûte 10 gemmes.
-* Le vétérinaire de la cour permet de récupérer des informations sur le familier que vous avez actuellement. Celui-ci coûte 5 gemmes.
+* Le vétérinaire de la cour permet de récupérer des informations sur le familier que vous avez actuellement. Celui-ci coûte 3 gemmes.
 {% endtab %}
 
 {% tab title="Prestige" %}
@@ -43,4 +43,4 @@ Celui-ci se divise en 3 catégories :
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/missionsshop.PNG" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>

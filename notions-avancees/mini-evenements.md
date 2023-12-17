@@ -490,4 +490,4 @@ Ce mini-event vous permet de voyager vers l'île du PVE, celui-ci ne se déclenc
 Ce mini-event ne se déclenche qu'au bord d'un point d'eau !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>

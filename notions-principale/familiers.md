@@ -101,7 +101,7 @@ Vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_c
 Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
 
-Contre 5 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement. La consultation s'obtient dans le [magasin de missions](missions.md#magasin-des-missions).
+Contre 3 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement. La consultation s'obtient dans le [magasin de missions](missions.md#magasin-des-missions).
 
 <figure><img src="../.gitbook/assets/Vétérinaire.png" alt=""><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, et quand il aura faim.</p></figcaption></figure>
 
