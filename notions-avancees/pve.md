@@ -10,22 +10,22 @@ description: >-
 
 Le PVE est situé sur une île à part qui peut être rejointe au travers d'un [mini-event](mini-evenements.md).
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption><p>On dirait que quelqu'un est sur le point de partir...</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/bateau_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/bateau.png" alt=""></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir...</p></figcaption></figure>
 
 {% hint style="success" %}
 Si un membre de votre guilde est déjà sur un bateau, il vous suffit de faire `/rejoindrebateau` pour le rejoindre !
 {% endhint %}
 
-Sur cette île, le jeu se déroule comme des trajets normaux, à la différence que le temps y passe plus vite : 20s environ entre les mini-events et 4min les trajets entre les lieux.
+Sur cette île, le jeu se déroule comme des trajets normaux, à la différence que le temps y passe plus vite : un mini-événement est disponible toutes les 18s environ et les trajets entre les lieux durent 4min.
 
 <figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption><p>La carte de l'île</p></figcaption></figure>
 
 {% hint style="info" %}
 Les trajets pour aller sur l'île et pour la quitter auront des temps différents de ceux sur cette île:
 
-* pour aller sur l'île, cela prendra 30 minutes, avec le temps entre 2 mini-events habituel;
-* pour quitter l'île, vous ne prendrez que 5 minutes sans mini-events, mais avec un event spécifique célébrant votre exploit;
-* une fois l'île quittée, votre destination sera une côte du continent principal et son trajet durera 10 minutes, avec un mini-event sur celui-ci.
+* pour aller sur l'île, cela prendra 30 minutes, avec le temps entre 2 mini-événements habituel;
+* pour quitter l'île, vous ne prendrez que 5 minutes sans mini-événement, mais avec un événement spécifique célébrant votre exploit;
+* une fois l'île quittée, votre destination sera une côte du continent principal et son trajet durera 10 minutes, avec un mini-événement sur celui-ci.
 {% endhint %}
 
 {% hint style="success" %}
@@ -40,7 +40,7 @@ Certaines commandes seront aussi interdites sur l'île afin d'empêcher toute te
 
 ## Combats
 
-L'île est décomposée en 5 lieux, avec un monstre à combattre différent pour chacun d'entre eux. À l'issue des combats menés, vous gagnerez de l'argent et de l'expérience. De plus, si vous appartenez à une guilde, vous gagnerez aussi de l'xp (si votre guilde n'est pas au niveau 150) et des points de guilde !
+L'île est décomposée en 5 lieux, avec un monstre à combattre différent pour chacun d'entre eux. Après une victoire face à un monstre, vous gagnerez de l'argent et de l'expérience. De plus, si vous appartenez à une guilde, elle recevra aussi de l'expérience (si votre guilde n'est pas au niveau 150) et des points de guilde !
 
 {% hint style="info" %}
 Pendant le combat, si vous êtes plusieurs dans votre guilde à être sur l'île, il y a une petite chance que l'attaque groupée :stadium: apparaisse : sa puissance varie avec le nombre de membres présents !
@@ -110,7 +110,7 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | Lancer de rocher  | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                            | 6                       |
 | Attaque impact    | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                 | 6                       |
-| Peau de roche     | Recouvre sa peau de roches, augentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                         | 3                       |
+| Peau de roche     | Recouvre sa peau de roches, augmentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                        | 3                       |
 | Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
 | Pétrification     | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
 
@@ -130,19 +130,23 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 | Bain de magma    | Fonctionne comme Repos (cf page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
 | Vague de lave    | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                                      | 15                      |
 
-## Mini-events
+## Mini-événements
 
 Pendant vos trajets, vous rencontrerez des obstacles différents du continent. Ceux-ci sont listés ci dessous :
 
 {% hint style="info" %}
-La rareté représente la fréquence à laquelle vous risquez de tomber sur l'un des mini-events ci-dessous : plus la rareté est élevée, plus le mini-event est fréquent.
+La rareté représente la fréquence à laquelle vous risquez de tomber sur l'un des mini-événements ci-dessous : plus la rareté est élevée, plus le mini-événement est fréquent.
 {% endhint %}
 
-### Gain de points de combat&#x20;
+{% hint style="info" %}
+De plus,la présence d'un ou plusieurs membres de votre guilde sur l'île en même temps que vous aura une influence sur la qualité des mini-événements rencontrés.
+{% endhint %}
+
+### Gain d'énergie
 
 **rareté : 4**
 
-Comme son nom l'indique, il vous permet de récupérer vos points de combat plus vite.
+Comme son nom l'indique, il vous permet de récupérer un peu d'énergie.
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>en voilà un de soigné</p></figcaption></figure>
 
@@ -150,7 +154,7 @@ Comme son nom l'indique, il vous permet de récupérer vos points de combat plus
 
 **rareté : 8**
 
-Durant votre expédition de l'île, certaines péripéties peuvent survenir, qu'elles soient causées par une obscurité totale ou un caillou entre autres, et vous (et votre guilde si vous en appartenez à une) tentez de surmonter cette catastrophe. Ces mini-events ont des issues dépendantes de si vous appartenez à une guilde ou non. Ils peuvent autant ne rien vous faire qu'apporter un gain (points de guilde, expérience...) ou vous faire perdre de l'énergie, de l'argent ou de la vie.
+Durant votre expédition de l'île, certaines péripéties peuvent survenir, qu'elles soient causées par une obscurité totale ou un caillou entre autres, et vous (et votre guilde si vous en appartenez à une) tentez de surmonter cette catastrophe. Ces mini-événements ont des issues dépendantes de si vous appartenez à une guilde ou non. Ils peuvent autant ne rien vous faire qu'apporter un gain (points de guilde, expérience...) ou vous faire perdre de l'énergie, de l'argent ou de la vie.
 
 {% hint style="warning" %}
 Les gains ne sont récoltés que si vous appartenez à une guilde. Si vous êtes du genre solitaire, vous ne gagnerez rien, même si l'issue est positive!
@@ -158,17 +162,17 @@ Les gains ne sont récoltés que si vous appartenez à une guilde. Si vous êtes
 
 <figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption><p>Pas de chance !</p></figcaption></figure>
 
-### Combat d'animal
+### Combat face à un animal sauvage
 
 **rareté : 8**
 
 Vous rencontrez un animal sauvage qui se met à vous attaquer ! Pour calmer cet adversaire, vous disposez de 2 à 4 options choisies aléatoirement, dépendant de votre niveau et de votre classe.
 
 {% hint style="success" %}
-Si vous réussissez à calmer l'animal (ou faire en sorte à ce qu'il ne vous attaque pas), vous accumulerez un point de rage supplémentaire (cumulable), au cas où vous voudrez vous défouler sur le monstre de la zone de destination.
+Si vous réussissez à calmer l'animal (ou faire en sorte à ce qu'il ne vous attaque pas), vous obtenez un point de rage supplémentaire (cumulable), c'est-à-dire des dégâts supplémentaires au monstre de la zone suivante,appliqués en début de combat avant la 1ere attaque du joueur.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption><p>L'appel à l'aide est toujours une solution !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption><p>L'appel à l'aide est parfois une bonne solution !</p></figcaption></figure>
 
 ### Informations sur l'île
 
@@ -179,5 +183,13 @@ L'équipage du bateau vous donnera des informations sur l'île vers laquelle vou
 <figure><img src="../.gitbook/assets/boatAdvice.png" alt=""><figcaption><p>Ils en ont tout un stock, à croire qu'ils ont établi une encyclopédie de l'île.</p></figcaption></figure>
 
 {% hint style="info" %}
-Malgré sa rareté de 1, il est le seul mini-event disponible sur le trajet en bateau vers l'île.
+Malgré sa rareté de 1, il est le seul mini-événement disponible sur le trajet en bateau vers l'île.
 {% endhint %}
+
+### Classement des guildes
+
+Au fur et à mesure de votre progression,les joueurs gagnent des points de guildes :mirror\_ball: après chaque victoire face à un monstre (et en perdent après une défaite) ou lors de mini-événements sur l'ile. Ces points permettent de faire progresser sa guilde parmi un classement visible avec la commande /classement guildes.
+
+&#x20;&#x20;
+
+<figure><picture><source srcset="../.gitbook/assets/classement_guildes_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classement_guildes.png" alt=""></picture><figcaption></figcaption></figure>

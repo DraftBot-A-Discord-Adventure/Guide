@@ -55,7 +55,7 @@ Après un évènement, le joueur est amené à choisir une destination. Il n'est
 
 ![Exemple de choix de destination](../.gitbook/assets/choix-destination.png)
 
-Le temps indiqué entre parenthèses est le temps de voyage pour parvenir jusqu'au lieu, un point d'interrogation signifie que le temps est inconnu. Dans un tiers des cas, le bot choisit automatiquement la destination du joueur.
+Le temps indiqué entre parenthèses est le temps de voyage pour parvenir jusqu'au lieu, un point d'interrogation signifie que le temps est inconnu. Dans un 15% des cas, le bot choisit automatiquement la destination du joueur.
 
 ![Voici votre information sur votre destination](../.gitbook/assets/destination-choisie.png)
 

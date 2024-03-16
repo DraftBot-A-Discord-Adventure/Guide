@@ -46,30 +46,39 @@ Il existe également 3 options à cette commande:
 
 ### Monter de niveau une guilde.
 
-#### Dans la boutique
+#### Dans le magasin de guilde
 
-Dans la boutique, l'expérience est représentée par l'icône :star: .\
-Contre 1000 d'argent, vous pourrez apporter aléatoirement entre 50 et 450 points d'expérience pour votre guilde.
+Dans le magasin de guilde, le joueur peut acheter de l'expérience pour sa guilde.\
+Pour 1000 pièces,la guilde recevra aléatoirement entre 50 et 450 :star:et pour 15000 pièces elle recevra entre 750 et 6750 :star:.
 
 #### Dans les récompenses quotidiennes
 
-Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent... Le type de récompense varie en fonction du niveau de votre guilde.
+Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent... Le type de récompense varie en fonction du niveau de votre guilde.&#x20;
 
-| Niveau de la guilde | Un peu d'argent | Expérience de guilde | Expérience personnelle | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge | 5 friandises pour les familiers |
-| ------------------- | --------------- | -------------------- | ---------------------- | --------------------------- | ----------- | ----------------------------- | ------------ | ----- | ------------------------------- |
-| 0-10                | 97              | 0                    | 0                      | 0                           | 0           | 0                             | 0            | 0     | 3                               |
-| 10-20               | 59.8            | 25                   | 5                      | 2                           | 5           | 0.2                           | 2.5          | 0     | 0.5                             |
-| 20-30               | 57              | 25                   | 5                      | 2                           | 5.2         | 0.3                           | 5            | 0     | 0.5                             |
-| 30-40               | 54.2            | 25                   | 5                      | 2                           | 5.4         | 0.4                           | 7.5          | 0     | 0.5                             |
-| 40-50               | 46.4            | 25                   | 10                     | 2                           | 5.6         | 0.5                           | 10           | 0     | 0.5                             |
-| 50-60               | 41.6            | 25                   | 10                     | 2.5                         | 5.8         | 0.6                           | 12.5         | 1     | 0.5                             |
-| 60-70               | 37.8            | 25                   | 10                     | 2.5                         | 6           | 0.7                           | 15           | 2     | 1                               |
-| 70-80               | 33.5            | 25                   | 10                     | 3                           | 6.2         | 0.8                           | 17.5         | 3     | 1                               |
-| 80-90               | 24.2            | 25                   | 15                     | 3.5                         | 6.4         | 0.9                           | 20           | 4     | 1                               |
-| 90-100              | 19.9            | 25                   | 15                     | 4                           | 6.6         | 1                             | 22.5         | 5     | 1                               |
-| 100                 | 29.7            | 0                    | 20                     | 6                           | 6.8         | 1.5                           | 25           | 10    | 1                               |
+| Niveau de la guilde | Un peu d'argent | Expérience de guilde | Expérience personnelle | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge guilde puissante | Badge guilde très puissante  | 5 friandises pour les familiers |
+| ------------------- | --------------- | -------------------- | ---------------------- | --------------------------- | ----------- | ----------------------------- | ------------ | ---------------------- | ---------------------------- | ------------------------------- |
+| 0-9                 | 97              | 0                    | 0                      | 0                           | 0           | 0                             | 0            | 0                      | 0                            | 3                               |
+| 10-19               | 59.8            | 25                   | 5                      | 2                           | 5           | 0.2                           | 2.5          | 0                      | 0                            | 0.5                             |
+| 20-29               | 57              | 25                   | 5                      | 2                           | 5.2         | 0.3                           | 5            | 0                      | 0                            | 0.5                             |
+| 30-39               | 54.2            | 25                   | 5                      | 2                           | 5.4         | 0.4                           | 7.5          | 0                      | 0                            | 0.5                             |
+| 40-49               | 46.4            | 25                   | 10                     | 2                           | 5.6         | 0.5                           | 10           | 0                      | 0                            | 0.5                             |
+| 50-59               | 41.6            | 25                   | 10                     | 2.5                         | 5.8         | 0.6                           | 12.5         | 1                      | 0                            | 0.5                             |
+| 60-69               | 37.8            | 25                   | 10                     | 2.5                         | 6           | 0.7                           | 15           | 2                      | 0                            | 1                               |
+| 70-79               | 33.5            | 25                   | 10                     | 3                           | 6.2         | 0.8                           | 17.5         | 3                      | 0                            | 1                               |
+| 80-89               | 24.2            | 25                   | 15                     | 3.5                         | 6.4         | 0.9                           | 20           | 4                      | 0                            | 1                               |
+| 90-99               | 19.9            | 25                   | 15                     | 4                           | 6.6         | 1                             | 22.5         | 5                      | 0                            | 1                               |
+| 100-149             | 29.7            |                      | 20                     | 6                           | 6.8         | 1.5                           | 25           | 10                     |                              |                                 |
+| 150                 |                 | 0                    |                        |                             |             |                               |              |                        |                              |                                 |
 
 
+
+{% hint style="danger" %}
+Le badge guilde très puissante :mirror\_ball:ne dépend pas uniquement du niveau de la guilde mais également de son classement.Pour plus de détails,se référer à [Badges](../notions-avancees/badges.md) ou [PVE](../notions-avancees/pve.md).
+{% endhint %}
+
+{% hint style="info" %}
+Vous avez également une petite chance de trouver en plus un [familier](familiers.md).
+{% endhint %}
 
 ### Mettre un aîné ?
 

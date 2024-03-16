@@ -4,22 +4,23 @@ L'altération d'état d'un joueur définit sa situation actuelle. Certains statu
 
 ### Liste des états
 
-| Symbole           | Nom des différentes altérations | Temps d'attente |
-| ----------------- | ------------------------------- | --------------- |
-| :smiley:          | Pas d'altération d'état         | **Ø**           |
-| :baby:            | Statut de départ                | **Ø**           |
-| :scream:          | Effrayé                         | **10min**       |
-| :confounded:      | Confus                          | **40min**       |
-| :cold\_face:      | Gelé                            | **1h**          |
-| :drooling\_face:  | Affamé                          | **1h20**        |
-| :sleeping:        | Endormi                         | **3h**          |
-| :zany\_face:      | Ivre                            | **4h**          |
-| :head\_bandage:   | Blessé                          | **6h**          |
-| :nauseated\_face: | Malade                          | **6h**          |
-| :dizzy\_face:     | Gravement blessé                | **12h**         |
-| :lock:            | Enfermé                         | **24h**         |
-| :clock2:          | Occupé                          | **Variable**    |
-| :skull:           | Mort                            | **Ø**           |
+| Symbole               | Nom des différentes altérations | Temps d'attente |
+| --------------------- | ------------------------------- | --------------- |
+| :smiley:              | Pas d'altération d'état         | **Ø**           |
+| :baby:                | Statut de départ                | **Ø**           |
+| :scream:              | Effrayé                         | **15min**       |
+| :confounded:          | Confus                          | **40min**       |
+| :drooling\_face:      | Affamé                          | **50min**       |
+| :cold\_face:          | Gelé                            | **1h**          |
+| :sleeping:            | Endormi                         | **3h**          |
+| :zany\_face:          | Ivre                            | **4h**          |
+| :face\_with\_monocle: | Perdu                           | **4h30**        |
+| :head\_bandage:       | Blessé                          | **5h**          |
+| :nauseated\_face:     | Malade                          | **5h30**        |
+| :dizzy\_face:         | Gravement blessé                | **11h**         |
+| :lock:                | Enfermé                         | **24h**         |
+| :clock2:              | Occupé                          | **Variable**    |
+| :skull:               | Mort                            | **Ø**           |
 
 {% hint style="warning" %}
 L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder aux magasins. C'est également la seule altération qui ne peut pas être soignée grâce à une récompense de guilde.

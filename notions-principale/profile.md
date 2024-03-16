@@ -48,7 +48,7 @@ Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'
 
 ### Classe et guilde
 
-Depuis les dernières versions de DraftBot, vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage ainsi que de créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
+Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage ainsi que de créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
 
 ### Badges
 

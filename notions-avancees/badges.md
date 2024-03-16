@@ -35,7 +35,7 @@ description: >-
 | :crossed\_swords:     | Vainqueur d'un tournoi                                                               |                                                                                                                                | Gérant des badges |
 | :revolving\_hearts:   | Joueur ayant dressé un familier légendaire                                           |                                                                                                                                | Bot               |
 | :sparkles:            | Personne ayant remporté le plus de gloire durant une saison de combat                |                                                                                                                                | Bot               |
-| :dove:                | Personne ayant rapporté un bug exploitable sans en profiter                          | Découvrir un bug exploitable et le signaler sur GitHub sans l'utiliser ni être l'avoir développée                              | Gérant des badges |
+| :dove:                | Personne ayant rapporté un bug exploitable sans en profiter                          | Découvrir un bug exploitable et le signaler sur GitHub sans l'utiliser ni l'avoir développée                                   | Gérant des badges |
 
 Si vous pensez mériter un badge, merci de contacter un gérant des badges sur Discord.&#x20;
 

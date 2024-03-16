@@ -10,11 +10,11 @@ Vous avez également la possibilité d'afficher les missions en cours d'un autre
 
 Il existe trois catégories de mission :
 
-* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il y en a 60 et leur difficulté évolue avec le joueur.
+* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il en existe 76 et leur difficulté évolue avec le joueur.
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
 * Les missions secondaires sont un autre moyen d'obtenir des récompenses, celles-ci peuvent se trouver occasionnellement dans des [mini-évènements](report.md#mini-evenements).
 
-![Affichage de la commande /mission](../.gitbook/assets/missions.png)
+![Affichage de la commande /missions](../.gitbook/assets/missions.png)
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
@@ -22,7 +22,7 @@ Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-
 
 ### Magasin des missions <a href="#magasin-des-missions" id="magasin-des-missions"></a>
 
-Les gemmes gagnées en remplissant des missions peuvent être dépensées dans le magasin des missions. Le magasin des missions s'affiche grâce à la commande `/magasinmissions`.
+Les gemmes peuvent être gagnées en remplissant des missions de campagne et journalière mais pas dans les missions secondaires. Elles peuvent être dépensées dans le magasin des missions. Le magasin des missions s'affiche grâce à la commande `/magasinmissions`.
 
 Celui-ci se divise en 3 catégories :
 
@@ -44,3 +44,7 @@ Celui-ci se divise en 3 catégories :
 {% endtabs %}
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
+
+{% hint style="info" %}
+Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [pve.md](../notions-avancees/pve.md "mention").
+{% endhint %}
