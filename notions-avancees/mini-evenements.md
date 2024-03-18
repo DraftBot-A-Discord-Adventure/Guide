@@ -4,8 +4,12 @@ Il existe actuellement 25 types de mini-évènements différents dans le bot. Vo
 
 Plus la valeur de la rareté d'un mini-évènement est élevée, plus celui-ci est fréquent.
 
-{% hint style="info" %}
+{% hint style="success" %}
 La rareté maximale actuelle est de 12 (très fréquent) !
+{% endhint %}
+
+{% hint style="info" %}
+Info supplémentaire :  Pour le coté technique, pour la sélection aléatoire des mini évents se déroule ainsi : Toutes les raretés d'évents sont additionnées, puis un nombre aléatoire entre 0 et ce nombre est choisi aléatoirement, puis dans un nombres précis on soustrait a ce nombre la rareté de différents évents, et celui qui le fait atteindre 0 est choisit.
 {% endhint %}
 
 ## Mini-shop
