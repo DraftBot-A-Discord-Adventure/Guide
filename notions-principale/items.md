@@ -243,6 +243,7 @@ Il en va de même pour la puissance des équipements. Cependant, la puissance d'
 
 | Symbole                | Nom                           | Effet                                     | Rareté     |
 | ---------------------- | ----------------------------- | ----------------------------------------- | ---------- |
+| 🐟                     | Poisson mort                  | :dagger: Attaque +1 pendant les combats   | Commun     |
 | :roll\_of\_paper:      | Roulo PQ                      | :dagger:Attaque +3 pendant les combats    | Commun     |
 | :high\_heel:           | Chaussures à talon            | :dagger:Attaque +10 pendant les combats   | Commun     |
 | :blue\_book:           | Livre d'incantations volume 2 | :dagger: Attaque +15 pendant les combats  | Peu commun |
