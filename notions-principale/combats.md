@@ -80,5 +80,5 @@ Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 24 
 Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu, sauf s'il s'agissait d'un combat amical.
 
 {% hint style="danger" %}
-Si un des adversaires est inactif pendant plus de 30 secondes, le combat est considéré comme terminé. Le combattant inactif perdra le combat, et donc la totalité de son énergie.
+Si un des adversaires est inactif pendant plus de 45 secondes, le combat est considéré comme terminé. Le combattant inactif perdra le combat, et donc la totalité de son énergie.
 {% endhint %}
