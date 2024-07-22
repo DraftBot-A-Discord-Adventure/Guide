@@ -42,61 +42,61 @@ Immense forêt au sud du Berceau. Celle-ci a longtemps appartenu à un riche agr
 
 ***
 
-#### :motorway: **Le Grand Axe** :&#x20;
+#### :motorway: **Grand Axe** :&#x20;
 
 Dernière vraie route permettant encore de contourner le Mont Célestrum par le nord, le Grand Axe est encore très utilisé aujourd’hui principalement par les brigands.
 
 ***
 
-#### :beach: **La Dune** :
+#### :beach: La **Dune** :
 
 Plage créée par les forts vents de la Vallée des Rois, la Dune protège les Plaines du Contre Bois de la chaleur et amène l’eau de la rivière Vacarme.
 
 ***
 
-#### :deciduous\_tree: **La Forêt Célestrum :**
+#### :deciduous\_tree: **Forêt Célestrum :**
 
 Une forêt au bord du Mont Célestrum. Souvent considérée comme magique, la Forêt Célestrum est le repère de beaucoup de mages et de sorcières. On prétend d’ailleurs qu’une célèbre école de sorcellerie y est cachée.
 
 ***
 
-#### :motorway: **La Grande Rue** :
+#### :motorway: **Grande Rue** :
 
 Ancienne grande route commerciale reliant le Berceau et Ville Forte, il ne reste de la Grande Rue que de vieux pavés ébréchés.
 
 ***
 
-#### :person\_rowing\_boat: **La Rivière aux Crabes** :
+#### :person\_rowing\_boat: **Rivière aux Crabes** :
 
 Tout est dans le nom. Une rivière très appréciée des poissonniers de Claire De Ville. Un enfant y aurait même vue un crabe aux pinces d’or.
 
 ***
 
-#### :motorway: **La Route des Merveilles** :
+#### :motorway: **Route des Merveilles** :
 
 Une route très empruntée par les villageois. Beaucoup de petits vendeurs ambulants s’y installent le temps d’une journée pour, au final, former un immense marché.
 
 ***
 
-#### :desert: **La Vallée des Rois** :
+#### :desert: **Vallée des Rois** :
 
 Désert de sable chaud nommé en l'honneur des anciens rois de la région. Aucun mot n’est assez puissant pour décrire l’immensité de ce désert. Tombeau des plus grands rois ayant jamais vécu. On appelle d’ailleurs cette pyramide "La Pyramide des Origines". Elle est gardée par la déesse Junon.
 
 ***
 
-#### :cherry\_blossom: **Le Berceau** :
+#### :cherry\_blossom: Le **Berceau** :
 
 Probablement l’un des endroits les plus fertiles de la région. Les premiers Hommes sont apparus pour la première fois dans le Berceau.
 
 ***
 
-#### :motorway: **Le Chemin aux Loups** :
+#### :motorway: **Chemin aux Loups** :
 
 Petit chemin bordant la Rivière Vacarme. Le Chemin aux Loups est très dangereux. Pourquoi ? Pour ses renards extrêmement rusés évidement. Il paraît que l’un d’eux possède même un arc.
 
 ***
 
-#### :motorway: **Le Chemin du Dédale** :
+#### :motorway: **Chemin du Dédale** :
 
 Comme son nom l’indique, ce chemin est assez particulier. Beaucoup de gens s’y perdent. Pourtant, il suffit de suivre les panneaux. Deux fois à gauche, une fois à droite, faites demi-tour, une rotation de 80 degrés, une roulade en arrière et deux pas chassés à droite. C’est bon, vous êtes arrivé dans la Forêt du Vieillard. Ah non... C’était trois fois à droite…
 
