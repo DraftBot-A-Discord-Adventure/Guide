@@ -467,9 +467,8 @@ Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offri
 
 Vous rencontrez un marchand qui vous donnera une récompense parmi celles-ci :
 
-* XP pour votre guilde si celle-ci n'est pas déjà au niveau max.
-* Des bonbons si votre guilde est inférieur au niveau 30 et que votre entrepôt vous le permet
-* Des soupes ultimes si votre guilde est supérieure ou égale au niveau 30 et que votre entrepôt vous le permet
+* Des bonbons si votre niveau est inférieur au niveau 30 et que votre entrepôt vous le permet
+* Des soupes ultimes si votre niveau est supérieure ou égale au niveau 30 et que votre entrepôt vous le permet
 * Un item aléatoire, dépendant de votre niveau, si votre guilde est supérieure ou égale au niveau 30
 
 Si vous n'avez pas de guilde, vous recevrez de l'argent.
@@ -495,3 +494,28 @@ Ce mini-event ne se déclenche qu'au bord d'un point d'eau !
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
+
+
+
+## Marchand épique
+
+**Rareté : 1**
+
+**Ce mini-évènement vous fera rencontrer Aldéric, un marchand qui vous proposera un item de la rareté épique à la rareté légendaire (voir** [**Équipements**](../notions-principale/items.md)**) excepté des potions.**
+
+{% hint style="info" %}
+Voyager sur les chemins de la :motorway: **Route des merveilles** réduira considérablement le prix de l'achat sinon vous avez 10% de chance d'avoir une réduction mais moins considérable.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-26 224611.png" alt=""><figcaption><p>Exemple du marchand épique</p></figcaption></figure>
+
+## Un carrosse rapide
+
+**Ce mini-évènement vous fera rencontrer un individu mystérieux qui vous proposera une destination connue ou non selon les critères suivants :**&#x20;
+
+* 35% de chance d'avoir un voyage dont vous connaissez la destination.
+* 30% de chance d'avoir un voyage dont vous ne connaissez pas la destination avec un prix réduit.
+* 15% de chance d'avoir une destination fausse mais dont le prix est diminué.
+* Sinon le voyage est juste moins cher.
+
+<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-28 195354.png" alt=""><figcaption><p>Exemple d'un voyage rapide</p></figcaption></figure>
