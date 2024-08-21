@@ -30,7 +30,7 @@ Le classement de la semaine est réinitialisé tous les dimanches. Seul le premi
 
 🎗️ `Personne ayant dominé un classement de la semaine`.
 
-Plus d'informations sur les badges sont disponible sur la page dédiée.
+Plus d'informations sur les badges sont disponibles sur la page dédiée.
 
 {% content-ref url="badges.md" %}
 [badges.md](badges.md)

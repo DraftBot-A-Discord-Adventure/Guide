@@ -15,16 +15,16 @@
 * Mythique :gem: `0,02% (1 équipement/5000)`
 
 {% hint style="info" %}
-Vous pouvez aussi les voir aves la commande `/rarete` !
+Vous pouvez aussi les voir avec la commande `/rareté` !
 {% endhint %}
 
 ### Valeur et puissance des équipements
 
-La valeur des équipements est calculée principalement en fonction de la rareté de l'équipement.
+La valeur des équipements est calculée principalement en fonction de leur rareté.
 
-Il en va de même pour la puissance des équipements. Cependant, la puissance d'un équipement peut être limitée par la puissance d'un joueur. Par exemple, un joueur ayant très peu d'attaque, ne sera pas en capacité de profiter de toutes les capacités d'une arme très puissante. Cette limitation sera affichée pour le joueur dans son inventaire.&#x20;
+Il en va de même pour leur puissance. Cependant, la puissance d'un équipement peut être limitée par la puissance d'un joueur. Par exemple, un joueur ayant très peu d'attaque, ne sera pas en capacité de profiter de toutes les capacités d'une arme très puissante. Cette limitation sera affichée pour le joueur dans son inventaire.&#x20;
 
-![Ce joueur ne dispose pas de suffisamment de puissance d'attaque pour utiliser la pleine puissance de son arme.](<../.gitbook/assets/image (67).png>)
+![Ce joueur ne dispose pas de suffisamment d'attaque pour utiliser la pleine puissance de son arme.](<../.gitbook/assets/image (67).png>)
 
 ## Liste des équipements
 

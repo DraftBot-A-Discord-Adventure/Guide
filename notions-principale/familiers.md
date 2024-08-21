@@ -1,6 +1,6 @@
 # Familiers
 
-Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot, vous pouvez avoir un ou plusieurs **familiers**. Ils s'obtiennent dans les récompenses de [guilde ](guildes.md)en fonction du niveau de votre guilde.
+Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot, vous pouvez avoir un ou plusieurs **familiers**.
 
 Pour avoir les informations sur votre familier, vous devez utiliser la commande `/familier`.
 
@@ -10,7 +10,7 @@ Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier l
 
 ### Comment obtenir un familier ?
 
-Les familiers s'obtiennent dans les récompenses de guilde `/bonusjournalierguilde` avec 1% de chance ou alors dans les mini-évènements.
+Les familiers s'obtiennent dans les récompenses de guilde `/bonusjournalierguilde` avec 1% de chance, ou alors dans les mini-évènements.
 
 La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
@@ -66,7 +66,7 @@ La durée pendant laquelle un familier n'a pas faim dépend uniquement de la rar
 {% endhint %}
 
 {% hint style="warning" %}
-Certains familiers suivent un régime particulier (herbivore ou carnivore) et ne pourront donc pas profiter de certaines sources de nourritures. Ne donnez pas de salade à votre T-rex !
+Certains familiers suivent un régime particulier (herbivore ou carnivore) et ne pourront donc pas profiter de certaines sources de nourriture. Ne donnez pas de salade à votre T-rex !
 {% endhint %}
 
 #### Niveaux de moral
@@ -94,7 +94,7 @@ Il n'est pas possible d'effectuer certaines actions avec un familier fielleux !
 {% endhint %}
 
 {% hint style="warning" %}
-Échanger un familier avec un autre joueur lui fera perdre 5 points par niveau de rareté (ou étoiles)
+Échanger un familier avec un autre joueur lui fera perdre 5 points par niveau de rareté (ou étoiles).
 
 Vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_cat: Sauvage.
 
@@ -131,7 +131,7 @@ L'implémentation de cette mise à jour favorise l'interaction entre joueurs pui
 
 ### Comment vendre un familier ?
 
-Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer, (ou alors que vous aimez l'argent), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `/vendrefamilier` en précisant le prix attendu. Par exemple, pour proposer votre familier à la vente pour 1000:moneybag:, entrez la commande `/vendrefamilier prix:1000`.
+Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer (ou alors que vous aimez l'argent), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `/vendrefamilier` en précisant le prix attendu. Par exemple, pour proposer votre familier à la vente pour 1000:moneybag:, entrez la commande `/vendrefamilier prix:1000`.
 
 <figure><img src="../.gitbook/assets/petsell.PNG" alt=""><figcaption><p>Ici, le familier "Lionelle" va être vendu pour 1000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></p></figcaption></figure>
 
@@ -139,7 +139,7 @@ Il y a des conditions importantes à respecter pour la vente de familiers :
 
 * Il n'est pas possible de vendre un familier à un membre de sa guilde.
 * Il est nécessaire d'appartenir à une guilde pour vendre un familier mais pas pour l'acheter.
-* Vous ne pouvez pas vendre un pet en dessous de 100 :moneybag:, ni au dessus de 50 000 :moneybag:.
+* Vous ne pouvez pas vendre un familier en dessous de 100:moneybag:, ni au dessus de 50 000 :moneybag:.
 
 {% hint style="warning" %}
 Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience de guilde.

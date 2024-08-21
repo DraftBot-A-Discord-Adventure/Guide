@@ -46,4 +46,4 @@ Le soin d'altération d'état est également une récompense de la récompense j
 
 #### Potions et objets permettant de faire avancer le temps plus vite
 
-Certains objets et certaines potions permettent de faire avancer le temps plus rapidement pendant un certain temps, lorsque ces derniers sont utilisés, c'est comme si le temps s'était écoulé, mais seulement pour votre personnage.
+Certains objets et potions permettent de faire avancer le temps plus rapidement pendant un temps donné. Lorsque ces derniers sont utilisés, c'est comme si le temps s'était écoulé, mais seulement pour votre personnage.

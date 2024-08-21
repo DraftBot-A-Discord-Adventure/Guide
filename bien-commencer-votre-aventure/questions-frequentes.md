@@ -14,9 +14,9 @@ Vérifiez que vous avez donné les bonnes permissions au bot.
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Seulement les permissions sélectionnées sont nécessaires pour faire fonctionner DraftBot</p></figcaption></figure>
 
-Dans la capture d'écran ci-dessus, vous pouvez voir les permissons nécessaires pour faire fonctionner DraftBot, Vérifiez que DraftBot dispose de ces permissions dans le salon dans lequel vous tentez de l'utiliser.
+Sur la capture d'écran ci-dessus, vous pouvez voir les permissions nécessaires pour faire fonctionner DraftBot. Vérifiez que DraftBot dispose de ces permissions dans le salon dans lequel vous tentez de l'utiliser.
 
-Si les permissions sont correctes pour le channel où vous avez fait la commande, alors n'hésitez pas a demander de l'aide sur [le serveur officiel](https://discord.com/invite/aJhQy4AtAA).
+Si les permissions sont correctes pour le salon où vous avez fait la commande, alors n'hésitez pas a demander de l'aide sur [le serveur officiel](https://discord.com/invite/aJhQy4AtAA).
 
 ### **Est-il possible de rajouter le bot sur mon serveur ?**
 
@@ -30,7 +30,7 @@ _Typescript._
 
 Les données enregistrées dans la base de données concernent uniquement le jeu (les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés). Les pseudonymes des joueurs ne sont pas non plus enregistrés.
 
-Plus d'informations sur le dévelopement du bot sont disponibles ici:&#x20;
+Plus d'informations sur le développement du bot sont disponibles ici:&#x20;
 
 {% embed url="https://github.com/DraftBot-A-Discord-Adventure/DraftBot" %}
 
@@ -46,7 +46,7 @@ J'utilise OVH pour le moment et j'ai utilisé DigitalOcean, Amazon AWS et Google
 
 ### **Peut on voir le code du bot ?**
 
-OUI ! L'objectif principal est de faciliter la collaboration mais notre license est assez permissive. Vous pouvez consulter le code du bot via la plateforme GitHub. Veuillez noter que nous n'offrons pas de support technique aux gérants d'instances tierce qui ne contribuent pas au projet.
+OUI ! L'objectif principal est de faciliter la collaboration mais notre licence est assez permissive. Vous pouvez consulter le code du bot via la plateforme GitHub. Veuillez noter que nous n'offrons pas de support technique aux gérants d'instances tierces qui ne contribuent pas au projet.
 
 {% embed url="https://github.com/DraftBot-A-Discord-Adventure" %}
 

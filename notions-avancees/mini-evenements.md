@@ -9,17 +9,17 @@ La rareté maximale actuelle est de 12 (très fréquent) !
 {% endhint %}
 
 {% hint style="info" %}
-Info supplémentaire :  Pour le coté technique, la sélection aléatoire des mini évents se déroule ainsi : Toutes les raretés de tous les évents sont additionnées, puis un nombre aléatoire entre 0 et le résultat est choisi aléatoirement, puis dans un ordre précis on soustrait a ce nombre la rareté de différents évents, et celui qui le fait atteindre 0 est choisit.
+Info supplémentaire :  Pour le coté technique, la sélection aléatoire des mini-évènements se déroule ainsi : Toutes les raretés de tous les mini-évènements sont additionnées, puis un nombre aléatoire entre 0 et le résultat est choisi aléatoirement, puis dans un ordre précis on soustrait à ce nombre la rareté de différents mini-évènements, et celui qui le fait atteindre 0 est choisi.
 {% endhint %}
 
 ## Mini-shop
 
 **Rareté :** **4**
 
-Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre objet, l'objet sera racheté par le vendeur pour un prix réduit à son prix d'achat.
+Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre ancien objet, l'objet sera racheté par le vendeur pour un prix inférieur à son prix d'achat.
 
 {% hint style="warning" %}
-Attention une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 5 fois plus cher !
+Attention, une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 5 fois plus cher !
 {% endhint %}
 
 ![Un exemple de mini-shop](<../.gitbook/assets/image (44).png>)
@@ -55,7 +55,7 @@ Si un familier est dressé, il compte dans le calcul des récompenses accessible
 | Perte d'affection (1 à 3)       | Moyenne     |
 | Fuite du familier               | Très faible |
 
-![Un exemple d'interaction avec un familier.](<../.gitbook/assets/image (45).png>)
+![Un exemple d'interaction avec un familier](<../.gitbook/assets/image (45).png>)
 
 ## Trouver un familier
 
@@ -64,10 +64,10 @@ Si un familier est dressé, il compte dans le calcul des récompenses accessible
 Le joueur découvre un familier qui le rejoint dans son aventure. Si le joueur a déjà un familier, le nouveau est placé dans le refuge de la guilde du joueur.
 
 {% hint style="danger" %}
-Si il n'y a plus de place dans le refuge de la guilde du joueur et que ce dernier possède déjà un familier alors cet évènement ne rapportera pas de nouveau familier.
+S'il n'y a plus de place dans le refuge de la guilde du joueur et que ce dernier possède déjà un familier alors ce mini-évènement ne rapportera pas de nouveau familier.
 {% endhint %}
 
-Voilà les probabilités d'obtention pour chaque rareté de familiers :
+Voilà les probabilités d'obtention de chaque rareté de familiers :
 
 |          |          |         |         |         |
 | -------- | -------- | ------- | ------- | ------- |
@@ -201,7 +201,7 @@ Voilà la liste des caractéristiques qui peuvent être exploitées :
 * Même classe que le joueur
 * Même guilde
 * Membre du staff
-* Point du classement de la semaine
+* Points du classement de la semaine
 * Peu de vie
 * Beaucoup de vie
 * Mieux classé
@@ -235,13 +235,13 @@ Raconte une information à propos du bot parmi celles-ci :
 * Moyenne des points totaux des joueurs
 * Moyenne des points durant la semaine
 * Nombre de joueurs qui ont commencé leur aventure
-* Moyenne du niveaux des joueurs
+* Moyenne du niveau des joueurs
 * Argent total en circulation
 * Balance du joueur le plus riche
-* Nombre de pets dressés
-* Nombre de pets fielleux
-* Pourcentage de pets femelles dans le jeu
-* Pourcentage de pets mâles dans le jeu
+* Nombre de familiers dressés
+* Nombre de familiers fielleux
+* Pourcentage de familiers femelles dans le jeu
+* Pourcentage de familiers mâles dans le jeu
 * Moyenne du niveau des guildes
 * Nombre de joueurs d'une classe
 * Nombre de joueurs voyageant sur notre chemin&#x20;
@@ -259,7 +259,7 @@ Obtenir une récompense en ayant voté pour le bot sur top.gg parmi celles-ci :
 
 Si vous n'aviez pas voté pour le bot, vous ne verrez qu'un rappel pour voter pour celui-ci.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 164938.png" alt=""><figcaption><p>Exemple de récompense du vote</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 164938.png" alt=""><figcaption><p>Exemple de récompense de vote</p></figcaption></figure>
 
 ## Classes
 
@@ -304,7 +304,7 @@ Vous gagnez une récompense qui dépend de votre classe.
 Vous obtenez une mission secondaire.
 
 {% hint style="info" %}
-Vous pouvez avoir jusqu'à 3 missions secondaires au maximum.
+Vous pouvez avoir jusqu'à 3 missions secondaires.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot_20230526_212110_Discord[1] (1).jpg" alt=""><figcaption><p>Exemple d'obtention d'une mission secondaire</p></figcaption></figure>
@@ -329,7 +329,7 @@ Un homme suspect s'approche de vous et vous fait participer à un jeu composé d
 
 Vous devrez faire un choix entre ces trois gobelets qui vous donnera une des issues suivantes :&#x20;
 
-* Perdre une certaine quantité de vie dépendant de votre niveau
+* Perdre une quantité de vie dépendant de votre niveau
 * Une altération qui dépend de votre niveau
 * Rien
 
@@ -393,7 +393,7 @@ Vous rencontrez un homme se disant être un oracle, il vous donnera une vraie in
 Vous rencontrez une jeune femme qui vous fera regagner toute votre énergie.
 
 {% hint style="info" %}
-Vous n'obtiendrez ce mini-évènement uniquement si votre énergie n'est pas déjà complète.
+Vous n'obtiendrez ce mini-évènement que si votre énergie n'est pas déjà complète.
 {% endhint %}
 
 {% hint style="info" %}
@@ -406,22 +406,22 @@ La guérisseuse ne se balade qu'autour de Claire De Ville.&#x20;
 
 **Rareté : 5**
 
-Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience de guilde dépendant du niveau de celle-ci.
+Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience de guilde dépendant de son niveau.
 
 {% hint style="info" %}
-Vous n'obtiendrez ce mini-évènement uniquement si vous faites parti d'une guilde qui n'est pas niveau 100.
+Vous n'obtiendrez ce mini-évènement que si vous faites partie d'une guilde qui n'est pas niveau 100.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_095045_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain d'expérience de guilde</p></figcaption></figure>
 
-## Gagner des points de vies
+## Gagner des points de vie
 
 **Rareté : 3**
 
-Durant votre voyage, il vous arrivera de pouvoir récupérer des points de vies entre 1:heart:et 4:heart:.&#x20;
+Durant votre voyage, il vous arrivera de récupérer des points de vies (entre 1:heart:et 4:heart:).&#x20;
 
 {% hint style="info" %}
-Vous n'obtiendrez ce mini-évènement uniquement si votre vie n'est pas déjà à son maximum.
+Vous n'obtiendrez ce mini-évènement que si votre vie n'est pas déjà à son maximum.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_100240_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain de points de vie</p></figcaption></figure>
@@ -430,7 +430,7 @@ Vous n'obtiendrez ce mini-évènement uniquement si votre vie n'est pas déjà �
 
 **Rareté : 3**
 
-Durant votre voyage, il vous arrivera de gagner de l'expérience entre 10:star:et 35:star:.
+Durant votre voyage, il vous arrivera de gagner de l'expérience (entre 10:star:et 35:star:).
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_100724_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain d'expérience</p></figcaption></figure>
 
@@ -448,7 +448,7 @@ Selon votre choix, vous pourrez :&#x20;
 
 * Recevoir une potion
 * Avoir une altération d'état
-* Perdre la vie
+* Perdre de la vie
 * Ne rien avoir
 
 {% hint style="info" %}
@@ -456,7 +456,7 @@ En réagissant avec :end:, l'action "Ne rien faire" se déclenche et il ne vous 
 {% endhint %}
 
 {% hint style="info" %}
-Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offrira à vous et vous pourrez soit ajouter un ingrédient ou faire une action.
+Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offrira à vous et vous pourrez soit ajouter un ingrédient soit faire une action.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_102423_Discord[1].jpg" alt=""><figcaption><p>Exemple de rencontre avec la sorcière</p></figcaption></figure>
@@ -465,15 +465,15 @@ Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offri
 
 **Rareté : 1**
 
-Vous rencontrez un marchand qui vous donnera une récompense parmi celles-ci :
+Vous rencontrez un marchand qui vous donne une récompense parmi celles-ci :
 
-* Des bonbons si votre niveau est inférieur au niveau 30 et que votre entrepôt vous le permet
-* Des soupes ultimes si votre niveau est supérieure ou égale au niveau 30 et que votre entrepôt vous le permet
-* Un item aléatoire, dépendant de votre niveau, si votre guilde est supérieure ou égale au niveau 30
+* Des friandises si votre niveau est inférieur au niveau 30 et que votre entrepôt vous le permet.
+* Des soupes ultimes si votre niveau est supérieur ou égal au niveau 30 et que votre entrepôt vous le permet.
+* Un item aléatoire, dépendant de votre niveau, si le niveau de votre guilde est supérieur ou égal au niveau 30.
 
 Si vous n'avez pas de guilde, vous recevrez de l'argent.
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_114742_Discord[1].jpg" alt=""><figcaption><p>Exemple du marchand ultime de nourriture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_20230527_114742_Discord[1].jpg" alt=""><figcaption><p>Exemple de mini-évènement du marchand ultime de nourriture</p></figcaption></figure>
 
 ## Récompenses de ligue
 
@@ -481,19 +481,19 @@ Si vous n'avez pas de guilde, vous recevrez de l'argent.
 
 Ce mini-évènement vous donnera des informations sur les récompenses de votre ligue.
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_123645_Discord[1].jpg" alt=""><figcaption><p>Exemple d'informations des récompenses de ligue</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_20230527_123645_Discord[1].jpg" alt=""><figcaption><p>Exemple de mini-évènement d'informations sur les récompenses de ligue</p></figcaption></figure>
 
 ## Voyage vers l'île du [PVE](pve.md)
 
 **Rareté : 12 (si les conditions sont remplies)**
 
-Ce mini-event vous permet de voyager vers l'île du PVE, celui-ci ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué dans l'ordre suivant : Gratuit - 15 :gem: - 25 :gem:. Une fois 3 trajets effectués il ne vous est plus possible d'aller sur l'île, vous devrez attendre la semaine prochaine !
+Ce mini-évènement vous permet de voyager vers l'île du PVE, il ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué dans l'ordre suivant : Gratuit - 15 :gem: - 25 :gem:. Une fois 3 trajets effectués il ne vous est plus possible d'aller sur l'île, vous devrez attendre la semaine prochaine !
 
 {% hint style="warning" %}
-Ce mini-event ne se déclenche qu'au bord d'un point d'eau !
+Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
 
 
 
@@ -501,10 +501,10 @@ Ce mini-event ne se déclenche qu'au bord d'un point d'eau !
 
 **Rareté : 1**
 
-**Ce mini-évènement vous fera rencontrer Aldéric, un marchand qui vous proposera un item de la rareté épique à la rareté légendaire (voir** [**Équipements**](../notions-principale/items.md)**) excepté des potions.**
+**Ce mini-évènement vous fera rencontrer Aldéric, un marchand qui vous proposera un item de la rareté épique à la rareté légendaire (voir** [**Équipements**](../notions-principale/items.md)**) à l'exception des potions.**
 
 {% hint style="info" %}
-Voyager sur les chemins de la :motorway: **Route des merveilles** réduira considérablement le prix de l'achat sinon vous avez 10% de chance d'avoir une réduction mais moins considérable.
+Voyager sur le chemin de la :motorway: **Route des merveilles** réduira considérablement le prix de l'achat sinon vous avez 10% de chance d'avoir une réduction mais moins considérable.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-26 224611.png" alt=""><figcaption><p>Exemple du marchand épique</p></figcaption></figure>
@@ -513,9 +513,9 @@ Voyager sur les chemins de la :motorway: **Route des merveilles** réduira consi
 
 **Ce mini-évènement vous fera rencontrer un individu mystérieux qui vous proposera une destination connue ou non selon les critères suivants :**&#x20;
 
-* 35% de chance d'avoir un voyage dont vous connaissez la destination.
-* 30% de chance d'avoir un voyage dont vous ne connaissez pas la destination avec un prix réduit.
-* 15% de chance d'avoir une destination fausse mais dont le prix est diminué.
+* 35% de chances d'avoir un voyage dont vous connaissez la destination.
+* 30% de chances d'avoir un voyage dont vous ne connaissez pas la destination avec un prix réduit.
+* 15% de chances d'avoir une destination fausse mais dont le prix est diminué.
 * Sinon le voyage est juste moins cher.
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-28 195354.png" alt=""><figcaption><p>Exemple d'un voyage rapide</p></figcaption></figure>

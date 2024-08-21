@@ -12,7 +12,7 @@ Il existe trois catégories de mission :
 
 * Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il en existe 76 et leur difficulté évolue avec le joueur.
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
-* Les missions secondaires sont un autre moyen d'obtenir des récompenses, celles-ci peuvent se trouver occasionnellement dans des [mini-évènements](report.md#mini-evenements).
+* Les missions secondaires sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](report.md#mini-evenements).
 
 ![Affichage de la commande /missions](../.gitbook/assets/missions.png)
 
@@ -22,15 +22,15 @@ Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-
 
 ### Magasin des missions <a href="#magasin-des-missions" id="magasin-des-missions"></a>
 
-Les gemmes peuvent être gagnées en remplissant des missions de campagne et journalière mais pas dans les missions secondaires. Elles peuvent être dépensées dans le magasin des missions. Le magasin des missions s'affiche grâce à la commande `/magasinmissions`.
+Les gemmes peuvent être gagnées dans les missions de campagne et journalières mais pas dans les missions secondaires. Elles peuvent être dépensées dans le magasin des missions, qui s'affiche grâce à la commande `/magasinmissions`.
 
 Celui-ci se divise en 3 catégories :
 
 {% tabs %}
 {% tab title="Ressources" %}
-* L'argent du roi permet de recevoir une quantité d'argent aléatoire entre 5150 et 7850 :moneybag:. Celui-ci coûte 50 gemmes.
-* Le trésor du roi vous octroie un objet ayant pour rareté minimale Spécial. Celui-ci coûte 30 gemmes.
-* La ferveur du roi vous donne 1000 points mais ne peut être utilisée qu'une fois par semaine. Celle-ci coûte 5 gemmes.
+* L'argent du roi permet de recevoir une quantité d'argent aléatoire entre 5150 et 7850 :moneybag:. Il coûte 50 gemmes.
+* Le trésor du roi vous octroie un objet ayant pour rareté minimale Spécial. Il coûte 30 gemmes.
+* La ferveur du roi vous donne 1 000 points mais ne peut être utilisée qu'une fois par semaine. Elle coûte 5 gemmes.
 {% endtab %}
 
 {% tab title="Utilitaires" %}
@@ -43,7 +43,7 @@ Celui-ci se divise en 3 catégories :
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
 
 {% hint style="info" %}
 Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [pve.md](../notions-avancees/pve.md "mention").

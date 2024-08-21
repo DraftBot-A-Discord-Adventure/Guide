@@ -41,6 +41,6 @@
 ## Aidez-nous à développer DraftBot !
 
 * [Comment contribuer ?](aidez-nous-a-developper-draftbot/comment-contribuer/README.md)
-  * [Rédaction des évents](aidez-nous-a-developper-draftbot/comment-contribuer/redaction-des-events.md)
+  * [Rédaction des évènements](aidez-nous-a-developper-draftbot/comment-contribuer/redaction-des-evenements.md)
   * [Test du bot](aidez-nous-a-developper-draftbot/comment-contribuer/test-du-bot.md)
   * [Rédaction / Traduction du guide](aidez-nous-a-developper-draftbot/comment-contribuer/redaction-traduction-du-guide.md)

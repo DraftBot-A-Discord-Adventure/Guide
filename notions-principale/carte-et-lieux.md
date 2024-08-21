@@ -8,13 +8,13 @@ La carte du monde de DrafBot permet aux joueurs de se repérer entre les différ
 
 #### :european\_castle: **Château du Roi** :
 
-Le Château du Roi est l'endroit où le joueur pourra débuter son aventure et découvrir ainsi quelques notions de bases pour conquérir le cœur de la Princesse ! Mais celui-ci pourrait être amené à avoir d'autres fonctions...
+Le Château du Roi est l'endroit où le joueur pourra débuter son aventure et découvrir ainsi quelques notions de bases pour conquérir le cœur de la Princesse ! Mais celui-ci pourrait être amené à avoir d'autres fonctions…
 
 ***
 
 #### :deciduous\_tree: **Bois Hurlant** :
 
-Forêt mal famée au bord de Claire De Ville. Ce bois a une très mauvaise réputation due aux repaires de bandits et hors-la-loi en tout genre. La forêt tient surtout son nom de ces pratiques douteuses il y a de ça des centaines d’années.
+Forêt mal famée au bord de Claire De Ville. Ce bois a une très mauvaise réputation due aux repaires de bandits et hors-la-loi en tout genre. La forêt tient surtout son nom de ces pratiques douteuses il y a de cela des centaines d’années.
 
 ***
 

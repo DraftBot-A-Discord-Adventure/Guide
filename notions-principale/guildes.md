@@ -4,7 +4,7 @@ description: Un guide à propos des guildes.
 
 # Guildes
 
-Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes au fur et à mesure que chacun investira son argent dans l'achat d'expérience.
+Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes à mesure de l'augmentation du niveau de la guilde.
 
 ### Comment créer une guilde ?
 
@@ -23,12 +23,12 @@ Le nom d'une guilde est unique, il doit respecter un certain nombre de règles :
 {% endhint %}
 
 {% hint style="danger" %}
-Il est impossible de renommer une guilde. Soyez donc certains de vouloir donner tel nom à votre guilde avant de valider la commande !
+Il est impossible de renommer une guilde. Soyez donc certain de vouloir donner tel nom à votre guilde avant de valider la commande !
 {% endhint %}
 
 ### Comment rejoindre une guilde ?
 
-Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'ainé peuvent inviter des joueurs dans leur guilde grâce à la commande `/invitationguilde`.
+Tous les joueurs ayant atteint le niveau 10 peuvent rejoindre une guilde. Seul le chef de guilde et l'aîné peuvent inviter des joueurs dans leur guilde grâce à la commande `/invitationguilde`.
 
 {% hint style="info" %}
 Un salon destiné à recueillir les annonces de recrutement est disponible sur le discord du bot.
@@ -49,11 +49,11 @@ Il existe également 3 options à cette commande:
 #### Dans le magasin de guilde
 
 Dans le magasin de guilde, le joueur peut acheter de l'expérience pour sa guilde.\
-Pour 1000 pièces,la guilde recevra aléatoirement entre 50 et 450 :star:et pour 15000 pièces elle recevra entre 750 et 6750 :star:.
+Pour 1 000 pièces, la guilde recevra aléatoirement entre 50 et 450:star: et pour 15 000 pièces elle recevra entre 750 et 6750:star:.
 
 #### Dans les récompenses quotidiennes
 
-Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent... Le type de récompense varie en fonction du niveau de votre guilde.&#x20;
+Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent… Le type de récompense varie en fonction du niveau de votre guilde.&#x20;
 
 | Niveau de la guilde | Un peu d'argent | Expérience de guilde | Expérience personnelle | Soin des altérations d'état | Gain de vie | Régénération totale de la vie | 350 d'argent | Badge guilde puissante | Badge guilde très puissante  | 5 friandises pour les familiers |
 | ------------------- | --------------- | -------------------- | ---------------------- | --------------------------- | ----------- | ----------------------------- | ------------ | ---------------------- | ---------------------------- | ------------------------------- |
@@ -73,7 +73,7 @@ Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` 
 
 
 {% hint style="danger" %}
-Le badge guilde très puissante :mirror\_ball:ne dépend pas uniquement du niveau de la guilde mais également de son classement.Pour plus de détails,se référer à [Badges](../notions-avancees/badges.md) ou [PVE](../notions-avancees/pve.md).
+Le badge guilde très puissante :mirror\_ball: ne dépend pas uniquement du niveau de la guilde mais également de son classement. Pour plus de détails, se référer à [Badges](../notions-avancees/badges.md) ou [PVE](../notions-avancees/pve.md).
 {% endhint %}
 
 {% hint style="info" %}
@@ -91,7 +91,7 @@ Vous pouvez afficher la nourriture stockée dans votre guilde avec la commande `
 * 25 friandises
 * 15 salades
 * 15 viandes
-* 5 soupes ultime
+* 5 soupes ultimes
 
 {% hint style="info" %}
 Vous pouvez acheter de la nourriture dans le magasin de la guilde.

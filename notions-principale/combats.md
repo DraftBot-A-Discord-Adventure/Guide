@@ -25,11 +25,11 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats classés
 
-Un combat classé peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire. L'énergie est consommée dans ce type de combat.
+Un combat classé peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire et l'énergie perdue est consommée.
 
 #### Les combats amicaux
 
-Les combats amicaux sont similaires aux combats classés, à la seule différence que vous ne gagnez pas de gloire, et ne perdez aucune énergie à la fin de ceux-ci. Ils peuvent être lancés avec l'option `amical` de la commande à `true`.
+Les combats amicaux sont similaires aux combats classés, à la seule différence que vous ne gagnez pas de gloire, et que l'énergie perdue est restaurée à la fin de ceux-ci. Ils peuvent être lancés avec l'option `amical` de la commande à `true`.
 
 #### Les combats de monstres
 
@@ -47,7 +47,7 @@ Ces attaques sont réparties dans les différentes classes du jeu :&#x20;
 * Chevalier : Attaque simple, Attaque rapide, Attaque lourde, Bénédiction, Repos.
 * Paladin : Attaque simple, Attaque bélier, Attaque ultime, Attaque bouclier, Attaque divine.
 * Vétéran : Attaque rapide, Attaque énergique, Attaque chargée, Attaque perçante, Concentration.
-* Mage : Attaque vol de souffle, Attaque maudite, Attaque sombre, Attaque feu, Attaque empoisonnée
+* Mage : Attaque empoisonnée, Attaque feu, Attaque vol de souffle, Attaque maudite, Attaque sombre.
 
 {% hint style="danger" %}
 Les attaques ci-dessus restent toujours les mêmes pour l'équivalent de la classe associée en fonction du niveau.
@@ -65,7 +65,7 @@ Vous pouvez retrouvez le détail des attaques sur le document ci-dessous.
 
 ### Gestion du souffle
 
-Chaque attaque nécessite une certaine quantité de souffle. Chaque usage de cette attaque retirera de la réserve de souffle du combattant le montant spécifié. Au début de son tour,le combattant reçoit une quantité de souffle défini par la statistique de récupération de souffle :lungs: ,dépendant de la classe. Les informations sur les réserves de souffle liées à une classe ou les consommations de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`.
+Chaque attaque nécessite une certaine quantité de souffle. Chaque usage de cette attaque retirera de la réserve de souffle du combattant le montant spécifié. Au début de son tour, le combattant reçoit une quantité de souffle définie par la statistique de récupération de souffle :lungs:  dépendant de sa classe. Les informations sur les réserves de souffle liées à une classe et la consommation de souffle des différentes attaques peuvent être consultées via la commande `/infosclasses`.
 
 {% hint style="info" %}
 Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus de souffle que ce dont il dispose, l'attaque n'aura qu'une faible probabilité d'être lancée.
@@ -73,9 +73,9 @@ Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus 
 
 ### Conditions de victoire
 
-Dès lors que :zap: l'énergie de l'un des adversaire tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat.
+Dès lors que :zap: l'énergie de l'un des combatants tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat.
 
-Un combat peut aussi se terminer sur une égalité si ce dernier atteint les 24 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
+Un combat peut aussi se terminer sur une égalité s'il atteint les 24 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
 
 Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu, sauf s'il s'agissait d'un combat amical.
 

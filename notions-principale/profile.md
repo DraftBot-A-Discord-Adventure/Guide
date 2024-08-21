@@ -10,7 +10,7 @@ Comme quasiment tous les RPGs, votre personnage possède un profil servant à af
 Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via l'option "classement" ou en le mentionnant avec le paramètre "utilisateur" !
 {% endhint %}
 
-L'inventaire d'un joueur se décompose donc de cette façon :
+Le profil d'un joueur se décompose donc de cette façon :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-03-20 121841.png" alt=""><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 

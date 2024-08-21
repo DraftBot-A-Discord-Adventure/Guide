@@ -16,9 +16,7 @@ Le choix de classe dépend de votre niveau, il existe **5 paliers** de classes d
 Au total, il y a 25 classes disponibles dans le jeu.
 {% endhint %}
 
-Pour changer de classe et à condition que votre personnage soit niveau 4 vous devez utiliser la commande `/classes`.
-
-Puis vous devez cliquer sur la réaction correspondante à la classe que vous souhaitez.
+Pour changer de classe, et à condition que votre personnage soit niveau 4, vous devez utiliser la commande `/classes`, puis cliquer sur la réaction correspondant à la classe que vous souhaitez.
 
 ### Liste des classes
 
@@ -33,7 +31,7 @@ Puis vous devez cliquer sur la réaction correspondante à la classe que vous so
 <figure><img src="../.gitbook/assets/tier5.png" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="danger" %}
-Vu que les classes sont gratuites, un cooldown de soit deux semaines (pour les tiers 1 et 2), soit d'un mois (pour les autres tiers) a été mis en place afin d'éviter de spammer les changements de classe.
+Afin d'éviter de nombreuseux changements de classe, un délai minimum de deux semaines pour les classes de tier 1 et 2, ou d'un mois est imposé entre deux changements.
 {% endhint %}
 
 ### Statistiques des classes

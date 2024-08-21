@@ -1,6 +1,6 @@
 # Rapports
 
-Les rapports représentent la base du jeu. Il s'agit d'une petite description de ce qu'il est advenu du personnage contrôlé par le joueur depuis leur dernière interaction. Pour demander un rapport, le joueur doit utiliser la commande `/rapport`.
+Les rapports représentent la base du jeu. Il s'agit d'une petite description de ce qu'il est advenu du personnage contrôlé par le joueur depuis sa dernière interaction. Pour demander un rapport, le joueur doit utiliser la commande `/rapport`.
 
 ### Interface :
 
@@ -58,5 +58,3 @@ Après un évènement, le joueur est amené à choisir une destination. Il n'est
 Le temps indiqué entre parenthèses est le temps de voyage pour parvenir jusqu'au lieu, un point d'interrogation signifie que le temps est inconnu. Dans un 15% des cas, le bot choisit automatiquement la destination du joueur.
 
 ![Voici votre information sur votre destination](../.gitbook/assets/destination-choisie.png)
-
-###
