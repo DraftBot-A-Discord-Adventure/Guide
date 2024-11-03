@@ -417,24 +417,24 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 
 #### Bonus d'énergie
 
-| Symbole                                                            | Nom                | Effet                           | Rareté     |
-| ------------------------------------------------------------------ | ------------------ | ------------------------------- | ---------- |
-| :shower:                                                           | Eau de douche      | :zap:Énergie + 12               | Commun     |
-| :coffee:                                                           | Expresso           | :zap:Énergie + 24               | Commun     |
-| :closed\_umbrella:                                                 | Gouttes de pluie   | :zap:Énergie + 61               | Commun     |
-| :cactus:                                                           | Jus de cactus      | :zap:Énergie + 112              | Peu commun |
-| <img src="../.gitbook/assets/bubbles.png" alt="" data-size="line"> | Potion à bulles    | :zap:Énergie + 199              | Peu commun |
-| :cold\_face:                                                       | Eau de stalactites | :zap:Énergie + 362              | Exotique   |
-| :ocean:                                                            | Potion de la mer   | :zap:Énergie + 802              | Rare       |
-| :soap:                                                             | Eau savonneuse     | :zap:Énergie + 852              | Rare       |
-| :cocktail:                                                         | Cocktail tonique   | :zap:Énergie + 963              | Spécial    |
-| <img src="../.gitbook/assets/lotus.png" alt="" data-size="line">   | Rosée du matin     | :zap:Énergie Énergie + 18+ 1024 | Spécial    |
-| :pirate\_flag:                                                     | Rhum               | :zap:Énergie + 1504             | Épique     |
-| :honey\_pot:                                                       | Miel               | :zap:Énergie + 1669             | Épique     |
-| :syringe:                                                          | Substance inconnue | :zap:Énergie + 1775             | Épique     |
-| :motor\_scooter:                                                   | SP 95              | :zap:Énergie + 1874             | Légendaire |
-| :volcano:                                                          | Larme de Titan     | :zap:Énergie + 1899             | Légendaire |
-| :feather:                                                          | Essence de phénix  | :zap:Énergie + 2048             | Mythique   |
+| Symbole                                                            | Nom                | Effet               | Rareté     |
+| ------------------------------------------------------------------ | ------------------ | ------------------- | ---------- |
+| :shower:                                                           | Eau de douche      | :zap:Énergie + 12   | Commun     |
+| :coffee:                                                           | Expresso           | :zap:Énergie + 24   | Commun     |
+| :closed\_umbrella:                                                 | Gouttes de pluie   | :zap:Énergie + 61   | Commun     |
+| :cactus:                                                           | Jus de cactus      | :zap:Énergie + 112  | Peu commun |
+| <img src="../.gitbook/assets/bubbles.png" alt="" data-size="line"> | Potion à bulles    | :zap:Énergie + 199  | Peu commun |
+| :cold\_face:                                                       | Eau de stalactites | :zap:Énergie + 362  | Exotique   |
+| :ocean:                                                            | Potion de la mer   | :zap:Énergie + 802  | Rare       |
+| :soap:                                                             | Eau savonneuse     | :zap:Énergie + 852  | Rare       |
+| :cocktail:                                                         | Cocktail tonique   | :zap:Énergie + 963  | Spécial    |
+| <img src="../.gitbook/assets/lotus.png" alt="" data-size="line">   | Rosée du matin     | :zap:Énergie + 1024 | Spécial    |
+| :pirate\_flag:                                                     | Rhum               | :zap:Énergie + 1504 | Épique     |
+| :honey\_pot:                                                       | Miel               | :zap:Énergie + 1669 | Épique     |
+| :syringe:                                                          | Substance inconnue | :zap:Énergie + 1775 | Épique     |
+| :motor\_scooter:                                                   | SP 95              | :zap:Énergie + 1874 | Légendaire |
+| :volcano:                                                          | Larme de Titan     | :zap:Énergie + 1899 | Légendaire |
+| :feather:                                                          | Essence de phénix  | :zap:Énergie + 2048 | Mythique   |
 
 #### Bonus de temps
 
