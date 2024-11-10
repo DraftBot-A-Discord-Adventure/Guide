@@ -112,7 +112,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :zap:                               | Foudre de Zeus            | :dagger:122                         | Épique     |
 | :crossed\_swords:                   | Épée royale               | :dagger:132                         | Épique     |
 | :gun:                               | Pistolet chargé           | :dagger:143                         | Épique     |
-| :dragon:                            | **Épée du Dragon**        | :dagger:99 :shield:117 :rocket:18   | Légendaire |
+| :dragon:                            | Épée du dragon            | :dagger:99 :shield:117 :rocket:18   | Légendaire |
 | :warning:                           | Plothammer                | :dagger:107 :shield:100             | Légendaire |
 | :gun:                               | Pistolet pan pan QQ       | :dagger:125                         | Légendaire |
 | :microbe:                           | Bio-arme                  | :dagger:134                         | Légendaire |
@@ -254,7 +254,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :joy\_cat:             | Chat aux yeux lasers mignon   | :dagger: Attaque +57 pendant les combats  | Spécial    |
 | :pick:                 | Pied de biche                 | :dagger:Attaque +64 pendant les combats   | Spécial    |
 | :flag\_black:          | Drapeau de la mort            | :dagger: Attaque +85 pendant les combats  | Épique     |
-| :cockroach:            | Script de Easy                | Attaque +107 pendant les combats:dagger:  | Épique     |
+| :cockroach:            | Script de Easy                | :dagger:Attaque +107 pendant les combats  | Épique     |
 | :gem:                  | Diamant Kéraunique            | :dagger: Attaque +143 pendant les combats | Légendaire |
 | :eye:                  | Œil de Fatalis                | :dagger: Attaque +144 pendant les combats | Mythique   |
 | :guitar:               | Guitare terrifiante           | :dagger: Attaque +151 pendant les combats | Mythique   |
