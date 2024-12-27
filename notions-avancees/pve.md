@@ -32,6 +32,16 @@ Les trajets pour aller sur l'île et pour la quitter auront des temps différent
 Vous pouvez quitter l'île à la fin de chaque combat si vous sentez que vous ne tiendrez pas le coup face au prochain monstre avec votre énergie restante.
 {% endhint %}
 
+{% hint style="info" %}
+Si vous choisissez de vous rendre sur l'île avec des membres de votre guilde, le bonus "allié.s" sera activé.&#x20;
+
+Ce bonus réduira les malus rencontrés lors des mini-évènements. Il reste actif pendant une durée de 1 heure après le départ d'un allié de l'île.&#x20;
+
+Pour connaître le nombre d'alliés présents sur l'île, utilisez la commande /guilde et consultez la section des informations sous la liste des membres de la guilde. Le nombre d'alliés sur l'île est indiqué dans la ligne "Nombre d'alliés sur l'île mystérieuse".&#x20;
+
+Vous pouvez également identifier les alliés présents grâce à l'émoji :handshake: affiché à côté de leur pseudo.
+{% endhint %}
+
 {% hint style="danger" %}
 Sur l'île, vous ne regagnerez pas de points d'énergie naturellement, le seul moyen étant de tomber sur des mini-évènements de gain de points d'énergie.
 
