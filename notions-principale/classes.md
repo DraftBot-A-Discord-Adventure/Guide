@@ -31,7 +31,12 @@ Pour changer de classe, et à condition que votre personnage soit niveau 4, vous
 <figure><img src="../.gitbook/assets/tier5.png" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="danger" %}
-Afin d'éviter de nombreuseux changements de classe, un délai minimum de deux semaines pour les classes de tier 1 et 2, ou d'un mois est imposé entre deux changements.
+Afin d'éviter de nombreux changements de classe, un délai minimum est imposé entre deux changements:
+
+* Palier 1: 1 jour
+* Palier 2: 1 semaine
+* Palier 3: 3 semaines
+* Paliers 4 et 5: 4 semaines.
 {% endhint %}
 
 ### Statistiques des classes
