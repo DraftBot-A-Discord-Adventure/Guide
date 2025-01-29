@@ -5,13 +5,13 @@
 ### Rarity levels
 
 * &#x20;Basic :small\_orange\_diamond: `Rarity of the item at the beginning of the game`&#x20;
-* &#x20;Common :large\_orange\_diamond: `43,75% (1 item / 2)`&#x20;
+* &#x20;Common :large\_orange\_diamond: `43,75% (~1 item / 2)`&#x20;
 * &#x20;Uncommon :fire: `25% (1 item / 4)`&#x20;
-* &#x20;Exotic :trident: `15% (1 item / 7)`&#x20;
+* &#x20;Exotic :trident: `15% (~1 item / 7)`&#x20;
 * &#x20;Rare :comet: `10% (1 item / 10)`&#x20;
 * &#x20;Special :dizzy: `5% (1 item / 20)`&#x20;
 * &#x20;Epic :star: `1% (1 item / 100)`&#x20;
-* &#x20;Legendary :star2: `0,23% (1 item / 435)`&#x20;
+* &#x20;Legendary :star2: `0,23% (~1 item / 435)`&#x20;
 * &#x20;Mythical :gem: `0,02% (1 item / 5 000)`
 
 {% hint style="info" %}
@@ -62,7 +62,7 @@ The same applies to the power of the equipment. However, the power of an equipme
 | :knife:                                                                 | Old knife              | :dagger:19                          | Uncommon  |
 | :bricks:                                                                | Brick                  | :dagger:15                          | Exotic    |
 | :scissors:                                                              | Scissors               | :dagger:16                          | Exotic    |
-| :family\_mmbb:                                                          | Power of friendship    | :dagger:18 :shield:20 :rocket:15    | Exotic    |
+| :people\_hugging:                                                       | Power of friendship    | :dagger:18 :shield:20 :rocket:15    | Exotic    |
 | :fire\_extinguisher:                                                    | Fire extinguisher      | :dagger:20                          | Exotic    |
 | :pick:                                                                  | Pickaxe                | :dagger:22                          | Exotic    |
 | :wrench:                                                                | Sledgehammer           | :dagger:22 :rocket:-10              | Exotic    |
@@ -161,7 +161,7 @@ The same applies to the power of the equipment. However, the power of an equipme
 | :shield:                  | Lynel's shield          | :shield:55                         | Rare      |
 | :clown:                   | Self-mockery            | :dagger:-25 :shield:60             | Rare      |
 | :kimono:                  | Reinforced kimono       | :shield:48                         | Special   |
-| :shield:                  | Powerful aegis          | :dagger:106 :shield:40             | Special   |
+| :shield:                  | Powerful aegis          | :dagger:60:shield:62               | Special   |
 | :mechanical\_arm:         | Mecanical arm           | :shield:67                         | Special   |
 | :chess\_pawn:             | Pawns lane              | :dagger:-15 :shield:73             | Special   |
 | :sparkle:                 | Force field             | :shield:79                         | Special   |
@@ -198,54 +198,59 @@ The same applies to the power of the equipment. However, the power of an equipme
 
 #### :heart: Health bonus
 
-| Symbol                                                                             | Name                  | Statistics                    | Rarity    |
-| ---------------------------------------------------------------------------------- | --------------------- | ----------------------------- | --------- |
-| :apple:                                                                            | Red Apple             | :heart: Health +1 per day     | Uncommon  |
-| :green\_apple:                                                                     | Green apple           | :heart: Health +2 per day     | Exotic    |
-| :prayer\_beads:                                                                    | Mythical rosary       | :heart: Health +3 per day     | Exotic    |
-| :adhesive\_bandage:                                                                | Bandage               | :heart: Health +4 per day     | Rare      |
-| :chocolate\_bar:                                                                   | Chocobrie             | :heart: Health +5 per day     | Special   |
-| ![:heartpulse:](https://discord.com/assets/4bfb4661aa2746510f9e9ddcc990ccae.svg)   | Heart container       | :heart: Health +6 per day     | Special   |
-| ![:heartpulse:](https://discord.com/assets/4bfb4661aa2746510f9e9ddcc990ccae.svg)   | Hydro-Alcoholic Gel   | :heart: Health +7 per day     | Epic      |
-| :banana:                                                                           | Banan'ase split       | :heart: Health +9 per day     | Epic      |
-| :angel:                                                                            | Lifeless angel's ring | :heart: Hearth +11 per day    | Epic      |
-| ![:flag\_white:](https://discord.com/assets/60607b817ba7412ac83babae796c1d8c.svg)  | Peace flag            | :heart: Health +14 per day    | Legendary |
-| ![:angel\_tone3:](https://discord.com/assets/1e38d4131bdeac25303a3602c25a9f2a.svg) | Sky's blessing        | :heart: LifHealth +15 per day | Legendary |
-| :saxophone:                                                                        | Magic sax             | :heart: Health +16 per day    | Mythical  |
+| Symbol              | Name                  | Statistics                 | Rarity    |
+| ------------------- | --------------------- | -------------------------- | --------- |
+| :apple:             | Red Apple             | :heart: Health +1 per day  | Uncommon  |
+| :green\_apple:      | Green apple           | :heart: Health +2 per day  | Exotic    |
+| :prayer\_beads:     | Mythical rosary       | :heart: Health +3 per day  | Exotic    |
+| :adhesive\_bandage: | Bandage               | :heart: Health +4 per day  | Rare      |
+| :chocolate\_bar:    | Chocobrie             | :heart: Health +5 per day  | Special   |
+| :heart:             | Heart container       | :heart: Health +6 per day  | Special   |
+| :squeeze\_bottle:   | Hydro-Alcoholic Gel   | :heart: Health +7 per day  | Epic      |
+| :banana:            | Banan'ase split       | :heart: Health +9 per day  | Epic      |
+| :angel:             | Lifeless angel's ring | :heart: Hearth +11 per day | Epic      |
+| :flag\_white:       | Peace flag            | :heart: Health +14 per day | Legendary |
+| :angel:             | Sky's blessing        | :heart: Health +15 per day | Legendary |
+| :saxophone:         | Magic sax             | :heart: Health +16 per day | Mythical  |
 
 #### :rocket: Speed bonus
 
-| Symbol                                                                             | Name               | Statistics                        | Rarity    |
-| ---------------------------------------------------------------------------------- | ------------------ | --------------------------------- | --------- |
-| :amphora:                                                                          | Terracotta pot     | :rocket: Speed +1 during fights   | Common    |
-| :closed\_book:                                                                     | Spellbook volume 1 | :rocket: Speed +5 during fights   | Common    |
-| :soap:                                                                             | Swiping soap       | :rocket: Speed +7 during fights   | Uncommon  |
-| :mans\_shoe:                                                                       | Running shoe       | :rocket: Speed +15 during fights  | Uncommon  |
-| :crystal\_ball:                                                                    | Magic glass ball   | :rocket: Speed +25 during fights  | Exotic    |
-| :four\_leaf\_clover:                                                               | Leaf in the wind   | :rocket: Speed +41 during fights  | Rare      |
-| :globe\_with\_meridians:                                                           | Optical fiber      | :rocket: Speed +56 during fights  | Rare      |
-| :skier:                                                                            | Slippery skis      | :rocket: Speed +63 during fights  | Special   |
-| ![:angel\_tone3:](https://discord.com/assets/1e38d4131bdeac25303a3602c25a9f2a.svg) | Kars               | :rocket: Speed +74 during fights  | Special   |
-| :mechanical\_leg:                                                                  | Mechanical leg     | :rocket: Speed +87 during fights  | Epic      |
-| :rosette:                                                                          | Hope flower        | :rocket: Speed +105 during fights | Legendary |
-| :hiking\_boot:                                                                     | Pegasus Boots      | :rocket: Speed +107 during fights | Legendary |
-| :broom:                                                                            | Nimbus 2000        | :rocket: Speed +151 during fights | Mythical  |
+| Symbol                   | Name               | Statistics                        | Rarity    |
+| ------------------------ | ------------------ | --------------------------------- | --------- |
+| :amphora:                | Terracotta pot     | :rocket: Speed +1 during fights   | Common    |
+| :closed\_book:           | Spellbook volume 1 | :rocket: Speed +5 during fights   | Common    |
+| :soap:                   | Swiping soap       | :rocket: Speed +7 during fights   | Uncommon  |
+| :mans\_shoe:             | Running shoe       | :rocket: Speed +15 during fights  | Uncommon  |
+| :crystal\_ball:          | Magic glass ball   | :rocket: Speed +25 during fights  | Exotic    |
+| :four\_leaf\_clover:     | Leaf in the wind   | :rocket: Speed +41 during fights  | Rare      |
+| :globe\_with\_meridians: | Optical fiber      | :rocket: Speed +56 during fights  | Rare      |
+| :skier:                  | Slippery skis      | :rocket: Speed +63 during fights  | Special   |
+| :floppy\_disk:           | SYM card           | :rocket:Speed +72 during fights   | Special   |
+| :mechanical\_leg:        | Mechanical leg     | :rocket: Speed +87 during fights  | Epic      |
+| :race\_car:              | Kars               | :rocket: Speed +104 during fights | Epic      |
+| :hiking\_boot:           | Pegasus Boots      | :rocket: Speed +128 during fights | Legendary |
+| :rosette:                | Hope flower        | :rocket: Speed +145 during fights | Legendary |
+| :broom:                  | Nimbus 2000        | :rocket: Speed +151 during fights | Mythical  |
 
 #### :crossed\_swords: Attack bonus
 
-| Symbol                                                                            | Name                              | Statistics                                  | Rarity    |
-| --------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------- | --------- |
-| :bricks:                                                                          | Lego                              | :crossed\_swords: Attack +7 during fights   | Common    |
-| :high\_heel:                                                                      | High heel shoes                   | :crossed\_swords: Attack +10 during fights  | Common    |
-| :blue\_book:                                                                      | Spellbook volume 2                | :crossed\_swords: Attack +15 during fights  | Uncommon  |
-| :postal\_horn:                                                                    | Hunting horn                      | :crossed\_swords: Attack +27 during fights  | Exotic    |
-| :diamond\_shape\_with\_a\_dot\_inside:                                            | Power of Nayru                    | :crossed\_swords: Attack +38 during fights  | Rare      |
-| :joy\_cat:                                                                        | Cute cat with laser-throwing eyes | :crossed\_swords: Attack +57 during fights  | Special   |
-| :pick:                                                                            | Crowbar                           | :crossed\_swords: Attack +64 during fights  | Special   |
-| ![:flag\_black:](https://discord.com/assets/53d700db9e5fbb461663685b813156df.svg) | Death flag                        | :crossed\_swords: Attack +85 during fights  | Epic      |
-| :gem:                                                                             | Keratinized diamond               | :crossed\_swords: Attack +132 during fights | Legendary |
-| :eye:                                                                             | Fatalis' eye                      | :crossed\_swords: Attack +134 during fights | Mythical  |
-| :guitar:                                                                          | Terrifying guitar                 | :crossed\_swords: Attack +137 during fights | Mythical  |
+| Symbol                                 | Name                              | Statistics                                  | Rarity    |
+| -------------------------------------- | --------------------------------- | ------------------------------------------- | --------- |
+| :fish:                                 | Dead fish                         | :crossed\_swords: Attack +1 during fights   | Common    |
+| 🧻                                     | Toilet Paper Roll                 | :crossed\_swords: Attack +3 during fights   | Common    |
+| :high\_heel:                           | High heel shoes                   | :crossed\_swords: Attack +10 during fights  | Common    |
+| :blue\_book:                           | Spellbook volume 2                | :crossed\_swords: Attack +15 during fights  | Uncommon  |
+| :bricks:                               | Lego                              | :crossed\_swords: Attack +17 during fights  | Uncommon  |
+| :postal\_horn:                         | Hunting horn                      | :crossed\_swords: Attack +27 during fights  | Exotic    |
+| :diamond\_shape\_with\_a\_dot\_inside: | Power of Nayru                    | :crossed\_swords: Attack +38 during fights  | Rare      |
+| :guitar:                               | Electric guitar                   | :crossed\_swords: Attack +51 during fights  | Rare      |
+| :joy\_cat:                             | Cute cat with laser-throwing eyes | :crossed\_swords: Attack +57 during fights  | Special   |
+| :pick:                                 | Crowbar                           | :crossed\_swords: Attack +64 during fights  | Special   |
+| :flag\_black:                          | Death flag                        | :crossed\_swords: Attack +85 during fights  | Epic      |
+| :cockroach:                            | Easy's script                     | :crossed\_swords: Attack +107 during fight  | Epic      |
+| :gem:                                  | Keratinized diamond               | :crossed\_swords: Attack +143 during fights | Legendary |
+| :eye:                                  | Fatalis' eye                      | :crossed\_swords: Attack +144 during fights | Mythical  |
+| :guitar:                               | Terrifying guitar                 | :crossed\_swords: Attack +151 during fights | Mythical  |
 
 #### :shield: Defense bonus
 
@@ -257,27 +262,29 @@ The same applies to the power of the equipment. However, the power of an equipme
 | :orange\_book:           | Spellbook volume 3 | :shield: Defense +25 during fights  | Exotic    |
 | :new\_moon:              | Piece of obsidian  | :shield: Defense +42 during fights  | Rare      |
 | :fleur-de-lis:           | Royal flower       | :shield: Defense +59 during fights  | Special   |
+| :four\_leaf\_clover:     | 4-Leaf clover      | :shield: Defense +69 during fights  | Special   |
 | :full\_moon\_with\_face: | Mojaro's Moon      | :shield: Defense +90 during fights  | Epic      |
+| :star2:                  | Destiny Star       | :shield:Defense + 132 during fights | Legendary |
 | :cyclone:                | Cyclonic amulet    | :shield: Defense +143 during fights | Legendary |
 | :ringed\_planet:         | Defense rings      | :shield: Defense +151 during fights | Mythical  |
 
 #### :zap: Energy bonus
 
-| Symbol                                                                            | Name                    | Statistics               | Rarity    |
-| --------------------------------------------------------------------------------- | ----------------------- | ------------------------ | --------- |
-| :meat\_on\_bone:                                                                  | Dog food                | :zap:Energy +15 per day  | Common    |
-| ![:flag\_black:](https://discord.com/assets/53d700db9e5fbb461663685b813156df.svg) | Low battery             | :zap:Energy +22 per day  | Common    |
-| :hot\_pepper:                                                                     | Hot pepper              | :zap:Energy +63 per day  | Common    |
-| :bed:                                                                             | Bed                     | :zap:Energy +111 per day | Uncommon  |
-| :battery:                                                                         | Full battery            | :zap:Energy +264 per day | Exotic    |
-| :robot:                                                                           | Buzz Lightyear figurine | :zap:Energy +289 per day | Exotic    |
-| :headphones:                                                                      | Music                   | :zap:Energy +442 per day | Rare      |
-| :roller\_coaster:                                                                 | Roller coaster ticket   | :zap:Energy +527 per day | Special   |
-| :sunny:                                                                           | Sun                     | :zap:Energy +618 per day | Special   |
-| :dna:                                                                             | Doping program          | :zap:Energy +618 per day | Epic      |
-| ![:flag\_black:](https://discord.com/assets/53d700db9e5fbb461663685b813156df.svg) | Artificial heart        | :zap:Energy +813 per day | Epic      |
-| :health\_worker:                                                                  | Pocket doctor           | :zap:Energy +955 per day | Legendary |
-| :electric\_plug:                                                                  | Defibrillator           | :zap:Energy +969 per day | Mythical  |
+| Symbol            | Name                    | Statistics               | Rarity    |
+| ----------------- | ----------------------- | ------------------------ | --------- |
+| :meat\_on\_bone:  | Dog food                | :zap:Energy +15 per day  | Common    |
+| 🔋                | Low battery             | :zap:Energy +22 per day  | Common    |
+| :hot\_pepper:     | Hot pepper              | :zap:Energy +63 per day  | Common    |
+| :bed:             | Bed                     | :zap:Energy +111 per day | Uncommon  |
+| :battery:         | Full battery            | :zap:Energy +264 per day | Exotic    |
+| :robot:           | Buzz Lightyear figurine | :zap:Energy +289 per day | Exotic    |
+| :headphones:      | Music                   | :zap:Energy +442 per day | Rare      |
+| :roller\_coaster: | Roller coaster ticket   | :zap:Energy +527 per day | Special   |
+| :sunny:           | Sun                     | :zap:Energy +618 per day | Special   |
+| :dna:             | Doping program          | :zap:Energy +799 per day | Epic      |
+| :heart:           | Artificial heart        | :zap:Energy +813 per day | Epic      |
+| :health\_worker:  | Pocket doctor           | :zap:Energy +955 per day | Legendary |
+| :electric\_plug:  | Defibrillator           | :zap:Energy +969 per day | Mythical  |
 
 #### :moneybag: Money bonus
 
@@ -302,6 +309,7 @@ The same applies to the power of the equipment. However, the power of an equipme
 | Symbol          | Name                 | Statistics                                                  | Rarity    |
 | --------------- | -------------------- | ----------------------------------------------------------- | --------- |
 | :apple:         | Big tree's apple     | :clock2: Speeds up time for 20 minutes every day            | Special   |
+| :rocket:        | Cardboard Rocket     | :clock2:Speeds up time for 30m every day                    | Special   |
 | :notes:         | Harmonica of time    | :clock2: Speeds up time for 40 minutes every day            | Epic      |
 | :book:          | Kyuran               | :clock2: Speeds up time for 50 minutes every day            | Epic      |
 | :movie\_camera: | Particle accelerator | :clock2: Speeds up time for 1 hour and 10 minutes every day | Legendary |
@@ -313,24 +321,25 @@ The same applies to the power of the equipment. However, the power of an equipme
 
 #### :x: No effect
 
-| Symbol | Name               | Statistics    | Rarity    |
-| ------ | ------------------ | ------------- | --------- |
-| ⚗️     | Expired potion     | :x: No effect | Common    |
-| 💧     | Purified water     | :x: No effect | Common    |
-| 🍷     | Red wine           | :x: No effect | Common    |
-| 🫕     | Poured Potion      | :x: No effect | Common    |
-| 🫕     | Bubble tea         | :x: No effect | Common    |
-| 🧪     | Suspicious potion  | :x: No effect | Common    |
-| ♻️     | Empty potion       | :x: No effect | Uncommon  |
-| 🫕     | Recyclable Potion  | :x: No effect | Uncommon  |
-| 🫕     | Non potable potion | :x: No effect | Exotic    |
-| ✒️     | Ink                | :x: No effect | Exotic    |
-| ♨️     | Boiling water      | :x: No effect | Exotic    |
-| 🛏️    | Spit on the pillow | :x: No effect | Rare      |
-| 🫕     | Sweat              | :x: No effect | Special   |
-| 🫕     | Flipping Potion    | :x: No effect | Epic      |
-| 🫕     | Super Nariwa       | :x: No effect | Legendary |
-| 🫕     | Apple juice        | :x: No effect | Mythical  |
+| Symbol                                                                                                                                                                                                                                                                                                                                                                                                                           | Name               | Statistics    | Rarity    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | --------- |
+| ⚗️                                                                                                                                                                                                                                                                                                                                                                                                                               | Expired potion     | :x: No effect | Common    |
+| 💧                                                                                                                                                                                                                                                                                                                                                                                                                               | Purified water     | :x: No effect | Common    |
+| 🍷                                                                                                                                                                                                                                                                                                                                                                                                                               | Red wine           | :x: No effect | Common    |
+| <img src="https://guide.draftbot.com/~gitbook/image?url=https%3A%2F%2F2159345893-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MH1fCvNZ7zikrWd7dJj-2584506019%252Fuploads%252FQGCWWwJAFmcf1cTjtSP0%252Fpouring-liquid.png%3Falt%3Dmedia%26token%3D526c0d26-7ab3-471d-81f4-f082abfd746b&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=eccc1a76&#x26;sv=2" alt="" data-size="line"> | Poured Potion      | :x: No effect | Common    |
+| :bubble\_tea:                                                                                                                                                                                                                                                                                                                                                                                                                    | Bubble tea         | :x: No effect | Common    |
+| 🧪                                                                                                                                                                                                                                                                                                                                                                                                                               | Suspicious potion  | :x: No effect | Common    |
+| :jar:                                                                                                                                                                                                                                                                                                                                                                                                                            | Empty potion       | :x: No effect | Uncommon  |
+| :ocean:                                                                                                                                                                                                                                                                                                                                                                                                                          | Sea water          | :x: No effect | Uncommon  |
+| :recycle:                                                                                                                                                                                                                                                                                                                                                                                                                        | Recyclable Potion  | :x: No effect | Uncommon  |
+| 🚱                                                                                                                                                                                                                                                                                                                                                                                                                               | Non potable potion | :x: No effect | Exotic    |
+| ✒️                                                                                                                                                                                                                                                                                                                                                                                                                               | Ink                | :x: No effect | Exotic    |
+| ♨️                                                                                                                                                                                                                                                                                                                                                                                                                               | Boiling water      | :x: No effect | Exotic    |
+| 🛏️                                                                                                                                                                                                                                                                                                                                                                                                                              | Spit on the pillow | :x: No effect | Rare      |
+| :sweat\_drops:                                                                                                                                                                                                                                                                                                                                                                                                                   | Sweat              | :x: No effect | Special   |
+| <img src="https://guide.draftbot.com/~gitbook/image?url=https%3A%2F%2F2159345893-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MH1fCvNZ7zikrWd7dJj-2584506019%252Fuploads%252FQGCWWwJAFmcf1cTjtSP0%252Fpouring-liquid.png%3Falt%3Dmedia%26token%3D526c0d26-7ab3-471d-81f4-f082abfd746b&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=eccc1a76&#x26;sv=2" alt="" data-size="line"> | Flipping Potion    | :x: No effect | Epic      |
+| :mount\_fuji:                                                                                                                                                                                                                                                                                                                                                                                                                    | Super Nariwa       | :x: No effect | Legendary |
+| :beverage\_box:                                                                                                                                                                                                                                                                                                                                                                                                                  | Apple juice        | :x: No effect | Mythical  |
 
 #### :heart: Health bonus
 
@@ -360,36 +369,38 @@ The same applies to the power of the equipment. However, the power of an equipme
 | 🍵     | Tea                     | :rocket: Speed +1 during the next fight   | Common    |
 | ☕      | Coffee                  | :rocket: Speed +2 during the next fight   | Common    |
 | 🍹     | Tropical drink          | :rocket: Speed +8 during the next fight   | Common    |
-| 🫕     | Orange juice            | :rocket: Speed +2 during the next fight   | Uncommon  |
+| 🫕     | Orange juice            | :rocket: Speed +1 during the next fight   | Uncommon  |
 | 🧪     | Socks juice             | :rocket: Speed +15 during the next fight  | Uncommon  |
 | 🍸     | Shaken potion           | :rocket: Speed +25 during the next fight  | Uncommon  |
 | 🧪     | Green potion            | :rocket: Speed +45 during the next fight  | Exotic    |
 | 🧪     | Steamy potion           | :rocket: Speed +88 during the next fight  | Rare      |
 | ⛈️     | Storm Juice             | :rocket: Speed +138 during the next fight | Special   |
 | 🐌     | Snail slime             | :rocket: Speed +1 during the next fight   | Epic      |
-| 🍸     | Speed potion            | :rocket: Speed +250 during the next fight | Epic      |
+| 🍸     | Speed potion            | :rocket: Speed +200 during the next fight | Epic      |
 | 🍷     | Large potion            | :rocket: Speed +255 during the next fight | Legendary |
 | 🫕     | Extreme Hardness Potion | :rocket: Speed +327 during the next fight | Mythical  |
 
 #### :crossed\_swords: Attack bonus
 
-| Symbol | Name                  | Statistics                                          | Rarity    |
-| ------ | --------------------- | --------------------------------------------------- | --------- |
-| 🥃     | Alcohol               | :crossed\_swords: Attack +5 during the next fight   | Common    |
-| 🥤     | Opponent's tears      | :crossed\_swords: Attack +20 during the next fight  | Uncommon  |
-| 🍸     | Strength potion       | :crossed\_swords: Attack +45 during the next fight  | Exotic    |
-| 🍸     | Explosive potion      | :rocket: Speed +65 during the next fight            | Rare      |
-| ⚗️     | Magic potion          | :crossed\_swords: Attack +135 during the next fight | Special   |
-| 🐺     | Potion of wolf blood  | :crossed\_swords: Attack +178 during the next fight | Legendary |
-| 🌶️    | Ghost pepper oil      | :crossed\_swords: Attack +243 during the next fight | Legendary |
-| 🩸     | Dragon's Blood Potion | :crossed\_swords: Attack +312 during the next fight | Mythical  |
+| Symbol                                                                  | Name                  | Statistics                                          | Rarity    |
+| ----------------------------------------------------------------------- | --------------------- | --------------------------------------------------- | --------- |
+| 🥃                                                                      | Alcohol               | :crossed\_swords: Attack +5 during the next fight   | Common    |
+| 🥤                                                                      | Opponent's tears      | :crossed\_swords: Attack +20 during the next fight  | Uncommon  |
+| 🍸                                                                      | Strength potion       | :crossed\_swords: Attack +45 during the next fight  | Exotic    |
+| <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line"> | Potion                | :crossed\_swords:Attack +60 during next fight       | Rare      |
+| 🍸                                                                      | Explosive potion      | :crossed\_swords: Attack+65 during the next fight   | Rare      |
+| ⚗️                                                                      | Magic potion          | :crossed\_swords: Attack +135 during the next fight | Special   |
+| 🐺                                                                      | Potion of wolf blood  | :crossed\_swords: Attack +178 during the next fight | Epic      |
+| :troll:                                                                 | Troll slime           | :crossed\_swords: Attack +187 during the next fight | Epic      |
+| 🌶️                                                                     | Ghost pepper oil      | :crossed\_swords: Attack +243 during the next fight | Legendary |
+| 🩸                                                                      | Dragon's Blood Potion | :crossed\_swords: Attack +312 during the next fight | Mythical  |
 
 #### :shield: Defense bonus
 
 | Symbol | Name               | Statistics                                  | Rarity    |
 | ------ | ------------------ | ------------------------------------------- | --------- |
 | 🥛     | Glass of milk      | :shield: Defense +10 during the next fight  | Common    |
-| ⚗️     | Blue potion        | :shield: Defense +24 during the next fight  | Uncommon  |
+| ⚗️     | Blue potion        | :shield: Defense +25 during the next fight  | Uncommon  |
 | 🧃     | Banana juice       | :shield: Defense +35 during the next fight  | Uncommon  |
 | 🍺     | Courage concoction | :shield: Defense +69 during the next fight  | Exotic    |
 | ⚗️     | Potion             | :shield: Defense +60 during the next fight  | Rare      |

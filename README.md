@@ -20,4 +20,4 @@ The story takes place in a medieval world where the player controls an adventure
 * Join **thousands of players**, fight and create your guild with your friends!&#x20;
 * Help us **improve the bot!** Completely [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) project!
 
-![An example of a report made by a user.](<.gitbook/assets/image (4).png>)
+![An example of a report made by a player.](.gitbook/assets/report_sombre.png)
