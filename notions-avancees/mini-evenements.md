@@ -1,6 +1,6 @@
 # Mini-évènements
 
-Il existe actuellement 25 types de mini-évènements différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
+Il existe actuellement 28 types de mini-évènement différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
 
 Plus la valeur de la rareté d'un mini-évènement est élevée, plus celui-ci est fréquent.
 
@@ -409,7 +409,7 @@ La guérisseuse ne se balade qu'autour de Claire De Ville.&#x20;
 Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience de guilde dépendant de son niveau.
 
 {% hint style="info" %}
-Vous n'obtiendrez ce mini-évènement que si vous faites partie d'une guilde qui n'est pas niveau 100.
+Vous n'obtiendrez ce mini-évènement que si vous faites partie d'une guilde qui n'est pas niveau 150.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_095045_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain d'expérience de guilde</p></figcaption></figure>

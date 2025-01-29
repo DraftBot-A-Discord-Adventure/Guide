@@ -25,7 +25,7 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats classés
 
-Un combat classé peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la :sparkles: gloire et l'énergie perdue est consommée.
+Un combat classé peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la gloire :sparkles: et l'énergie perdue est consommée.
 
 #### Les combats amicaux
 
@@ -73,11 +73,11 @@ Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus 
 
 ### Conditions de victoire
 
-Dès lors que :zap: l'énergie de l'un des combatants tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat.
+Dès lors que l'énergie :zap: de l'un des combattants tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat.
 
 Un combat peut aussi se terminer sur une égalité s'il atteint les 24 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
 
-Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer :zap: l'énergie que vous avez perdu, sauf s'il s'agissait d'un combat amical.
+Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie :zap:que vous avez perdu, sauf s'il s'agissait d'un combat amical.
 
 {% hint style="danger" %}
 Si un des adversaires est inactif pendant plus de 45 secondes, le combat est considéré comme terminé. Le combattant inactif perdra le combat, et donc la totalité de son énergie.

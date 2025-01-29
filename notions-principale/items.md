@@ -22,7 +22,7 @@ Vous pouvez aussi les voir avec la commande `/rareté` !
 
 La valeur des équipements est calculée principalement en fonction de leur rareté.
 
-Il en va de même pour leur puissance. Cependant, la puissance d'un équipement peut être limitée par la puissance d'un joueur. Par exemple, un joueur ayant très peu d'attaque, ne sera pas en capacité de profiter de toutes les capacités d'une arme très puissante. Cette limitation sera affichée pour le joueur dans son inventaire.&#x20;
+Il en va de même pour leur puissance. Cependant, la puissance d'un équipement peut être limitée par la puissance d'un joueur. Par exemple, un joueur ayant très peu d'attaque ne sera pas en capacité de profiter de toutes les capacités d'une arme très puissante. Cette limitation sera affichée pour le joueur dans son inventaire.&#x20;
 
 ![Ce joueur ne dispose pas de suffisamment d'attaque pour utiliser la pleine puissance de son arme.](<../.gitbook/assets/image (67).png>)
 
@@ -63,7 +63,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :knife:                             | Vieux couteau             | :dagger:19                          | Peu commun |
 | :bricks:                            | Brique                    | :dagger:15                          | Exotique   |
 | :scissors:                          | Ciseaux                   | :dagger:16                          | Exotique   |
-| :family\_mmbb:                      | Pouvoir de l'amitié       | :dagger:18 :shield:20 :rocket:15    | Exotique   |
+| :people\_hugging:                   | Pouvoir de l'amitié       | :dagger:18 :shield:20 :rocket:15    | Exotique   |
 | :fire\_extinguisher:                | Extincteur                | :dagger:20                          | Exotique   |
 | :pick:                              | Pioche                    | :dagger:22                          | Exotique   |
 | :wrench:                            | Masse                     | :dagger:22 :rocket:-10              | Exotique   |
@@ -372,9 +372,9 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | Symbole                                                                          | Nom                      | Effet                                            | Rareté     |
 | -------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------ | ---------- |
 | :tea:                                                                            | Thé                      | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
-| :coffee:                                                                         | Café                     | :rocket: Vitesse +1 pendant le prochain combat   | Commun     |
+| :coffee:                                                                         | Café                     | :rocket: Vitesse +2 pendant le prochain combat   | Commun     |
+| :tropical\_drink:                                                                | Boisson tropicale        | :rocket: Vitesse +8 pendant le prochain combat   | Commun     |
 | :beverage\_box:                                                                  | Jus d'orange             | :rocket: Vitesse +1 pendant le prochain combat   | Peu commun |
-| :tropical\_drink:                                                                | Boisson tropicale        | :rocket: Vitesse +8 pendant le prochain combat   | Peu commun |
 | <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Jus de chaussettes       | :rocket: Vitesse +15 pendant le prochain combat  | Peu commun |
 | <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion secouée           | :rocket: Vitesse +25 pendant le prochain combat  | Peu commun |
 | <img src="../.gitbook/assets/green potion.png" alt="" data-size="line">          | Potion verte             | :rocket: Vitesse +45 pendant le prochain combat  | Exotique   |
@@ -397,7 +397,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | <img src="../.gitbook/assets/potion violette 2 (1).png" alt="" data-size="line"> | Potion explosive         | :crossed\_swords: Attaque +65 pendant le prochain combat  | Rare       |
 | <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line">          | Potion magique           | :crossed\_swords: Attaque +135 pendant le prochain combat | Spécial    |
 | :wolf:                                                                           | Potion de sang de loup   | :crossed\_swords: Attaque +178 pendant le prochain combat | Épique     |
-| 🧌                                                                               | Bave de Troll            | :crossed\_swords:Attaque +187pendant le prochain combat   | Épique     |
+| 🧌                                                                               | Bave de Troll            | :crossed\_swords:Attaque +187 pendant le prochain combat  | Épique     |
 | :hot\_pepper:                                                                    | Huile de ghost pepper    | :crossed\_swords:Attaque +243 pendant le prochain combat  | Légendaire |
 | 🩸                                                                               | Potion de sang de dragon | :crossed\_swords: Attaque +312 pendant le prochain combat | Mythique   |
 
@@ -405,8 +405,8 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 
 | Symbole                                                                 | Nom                 | Effet                                           | Rareté     |
 | ----------------------------------------------------------------------- | ------------------- | ----------------------------------------------- | ---------- |
-| :milk:                                                                  | Verre de lait       | :shield: Défense +5 pour le prochain combat     | Commun     |
-| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion bleue        | :shield: Défense +15 pour le prochain combat    | Peu commun |
+| :milk:                                                                  | Verre de lait       | :shield: Défense +10 pour le prochain combat    | Commun     |
+| <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion bleue        | :shield: Défense +25 pour le prochain combat    | Peu commun |
 | :canned\_food:                                                          | Jus de banane       | :shield: Défense +35 pendant le prochain combat | Peu commun |
 | :beer:                                                                  | Breuvage du courage | :shield:Défense +69 pendant le prochain combat  | Exotique   |
 | <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion sombre       | :shield: Défense +90 pour le prochain combat    | Rare       |

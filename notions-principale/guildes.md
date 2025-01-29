@@ -4,7 +4,7 @@ description: Un guide à propos des guildes.
 
 # Guildes
 
-Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes à mesure de l'augmentation du niveau de la guilde.
+Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes à mesure de l'augmentation du niveau de la guilde. Le niveau maximum d'une guilde est 150.
 
 ### Comment créer une guilde ?
 
@@ -103,3 +103,7 @@ Vous pouvez acheter de la nourriture dans le magasin de la guilde.
 
 Il est possible à tout moment de quitter une guilde avec la commande `/quitterguilde`.\
 Le chef de la guilde peut aussi utiliser la commande `/exclureguilde` pour expulser un membre de la guilde.
+
+{% hint style="info" %}
+Si le chef de guilde quitte la guilde et qu'il y a un aîné, ce dernier devient chef de guilde, sinon elle est détruite.
+{% endhint %}
