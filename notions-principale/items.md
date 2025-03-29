@@ -130,68 +130,68 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 
 ### Liste des armures/boucliers
 
-| Symbole                       | Nom                      | Statistiques                       | Rareté     |
-| ----------------------------- | ------------------------ | ---------------------------------- | ---------- |
-| :coat:                        | Manteau                  | :shield:3                          | Commun     |
-| :lab\_coat:                   | Blouse de protection     | :shield:3                          | Commun     |
-| :shield:                      | Bouclier de débutant     | :shield:4                          | Commun     |
-| :shield:                      | Bouclier solide          | :shield:6                          | Commun     |
-| :shield:                      | Égide contrefaite        | :dagger:6 :shield:6                | Commun     |
-| :helmet\_with\_cross:         | Casque de sécurité       | :shield:7                          | Commun     |
-| :shield:                      | Bouclier résistant       | :shield:9                          | Commun     |
-| :shield:                      | Petit bouclier           | :shield:11                         | Commun     |
-| :helmet\_with\_cross:         | Casque de guerre         | :shield:21 :rocket:-10             | Commun     |
-| :put\_litter\_in\_its\_place: | Seau en métal            | :shield:7                          | Peu commun |
-| :shield:                      | Bouclier en bois         | :shield:9                          | Peu commun |
-| :shield:                      | Bouclier simple          | :shield:11                         | Peu commun |
-| :safety\_vest:                | Veste de sécurité        | :shield:12                         | Peu commun |
-| :shield:                      | Scutum                   | :shield:14                         | Peu commun |
-| :rugby\_football:             | Bouclier de Brennus      | :shield:15                         | Peu commun |
-| :coat:                        | Doudoune de combat       | :shield:19 :rocket:10              | Peu commun |
-| :turtle:                      | Carapace de Franklin     | :shield:22 :rocket:-10             | Peu commun |
-| :mage:                        | Chapeau Magique          | :dagger:15 :shield:15 :rocket:10   | Exotique   |
-| :shield:                      | Bouclier usé             | :shield:16                         | Exotique   |
-| :umbrella2:                   | Parapluie d'auto défense | :shield:18                         | Exotique   |
-| :shield:                      | Bouclier                 | :shield:20                         | Exotique   |
-| :shield:                      | Bouclier de guerrier     | :shield:22                         | Exotique   |
-| :shield:                      | Rondache                 | :shield:22                         | Exotique   |
-| :camping:                     | Tente de protection      | :shield:22 :rocket:-25             | Exotique   |
-| :shield:                      | Bouclier de la solitude  | :shield:27                         | Exotique   |
-| :shield:                      | Bouclier rouillé         | :shield:29                         | Rare       |
-| :window:                      | Plexiglas                | :dagger:10 :shield:31              | Rare       |
-| :shield:                      | Bouclier lourd           | :shield:34                         | Rare       |
-| :shield:                      | Bouclier en fer          | :shield:38                         | Rare       |
-| :moyai:                       | Nam nam                  | :dagger:38 :shield:38 :rocket:-10  | Rare       |
-| :shield:                      | Bouclier de gladiateur   | :shield:41                         | Rare       |
-| :shield:                      | Lumière de Node          | :shield:45                         | Rare       |
-| :shield:                      | Bouclier de Lynel        | :shield:55                         | Rare       |
-| :clown:                       | Autodérision             | :shield:60 :dagger:-25             | Rare       |
-| :lab\_coat:                   | Kimono renforcé          | :shield:48                         | Spécial    |
-| :shield:                      | Égide puissante          | :dagger:60 :shield:62              | Spécial    |
-| :muscle:                      | Bras mécanique           | :shield:67                         | Spécial    |
-| :chess\_pawn:                 | Rangée de pions          | :shield:73 :dagger:-15             | Spécial    |
-| :genie:                       | Lampe Magique            | :dagger:10 :shield:73              | Spécial    |
-| :eight\_spoked\_asterisk:     | Champ de force           | :shield:79                         | Spécial    |
-| :shield:                      | Bouclier royal           | :shield:87                         | Spécial    |
-| :bricks:                      | Mur                      | :dagger:-20 :shield:99 :rocket:-20 | Spécial    |
-| :man\_judge:                  | Jurisprudence            | :dagger:45 :shield:89 :rocket:-40  | Épique     |
-| :feather:                     | Aile droite d'Icare      | :shield:89 :rocket:30              | Épique     |
-| :lab\_coat:                   | Kimono de maître         | :shield:96                         | Épique     |
-| :person\_fencing:             | Armure de fer            | :shield:113                        | Épique     |
-| :sun\_with\_face:             | Bouclier solaire         | :shield:113                        | Épique     |
-| :shield:                      | Bouclier puissant        | :shield:122                        | Épique     |
-| :robot:                       | Casque de robot          | :shield:132                        | Épique     |
-| :shinto\_shrine:              | Forteresse japonaise     | :dagger:50 :shield:168             | Épique     |
-| :sparkles:                    | Cri UwUrlant             | :dagger:45 :shield:156             | Légendaire |
-| :shield:                      | Bouclier de maître       | :shield:169                        | Légendaire |
-| :eye\_in\_speech\_bubble:     | Bouclier déflecteur Engi | :shield:182                        | Légendaire |
-| :family\_mmbb:                | Bouclier humain          | :shield:196                        | Légendaire |
-| :shield:                      | Convention de Genève     |  :dagger:-40 :shield:232           | Légendaire |
-| :shield:                      | Bouclier ultime          | :shield:212                        | Légendaire |
-| :bearded\_person:             | Giga Chad                | :dagger:85 :shield:111             | Mythique   |
-| :helmet\_with\_cross:         | Blindage du major        | :shield:203                        | Mythique   |
-| :shield:                      | Bouclier à pointes       | :dagger:15 :shield:174 :rocket:-20 | Mythique   |
-| :shield:                      | Bouclier en vibranium    | :shield:219                        | Mythique   |
+| Symbole                       | Nom                      | Statistiques                        | Rareté     |
+| ----------------------------- | ------------------------ | ----------------------------------- | ---------- |
+| :coat:                        | Manteau                  | :shield:3                           | Commun     |
+| :lab\_coat:                   | Blouse de protection     | :shield:3                           | Commun     |
+| :shield:                      | Bouclier de débutant     | :shield:4                           | Commun     |
+| :shield:                      | Bouclier solide          | :shield:6                           | Commun     |
+| :shield:                      | Égide contrefaite        | :dagger:6 :shield:6                 | Commun     |
+| :helmet\_with\_cross:         | Casque de sécurité       | :shield:7                           | Commun     |
+| :shield:                      | Bouclier résistant       | :shield:9                           | Commun     |
+| :shield:                      | Petit bouclier           | :shield:11                          | Commun     |
+| :helmet\_with\_cross:         | Casque de guerre         | :shield:21 :rocket:-10              | Commun     |
+| :put\_litter\_in\_its\_place: | Seau en métal            | :shield:7                           | Peu commun |
+| :shield:                      | Bouclier en bois         | :shield:9                           | Peu commun |
+| :shield:                      | Bouclier simple          | :shield:11                          | Peu commun |
+| :safety\_vest:                | Veste de sécurité        | :shield:12                          | Peu commun |
+| :shield:                      | Scutum                   | :shield:14                          | Peu commun |
+| :rugby\_football:             | Bouclier de Brennus      | :shield:15                          | Peu commun |
+| :coat:                        | Doudoune de combat       | :shield:19 :rocket:10               | Peu commun |
+| :turtle:                      | Carapace de Franklin     | :shield:22 :rocket:-10              | Peu commun |
+| :mage:                        | Chapeau Magique          | :dagger:15 :shield:15 :rocket:10    | Exotique   |
+| :shield:                      | Bouclier usé             | :shield:16                          | Exotique   |
+| :umbrella2:                   | Parapluie d'auto défense | :shield:18                          | Exotique   |
+| :shield:                      | Bouclier                 | :shield:20                          | Exotique   |
+| :shield:                      | Bouclier de guerrier     | :shield:22                          | Exotique   |
+| :shield:                      | Rondache                 | :shield:22                          | Exotique   |
+| :camping:                     | Tente de protection      | :shield:22 :rocket:-25              | Exotique   |
+| :shield:                      | Bouclier de la solitude  | :shield:27                          | Exotique   |
+| :shield:                      | Bouclier rouillé         | :shield:29                          | Rare       |
+| :window:                      | Plexiglas                | :dagger:10 :shield:31               | Rare       |
+| :shield:                      | Bouclier lourd           | :shield:34                          | Rare       |
+| :shield:                      | Bouclier en fer          | :shield:38                          | Rare       |
+| :moyai:                       | Nam nam                  | :dagger:38 :shield:38 :rocket:-10   | Rare       |
+| :shield:                      | Bouclier de gladiateur   | :shield:41                          | Rare       |
+| :shield:                      | Lumière de Node          | :shield:45                          | Rare       |
+| :shield:                      | Bouclier de Lynel        | :shield:55                          | Rare       |
+| :clown:                       | Autodérision             | :shield:60 :dagger:-25              | Rare       |
+| :lab\_coat:                   | Kimono renforcé          | :shield:48                          | Spécial    |
+| :shield:                      | Égide puissante          | :dagger:60 :shield:62               | Spécial    |
+| :muscle:                      | Bras mécanique           | :shield:67                          | Spécial    |
+| :chess\_pawn:                 | Rangée de pions          | :shield:73 :dagger:-15              | Spécial    |
+| :genie:                       | Lampe Magique            | :dagger:10 :shield:73               | Spécial    |
+| :eight\_spoked\_asterisk:     | Champ de force           | :shield:79                          | Spécial    |
+| :shield:                      | Bouclier royal           | :shield:87                          | Spécial    |
+| :bricks:                      | Mur                      | :dagger:-20 :shield:99 :rocket:-20  | Spécial    |
+| :man\_judge:                  | Jurisprudence            | :dagger:45 :shield:104 :rocket:-40  | Épique     |
+| :feather:                     | Aile droite d'Icare      | :shield:89 :rocket:30               | Épique     |
+| :lab\_coat:                   | Kimono de maître         | :shield:96                          | Épique     |
+| :person\_fencing:             | Armure de fer            | :shield:113                         | Épique     |
+| :sun\_with\_face:             | Bouclier solaire         | :shield:113                         | Épique     |
+| :shield:                      | Bouclier puissant        | :shield:122                         | Épique     |
+| :robot:                       | Casque de robot          | :shield:132                         | Épique     |
+| :shinto\_shrine:              | Forteresse japonaise     | :dagger:50 :shield:168              | Épique     |
+| :sparkles:                    | Cri UwUrlant             | :dagger:45 :shield:156              | Légendaire |
+| :shield:                      | Bouclier de maître       | :shield:169                         | Légendaire |
+| :eye\_in\_speech\_bubble:     | Bouclier déflecteur Engi | :shield:182                         | Légendaire |
+| :family\_mmbb:                | Bouclier humain          | :shield:196                         | Légendaire |
+| :shield:                      | Convention de Genève     |  :dagger:-40 :shield:232            | Légendaire |
+| :shield:                      | Bouclier ultime          | :shield:212                         | Légendaire |
+| :bearded\_person:             | Giga Chad                | :dagger:85 :shield:111              | Mythique   |
+| :helmet\_with\_cross:         | Blindage du major        | :shield:203                         | Mythique   |
+| :shield:                      | Bouclier à pointes       | :dagger:15 :shield:174 :rocket:-20  | Mythique   |
+| :shield:                      | Bouclier en vibranium    | :shield:219                         | Mythique   |
 
 ### Liste des objets
 
