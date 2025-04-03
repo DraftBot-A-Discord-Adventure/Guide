@@ -501,7 +501,7 @@ Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau !
 
 **Rareté : 1**
 
-**Ce mini-évènement vous fera rencontrer Aldéric, un marchand qui vous proposera un item de la rareté épique à la rareté légendaire (voir** [**Équipements**](../notions-principale/items.md)**) à l'exception des potions.**
+Ce mini-événement vous fera rencontrer Aldéric, un marchand qui vous proposera un item de la rareté épique à la rareté légendaire (voir [items.md](../notions-principale/items.md "mention")) à l'exceptions des potions.
 
 {% hint style="info" %}
 Voyager sur le chemin de la :motorway: **Route des merveilles** réduira considérablement le prix de l'achat sinon vous avez 10% de chance d'avoir une réduction mais moins considérable.
@@ -511,7 +511,9 @@ Voyager sur le chemin de la :motorway: **Route des merveilles** réduira consid�
 
 ## Un carrosse rapide
 
-**Ce mini-évènement vous fera rencontrer un individu mystérieux qui vous proposera une destination connue ou non selon les critères suivants :**&#x20;
+**Rareté : 1**
+
+Ce mini-événement vous fera rencontrer un individu mystérieux qui vous proposera une destination connue ou non selon les critères suivants:&#x20;
 
 * 35% de chances d'avoir un voyage dont vous connaissez la destination.
 * 30% de chances d'avoir un voyage dont vous ne connaissez pas la destination avec un prix réduit.

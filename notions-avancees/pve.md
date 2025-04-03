@@ -62,6 +62,8 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 
 ### Forêt de la pénombre
 
+Ici, vous affrontez aléatoirement l'un des ces 2 boss:
+
 **Monstre : Troll de la forêt**
 
 > Un grand troll qui vit dans les forêts. Très fort et très résistant, il est aussi très agressif et attaque tout ce qui bouge. Il est très dangereux pour les aventuriers qui s'aventurent dans les forêts.
@@ -75,6 +77,15 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 | Colère             | Augmente son attaque de 100%, en dépit de 75% de sa défense.                                                        | 0                       |
 | Rugissement        | Baisse l'attaque et la vitesse de l'adversaire.                                                                     | 4                       |
 | Attaque intense    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques) | 4                       |
+
+**Monstre : Mutant Vaseux**
+
+> Le Mutant Vaseux est un monstre pouvant copier les autres monstres ou son adversaire directement. Il est très polyvalent et peut s'adapter à toutes les situations.
+
+| Nom de l'attaque  | Description                        | Consommation en souffle |
+| ----------------- | ---------------------------------- | ----------------------- |
+| Monstrueuse Copie | Copie l'attaque d'un autre monstre | 0                       |
+| Mimique           | Copie une attaque du joueur        | 0                       |
 
 ### Mine brumeuse
 
