@@ -23,7 +23,7 @@ La première partie de l'inventaire est partagée en **4 éléments** :
 
 La seconde partie de l'inventaire sert à **stocker des équipements supplémentaires** que vous pourrez échanger avec vos équipements actifs en fonction de vos besoins.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Un exemple de réserve d'inventaire</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/réserve_clair.png" alt=""><figcaption><p>Un exemple de réserve d'inventaire</p></figcaption></figure>
 
 {% hint style="info" %}
 La réserve du joueur peut être améliorée dans le magasin. Différents emplacements supplémentaires sont achetables:
