@@ -37,9 +37,17 @@ description: >-
 | :sparkles:            | Personne ayant remporté le plus de gloire durant une saison de combat                |                                                                                                                                | Bot               |
 | :dove:                | Personne ayant rapporté un bug exploitable sans en profiter                          | Découvrir un bug exploitable et le signaler sur GitHub sans l'utiliser ni l'avoir développée                                   | Gérant des badges |
 
+{% hint style="info" %}
+Lorsque vous cliquez en jeu sur un badge, sa description s'affichera (à condition que la commande /profil est récente).
+{% endhint %}
+
+{% hint style="info" %}
+Lorsqu'un joueur possède 10 badges ou plus, ils sont regroupés sous la forme d'une réaction :military\_medal:et la liste sera visible si vous cliquez dessus.
+{% endhint %}
+
 Si vous pensez mériter un badge, merci de contacter un gérant des badges sur Discord.&#x20;
 
-Les gérants des badges sont :`thero1st`et `ines33`&#x20;
+Le gérant des badges est`qqtin`.
 
 Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
 

@@ -174,7 +174,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :eight\_spoked\_asterisk:     | Champ de force           | :shield:79                          | Spécial    |
 | :shield:                      | Bouclier royal           | :shield:87                          | Spécial    |
 | :bricks:                      | Mur                      | :dagger:-20 :shield:99 :rocket:-20  | Spécial    |
-| :man\_judge:                  | Jurisprudence            | :dagger:45 :shield:104 :rocket:-40  | Épique     |
+| :coin:                        | Jurisprudence            | :dagger:45 :shield:104 :rocket:-40  | Épique     |
 | :feather:                     | Aile droite d'Icare      | :shield:89 :rocket:30               | Épique     |
 | :lab\_coat:                   | Kimono de maître         | :shield:96                          | Épique     |
 | :person\_fencing:             | Armure de fer            | :shield:113                         | Épique     |
@@ -185,7 +185,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :sparkles:                    | Cri UwUrlant             | :dagger:45 :shield:156              | Légendaire |
 | :shield:                      | Bouclier de maître       | :shield:169                         | Légendaire |
 | :eye\_in\_speech\_bubble:     | Bouclier déflecteur Engi | :shield:182                         | Légendaire |
-| :family\_mmbb:                | Bouclier humain          | :shield:196                         | Légendaire |
+| :family:                      | Bouclier humain          | :shield:196                         | Légendaire |
 | :shield:                      | Convention de Genève     |  :dagger:-40 :shield:232            | Légendaire |
 | :shield:                      | Bouclier ultime          | :shield:212                         | Légendaire |
 | :bearded\_person:             | Giga Chad                | :dagger:85 :shield:111              | Mythique   |

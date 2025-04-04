@@ -75,7 +75,7 @@ Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus 
 
 Dès lors que l'énergie :zap: de l'un des combattants tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat.
 
-Un combat peut aussi se terminer sur une égalité s'il atteint les 24 tours consécutifs ou si les deux combattants arrivent à court d'énergie durant le même tour.
+Un combat peut se terminer sur une égalité si le 24e tour se finit sans vainqueur ou si les deux combattants atteignent 0 :zap: au cours du même tour.
 
 Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie :zap:que vous avez perdu, sauf s'il s'agissait d'un combat amical.
 

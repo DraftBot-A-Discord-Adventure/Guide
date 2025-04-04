@@ -33,6 +33,26 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 * 🌬  Souffle disponible / Souffle maximal
 * :lungs: Récupération de souffle
 
+### [missions.md](missions.md "mention")
+
+* Votre nombre de gemmes
+* Votre avancement dans la campagne en pourcentage
+
+### Classement et score
+
+* Votre rang / nombre de joueurs total&#x20;
+* Vos points accumulés au fil de l'aventure
+
+Pour plus d'informations voir [monter-dans-les-classements.md](../notions-avancees/monter-dans-les-classements.md "mention")
+
+### Temps restant
+
+Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant avant la fin de celle-ci sera affiché, précédé d'un émoji relatif à l'altération en question.
+
+### Classe et guilde
+
+Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage ainsi que de créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
+
 ### Gloire et Ligue
 
 * :sparkles: Points de gloire
@@ -42,13 +62,13 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 La couleur de l'embed indique aussi votre ligue actuelle !
 {% endhint %}
 
-### Temps restant
+### Destination
 
-Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant avant la fin de celle-ci sera affiché, précédé d'un émoji relatif à l'altération en question.
+C'est l'endroit où vous dirigez sur la carte.
 
-### Classe et guilde
+### [familiers.md](familiers.md "mention")
 
-Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage ainsi que de créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
+Un animal qui vous accompagne dans votre aventure.
 
 ### Badges
 

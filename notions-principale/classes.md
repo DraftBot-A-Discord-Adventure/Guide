@@ -8,7 +8,7 @@ Le choix de classe dépend de votre niveau, il existe **5 paliers** de classes d
 
 * Palier 1 : Du niveau 4 au niveau 15
 * Palier 2 : Du niveau 16 au niveau 31
-* Palier 3 : Du nveau 32 au niveau 47
+* Palier 3 : Du niveau 32 au niveau 47
 * Palier 4 : Du niveau 48 au niveau 79
 * Palier 5 : À partir du niveau 80
 

@@ -4,7 +4,7 @@ description: Un guide à propos des guildes.
 
 # Guildes
 
-Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes à mesure de l'augmentation du niveau de la guilde. Le niveau maximum d'une guilde est 150.
+Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompenses journalières de plus en plus conséquentes à mesure de l'augmentation du niveau de la guilde (sauf les niveaux au-dessus de 100 qui sont essentiellement cosmétiques) . Le niveau maximum d'une guilde est 150.
 
 ### Comment créer une guilde ?
 
@@ -45,6 +45,10 @@ Il existe également 3 options à cette commande:
 * `classement` Permet de voir les informations d'une guilde à partir du classement d'un de ses membres.
 
 ### Monter de niveau une guilde.
+
+#### Dans les mini-événements
+
+Lors d'un mini-événement de ce [type](https://guide.draftbot.com/notions-avancees/mini-evenements#gagner-de-lexperience-de-guilde), vous pouvez gagner de l'expérience de guilde.
 
 #### Dans le magasin de guilde
 
@@ -105,5 +109,5 @@ Il est possible à tout moment de quitter une guilde avec la commande `/quitterg
 Le chef de la guilde peut aussi utiliser la commande `/exclureguilde` pour expulser un membre de la guilde.
 
 {% hint style="info" %}
-Si le chef de guilde quitte la guilde et qu'il y a un aîné, ce dernier devient chef de guilde, sinon elle est détruite.
+Si un chef de guilde part de sa guilde, le statut de chef est transféré à l'aîné de la guilde. S'il n'y a pas d'aîné, la guilde est dissoute.
 {% endhint %}
