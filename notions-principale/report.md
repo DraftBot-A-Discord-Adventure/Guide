@@ -31,7 +31,7 @@ Vous pouvez voir le nombre de points récoltés avec les mini-évènements ainsi
 
 ### Évènements :
 
-Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiples à l'aide des réactions Discord. En fonction de son choix, différentes issues surviennent.
+Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiples à l'aide des boutons. En fonction de son choix, différentes issues surviennent.
 
 ![Un exemple d'évènement](../.gitbook/assets/RapportEvent.png)
 

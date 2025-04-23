@@ -39,6 +39,13 @@ Vous pouvez libérer votre familier avec la commande `/libererfamilier`.
 Attention, cette action est irréversible. Le fait de libérer un familier est définitif.
 {% endhint %}
 
+## A quoi sert un familier ?
+
+Un familier a 2 fonctions:
+
+* Lors de ce [mini-événement](https://guide.draftbot.com/notions-avancees/mini-evenements#interaction-avec-un-familier), vous interagissez avec votre familier. Il peut vous donner (ou vous faire perdre) des ressources selon son moral, gagner (ou perdre s'il n'est pas dressé) des points d'affection ou simplement ne rien se passer.
+* Lors des combats, chaque familier aidera (ou du moins essayera d'aider) son propriétaire.
+
 ### Comment nourrir mon familier ?
 
 #### Acheter de la nourriture.
@@ -94,8 +101,6 @@ Il n'est pas possible d'effectuer certaines actions avec un familier fielleux !
 {% endhint %}
 
 {% hint style="warning" %}
-Échanger un familier avec un autre joueur lui fera perdre 5 points par niveau de rareté (ou étoiles).
-
 Vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_cat: Sauvage.
 
 Changer de propriétaire, c'est dur à supporter pour un animal !
@@ -103,7 +108,7 @@ Changer de propriétaire, c'est dur à supporter pour un animal !
 
 Contre 3 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement. La consultation s'obtient dans le [magasin de missions](missions.md#magasin-des-missions).
 
-<figure><img src="../.gitbook/assets/Vétérinaire.png" alt=""><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, et quand il aura faim.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vétérinaire_clair.png" alt=""><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, et quand il aura faim.</p></figcaption></figure>
 
 ### Comment stocker mon familier ?
 
@@ -122,12 +127,6 @@ Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 Vous pouvez définir un surnom pour votre familier afin de rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `/surnomfamilier.`Exemple : `/surnomfamilier surnom:Henri` permet de surnommer votre familier "Henri".
 
 ![Commande /familier avec affichage du surnom du familier](../.gitbook/assets/familier_clair.png)
-
-### Comment échanger un familier ?
-
-L'implémentation de cette mise à jour favorise l'interaction entre joueurs puisque vous avez la possibilité d'échanger un familier avec la commande `/echangefamilier`. Par exemple : `/echangefamilier utilisateur:@Heliox#1119` permet d'ouvrir l'interface d'échange de familier avec le joueur **Heliox**.
-
-![Menu d'échange de familiers](../.gitbook/assets/échangerfamilier_clair.png)
 
 ### Comment vendre un familier ?
 

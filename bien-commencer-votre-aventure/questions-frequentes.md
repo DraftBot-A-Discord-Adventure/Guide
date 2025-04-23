@@ -2,7 +2,18 @@
 
 ### Comment passer le bot en français ?
 
-La commande `/langage` permet de passer le jeu en français !
+La commande `/langage` permet de choisir la langue dans laquelle parlera le bot parmi:
+
+* l'anglais,
+* le français,
+* l'allemand,
+* l'italien,
+* l'espagnol,
+* le portugais.
+
+{% hint style="info" %}
+Le changement de langue ne s'applique qu'au joueur qui a fait la commande et non à tout le serveur ! De plus il est valable sur tout les serveurs où vous jouez.
+{% endhint %}
 
 ### Trouver la liste des commandes.
 
@@ -26,7 +37,7 @@ OUI ! Le lien pour inviter le bot est disponible sur [http://draftbot.com/](http
 
 ### **En quel langage le bot est-il développé ?**
 
-_Typescript._
+_TypeScript._
 
 Les données enregistrées dans la base de données concernent uniquement le jeu (les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés). Les pseudonymes des joueurs ne sont pas non plus enregistrés.
 

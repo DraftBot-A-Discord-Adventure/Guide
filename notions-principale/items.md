@@ -70,6 +70,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :dagger:                            | Dague fragile             | :dagger:24                          | Exotique   |
 | :knife:                             | Couteau de débutant       | :dagger:27                          | Exotique   |
 | :boomerang:                         | Boomerang                 | :dagger:30 :rocket:20               | Exotique   |
+| :anger\_right:                      | Lame de l'aura argentée   | :dagger:33                          | Exotique   |
 | :bow\_and\_arrow:                   | Arc de novice             | :dagger:33 :shield:-10 :rocket:5    | Exotique   |
 | :chopsticks:                        | Pew Pew                   | :dagger:37                          | Exotique   |
 | :banana:                            | Banane                    | :dagger:26                          | Rare       |
@@ -117,6 +118,8 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :gun:                               | Pistolet pan pan QQ       | :dagger:125                         | Légendaire |
 | :microbe:                           | Bio-arme                  | :dagger:134                         | Légendaire |
 | :crossed\_swords:                   | Épée de Ragnell           | :dagger:145                         | Légendaire |
+| :atom:                              | Electektron               | :dagger:145  :rocket:45             | Légendaire |
+| :fire::bird:                        | Lame du Phoenix           | :dagger:169                         | Légendaire |
 | :bow\_and\_arrow:                   | Arc du héros              | :dagger:182 :shield:-35 :rocket:25  | Légendaire |
 | :comet:                             | Âme du démon              | :dagger:182                         | Légendaire |
 | :crossed\_swords:                   | Épée en diamant           | :dagger:196                         | Légendaire |
@@ -166,6 +169,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :shield:                      | Lumière de Node          | :shield:45                          | Rare       |
 | :shield:                      | Bouclier de Lynel        | :shield:55                          | Rare       |
 | :clown:                       | Autodérision             | :shield:60 :dagger:-25              | Rare       |
+| :leaves:                      | Bouclier du vent         | :shield:44 :rocket:36               | Spécial    |
 | :lab\_coat:                   | Kimono renforcé          | :shield:48                          | Spécial    |
 | :shield:                      | Égide puissante          | :dagger:60 :shield:62               | Spécial    |
 | :muscle:                      | Bras mécanique           | :shield:67                          | Spécial    |
@@ -182,6 +186,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :shield:                      | Bouclier puissant        | :shield:122                         | Épique     |
 | :robot:                       | Casque de robot          | :shield:132                         | Épique     |
 | :shinto\_shrine:              | Forteresse japonaise     | :dagger:50 :shield:168              | Épique     |
+| :shield:                      | Bouclier de givre        | :shield:115 :rocket:50              | Légendaire |
 | :sparkles:                    | Cri UwUrlant             | :dagger:45 :shield:156              | Légendaire |
 | :shield:                      | Bouclier de maître       | :shield:169                         | Légendaire |
 | :eye\_in\_speech\_bubble:     | Bouclier déflecteur Engi | :shield:182                         | Légendaire |
@@ -229,6 +234,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :soap:                                                             | Savon glissant                | :rocket: Vitesse +7  pendant les combats   | Peu commun |
 | :athletic\_shoe:                                                   | Chaussure de course           | :rocket: Vitesse +15  pendant les combats  | Peu commun |
 | :crystal\_ball:                                                    | Boule de verre magique        | :rocket: Vitesse +25  pendant les combats  | Exotique   |
+| :frog:                                                             | Talisman de Grenouille        | :rocket: Vitesse +36 pendant les combats   | Exotique   |
 | :four\_leaf\_clover:                                               | Feuille de vent               | :rocket: Vitesse +41  pendant les combats  | Rare       |
 | :globe\_with\_meridians:                                           | Fibre optique                 | :rocket: Vitesse +56 pendants les combats  | Rare       |
 | :skier:                                                            | Skis glissants                | :rocket: Vitesse +63  pendant les combats  | Spécial    |
@@ -410,6 +416,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :canned\_food:                                                          | Jus de banane       | :shield: Défense +35 pendant le prochain combat | Peu commun |
 | :beer:                                                                  | Breuvage du courage | :shield:Défense +69 pendant le prochain combat  | Exotique   |
 | <img src="../.gitbook/assets/Potion_bleue.png" alt="" data-size="line"> | Potion sombre       | :shield: Défense +90 pour le prochain combat    | Rare       |
+| :chocolate\_bar:                                                        | Tablette ChocoChoc  | :shield:Défense +158 pour le prochain combat    | Spécial    |
 | :peanuts:                                                               | Huile de noix       | :shield: Défense +169 pour le prochain combat   | Spécial    |
 | <img src="../.gitbook/assets/potion rouge.png" alt="" data-size="line"> | Super potion        | :shield: Défense +190 pour le prochain combat   | Épique     |
 | :canned\_food:                                                          | Jus de kiwi         | :shield:Défense +256 pendant le prochain combat | Légendaire |

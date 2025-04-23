@@ -23,13 +23,13 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 ### Types de combats
 
-#### Les combats classés
+#### Les combats de joueurs
 
-Un combat classé peut être lancé avec la commande `/combat`. L'option `utilisateur` permet de défier un utilisateur en particulier. Si vous n'êtes pas l'initiateur du combat et que vous n'avez pas d'altération d'état, vous pouvez accepter le combat avec la réaction :white\_check\_mark:. Dans ce type de combat, le gagnant remporte de la gloire :sparkles: et l'énergie perdue est consommée.
+Un combat peut être lancé avec la commande `/combat`. Vous affronterez une IA avec la classe et les statistiques d'un joueur aléatoire (à condition que sa gloire soit au maximum 450 points au-dessus ou en dessous de la vôtre et que vous l'avez affronté moins de 3 fois). Le gagnant remporte de la gloire :sparkles: ,le perdant en perd et l'énergie perdue est consommée.
 
-#### Les combats amicaux
-
-Les combats amicaux sont similaires aux combats classés, à la seule différence que vous ne gagnez pas de gloire, et que l'énergie perdue est restaurée à la fin de ceux-ci. Ils peuvent être lancés avec l'option `amical` de la commande à `true`.
+{% hint style="info" %}
+Il n'est possible de lancer une combat que si vous possédez 80% ou plus d'énergie.
+{% endhint %}
 
 #### Les combats de monstres
 
@@ -61,7 +61,7 @@ Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est
 
 Vous pouvez retrouvez le détail des attaques sur le document ci-dessous.
 
-<figure><img src="../.gitbook/assets/combat.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/attaques_fr.png" alt=""><figcaption></figcaption></figure>
 
 ### Gestion du souffle
 

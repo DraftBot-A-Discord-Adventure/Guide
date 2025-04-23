@@ -18,7 +18,7 @@ Il existe trois catégories de mission :
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
-![Obtention d'une mission secondaire](<../.gitbook/assets/Mission secondaire.png>)
+<picture><source srcset="../.gitbook/assets/mission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/mission_clair.png" alt="Obtention d&#x27;une mission secondaire"></picture>
 
 ### Magasin des missions <a href="#magasin-des-missions" id="magasin-des-missions"></a>
 

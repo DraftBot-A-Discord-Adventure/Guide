@@ -70,22 +70,24 @@ Ici, vous affrontez aléatoirement l'un des ces 2 boss:
 
 **Attaques**:
 
-| Nom de l'attaque   | Description                                                                                                         | Consommation en souffle |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Attaque gourdin    | Niveau 50+ uniquement. Attaque en deux tours, avec une charge puissante au deuxième.                                | 9                       |
-| Attaque projection | Projette l'adversaire s'il utilise une attaque physique. Peut étourdir l'adversaire.                                | 6                       |
-| Colère             | Augmente son attaque de 100%, en dépit de 75% de sa défense.                                                        | 0                       |
-| Rugissement        | Baisse l'attaque et la vitesse de l'adversaire.                                                                     | 4                       |
-| Attaque intense    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques) | 4                       |
+| Nom de l'attaque                            | Description                                                                                                                                                         | Consommation en souffle |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :cricket\_game: Attaque gourdin             | Attaque en deux tours, avec une charge puissante au deuxième.                                                                                                       | 9                       |
+| :martial\_arts\_uniform: Attaque projection | Projette l'adversaire s'il utilise une attaque physique. Peut étourdir l'adversaire.                                                                                | 6                       |
+| :rage: Colère                               | Augmente son attaque de 100%, en dépit de 75% de sa défense.                                                                                                        | 1                       |
+| :sound:Rugissement                          | Baisse l'attaque et la vitesse de l'adversaire.                                                                                                                     | 4                       |
+| :triumph: Attaque intense                   | <p>Niveau 50+ uniquement. </p><p>Voir la page des <a href="https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques">combats</a></p> | 4                       |
 
 **Monstre : Mutant Vaseux**
 
 > Le Mutant Vaseux est un monstre pouvant copier les autres monstres ou son adversaire directement. Il est très polyvalent et peut s'adapter à toutes les situations.
 
-| Nom de l'attaque  | Description                        | Consommation en souffle |
-| ----------------- | ---------------------------------- | ----------------------- |
-| Monstrueuse Copie | Copie l'attaque d'un autre monstre | 0                       |
-| Mimique           | Copie une attaque du joueur        | 0                       |
+| Nom de l'attaque                          | Description                                                                                                                                                                                        | Consommation en souffle |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :performing\_arts:Attaque mimique magique | <p>Niveau 60+ uniquement. </p><p>Fonctionne comme une <a href="pve.md#combats">attaque simple</a> en temps normal sauf si l'adversaire lance une attaque magique, celle-ci se verra répliquer.</p> | 3                       |
+| :test\_tube:Attaque empoisonnée           | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                | 3                       |
+| :farmer:Attaque tir de boue               | Lance de la boue sur l'adversaire qui le rend sale et augmente de 5% son attaque, l'altération a 20% de chances de disparaître à chaque tour.                                                      | 5                       |
+| :amphora: Attaque boue brûlante           | Attaque puissante si l'adversaire est sali ! Sinon dégâts classiques.                                                                                                                              | 9                       |
 
 ### Mine brumeuse
 
@@ -95,13 +97,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 boss:
 
 **Attaques**:
 
-| Nom de l'attaque     | Description                                                                                                                                                                     | Consommation en souffle |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Attaque empoisonnée  | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                             | 3                       |
-| Attaque jet de toile | Envoie un jet de toile qui blesse et ralentit l'adversaire.                                                                                                                     | 8                       |
-| Discrétion           | Se cache afin de doubler les dégâts de la prochaine attaque.                                                                                                                    | 6                       |
-| Attaque simple       | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                             | 2                       |
-| Repas de famille     | Niveau 50+ uniquement. Appelle des alliés pour dévorer l'adversaire et l'empoisonner au passage. Inflige l'altération "Repu" au lanceur, l'empêchant de bouger pendant 2 tours. | 20                      |
+| Nom de l'attaque                      | Description                                                                                                                                                                     | Consommation en souffle |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :test\_tube: Attaque empoisonnée      | <p>Niveau 40+ uniquement. </p><p>Voir la page des <a href="https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques">combats</a></p>             | 3                       |
+| :spider\_web: Attaque jet de toile    | Envoie un jet de toile qui blesse et ralentit l'adversaire.                                                                                                                     | 8                       |
+| :face\_in\_clouds: Discrétion         | Se cache afin de doubler les dégâts de la prochaine attaque.                                                                                                                    | 6                       |
+| :crossed\_swords: Attaque simple      | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                             | 2                       |
+| :fork\_knife\_plate: Repas de famille | Niveau 60+ uniquement. Appelle des alliés pour dévorer l'adversaire et l'empoisonner au passage. Inflige l'altération "Repu" au lanceur, l'empêchant de bouger pendant 2 tours. | 20                      |
 
 ### Village en ruines
 
@@ -111,13 +113,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 boss:
 
 **Attaques**:
 
-| Nom de l'attaque    | Description                                                                                                                                   | Consommation en souffle |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Attaque simple      | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 2                       |
-| Attaque bouclier    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 5                       |
-| Repos               | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 0                       |
-| Attaque maudite     | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                           | 6                       |
-| Invocation d'alliés | Niveau 50+ uniquement. Appelle des alliés afin de cumuler les dégâts infligés par chacun des adversaires invoqués en plus de ceux du lanceur. | 10                      |
+| Nom de l'attaque                             | Description                                                                                                                                                         | Consommation en souffle |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :crossed\_swords: Attaque simple             | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 2                       |
+| :shield: Attaque bouclier                    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 6                       |
+| :bed: Repos                                  | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 0                       |
+| :smiling\_imp: Attaque maudite               | <p>Niveau 50+ uniquement. </p><p>Voir la page des <a href="https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques">combats</a></p> | 6                       |
+| :people\_holding\_hands: Invocation d'alliés | Niveau 65+ uniquement. Appelle des alliés afin de cumuler les dégâts infligés par chacun des adversaires invoqués en plus de ceux du lanceur.                       | 5                       |
 
 ### Chemin escarpé
 
@@ -127,13 +129,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 boss:
 
 **Attaques**:
 
-| Nom de l'attaque  | Description                                                                                                                                     | Consommation en souffle |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Lancer de rocher  | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                            | 6                       |
-| Attaque impact    | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                 | 6                       |
-| Peau de roche     | Recouvre sa peau de roches, augmentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                        | 3                       |
-| Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
-| Pétrification     | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
+| Nom de l'attaque           | Description                                                                                                                                     | Consommation en souffle |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :rock: Attaque rocheuse    | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                            | 6                       |
+| :foot: Attaque impact      | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                 | 6                       |
+| :bricks: Peau de roche     | Recouvre sa peau de roches, augmentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                        | 3                       |
+| :shield: Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
+| :moyai: Pétrification      | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
 
 ### Volcan grondant
 
@@ -143,13 +145,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 boss:
 
 **Attaques**:
 
-| Nom de l'attaque | Description                                                                                                                                                                                                          | Consommation en souffle |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Éruption         | Fait entrer en éruption le volcan grondant. Émet des rochers en fusion infligeant des dégâts à l'adversaire pendant quelques tours.                                                                                  | 8                       |
-| Attaque impact   | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                                                                                      | 6                       |
-| Drain de chaleur | Récupère la chaleur de l'adversaire, le gelant au passage. Augmente l'attaque du lanceur de 20%.                                                                                                                     | 7                       |
-| Bain de magma    | Fonctionne comme Repos (voir page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
-| Vague de lave    | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                                        | 15                      |
+| Nom de l'attaque               | Description                                                                                                                                                                                                          | Consommation en souffle |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :volcano: Éruption             | Fait entrer en éruption le volcan grondant. Émet des rochers en fusion infligeant des dégâts à l'adversaire pendant quelques tours.                                                                                  | 8                       |
+| :foot: Attaque impact          | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                                                                                      | 6                       |
+| :thermometer: Drain de chaleur | Récupère la chaleur de l'adversaire, le gelant au passage. Augmente l'attaque du lanceur de 20%.                                                                                                                     | 7                       |
+| :bathtub: Bain de magma        | Fonctionne comme Repos (voir page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
+| :hotsprings: Vague de lave     | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                                        | 15                      |
 
 ## Mini-évènements
 
@@ -207,7 +209,7 @@ L'équipage du bateau vous donnera des informations sur l'île vers laquelle vou
 Malgré sa rareté de 1, il est le seul mini-événement disponible sur le trajet en bateau vers l'île.
 {% endhint %}
 
-### Classement des guildes
+## Classement des guildes
 
 Au fil de votre progression, les joueurs gagnent des points de guilde :mirror\_ball: après chaque victoire face à un monstre (et en perdent après une défaite) ou lors de mini-évènements sur l'île. Ces points permettent de faire progresser sa guilde parmi un classement visible avec la commande `/classement guildes`.
 

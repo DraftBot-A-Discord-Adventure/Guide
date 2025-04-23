@@ -47,6 +47,8 @@ Réalise une interaction entre le propriétaire d'un familier et son familier. C
 Si un familier est dressé, il compte dans le calcul des récompenses accessibles comme ayant une étoile en plus.
 {% endhint %}
 
+Si le familier est fielleux, il ne vous apportera que des malus:
+
 | Malus                           | Probabilité |
 | ------------------------------- | ----------- |
 | Perte de vie (1 à 5)            | Moyenne     |
@@ -248,19 +250,6 @@ Raconte une information à propos du bot parmi celles-ci :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 164600.png" alt=""><figcaption><p>Exemple d'une information à propos du bot</p></figcaption></figure>
 
-## Vote
-
-**Rareté : 4**
-
-Obtenir une récompense en ayant voté pour le bot sur top.gg parmi celles-ci :
-
-* Argent (entre 150 et 250)
-* Item aléatoire
-
-Si vous n'aviez pas voté pour le bot, vous ne verrez qu'un rappel pour voter pour celui-ci.
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 164938.png" alt=""><figcaption><p>Exemple de récompense de vote</p></figcaption></figure>
-
 ## Classes
 
 **Rareté : 4**
@@ -369,6 +358,11 @@ Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 * symsym
 * Pagotortoise
 * Voltou
+* Ntalcme
+* aureochocob0n
+*   BananePlantain
+
+
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_091722_Discord[1].jpg" alt=""><figcaption><p>Exemple de légende d'un staff</p></figcaption></figure>
 
@@ -509,7 +503,7 @@ Voyager sur le chemin de la :motorway: **Route des merveilles** réduira consid�
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-26 224611.png" alt=""><figcaption><p>Exemple du marchand épique</p></figcaption></figure>
 
-## Un carrosse rapide
+## Une charrette rapide
 
 **Rareté : 1**
 

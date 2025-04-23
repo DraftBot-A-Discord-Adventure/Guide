@@ -22,10 +22,6 @@ Il y a 4 types de récompenses :&#x20;
 * Un objet aléatoire dont la rareté varie en fonction de la ligue (voir le tableau).
 * Des points dont le nombre augmente en fonction du classement de la saison : le premier en gagne 4000 et cela baisse au fur et à mesure du classement.
 
-{% hint style="danger" %}
+{% hint style="success" %}
 Si vous êtes situés en dessous du top 200, vous ne gagnerez pas de points.
-{% endhint %}
-
-{% hint style="warning" %}
-Une fois 500 de gloire obtenus, une perte de 6% sera appliquée sur la gloire au-dessus de cette limite à la fin de la saison.
 {% endhint %}
