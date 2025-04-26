@@ -35,9 +35,3 @@ Plus d'informations sur les badges sont disponibles sur la page dédiée.
 {% content-ref url="badges.md" %}
 [badges.md](badges.md)
 {% endcontent-ref %}
-
-#### Le classement selon une portée
-
-Le classement peut être affiché selon deux périmètres: "Classement général" (par défaut; il inclut les joueurs de tous les serveurs Discord) ou "Classement par serveur" (ne prend en compte que les joueurs du serveur où le joueur effectue la commande). L'option `portee` permet de choisir le périmètre sur lequel le classement est construit.
-
-Exemple: `/classement score portee:🚩 Classement du serveur` affichera le classement du serveur sur lequel est exécutée la commande.
