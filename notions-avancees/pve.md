@@ -8,7 +8,7 @@ description: >-
 
 ## Comment y aller ?
 
-Le PVE est situé sur une île à part qui peut être rejointe au travers d'un [mini-évènement](mini-evenements.md).
+Le PVE est situé sur une île à part qui peut être rejointe au travers d'un [mini-évènement](mini-evenements.md) à partir du niveau 20.
 
 <figure><picture><source srcset="../.gitbook/assets/bateau_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/bateau.png" alt=""></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
 
@@ -25,7 +25,7 @@ Les trajets pour aller sur l'île et pour la quitter auront des temps différent
 
 * pour aller sur l'île, cela prendra 30 minutes, avec le temps entre 2 mini-évènements habituel;
 * pour quitter l'île, vous ne prendrez que 5 minutes sans mini-évènement, mais avec un évènement spécifique célébrant votre exploit;
-* une fois l'île quittée, votre destination sera une côte du continent principal et son trajet durera 10 minutes, avec un mini-évènement sur celui-ci.
+* une fois l'île quittée, votre destination sera une côte du continent principal et son trajet durera 8 minutes, avec un mini-évènement sur celui-ci.
 {% endhint %}
 
 {% hint style="success" %}
@@ -43,7 +43,7 @@ Vous pouvez également identifier les alliés présents grâce à l'émoji :hand
 {% endhint %}
 
 {% hint style="danger" %}
-Sur l'île, vous ne regagnerez pas de points d'énergie naturellement, le seul moyen étant de tomber sur des mini-évènements de gain de points d'énergie.
+Sur l'île, vous ne regagnerez pas d'énergie naturellement, le seul moyen étant de tomber sur des mini-évènements de gain d'énergie.
 
 Certaines commandes seront aussi interdites sur l'île afin d'empêcher toute tentative de triche.
 {% endhint %}
@@ -129,13 +129,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 boss:
 
 **Attaques**:
 
-| Nom de l'attaque           | Description                                                                                                                                     | Consommation en souffle |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :rock: Attaque rocheuse    | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                            | 6                       |
-| :foot: Attaque impact      | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                 | 6                       |
-| :bricks: Peau de roche     | Recouvre sa peau de roches, augmentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                        | 3                       |
-| :shield: Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
-| :moyai: Pétrification      | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
+| Nom de l'attaque             | Description                                                                                                                                     | Consommation en souffle |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :rock: Attaque rocheuse      | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                            | 6                       |
+| :foot: Attaque impact        | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                 | 6                       |
+| :bricks: Peau de roche       | Recouvre sa peau de roches, augmentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                        | 3                       |
+| :mountain: Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
+| :headstone: Pétrification    | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
 
 ### Volcan grondant
 
@@ -145,13 +145,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 boss:
 
 **Attaques**:
 
-| Nom de l'attaque               | Description                                                                                                                                                                                                          | Consommation en souffle |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :volcano: Éruption             | Fait entrer en éruption le volcan grondant. Émet des rochers en fusion infligeant des dégâts à l'adversaire pendant quelques tours.                                                                                  | 8                       |
-| :foot: Attaque impact          | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                                                                                      | 6                       |
-| :thermometer: Drain de chaleur | Récupère la chaleur de l'adversaire, le gelant au passage. Augmente l'attaque du lanceur de 20%.                                                                                                                     | 7                       |
-| :bathtub: Bain de magma        | Fonctionne comme Repos (voir page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
-| :hotsprings: Vague de lave     | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                                        | 15                      |
+| Nom de l'attaque           | Description                                                                                                                                                                                                          | Consommation en souffle |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :volcano: Éruption         | Fait entrer en éruption le volcan grondant. Émet des rochers en fusion infligeant des dégâts à l'adversaire pendant quelques tours.                                                                                  | 7                       |
+| :foot: Attaque impact      | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                                                                                      | 6                       |
+| :fire:Attaque feu          | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                                  | 8                       |
+| :bathtub: Bain de magma    | Fonctionne comme Repos (voir page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
+| :hotsprings: Vague de lave | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                                        | 15                      |
 
 ## Mini-évènements
 

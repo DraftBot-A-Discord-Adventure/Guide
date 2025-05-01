@@ -18,17 +18,29 @@ Pendant un combat, vous devez impérativement prendre en compte les statistiques
 * :lungs: Récupération de souffle
 
 {% hint style="info" %}
-Vous trouverez plus d'informations sur les statistiques dans le guide consacré au [profil](profile.md).
+Vous trouverez plus d'informations sur les statistiques dans le guide consacré au [profil](profile/).
 {% endhint %}
 
 ### Types de combats
 
 #### Les combats de joueurs
 
-Un combat peut être lancé avec la commande `/combat`. Vous affronterez une IA avec la classe et les statistiques d'un joueur aléatoire (à condition que sa gloire soit au maximum 450 points au-dessus ou en dessous de la vôtre et que vous l'avez affronté moins de 3 fois). Le gagnant remporte de la gloire :sparkles: ,le perdant en perd et l'énergie perdue est consommée.
+Un combat peut être lancé avec la commande `/combat`. Vous affronterez une IA avec la classe et les statistiques d'un joueur aléatoire (à condition que sa gloire de défense soit au maximum 450 points au-dessus ou en dessous de votre gloire d'attaque et que vous l'avez affronté moins de 3 fois). Le gagnant remporte de la gloire :sparkles: ,le perdant en perd et l'énergie perdue est consommée.
 
 {% hint style="info" %}
 Il n'est possible de lancer une combat que si vous possédez 80% ou plus d'énergie.
+{% endhint %}
+
+{% hint style="info" %}
+Votre gloire est divisée en 2 parties dont la somme forme la gloire affichée sur le profil :&#x20;
+
+-La gloire d'attaque : lorsque vous combattez l'IA d'un joueur.
+
+-La gloire de défense : lorsque votre IA est attaqué par un joueur.
+{% endhint %}
+
+{% hint style="info" %}
+A la fin de chaque combat, vous obtenez, en plus de la gloire, de l'argent et des points (dans la limite de X pièces et Y points par jour).&#x20;
 {% endhint %}
 
 #### Les combats de monstres
@@ -77,8 +89,8 @@ Dès lors que l'énergie :zap: de l'un des combattants tombe à 0, le combat s'a
 
 Un combat peut se terminer sur une égalité si le 24e tour se finit sans vainqueur ou si les deux combattants atteignent 0 :zap: au cours du même tour.
 
-Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie :zap:que vous avez perdu, sauf s'il s'agissait d'un combat amical.
+Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie :zap:que vous avez perdue.
 
 {% hint style="danger" %}
-Si un des adversaires est inactif pendant plus de 45 secondes, le combat est considéré comme terminé. Le combattant inactif perdra le combat, et donc la totalité de son énergie.
+Si vous ne êtes inactif pendant plus de 45 secondes, le combat est considéré comme terminé. Vous perdrait automatiquement le combat et donc la totalité de votre énergie.
 {% endhint %}

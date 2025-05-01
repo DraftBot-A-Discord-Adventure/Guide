@@ -16,7 +16,7 @@ Le choix de classe dépend de votre niveau, il existe **5 paliers** de classes d
 Au total, il y a 25 classes disponibles dans le jeu.
 {% endhint %}
 
-Pour changer de classe, et à condition que votre personnage soit au moins niveau 4, vous devez utiliser la commande `/classes`, puis cliquer sur la réaction correspondant à la classe que vous souhaitez.
+Pour changer de classe, et à condition que votre personnage soit au moins niveau 4 et que vous n'avez pas changé de classe récemment, vous devez utiliser la commande `/classes`, puis choisir dans la liste la classe que vous souhaitez.
 
 ### Liste des classes
 

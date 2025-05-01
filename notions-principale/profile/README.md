@@ -12,7 +12,7 @@ Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via 
 
 Le profil d'un joueur se décompose donc de cette façon :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-03-20 121841.png" alt=""><figcaption><p>Profil d'un joueur</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-03-20 121841.png" alt=""><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 
 ### Informations
 
@@ -24,7 +24,7 @@ Ce sont les informations générales de votre personnage.
 
 ### Statistiques
 
-Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y retrouve :
+Cette ligne correspond aux statistiques liées aux [combats](../combats.md). On y retrouve :
 
 * :dagger: Points d'attaque
 * :shield: Points de défense
@@ -33,7 +33,7 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 * 🌬  Souffle disponible / Souffle maximal
 * :lungs: Récupération de souffle
 
-### [missions.md](missions.md "mention")
+### [missions.md](../missions.md "mention")
 
 * Votre nombre de gemmes
 * Votre avancement dans la campagne en pourcentage
@@ -43,20 +43,20 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 * Votre rang / nombre de joueurs total&#x20;
 * Vos points accumulés au fil de l'aventure
 
-Pour plus d'informations voir [monter-dans-les-classements.md](../notions-avancees/monter-dans-les-classements.md "mention")
+Pour plus d'informations voir [monter-dans-les-classements.md](../../notions-avancees/monter-dans-les-classements.md "mention")
 
 ### Temps restant
 
-Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant avant la fin de celle-ci sera affiché, précédé d'un émoji relatif à l'altération en question.
+Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](../alterations-detat.md) active, le temps restant avant la fin de celle-ci sera affiché, précédé d'un émoji relatif à l'altération en question.
 
 ### Classe et guilde
 
-Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage ainsi que de créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
+Vous avez la possibilité de choisir une [classe ](../classes.md)pour votre personnage ainsi que de créer ou rejoindre une [guilde](../guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
 
 ### Gloire et Ligue
 
 * :sparkles: Points de gloire
-* Votre ligue : celle-ci change en fonction de votre gloire : plus d'informations dans [ligues.md](ligues.md "mention").
+* Votre ligue : celle-ci change en fonction de votre gloire : plus d'informations dans [ligues.md](../ligues.md "mention").
 
 {% hint style="success" %}
 La couleur de l'embed indique aussi votre ligue actuelle !
@@ -66,10 +66,10 @@ La couleur de l'embed indique aussi votre ligue actuelle !
 
 C'est l'endroit où vous dirigez sur la carte.
 
-### [familiers.md](familiers.md "mention")
+### [familiers.md](../familiers.md "mention")
 
 Un animal qui vous accompagne dans votre aventure.
 
 ### Badges
 
-Pour finir, le bot ajoutera en réaction de votre profil des émojis correspondants aux [badges ](../notions-avancees/badges.md)que vous avez acquis durant votre aventure.
+Pour finir, le bot ajoutera en réaction de votre profil des émojis correspondants aux [badges ](../../notions-avancees/badges.md)que vous avez acquis durant votre aventure.

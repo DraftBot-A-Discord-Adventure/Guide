@@ -44,7 +44,7 @@ Il existe également 3 options à cette commande:
 * `utilisateur` Permet de voir les informations d'une guilde à partir du nom d'un de ses membres.
 * `classement` Permet de voir les informations d'une guilde à partir du classement d'un de ses membres.
 
-### Monter de niveau une guilde.
+### Monter de niveau une guilde:
 
 #### Dans les mini-événements
 

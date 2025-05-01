@@ -20,7 +20,7 @@ Il y a 4 types de récompenses :&#x20;
 
 * L'XP et l'argent dont les montants sont détaillés dans le tableau au-dessus.
 * Un objet aléatoire dont la rareté varie en fonction de la ligue (voir le tableau).
-* Des points dont le nombre augmente en fonction du classement de la saison : le premier en gagne 4000 et cela baisse au fur et à mesure du classement.
+* Des points dont le nombre augmente en fonction du classement de la saison : le premier en gagne 3000 et cela baisse au fur et à mesure du classement.
 
 {% hint style="success" %}
 Si vous êtes situés en dessous du top 200, vous ne gagnerez pas de points.

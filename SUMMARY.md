@@ -12,7 +12,8 @@
 
 * [Rapports](notions-principale/report.md)
 * [Carte et lieux](notions-principale/carte-et-lieux.md)
-* [Profil](notions-principale/profile.md)
+* [Profil](notions-principale/profile/README.md)
+  * [Français](https://app.gitbook.com/o/-MH1_FERaV0tsl55ERgC/s/-MH1fCvNZ7zikrWd7dJj-2584506019/)
 * [Altérations d'état](notions-principale/alterations-detat.md)
 * [Combats](notions-principale/combats.md)
 * [Ligues](notions-principale/ligues.md)
