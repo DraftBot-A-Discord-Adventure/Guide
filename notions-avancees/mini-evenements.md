@@ -328,6 +328,10 @@ En réagissant avec :end:, l'action "Ne rien faire" se déclenche et vous perdez
 
 <figure><img src="../.gitbook/assets/Screenshot_20230526_215537_Discord[1].jpg" alt=""><figcaption><p>Exemple du jeu de gobelets</p></figcaption></figure>
 
+{% hint style="info" %}
+Ce mini-événement n'apparait pas autour de la Route des Merveilles, de la Route Marécageuse et du mont Célestrum.
+{% endhint %}
+
 ## Membres du staff
 
 **Rareté : 1**
@@ -360,7 +364,9 @@ Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 * Voltou
 * Ntalcme
 * aureochocob0n
-*   BananePlantain
+* BananePlantain
+
+
 
 
 
@@ -487,7 +493,7 @@ Ce mini-évènement vous permet de voyager vers l'île du PVE, il ne se déclenc
 Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
 
 
 

@@ -115,6 +115,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :gun:                               | Pistolet chargé           | :dagger:143                         | Épique     |
 | :dragon:                            | Épée du dragon            | :dagger:99 :shield:117 :rocket:18   | Légendaire |
 | :warning:                           | Plothammer                | :dagger:107 :shield:100             | Légendaire |
+| :snowflake:                         | Épée de givre             | :dagger:115 :shield:50              | Légendaire |
 | :gun:                               | Pistolet pan pan QQ       | :dagger:125                         | Légendaire |
 | :microbe:                           | Bio-arme                  | :dagger:134                         | Légendaire |
 | :crossed\_swords:                   | Épée de Ragnell           | :dagger:145                         | Légendaire |
@@ -301,16 +302,17 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 
 #### :clock10: Bonus de temps
 
-| Symbole         | Nom                        | Effet                                                        | Rareté     |
-| --------------- | -------------------------- | ------------------------------------------------------------ | ---------- |
-| :apple:         | Pomme du grand arbre       | :clock10: Avance le temps plus rapidement pendant 20 minutes | Spécial    |
-| :rocket:        | Fusée en Carton            | :clock10:Avance le temps plus rapidement pendant 30 minutes  | Spécial    |
-| :notes:         | Harmonica du temps         | :clock10: Avance le temps plus rapidement pendant 40 minutes | Épique     |
-| :book:          | Kyuran                     | :clock10: Avance le temps plus rapidement pendant 55 minutes | Épique     |
-| :movie\_camera: | Accélérateur de particules | :clock10: Avance le temps plus rapidement pendant 1 heure 10 | Légendaire |
-| :stars:         | Étoile filante             | :clock10: Avance le temps plus rapidement pendant 1 heure 25 | Légendaire |
-| :blue\_square:  | Tardis                     | :clock10: Avance le temps plus rapidement pendant 1 heure 50 | Mythique   |
-| :clock12:       | Horloge du lapin           | :clock10: Avance le temps plus rapidement pendant 2 heures   | Mythique   |
+| Symbole              | Nom                        | Effet                                                        | Rareté     |
+| -------------------- | -------------------------- | ------------------------------------------------------------ | ---------- |
+| :apple:              | Pomme du grand arbre       | :clock10: Avance le temps plus rapidement pendant 20 minutes | Spécial    |
+| :rocket:             | Fusée en Carton            | :clock10:Avance le temps plus rapidement pendant 30 minutes  | Spécial    |
+| :notes:              | Harmonica du temps         | :clock10: Avance le temps plus rapidement pendant 40 minutes | Épique     |
+| :book:               | Kyuran                     | :clock10: Avance le temps plus rapidement pendant 55 minutes | Épique     |
+| :movie\_camera:      | Accélérateur de particules | :clock10: Avance le temps plus rapidement pendant 1 heure 10 | Légendaire |
+| :stars:              | Étoile filante             | :clock10: Avance le temps plus rapidement pendant 1 heure 25 | Légendaire |
+| :satellite\_orbital: | Spoutnik                   | :clock10: Avance le temps plus rapidement pendant 1 heure 35 | Légendaire |
+| :blue\_square:       | Tardis                     | :clock10: Avance le temps plus rapidement pendant 1 heure 50 | Mythique   |
+| :clock12:            | Horloge du lapin           | :clock10: Avance le temps plus rapidement pendant 2 heures   | Mythique   |
 
 #### <img src="../.gitbook/assets/moneybag.png" alt="" data-size="line"> Bonus d'argent
 

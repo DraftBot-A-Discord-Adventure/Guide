@@ -43,7 +43,7 @@ Celui-ci se divise en 3 catégories :
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
 
 {% hint style="info" %}
 Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [pve.md](../notions-avancees/pve.md "mention").

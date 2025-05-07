@@ -40,7 +40,7 @@ Votre gloire est divisée en 2 parties dont la somme forme la gloire affichée s
 {% endhint %}
 
 {% hint style="info" %}
-A la fin de chaque combat, vous obtenez, en plus de la gloire, de l'argent et des points (dans la limite de X pièces et Y points par jour).&#x20;
+A la fin de chaque combat, vous obtenez, en plus de la gloire, de l'argent et des points (dans la limite de 200 pièces et 105 points par jour).&#x20;
 {% endhint %}
 
 #### Les combats de monstres
@@ -94,3 +94,9 @@ Une fois un combat terminé, vous devrez attendre un certain temps avant de réc
 {% hint style="danger" %}
 Si vous êtes inactif pendant plus de 45 secondes, le combat est considéré comme terminé. Vous perdrait automatiquement le combat et donc la totalité de votre énergie.
 {% endhint %}
+
+### Historique des combats
+
+La commande `/historiquecombat` permet d'afficher les résultats des combats que vous avez fait en tant qu'attaquant et défenseur.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Comme votre IA peut combattre pour vous, il peut être intéressant de savoir comment votre gloire a évolué en votre absence.</p></figcaption></figure>
