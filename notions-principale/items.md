@@ -169,6 +169,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 | :shield:                      | Bouclier de gladiateur   | :shield:41                          | Rare       |
 | :shield:                      | Lumière de Node          | :shield:45                          | Rare       |
 | :shield:                      | Bouclier de Lynel        | :shield:55                          | Rare       |
+| :shield:                      | Bouclier gigantesque     | :shield:60 :rocket:-35              | Rare       |
 | :clown:                       | Autodérision             | :shield:60 :dagger:-25              | Rare       |
 | :leaves:                      | Bouclier du vent         | :shield:44 :rocket:36               | Spécial    |
 | :lab\_coat:                   | Kimono renforcé          | :shield:48                          | Spécial    |
