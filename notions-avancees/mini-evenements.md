@@ -365,10 +365,7 @@ Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 * Ntalcme
 * aureochocob0n
 * BananePlantain
-
-
-
-
+* Ravenclaw
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_091722_Discord[1].jpg" alt=""><figcaption><p>Exemple de légende d'un staff</p></figcaption></figure>
 
