@@ -28,7 +28,7 @@
 * [Monter dans les classements](notions-avancees/monter-dans-les-classements.md)
 * [Gestion de l'inventaire](notions-avancees/inventory.md)
 * [PVE](notions-avancees/pve.md)
-* [Mini-évènements](notions-avancees/mini-evenements.md)
+* [Mini-évènements sur le continent principal](notions-avancees/mini-evenements.md)
 * [Badges](notions-avancees/badges.md)
 
 ## Lore et histoire du bot <a href="#lore" id="lore"></a>

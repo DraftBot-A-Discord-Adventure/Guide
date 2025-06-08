@@ -1,6 +1,6 @@
-# Mini-évènements
+# Mini-évènements sur le continent principal
 
-Il existe actuellement 28 types de mini-évènement différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
+Il existe actuellement 29 types de mini-évènement différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
 
 Plus la valeur de la rareté d'un mini-évènement est élevée, plus celui-ci est fréquent.
 
@@ -518,3 +518,23 @@ Ce mini-événement vous fera rencontrer un individu mystérieux qui vous propos
 * Sinon le voyage est juste moins cher.
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-28 195354.png" alt=""><figcaption><p>Exemple d'un voyage rapide</p></figcaption></figure>
+
+## Le nain fan des animaux
+
+**Rareté: 5**
+
+Ce mini-événement vous fera rencontrer Talvar, un nain amoureux de la cause animale. Il vous récompensera avec une gemme à chaque nouvelle espèce que vous lui présenterait  si votre animal n'est pas fielleux (sinon il vous réprimandera vertement ) . Une fois toutes les espèces répertoriés, vous gagnerez en signe de profond respect le [badge](badges.md) :feet:(et de l'argent si vous l'avez déjà) .
+
+<figure><picture><source srcset="../.gitbook/assets/talvar_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/talvar_clair.png" alt=""></picture><figcaption><p>On raconte que son amour des animaux est aussi immense que sa richesse.</p></figcaption></figure>
+
+{% hint style="info" %}
+Ce mini-événement n'apparaît qu'autour du Mont Célestrum.
+{% endhint %}
+
+## Informations sur les combats
+
+**Rareté : 3**&#x20;
+
+Ce mini-événement  vous fera rencontrer Sir Rowan, ancien capitaine de la garde royale.Il vous présentera les différentes attaques du jeu qu'elles soient humaines ou monstrueuses.
+
+<figure><picture><source srcset="../.gitbook/assets/rowan_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/rowan_clair.png" alt=""></picture><figcaption></figcaption></figure>

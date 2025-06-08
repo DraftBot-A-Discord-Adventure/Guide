@@ -14,7 +14,7 @@ Il existe trois catégories de mission :
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
 * Les missions secondaires sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](https://guide.draftbot.com/notions-avancees/mini-evenements#trouver-une-mission).
 
-![Affichage de la commande /missions](../.gitbook/assets/missions.png)
+<picture><source srcset="../.gitbook/assets/missions_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/missions.png" alt="Affichage de la commande /missions"></picture>
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
@@ -43,7 +43,7 @@ Celui-ci se divise en 3 catégories :
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/magasinmission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/magasinmission_clair.png" alt=""></picture><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
 
 {% hint style="info" %}
 Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [pve.md](../notions-avancees/pve.md "mention").

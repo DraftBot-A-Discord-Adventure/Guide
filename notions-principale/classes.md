@@ -31,12 +31,10 @@ Pour changer de classe, et à condition que votre personnage soit au moins nivea
 <figure><img src="../.gitbook/assets/tier5.png" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="danger" %}
-Afin d'éviter de nombreux changements de classe, un délai minimum est imposé entre deux changements:
+Afin d'éviter de nombreux changements de classe, un délai minimum est imposé entre deux changements :
 
-* Palier 1: 1 jour
-* Palier 2: 1 semaine
-* Palier 3: 3 semaines
-* Paliers 4 et 5: 4 semaines.
+* Paliers 1 et 2 : 2 semaines
+* Paliers 3, 4 et 5 : 4 semaines.
 {% endhint %}
 
 ### Statistiques des classes
@@ -45,4 +43,4 @@ Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot
 
 Il s'agit de la commande `/infosclasses`.
 
-<figure><img src="../.gitbook/assets/comparatif classes.PNG" alt=""><figcaption><p>Statistiques des classes</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/infosclasse_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/infosclasse_clair.png" alt=""></picture><figcaption><p>Statistiques des classes</p></figcaption></figure>

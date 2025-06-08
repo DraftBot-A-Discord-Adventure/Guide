@@ -52,7 +52,7 @@ Un familier a 2 fonctions:
 
 L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise, pour votre animal.
 
-![Le magasin de guilde permet d'acheter différentes sortes de nourritures](../.gitbook/assets/magasinguilde_clair.png)
+<picture><source srcset="../.gitbook/assets/magasinguilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/magasinguilde_clair.png" alt="Le magasin de guilde permet d&#x27;acheter différentes sortes de nourritures"></picture>
 
 {% hint style="info" %}
 Il est aussi possible que votre familier trouve de la nourriture pendant l'aventure.
@@ -62,7 +62,7 @@ Il est aussi possible que votre familier trouve de la nourriture pendant l'avent
 
 La nourriture va permettre d'influer sur le moral de votre animal. Pour nourrir votre familier, vous devez utiliser la commande `/nourrirfamilier`.
 
-![La commande /nourrirfamilier](../.gitbook/assets/nourrirfamilier_clair.png)
+<picture><source srcset="../.gitbook/assets/nourrirfamilier_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/nourrirfamilier_clair.png" alt="La commande /nourrirfamilier"></picture>
 
 Chaque type de nourriture fera gagner une quantité différente de points d'affection à votre familier.
 
