@@ -2,10 +2,10 @@
 
 ### Le Kyutisme en général :
 
-La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit de la religion de l’univers DraftBot. On distingue trois grands types de fidèles :
+La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit de la religion de l’univers Crownicles. On distingue trois grands types de fidèles :
 
-* les fidèles « simples », qui pratiquent mais ont leur profession et leur vie à côté.
-* les religieux.
+* Les fidèles « simples », qui pratiquent, mais ont leur profession et leur vie à côté.
+* Les religieux.
 * Les membres de l’Ordre des Trois, kyutistes extrémistes qui rejettent le culte d’Askeriel et vénèrent la Trinité.
 
 ![La Kyuillère utilisée par les prêtres](<../.gitbook/assets/image (59).png>)
@@ -17,7 +17,7 @@ Les fidèles pratiquent dans des églises avec des prêtres(ses) Kyutistes, c
 La hiérarchie religieuse se compose comme suit :
 
 * Le Kyupitaine est le chef spirituel du Kyutisme, il réside dans la cathédrale de Claire de Ville.
-* Le Grand Prêtre est le bras droit du Kyupitaine, il le seconde et voyage pour répandre le Kyutisme à travers le pays, et transmettre la parole du Kyupitaine.
+* Le Grand prêtre est le bras droit du Kyupitaine, il le seconde et voyage pour répandre le Kyutisme à travers le pays, et transmettre la parole du Kyupitaine.
 * Les Moines Kyutistes méditent en priant dans leurs monastères et églises recluses, et vivent du commerce de leurs produits agricoles, qui peuvent être l’élevage, le brassage de bière ou la culture.
 * Les prêtres Kyutistes officient dans les villes et villages du pays.
 * Les fidèles représentent la majorité de la population.
@@ -26,7 +26,7 @@ La hiérarchie religieuse se compose comme suit :
 
 Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. On y retrouve également diverses présentations des différentes icônes.\
 \
-On raconte que le livre dispose de pouvoirs magiques mais cette information est difficile à vérifier car les rares exemplaires s'arrachent à prix d'or.
+On raconte que le livre dispose de pouvoirs magiques, mais cette information est difficile à vérifier, car les rares exemplaires s'arrachent à prix d'or.
 
 ![Un exemplaire du Kyuran vendu au marché noir.](<../.gitbook/assets/image (61).png>)
 
@@ -36,16 +36,16 @@ Aux temps primordiaux, il n’y avait qu'Askeriel, flottant dans les limbes. Un 
 
 #### La Trinité :
 
-La Trinité représente l’équilibre, et les progrès de l’humanité :
+La Trinité représente l’équilibre et les progrès de l’humanité :
 
 * Orthgard est un ange mort, il représente le progrès technique de l’humanité : il lui apprit comment fabriquer des outils, comment s’abriter de l’extérieur. C’est lui qui gère les âmes des gens jugés bons par Iatneh, il est représenté par un anneau.
 * Iatneh est un Minotaure, il représente l’équilibre et la justice. Son autorité s’étend sur le droit et les valeurs de jugements, il enseigna aux humains comment vivre en groupe, comment réfléchir et s’organiser. Il juge les âmes des gens à leur mort, et les envoie selon son jugement à Orthgard ou Fenrir. L’artefact qui le symbolise est une urne.
 * Fenrir est un loup-garou argenté, il montra aux humains comment se défendre avec des armes, des poisons, et comment s’en prémunir grâce à la médecine. Il s’occupe des âmes des gens jugés mauvais par Iatneh. Son symbole est le loup.
 
-Ces dieux sont également vénérés lors de fêtes religieuses qui leurs sont dédiées, chacune des trois fêtes étant les évènements majeurs avec les Fêtes de la Création qui honorent Askeriel.
+Ces dieux sont également vénérés lors de fêtes religieuses qui leur sont dédiées, chacune des trois fêtes étant les évènements majeurs avec les Fêtes de la Création qui honorent Askeriel.
 
 Une dernière divinité existe, mais est endormie : il s’agit de Y'ahnor, divinité destructrice.
 
 ### La secte
 
-La secte est un groupe de kyutistes extrémistes qui rejettent Askeriel. Ils se font nommer l’Ordre des Trois, et pensent qu’ Askeriel est mort, détrôné par la Trinité sur les conseils de Y'ahnor, car il n’était pas digne de diriger le monde et l’humanité et les freine dans leur objectif de guider l’humanité. Ils sont dirigés par les trois Blusters, chacun symbolisant l’incarnation d’un des trois Dieux de la Trinité sur terre. D’après eux, tous les dieux sont foncièrement mauvais (ce qui n’est pas le cas dans le kyutisme), ils savent qu’ils iront auprès de Fenrir à leur mort à cause de leurs actes, mais ils espèrent recevoir un sort plus clément en effectuant des sacrifices divers en son honneur de leur vivant. Leur objectif final est de réveiller Y'ahnor grâce à des sacrifices humains, afin qu’elle guide l’humanité pour diriger le monde avec les Trois.
+La secte est un groupe de kyutistes extrémistes qui rejettent Askeriel. Ils se font nommer l’Ordre des Trois, et pensent qu’Askeriel est mort, détrôné par la Trinité sur les conseils de Y'ahnor, car il n’était pas digne de diriger le monde et l’humanité et les freine dans leur objectif de guider l’humanité. Ils sont dirigés par les trois Blusters, chacun symbolisant l’incarnation d’un des trois Dieux de la Trinité sur terre. D’après eux, tous les dieux sont foncièrement mauvais (ce qui n’est pas le cas dans le kyutisme), ils savent qu’ils iront auprès de Fenrir à leur mort à cause de leurs actes, mais ils espèrent recevoir un sort plus clément en effectuant divers sacrifices en son honneur de leur vivant. Leur objectif final est de réveiller Y'ahnor grâce à des sacrifices humains, afin qu’elle guide l’humanité pour diriger le monde avec les Trois.

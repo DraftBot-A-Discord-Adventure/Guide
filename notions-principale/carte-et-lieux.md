@@ -2,7 +2,7 @@
 
 La carte du monde de DrafBot permet aux joueurs de se repérer entre les différents lieux du jeu. Il est possible de l'afficher directement dans le jeu en saisissant la commande `/carte`. Vous obtiendrez également votre position ainsi qu'une description du lieu dans lequel vous vous rendez.
 
-![La carte du monde de DraftBot !](../.gitbook/assets/6\_29\_map.jpg)
+![La carte du monde de Crownicles !](../.gitbook/assets/6_29_map.jpg)
 
 ### Liste des lieux :
 

@@ -18,7 +18,7 @@ Pendant un combat, vous devez impérativement prendre en compte les statistiques
 * :lungs: Récupération de souffle
 
 {% hint style="info" %}
-Vous trouverez plus d'informations sur les statistiques dans le guide consacré au [profil](profile/).
+Vous trouverez plus d'informations sur les statistiques dans le guide consacré au [profil](profile.md).
 {% endhint %}
 
 ### Types de combats

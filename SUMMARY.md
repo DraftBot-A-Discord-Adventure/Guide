@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Découvrir DraftBot !](README.md)
+* [Découvrir Crownicles !](README.md)
 
 ## Bien commencer votre aventure
 
@@ -12,8 +12,7 @@
 
 * [Rapports](notions-principale/report.md)
 * [Carte et lieux](notions-principale/carte-et-lieux.md)
-* [Profil](notions-principale/profile/README.md)
-  * [Français](https://app.gitbook.com/o/-MH1_FERaV0tsl55ERgC/s/-MH1fCvNZ7zikrWd7dJj-2584506019/)
+* [Profil](notions-principale/profile.md)
 * [Altérations d'état](notions-principale/alterations-detat.md)
 * [Combats](notions-principale/combats.md)
 * [Ligues](notions-principale/ligues.md)
@@ -39,9 +38,9 @@
 * [Les personnages récurrents](lore/les-personnages.md)
 * [Grande Histoire du Kyutisme](lore/grande-histoire-du-kyutisme.md)
 
-## Aidez-nous à développer DraftBot !
+## Aidez-nous à développer Crownicles !
 
-* [Comment contribuer ?](aidez-nous-a-developper-draftbot/comment-contribuer/README.md)
-  * [Rédaction des évènements](aidez-nous-a-developper-draftbot/comment-contribuer/redaction-des-evenements.md)
-  * [Test du bot](aidez-nous-a-developper-draftbot/comment-contribuer/test-du-bot.md)
-  * [Rédaction / Traduction du guide](aidez-nous-a-developper-draftbot/comment-contribuer/redaction-traduction-du-guide.md)
+* [Comment contribuer ?](aidez-nous-a-developper-crownicles/comment-contribuer/README.md)
+  * [Rédaction des évènements](aidez-nous-a-developper-crownicles/comment-contribuer/redaction-des-evenements.md)
+  * [Test du bot](aidez-nous-a-developper-crownicles/comment-contribuer/test-du-bot.md)
+  * [Rédaction / Traduction du guide](aidez-nous-a-developper-crownicles/comment-contribuer/redaction-traduction-du-guide.md)

@@ -18,7 +18,7 @@ Lors de votre arrivée, vous serez accueilli par un message de bienvenue comme c
 
 ![Le message de bienvenue que vous pouvez rencontrer](<../.gitbook/assets/Accueil DB white.png>)
 
-Pour commencer votre aventure il vous suffira de cliquer sur "Essayer DraftBot" puis d'utiliser la commande `/rapport`
+Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Crownicles" puis d'utiliser la commande `/rapport`
 
 Suite à cette étape, le tutoriel du bot commencera. Suivez ses instructions pour continuer.
 
