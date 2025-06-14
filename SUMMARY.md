@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Discover DraftBot !](README.md)
+* [Discover Crownicles !](README.md)
 
 ## Getting your adventure off a good start <a href="#bien-commencer-votre-aventure" id="bien-commencer-votre-aventure"></a>
 

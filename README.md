@@ -1,16 +1,16 @@
 ---
 description: >-
-  This guide is a presentation of the main features of DraftBot and tips to
+  This guide is a presentation of the main features of Crownicles and tips to
   start your adventure nicely.
 ---
 
-# Discover DraftBot !
+# Discover Crownicles !
 
-## What is DraftBot ?
+## What is Crownicles ?
 
-DraftBot is a Discord bot developed by [@BastLast](https://github.com/BastLast) that allows you to live a textual adventure.&#x20;
+Crownicles is a Discord bot developed by [@BastLast](https://github.com/BastLast) that allows you to live a textual adventure.&#x20;
 
-The story takes place in a medieval world where the player controls an adventurer who must win a competition organized by the king to win the hand of the princess. To achieve his goal, he must travel, collect points and face many dangers. The game takes place in real-time, and the player is regularly prompted to request "reports" from the character they are controlling. During these reports, the character may seek advice from the player through a choice system using Discord reactions. Each choice leads the character to beneficial or detrimental consequences. Throughout his journey, the character may be injured, collect different equipment, etc.
+The story takes place in a medieval world where the player controls an adventurer who must win a competition organized by the king to win the hand of the princess. To achieve his goal, he must travel, collect points and face many dangers. The game takes place in real-time, and the player is regularly prompted to request "reports" from the character they are controlling. During these reports, the nature may seek advice from the player through a choice system using Discord reactions. Each choice leads the character to beneficial or detrimental consequences. Throughout his journey, the character may be injured, collect different equipment, etc.
 
 #### Main features.
 
@@ -18,6 +18,6 @@ The story takes place in a medieval world where the player controls an adventure
 * **No permission needed**, your server is safe!&#x20;
 * **Simple configuration**: just a channel.&#x20;
 * Join **thousands of players**, fight and create your guild with your friends!&#x20;
-* Help us **improve the bot!** Completely [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) project!
+* Help us **improve the bot!** Completely [**open-source**](https://github.com/Crownicles) project!
 
 ![An example of a report made by a player.](.gitbook/assets/report_sombre.png)

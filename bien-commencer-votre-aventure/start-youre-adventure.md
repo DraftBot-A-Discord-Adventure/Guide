@@ -18,7 +18,7 @@ Once you have joined the server, a welcoming message will appear like this:
 
 ![](<../.gitbook/assets/image (36).png>)
 
-To start the adventure, press "Try Draftbot in English", then use the command `/report`.
+To start the adventure, press "Try Crownicles in English", then use the command `/report`.
 
 Following this, the bot tutorial will start. Just follow the bot instructions to continue.
 
