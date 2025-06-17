@@ -16,7 +16,7 @@ Il est aussi possible d'inviter le bot sur votre serveur ! (le lien d'invitation
 
 Lors de votre arrivée, vous serez accueilli par un message de bienvenue comme celui ci-dessous :
 
-![Le message de bienvenue que vous pouvez rencontrer](<../.gitbook/assets/Accueil DB white.png>)
+![Le message de bienvenue que vous pouvez rencontrer](../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces%2F-MH1fCvNZ7zikrWd7dJj-2584506019%2Fuploads%2FS0Rug7UYdu7VmZ2igyqu%2FAccueil%20DB%20white.png)
 
 Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Crownicles" puis d'utiliser la commande `/rapport`
 
