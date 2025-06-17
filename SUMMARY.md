@@ -26,7 +26,7 @@
 
 * [Monter dans les classements](notions-avancees/monter-dans-les-classements.md)
 * [Gestion de l'inventaire](notions-avancees/inventory.md)
-* [PVE](notions-avancees/pve.md)
+* [Îles mystérieuses](notions-avancees/iles-mysterieuses.md)
 * [Mini-évènements sur le continent principal](notions-avancees/mini-evenements.md)
 * [Badges](notions-avancees/badges.md)
 

@@ -46,5 +46,5 @@ Celui-ci se divise en 3 catégories :
 <figure><picture><source srcset="../.gitbook/assets/magasinmission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/magasinmission_clair.png" alt=""></picture><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
 
 {% hint style="info" %}
-Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [pve.md](../notions-avancees/pve.md "mention").
+Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [iles-mysterieuses.md](../notions-avancees/iles-mysterieuses.md "mention").
 {% endhint %}

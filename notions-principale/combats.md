@@ -45,7 +45,7 @@ A la fin de chaque combat, vous obtenez, en plus de la gloire, de l'argent et de
 
 #### Les combats de monstres
 
-Voir [#combats](../notions-avancees/pve.md#combats "mention")
+Voir [#combats](../notions-avancees/iles-mysterieuses.md#combats "mention")
 
 ### Déroulement d'un combat
 

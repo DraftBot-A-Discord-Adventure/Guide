@@ -1,10 +1,10 @@
 ---
 description: >-
-  Le PVE (Player VS Environment) est un style de jeu où le joueur se bat contre
-  un monstre (contrôlé par une IA).
+  Les îles mystérieuses sont des lieux où les joueurs peuvent se rendre avec
+  leur guilde afin d'affronter des monstres sauvages.
 ---
 
-# PVE
+# Îles mystérieuses
 
 Les monstres sont réparties sur 2 îles : l'île volcanique et l'île de glace.
 
@@ -14,7 +14,7 @@ Les monstres sont réparties sur 2 îles : l'île volcanique et l'île de glace.
 
 ## Comment y aller ?
 
-Ces îles PVE peuvent être rejointes au travers d'un [mini-évènement](mini-evenements.md) à partir du niveau 20.
+Ces îles mystérieuses peuvent être rejointes au travers d'un [mini-évènement](mini-evenements.md) à partir du niveau 20.
 
 <figure><picture><source srcset="../.gitbook/assets/bateau_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/bateau.png" alt=""></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
 
@@ -90,12 +90,12 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 > Le Mutant Vaseux est un monstre pouvant copier les autres monstres ou son adversaire directement. Il est très polyvalent et peut s'adapter à toutes les situations.
 
-| Nom de l'attaque                          | Description                                                                                                                                                                                        | Consommation en souffle |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :performing\_arts:Attaque mimique magique | <p>Niveau 60+ uniquement. </p><p>Fonctionne comme une <a href="pve.md#combats">attaque simple</a> en temps normal sauf si l'adversaire lance une attaque magique, celle-ci se verra répliquer.</p> | 3                       |
-| :test\_tube:Attaque empoisonnée           | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                | 3                       |
-| :farmer:Attaque tir de boue               | Lance de la boue sur l'adversaire qui le rend sale et augmente de 5% son attaque, l'altération a 20% de chances de disparaître à chaque tour.                                                      | 5                       |
-| :amphora: Attaque boue brûlante           | Attaque puissante si l'adversaire est sali ! Sinon dégâts classiques.                                                                                                                              | 9                       |
+| Nom de l'attaque                          | Description                                                                                                                                                                                                      | Consommation en souffle |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :performing\_arts:Attaque mimique magique | <p>Niveau 60+ uniquement. </p><p>Fonctionne comme une <a href="iles-mysterieuses.md#combats">attaque simple</a> en temps normal sauf si l'adversaire lance une attaque magique, celle-ci se verra répliquer.</p> | 3                       |
+| :test\_tube:Attaque empoisonnée           | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                              | 3                       |
+| :farmer:Attaque tir de boue               | Lance de la boue sur l'adversaire qui le rend sale et augmente de 5% son attaque, l'altération a 20% de chances de disparaître à chaque tour.                                                                    | 5                       |
+| :amphora: Attaque boue brûlante           | Attaque puissante si l'adversaire est sali ! Sinon dégâts classiques.                                                                                                                                            | 9                       |
 
 ### Mine brumeuse
 

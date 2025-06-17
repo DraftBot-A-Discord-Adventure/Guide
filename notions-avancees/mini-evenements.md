@@ -480,7 +480,7 @@ Ce mini-évènement vous donnera des informations sur les récompenses de votre 
 
 <figure><img src="../.gitbook/assets/Screenshot_20230527_123645_Discord[1].jpg" alt=""><figcaption><p>Exemple de mini-évènement d'informations sur les récompenses de ligue</p></figcaption></figure>
 
-## Voyage vers l'île du [PVE](pve.md)
+## Voyage vers l'île du [PVE](iles-mysterieuses.md)
 
 **Rareté : 12 (si les conditions sont remplies)**
 
