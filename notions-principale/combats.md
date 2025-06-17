@@ -99,4 +99,4 @@ Si vous êtes inactif pendant plus de 45 secondes, le combat est considéré com
 
 La commande `/historiquecombat` permet d'afficher les résultats des combats que vous avez fait en tant qu'attaquant et défenseur.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Comme votre IA peut combattre pour vous, il peut être intéressant de savoir comment votre gloire a évolué en votre absence.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_20250617-134209.png" alt=""><figcaption><p>Comme votre IA peut combattre pour vous, il peut être intéressant de savoir comment votre gloire a évolué en votre absence.</p></figcaption></figure>

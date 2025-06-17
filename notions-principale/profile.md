@@ -12,7 +12,7 @@ Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via 
 
 Le profil d'un joueur se décompose donc de cette façon :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-03-20 121841.png" alt=""><figcaption><p>Profil d'un joueur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_20250617-133728.png" alt=""><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 
 ### Informations
 
@@ -55,7 +55,7 @@ Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personn
 
 ### Gloire et Ligue
 
-* :sparkles: Points de gloire
+* :sparkles: Points de  gloire&#x20;
 * Votre ligue : celle-ci change en fonction de votre gloire : plus d'informations dans [ligues.md](ligues.md "mention").
 
 {% hint style="success" %}
