@@ -1,6 +1,6 @@
 # Classes
 
-&#x20;Depuis la  version [**2.1.0** ](https://history.draftbot.com/draftbot-v2/2.1.0)de DraftBot vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 4**. La classe par défaut pour l'ensemble des joueurs est **Recrue**.
+&#x20;Depuis la  version [**2.1.0** ](https://history.draftbot.com/draftbot-v2/2.1.0)de Crownicles vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 4**. La classe par défaut pour l'ensemble des joueurs est **Recrue**.
 
 ### Comment choisir une classe ?
 
@@ -20,15 +20,15 @@ Pour changer de classe, et à condition que votre personnage soit au moins nivea
 
 ### Liste des classes
 
-![Classes de palier 1](../.gitbook/assets/tier1.png)
+<figure><img src="../.gitbook/assets/tier1.png" alt="Liste des classes de niveau 1"><figcaption><p>Classes de palier 1</p></figcaption></figure>
 
-![Classes de palier 2](../.gitbook/assets/tier2.png)
+<figure><img src="../.gitbook/assets/tier2.png" alt="Liste des classes de niveau 2"><figcaption><p>Classes de palier 2</p></figcaption></figure>
 
-![Classes de palier 3](../.gitbook/assets/tier3.png)
+<figure><img src="../.gitbook/assets/tier3.png" alt="Liste des classes de niveau 3"><figcaption><p>Classes de palier 3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/tier4.png" alt=""><figcaption><p>Classes de palier 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tier4.png" alt="Liste des classes de niveau 4"><figcaption><p>Classes de palier 4</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/tier5.png" alt=""><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tier5.png" alt="Liste des classes de niveau 5"><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="danger" %}
 Afin d'éviter de nombreux changements de classe, un délai minimum est imposé entre deux changements :

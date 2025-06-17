@@ -23,7 +23,7 @@ La liste des commandes du bot peut être obtenue en utilisant la commande `/aide
 
 Vérifiez que vous avez donné les bonnes permissions au bot.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Seulement les permissions sélectionnées sont nécessaires pour faire fonctionner Crownicles</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="L&#x27;ensemble des permissions requises par le bot pour fonctionner correctement "><figcaption><p>Seulement les permissions sélectionnées sont nécessaires pour faire fonctionner Crownicles</p></figcaption></figure>
 
 Sur la capture d'écran ci-dessus, vous pouvez voir les permissions nécessaires pour faire fonctionner Crownicles. Vérifiez que Crownicles dispose de ces permissions dans le salon dans lequel vous tentez de l'utiliser.
 
