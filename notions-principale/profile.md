@@ -12,7 +12,7 @@ Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via 
 
 Le profil d'un joueur se décompose donc de cette façon :
 
-<figure><img src="../.gitbook/assets/Screenshot_20250617-133728.png" alt=""><figcaption><p>Profil d'un joueur</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Screenshot_20250619-164801.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-133728.png" alt=""></picture><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 
 ### Informations
 

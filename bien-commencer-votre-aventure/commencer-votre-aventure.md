@@ -4,7 +4,7 @@ description: Un petit guide pas à pas pour débuter votre aventure.
 
 # Commencer votre aventure
 
-## La première étape est de trouver un endroit où jouer !
+## La  première étape est de trouver un endroit où jouer !
 
 Le plus simple sera de rejoindre le serveur Discord du bot ! Pour cela, utilisez ce lien :
 
@@ -16,7 +16,7 @@ Il est aussi possible d'inviter le bot sur votre serveur ! (le lien d'invitation
 
 Lors de votre arrivée, vous serez accueilli par un message de bienvenue comme celui ci-dessous :
 
-![Le message de bienvenue que vous pouvez rencontrer](../.gitbook/assets/image.webp)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 173816.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 173644.png" alt="Le message de bienvenue que vous pouvez rencontrer"></picture>
 
 Pour commencer votre aventure il vous suffira de cliquer sur "Essayer Crownicles" puis d'utiliser la commande `/rapport`
 

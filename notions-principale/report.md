@@ -11,13 +11,13 @@ La commande `/rapport` possède 4 états différents :
 * Le joueur réalise un évènement.
 * Le joueur réalise un mini-évènement.
 
-![Interface de la commande report quand le joueur est en train de voyager](<../.gitbook/assets/Capture d'écran 2025-06-17 183910.png>)
+<picture><source srcset="../.gitbook/assets/Screenshot_20250618-160351.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-17 183910.png" alt="Interface de la commande report quand le joueur est en train de voyager"></picture>
 
 ### Mini-Évènements :
 
 Le joueur met environ 9 minutes et 45 secondes à réaliser un trajet entre deux mini-évènements.
 
-![Un exemple de mini-évènement](../.gitbook/assets/Screenshot_20250617-125031.png)
+<picture><source srcset="../.gitbook/assets/Screenshot_20250618-160548.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-125031.png" alt="Un exemple de mini-évènement"></picture>
 
 Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-évènements qui peuvent vous faire gagner des objets, de la vie ou encore de l'argent.
 
@@ -33,7 +33,7 @@ Vous pouvez voir le nombre de points récoltés avec les mini-évènements ainsi
 
 Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiples à l'aide des boutons. En fonction de son choix, différentes issues surviennent.
 
-![Un exemple d'évènement](../.gitbook/assets/Screenshot_20250617-125115.png)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 174406.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 174310.png" alt="Un exemple d&#x27;évènement"></picture>
 
 Ici, le joueur possède 5 choix différents : les 4 choix de réaction mais également le choix de ne rien faire.
 
@@ -47,14 +47,14 @@ Dans certains évènements, ne rien faire est le meilleur choix ! (Dans d'autres
 
 Une fois un choix réalisé par le joueur, ce dernier peut cliquer sur une réaction (ou attendre 2 minutes), ce qui déclenche l'issue.
 
-![Un exemple d'issue](<../.gitbook/assets/Screenshot_20250617-125115 (1).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 174333.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 174319.png" alt="Un exemple d&#x27;issue"></picture>
 
 ### Destination :
 
 Après un évènement, le joueur est amené à choisir une destination. Il n'est pas possible pour un joueur de faire un retour sur ses pas (sauf si c'est le seul choix possible).
 
-![Exemple de choix de destination](../.gitbook/assets/Screenshot_20250617-125431.png)
+<picture><source srcset="../.gitbook/assets/Screenshot_20250619-164527.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-125431.png" alt="Exemple de choix de destination"></picture>
 
 Le temps indiqué entre parenthèses est le temps de voyage pour parvenir jusqu'au lieu, un point d'interrogation signifie que le temps est inconnu.
 
-<figure><img src="../.gitbook/assets/destination-choisie.png" alt="Message confirmant la destination sélectionée"><figcaption><p>Voici votre information sur votre destination</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Screenshot_20250619-164556.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/destination-choisie.png" alt="Message confirmant la destination sélectionée"></picture><figcaption><p>Voici votre information sur votre destination</p></figcaption></figure>

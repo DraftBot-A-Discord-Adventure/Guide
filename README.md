@@ -6,7 +6,7 @@ description: >-
 
 # Découvrir Crownicles !
 
-## Crownicles c'est quoi ?
+## &#x20;Crownicles  c'est quoi ?
 
 Crownicles est un bot Discord open-source développé par [@BastLast](https://github.com/BastLast) qui vous permet de vivre une aventure textuelle.
 
@@ -20,7 +20,7 @@ L'histoire se déroule dans un monde médiéval où le joueur contrôle un avent
 * Rejoignez **plusieurs milliers de joueurs**, combattez et créez votre guilde avec vos amis !
 * Aidez-nous à améliorer le bot ! Projet complètement [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) !
 
-![Un exemple de rapport effectué par un joueur.](.gitbook/assets/Screenshot_20250617-114920.png)
+<picture><source srcset=".gitbook/assets/Screenshot_20250618-155807.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Capture d&#x27;écran 2025-06-19 173311.png" alt="Un exemple de rapport effectué par un joueur."></picture>
 
 ## Comment contribuer ?
 
