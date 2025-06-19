@@ -6,7 +6,7 @@ description: >-
 
 # Îles mystérieuses
 
-Les monstres sont réparties sur 2 îles : l'île volcanique et l'île de glace.
+Les monstres sont répartis sur 2 îles : l'île volcanique et l'île de glace.
 
 {% hint style="info" %}
 &#x20;Chaque semaine une île est choisie et il ne peut pas avoir 2 semaines de suite la même île.
@@ -16,7 +16,7 @@ Les monstres sont réparties sur 2 îles : l'île volcanique et l'île de glace.
 
 Ces îles mystérieuses peuvent être rejointes au travers d'un [mini-évènement](mini-evenements.md) à partir du niveau 20.
 
-<figure><picture><source srcset="../.gitbook/assets/bateau_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/bateau.png" alt="Mini-évent permettant d&#x27;aller sur l&#x27;île"></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/bateau_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090315.png" alt="Mini-évent permettant d&#x27;aller sur l&#x27;île"></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
 
 {% hint style="success" %}
 Si un membre de votre guilde est déjà sur un bateau, il vous suffit de faire `/rejoindrebateau` pour le rejoindre !
@@ -66,7 +66,7 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 
 ## Liste des monstres de l'île volcanique :
 
-<figure><img src="../.gitbook/assets/carte_ile_volcanique_fr.jpg" alt=""><figcaption><p>Il y a une odeur de cendres dans l'air !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/carte_ile_volcanique_fr.jpg" alt="Île volcanique "><figcaption><p>Il y a une odeur de cendres dans l'air !</p></figcaption></figure>
 
 ### Forêt de la pénombre
 
@@ -163,7 +163,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 ## Liste des monstres de l'île de glace :
 
-<figure><img src="../.gitbook/assets/carte_ile_de_glace_fr.png" alt=""><figcaption><p>Il vaut mieux bien se couvrir !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/carte_ile_de_glace_fr.png" alt="Île de glace"><figcaption><p>Il vaut mieux bien se couvrir !</p></figcaption></figure>
 
 ### Toundra&#x20;
 
@@ -281,7 +281,7 @@ De plus, la présence d'un ou plusieurs membres de votre guilde sur l'île en m�
 
 Comme son nom l'indique, il vous permet de récupérer un peu d'énergie.
 
-<figure><picture><source srcset="../.gitbook/assets/gainenergyonisland_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/gainenergyonisland_clair.png" alt=""></picture><figcaption><p>Exemple de mini-évènement de gain d'énergie</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 175936.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090553.png" alt="Récupération d&#x27;énergie suite à un mini-évenement"></picture><figcaption><p>Exemple de mini-évènement de gain d'énergie</p></figcaption></figure>
 
 ### Péripéties
 
@@ -293,7 +293,7 @@ Durant votre expédition sur l'île, certaines péripéties peuvent survenir, et
 Les gains ne sont récoltés que si vous appartenez à une guilde. Si vous êtes du genre solitaire, vous ne gagnerez rien, même si l'issue est positive !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/péripétie_clair.png" alt=""><figcaption><p>Exemple de péripétie</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180113.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090821.png" alt="Perte d&#x27;énergie suite à un mini-évent sur l&#x27;ile"></picture><figcaption><p>Exemple de péripétie</p></figcaption></figure>
 
 ### Combat face à un animal sauvage
 
@@ -305,7 +305,7 @@ Vous rencontrez un animal sauvage qui se met à vous attaquer ! Pour le calmer, 
 Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaque pas), vous obtenez un point de rage (cumulable), c'est-à-dire des dégâts supplémentaires face au monstre de la zone suivante, appliqués en début de combat avant la 1ère attaque du joueur.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption><p>L'appel à l'aide est parfois une bonne solution !</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180214.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180236.png" alt="Mini-évènement de la rage "></picture><figcaption><p>FuirFui</p></figcaption></figure>
 
 ### Informations sur l'île
 
@@ -313,7 +313,7 @@ Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaq
 
 L'équipage du bateau vous donnera des informations sur l'île vers laquelle vous vous dirigez. Ces infos peuvent vous être utiles pour votre aventure au-delà des côtes du continent principal.
 
-<figure><img src="../.gitbook/assets/boatAdvice.png" alt=""><figcaption><p>Exemple de mini-évènement donnant des informations sur l'île</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 175638.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/boatAdvice.png" alt="Information donné par un mini-évent sur le bateau"></picture><figcaption><p>Exemple de mini-évènement donnant des informations sur l'île</p></figcaption></figure>
 
 {% hint style="info" %}
 Malgré sa rareté de 1, il est le seul mini-événement disponible sur le trajet en bateau vers l'île.
@@ -325,4 +325,4 @@ Au fil de votre progression, les joueurs gagnent des points de guilde :mirror\_b
 
 &#x20;&#x20;
 
-<figure><picture><source srcset="../.gitbook/assets/classement_guildes_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classement_guildes.png" alt=""></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/classement_guildes_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-091215.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>

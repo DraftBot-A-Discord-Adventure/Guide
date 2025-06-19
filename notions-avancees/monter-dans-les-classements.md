@@ -4,7 +4,7 @@
 
 La commande `/classement score` (à ne pas confondre avec `/classement gloire`) est une commande qui sert à savoir qui sont les meilleurs joueurs du DraftBot en les classant avec leur nombre de points. Elle affiche également votre classement, et la page à laquelle vous vous trouvez. Vous verrez les joueurs par tranche de 15, avec leur pseudonyme, leur état, leur nombre de points et leur niveau.
 
-<figure><img src="../.gitbook/assets/Classement.png" alt="Classement des points all-time de la page 1"><figcaption><p>Exemple de classement général, montrant le top 15</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 174950.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090022.png" alt="Classement des points all-time de la page 1"></picture><figcaption><p>Exemple de classement général, montrant le top 15</p></figcaption></figure>
 
 ### Les options de la commande `/classement score`
 
