@@ -92,7 +92,7 @@ Un combat peut se terminer sur une égalité si le 24e tour se finit sans vainqu
 Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie :zap:que vous avez perdue.
 
 {% hint style="danger" %}
-Si vous êtes inactif pendant plus de 45 secondes, le combat est considéré comme terminé. Vous perdrait automatiquement le combat et donc la totalité de votre énergie.
+Si vous êtes inactif pendant plus de 45 secondes, le combat est considéré comme terminé. Vous perdrez  automatiquement le combat et donc la totalité de votre énergie.
 {% endhint %}
 
 ### Historique des combats
