@@ -28,7 +28,7 @@ Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. 
 \
 On raconte que le livre dispose de pouvoirs magiques, mais cette information est difficile à vérifier, car les rares exemplaires s'arrachent à prix d'or.
 
-<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 195129.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 195146.png" alt="Un exemplaire du Kyuran vendu au marché noir."></picture>
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 195129.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 195146.png" alt="Un exemplaire du Kyuran acheté dans le magasin des missions."></picture>
 
 #### La Genèse :
 
