@@ -23,9 +23,15 @@ La liste des commandes du bot peut être obtenue en utilisant la commande `/aide
 
 Vérifiez que vous avez donné les bonnes permissions au bot.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="L&#x27;ensemble des permissions requises par le bot pour fonctionner correctement "><figcaption><p>Seulement les permissions sélectionnées sont nécessaires pour faire fonctionner Crownicles</p></figcaption></figure>
+Seules les permissions, ci-dessous, sont nécessaires pour faire fonctionner Crownicles :
 
-Sur la capture d'écran ci-dessus, vous pouvez voir les permissions nécessaires pour faire fonctionner Crownicles. Vérifiez que Crownicles dispose de ces permissions dans le salon dans lequel vous tentez de l'utiliser.
+* Envoyer des messages
+* Envoyer des messages dans les fils
+* Intégrer des liens
+* Ajouter des réactions
+* Utiliser des émojis externes
+
+Vérifiez que Crownicles dispose de ces permissions dans le salon dans lequel vous tentez de l'utiliser.
 
 Si les permissions sont correctes pour le salon où vous avez fait la commande, alors n'hésitez pas a demander de l'aide sur [le serveur officiel](https://discord.com/invite/aJhQy4AtAA).
 
@@ -39,7 +45,7 @@ OUI ! Le lien pour inviter le bot est disponible sur [http://crownicles.com/](ht
 
 _TypeScript._
 
-Les données enregistrées dans la base de données concernent uniquement le jeu (les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés). Les pseudonymes des joueurs ne sont pas non plus enregistrés.
+Les données enregistrées dans la base de données concernent uniquement le jeu (les messages / photos envoyées sur le salon où se trouve le bot ne sont jamais sauvegardés).&#x20;
 
 Plus d'informations sur le développement du bot sont disponibles ici :&#x20;
 

@@ -10,7 +10,7 @@ Vous avez également la possibilité d'afficher l'inventaire d'un autre joueur. 
 
 
 
-<figure><picture><source srcset="../.gitbook/assets/inventaire_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090139.png" alt="Inventaire d&#x27;un joueur , visible via la commande /inventaire"></picture><figcaption><p>Un exemple d'inventaire d'un joueur</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190321.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090139.png" alt="Inventaire d&#x27;un joueur , visible via la commande /inventaire"></picture><figcaption><p>Un exemple d'inventaire d'un joueur</p></figcaption></figure>
 
 L'inventaire se décompose en deux parties distinctes, la première est dédiée aux objets équipés par le joueur, la seconde, quant à elle, est une réserve permettant de stocker un ou plusieurs équipements supplémentaires.
 
@@ -23,7 +23,7 @@ La première partie de l'inventaire est partagée en **4 éléments** :
 
 La seconde partie de l'inventaire sert à **stocker des équipements supplémentaires** que vous pourrez échanger avec vos équipements actifs en fonction de vos besoins.
 
-<figure><picture><source srcset="../.gitbook/assets/réserve_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090150.png" alt="Réserve de l&#x27;inventaire disponible en achetant des places d&#x27;invntaire dans le le /magasin"></picture><figcaption><p>Un exemple de réserve d'inventaire</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190401.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190415.png" alt="Réserve de l&#x27;inventaire disponible en achetant des places d&#x27;invntaire dans le le /magasin"></picture><figcaption><p>Un exemple de réserve d'inventaire</p></figcaption></figure>
 
 {% hint style="info" %}
 La réserve du joueur peut être améliorée dans le magasin. Différents emplacements supplémentaires sont achetables:

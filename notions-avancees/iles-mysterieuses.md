@@ -16,7 +16,7 @@ Les monstres sont répartis sur 2 îles : l'île volcanique et l'île de glace.
 
 Ces îles mystérieuses peuvent être rejointes au travers d'un [mini-évènement](mini-evenements.md) à partir du niveau 20.
 
-<figure><picture><source srcset="../.gitbook/assets/bateau_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090315.png" alt="Mini-évent permettant d&#x27;aller sur l&#x27;île"></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190520.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090315.png" alt="Mini-évent permettant d&#x27;aller sur l&#x27;île"></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
 
 {% hint style="success" %}
 Si un membre de votre guilde est déjà sur un bateau, il vous suffit de faire `/rejoindrebateau` pour le rejoindre !
@@ -66,7 +66,7 @@ Si vous perdez face à un des monstres ci-dessous, vous quitterez instantanémen
 
 ## Liste des monstres de l'île volcanique :
 
-<figure><img src="../.gitbook/assets/carte_ile_volcanique_fr.jpg" alt="Île volcanique "><figcaption><p>Il y a une odeur de cendres dans l'air !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ilevolca.jpeg" alt="Île volcanique "><figcaption><p>Il y a une odeur de cendres dans l'air !</p></figcaption></figure>
 
 ### Forêt de la pénombre
 
@@ -163,7 +163,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 ## Liste des monstres de l'île de glace :
 
-<figure><img src="../.gitbook/assets/carte_ile_de_glace_fr.png" alt="Île de glace"><figcaption><p>Il vaut mieux bien se couvrir !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ile de glace (cut).jpg" alt="Île de glace"><figcaption><p>Il vaut mieux bien se couvrir !</p></figcaption></figure>
 
 ### Toundra&#x20;
 
@@ -325,4 +325,4 @@ Au fil de votre progression, les joueurs gagnent des points de guilde :mirror\_b
 
 &#x20;&#x20;
 
-<figure><picture><source srcset="../.gitbook/assets/classement_guildes_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-091215.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190812.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-091215.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>

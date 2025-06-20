@@ -22,7 +22,7 @@ Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possib
 Attention, une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 5 fois plus cher !
 {% endhint %}
 
-![Un exemple de mini-shop](<../.gitbook/assets/image (44).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191024.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191037.png" alt="Un exemple de mini-shop"></picture>
 
 ## Interaction avec un familier
 
@@ -57,7 +57,7 @@ Si le familier est fielleux, il ne vous apportera que des malus:
 | Perte d'affection (1 à 3)       | Moyenne     |
 | Fuite du familier               | Très faible |
 
-![Un exemple d'interaction avec un familier](<../.gitbook/assets/image (45).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191231.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191219.png" alt="Un exemple d&#x27;interaction avec un familier"></picture>
 
 ## Trouver un familier
 
@@ -76,7 +76,7 @@ Voilà les probabilités d'obtention de chaque rareté de familiers :
 | 1 :star: | 2 :star: | 3:star: | 4:star: | 5:star: |
 | 87.6%    | 9.64%    | 1.664%  | 0.65%   | 0.446%  |
 
-![Ne me demandez pas comment elle était montée là haut](<../.gitbook/assets/image (52).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191320.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191334.png" alt="Ne me demandez pas comment elle était montée là haut"></picture>
 
 ## Trouver un équipement
 
@@ -84,7 +84,7 @@ Voilà les probabilités d'obtention de chaque rareté de familiers :
 
 Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir des objets légendaires ou mythiques dans ce mini-évènement.
 
-![Exemple de découverte d'un équipement](<../.gitbook/assets/image (53).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191454.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191443.png" alt="Exemple de découverte d&#x27;un équipement"></picture>
 
 ## Rien ne se passe
 
@@ -92,7 +92,7 @@ Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir d
 
 Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur.
 
-![Un exemple du mini-évènement "Rien ne se passe"](<../.gitbook/assets/image (55).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191537.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191547.png" alt="Un exemple du mini-évènement &#x22;Rien ne se passe&#x22;"></picture>
 
 ## Petit malheur
 
@@ -106,7 +106,7 @@ Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent 
 | Perte d'argent           | 10 à 50 d'argent perdus      |
 | Perte de temps aléatoire | 5 minutes à 2 heures perdues |
 
-![Un exemple de petit malheur](<../.gitbook/assets/image (56).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191648.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191637.png" alt="Un exemple de petit malheur"></picture>
 
 ## Gros malheur
 
@@ -120,7 +120,7 @@ Parfois, tout ne se passe pas comme prévu. Certain mini-évènements amènent �
 | Perte d'argent    | 50 à 250 d'argent perdus                             |
 | Altération d'état | Le joueur peut être touché par une altération d'état |
 
-![Un exemple de gros malheur](<../.gitbook/assets/image (57).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191743.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191805.png" alt="Un exemple de gros malheur"></picture>
 
 ## Loterie
 
@@ -180,7 +180,7 @@ Malus :&#x20;
 Vous devez avoir au moins 175 d'argent pour tenter votre chance à la loterie. Si vous en possédez moins, votre mise sera rejetée par le gérant du jeu de hasard.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/loterie.PNG" alt=""><figcaption><p>Un exemple de loterie</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191915.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191904.png" alt=""></picture><figcaption><p>Un exemple de loterie</p></figcaption></figure>
 
 ## Interaction avec un joueur sur le même trajet
 
@@ -218,7 +218,7 @@ Voilà la liste des caractéristiques qui peuvent être exploitées :
 * Altération d'état
 * Inventaire du joueur
 
-![Un exemple d'interaction avec un autre joueur](<../.gitbook/assets/image (58).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192003.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192013.png" alt="Un exemple d&#x27;interaction avec un autre joueur"></picture>
 
 ## Avancement du temps
 
@@ -226,7 +226,7 @@ Voilà la liste des caractéristiques qui peuvent être exploitées :
 
 Avance le temps de 10 à 50 minutes.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 162600.png" alt=""><figcaption><p>Exemple d'avancement du temps</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192306.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192316.png" alt=""></picture><figcaption><p>Exemple d'avancement du temps</p></figcaption></figure>
 
 ## Faits du Bot
 
@@ -248,7 +248,7 @@ Raconte une information à propos du bot parmi celles-ci :
 * Nombre de joueurs d'une classe
 * Nombre de joueurs voyageant sur notre chemin&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 164600.png" alt=""><figcaption><p>Exemple d'une information à propos du bot</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192421.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192409.png" alt=""></picture><figcaption><p>Exemple d'une information à propos du bot</p></figcaption></figure>
 
 ## Classes
 
@@ -284,7 +284,7 @@ Vous gagnez une récompense qui dépend de votre classe.
 | Vétéran chevronné :trident:           | Item au hasard ou gagner des points de vie (entre 1 :heart:et 5:heart:) |
 | Mage mystique :mage:                  | Item au hasard ou gagner des points de vie (entre 1 :heart:et 5:heart:) |
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-26 171548.png" alt=""><figcaption><p>Exemple de gain dépendant d'une classe</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192517.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192528.png" alt=""></picture><figcaption><p>Exemple de gain dépendant d'une classe</p></figcaption></figure>
 
 ## Trouver une mission
 
@@ -296,7 +296,7 @@ Vous obtenez une mission secondaire.
 Vous pouvez avoir jusqu'à 3 missions secondaires.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot_20230526_212110_Discord[1] (1).jpg" alt=""><figcaption><p>Exemple d'obtention d'une mission secondaire</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190037.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190047.png" alt=""></picture><figcaption><p>Exemple d'obtention d'une mission secondaire</p></figcaption></figure>
 
 ## Trouver une potion
 
@@ -304,7 +304,7 @@ Vous pouvez avoir jusqu'à 3 missions secondaires.
 
 Vous trouvez une potion aléatoire.
 
-<figure><img src="../.gitbook/assets/Screenshot_20230526_213001_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain de potion</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192729.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192718.png" alt=""></picture><figcaption><p>Exemple de gain de potion</p></figcaption></figure>
 
 ## Gobelets
 
@@ -326,7 +326,7 @@ Vous devrez faire un choix entre ces trois gobelets qui vous donnera une des iss
 En réagissant avec :end:, l'action "Ne rien faire" se déclenche et vous perdez une quantité de vie dépendant de votre niveau.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot_20230526_215537_Discord[1].jpg" alt=""><figcaption><p>Exemple du jeu de gobelets</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192829.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192839.png" alt=""></picture><figcaption><p>Exemple du jeu de gobelets</p></figcaption></figure>
 
 {% hint style="info" %}
 Ce mini-événement n'apparait pas autour de la Route des Merveilles, de la Route Marécageuse et du mont Célestrum.
@@ -367,7 +367,7 @@ Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 * BananePlantain
 * Ravenclaw
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_091722_Discord[1].jpg" alt=""><figcaption><p>Exemple de légende d'un staff</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192946.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192935.png" alt=""></picture><figcaption><p>Exemple de légende d'un staff</p></figcaption></figure>
 
 ## Espace
 
@@ -381,7 +381,7 @@ Vous rencontrez un homme se disant être un oracle, il vous donnera une vraie in
 * La prochaine éclipse lunaire partielle
 * La prochaine éclipse lunaire totale
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_092955_Discord[1].jpg" alt=""><figcaption><p>Exemple de rencontre avec l'oracle</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193031.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193040.png" alt=""></picture><figcaption><p>Exemple de rencontre avec l'oracle</p></figcaption></figure>
 
 ## Récupération totale d'énergie
 
@@ -397,7 +397,7 @@ Vous n'obtiendrez ce mini-évènement que si votre énergie n'est pas déjà com
 La guérisseuse ne se balade qu'autour de Claire De Ville.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-27 105208.png" alt=""><figcaption><p>Exemple de récupération d'énergie</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193145.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193135.png" alt=""></picture><figcaption><p>Exemple de récupération d'énergie</p></figcaption></figure>
 
 ## Gagner de l'expérience de guilde
 
@@ -409,7 +409,7 @@ Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience
 Vous n'obtiendrez ce mini-évènement que si vous faites partie d'une guilde qui n'est pas niveau 150.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_095045_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain d'expérience de guilde</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193231.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193244.png" alt=""></picture><figcaption><p>Exemple de gain d'expérience de guilde</p></figcaption></figure>
 
 ## Gagner des points de vie
 
@@ -421,7 +421,7 @@ Durant votre voyage, il vous arrivera de récupérer des points de vies (entre 1
 Vous n'obtiendrez ce mini-évènement que si votre vie n'est pas déjà à son maximum.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_100240_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain de points de vie</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193352.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193340.png" alt=""></picture><figcaption><p>Exemple de gain de points de vie</p></figcaption></figure>
 
 ## Gagner de l'expérience
 
@@ -429,7 +429,7 @@ Vous n'obtiendrez ce mini-évènement que si votre vie n'est pas déjà à son m
 
 Durant votre voyage, il vous arrivera de gagner de l'expérience (entre 10:star:et 35:star:).
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_100724_Discord[1].jpg" alt=""><figcaption><p>Exemple de gain d'expérience</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193445.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193457.png" alt=""></picture><figcaption><p>Exemple de gain d'expérience</p></figcaption></figure>
 
 ## Sorcière
 
@@ -456,7 +456,7 @@ En réagissant avec :end:, l'action "Ne rien faire" se déclenche et il ne vous 
 Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offrira à vous et vous pourrez soit ajouter un ingrédient soit faire une action.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_102423_Discord[1].jpg" alt=""><figcaption><p>Exemple de rencontre avec la sorcière</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193607.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193555.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière</p></figcaption></figure>
 
 ## Marchand ultime de nourriture
 
@@ -470,7 +470,7 @@ Vous rencontrez un marchand qui vous donne une récompense parmi celles-ci :
 
 Si vous n'avez pas de guilde, vous recevrez de l'argent.
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_114742_Discord[1].jpg" alt=""><figcaption><p>Exemple de mini-évènement du marchand ultime de nourriture</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193704.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193715.png" alt=""></picture><figcaption><p>Exemple de mini-évènement du marchand ultime de nourriture</p></figcaption></figure>
 
 ## Récompenses de ligue
 
@@ -478,7 +478,7 @@ Si vous n'avez pas de guilde, vous recevrez de l'argent.
 
 Ce mini-évènement vous donnera des informations sur les récompenses de votre ligue.
 
-<figure><img src="../.gitbook/assets/Screenshot_20230527_123645_Discord[1].jpg" alt=""><figcaption><p>Exemple de mini-évènement d'informations sur les récompenses de ligue</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193840.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193830.png" alt=""></picture><figcaption><p>Exemple de mini-évènement d'informations sur les récompenses de ligue</p></figcaption></figure>
 
 ## Voyage vers l'île du [PVE](iles-mysterieuses.md)
 
@@ -490,7 +490,7 @@ Ce mini-évènement vous permet de voyager vers l'île du PVE, il ne se déclenc
 Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>et c'est parti !</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193928.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193938.png" alt=""></picture><figcaption><p>et c'est parti !</p></figcaption></figure>
 
 
 
@@ -504,7 +504,7 @@ Ce mini-événement vous fera rencontrer Aldéric, un marchand qui vous proposer
 Voyager sur le chemin de la :motorway: **Route des merveilles** réduira considérablement le prix de l'achat sinon vous avez 10% de chance d'avoir une réduction mais moins considérable.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-26 224611.png" alt=""><figcaption><p>Exemple du marchand épique</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194042.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194032.png" alt=""></picture><figcaption><p>Exemple du marchand épique</p></figcaption></figure>
 
 ## Une charrette rapide
 
@@ -517,7 +517,7 @@ Ce mini-événement vous fera rencontrer un individu mystérieux qui vous propos
 * 15% de chances d'avoir une destination fausse mais dont le prix est diminué.
 * Sinon le voyage est juste moins cher.
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-02-28 195354.png" alt=""><figcaption><p>Exemple d'un voyage rapide</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194155.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194206.png" alt=""></picture><figcaption><p>Exemple d'un voyage rapide</p></figcaption></figure>
 
 ## Le nain fan des animaux
 
@@ -525,7 +525,7 @@ Ce mini-événement vous fera rencontrer un individu mystérieux qui vous propos
 
 Ce mini-événement vous fera rencontrer Talvar, un nain amoureux de la cause animale. Il vous récompensera avec une gemme à chaque nouvelle espèce que vous lui présenterait  si votre animal n'est pas fielleux (sinon il vous réprimandera vertement ) . Une fois toutes les espèces répertoriés, vous gagnerez en signe de profond respect le [badge](badges.md) :feet:(et de l'argent si vous l'avez déjà) .
 
-<figure><picture><source srcset="../.gitbook/assets/talvar_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/talvar_clair.png" alt=""></picture><figcaption><p>On raconte que son amour des animaux est aussi immense que sa richesse.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194419.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194258.png" alt=""></picture><figcaption><p>On raconte que son amour des animaux est aussi immense que sa richesse.</p></figcaption></figure>
 
 {% hint style="info" %}
 Ce mini-événement n'apparaît qu'autour du Mont Célestrum.
@@ -537,4 +537,4 @@ Ce mini-événement n'apparaît qu'autour du Mont Célestrum.
 
 Ce mini-événement  vous fera rencontrer Sir Rowan, ancien capitaine de la garde royale.Il vous présentera les différentes attaques du jeu qu'elles soient humaines ou monstrueuses.
 
-<figure><picture><source srcset="../.gitbook/assets/rowan_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/rowan_clair.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194650.png" alt=""></picture><figcaption></figcaption></figure>

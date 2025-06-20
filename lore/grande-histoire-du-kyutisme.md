@@ -12,7 +12,7 @@ La religion est le Kyutisme, ses fidèles sont donc les kyutistes. Il s’agit 
 
 Les fidèles pratiquent dans des églises avec des prêtres(ses) Kyutistes, ces derniers vivant dans une annexe de l’église. La relique principale est la Sainte Kyuillère, les prêtres officiant d’ailleurs avec une kyuillère, grand bâton de 1m75 dont l'extrémité a une forme similaire à une cuillère. Le livre religieux est le Kyuran, où est transcrite l’histoire des dieux kyutistes (résumée un peu plus bas).
 
-![Des pales copies de l'objet divin semblent circuler dans la contrée](<../.gitbook/assets/image (60).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194941.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194916.png" alt="Des pales copies de l&#x27;objet divin semblent circuler dans la contrée"></picture>
 
 La hiérarchie religieuse se compose comme suit :
 
@@ -28,7 +28,7 @@ Le kyuran est un ouvrage ancien comptant les légendes fondatrices du Kyutisme. 
 \
 On raconte que le livre dispose de pouvoirs magiques, mais cette information est difficile à vérifier, car les rares exemplaires s'arrachent à prix d'or.
 
-![Un exemplaire du Kyuran vendu au marché noir.](<../.gitbook/assets/image (61).png>)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 195129.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 195146.png" alt="Un exemplaire du Kyuran vendu au marché noir."></picture>
 
 #### La Genèse :
 

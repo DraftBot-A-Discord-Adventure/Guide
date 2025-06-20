@@ -20,15 +20,15 @@ Pour changer de classe, et à condition que votre personnage soit au moins nivea
 
 ### Liste des classes
 
-<figure><img src="../.gitbook/assets/tier1.png" alt="Liste des classes de niveau 1"><figcaption><p>Classes de palier 1</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 183617.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier1.png" alt="Liste des classes de niveau 1"></picture><figcaption><p>Classes de palier 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/tier2.png" alt="Liste des classes de niveau 2"><figcaption><p>Classes de palier 2</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 183840.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier2.png" alt="Liste des classes de niveau 2"></picture><figcaption><p>Classes de palier 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/tier3.png" alt="Liste des classes de niveau 3"><figcaption><p>Classes de palier 3</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 183938.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier3.png" alt="Liste des classes de niveau 3"></picture><figcaption><p>Classes de palier 3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_20250618-082250.png" alt=""><figcaption><p>Classes de palier 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_20250618-082250.png" alt="Liste des classes de niveau 4"><figcaption><p>Classes de palier 4</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/tier5.png" alt="Liste des classes de niveau 5"><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184256.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier5.png" alt="Liste des classes de niveau 5"></picture><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
 {% hint style="danger" %}
 Afin d'éviter de nombreux changements de classe, un délai minimum est imposé entre deux changements :

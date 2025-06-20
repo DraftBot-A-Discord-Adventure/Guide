@@ -52,7 +52,7 @@ Un familier a 2 fonctions:
 
 L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise, pour votre animal.
 
-<picture><source srcset="../.gitbook/assets/Screenshot_20250617-151531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/magasinguilde_clair.png" alt="Le magasin de guilde permet d&#x27;acheter différentes sortes de nourritures"></picture>
+<picture><source srcset="../.gitbook/assets/Screenshot_20250617-151531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184818.png" alt="Le magasin de guilde permet d&#x27;acheter différentes sortes de nourritures"></picture>
 
 {% hint style="info" %}
 Il est aussi possible que votre familier trouve de la nourriture pendant l'aventure.
@@ -62,7 +62,7 @@ Il est aussi possible que votre familier trouve de la nourriture pendant l'avent
 
 La nourriture va permettre d'influer sur le moral de votre animal. Pour nourrir votre familier, vous devez utiliser la commande `/nourrirfamilier`.
 
-<figure><picture><source srcset="../.gitbook/assets/nourrirfamilier_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/nourrirfamilier_clair.png" alt="Don de nourriture à son familier via la commande /nourrirfamilier"></picture><figcaption><p>La commande /nourrirfamilier</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184644.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184653.png" alt="Don de nourriture à son familier via la commande /nourrirfamilier"></picture><figcaption><p>La commande /nourrirfamilier</p></figcaption></figure>
 
 Chaque type de nourriture fera gagner une quantité différente de points d'affection à votre familier.
 
@@ -112,7 +112,7 @@ Changer de propriétaire, c'est dur à supporter pour un animal !
 
 Contre 3 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement. La consultation s'obtient dans le [magasin de missions](missions.md#magasin-des-missions).
 
-<figure><picture><source srcset="../.gitbook/assets/vétérinaire_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/vétérinaire_clair (1).png" alt="Description du familier avec le vétérinaire , achetable via le magasin de missions , la commande /magasinmissions"></picture><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, et quand il aura faim.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185320.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185338.png" alt="Description du familier avec le vétérinaire , achetable via le magasin de missions , la commande /magasinmissions"></picture><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, et quand il aura faim.</p></figcaption></figure>
 
 ### Comment stocker mon familier ?
 
@@ -120,7 +120,7 @@ Vous avez la possibilité de stocker votre familier dans le **refuge de votre gu
 
 Pour visualiser le refuge, vous pouvez utiliser la commande `/abriguilde`.
 
-![Refuge de la guilde B1 Bis Alpha](../.gitbook/assets/abriguilde_clair.png)
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185446.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185435.png" alt="Refuge de la guilde B1 Bis Alpha"></picture>
 
 {% hint style="info" %}
 Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
@@ -130,13 +130,13 @@ Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
 
 Vous pouvez définir un surnom pour votre familier afin de rendre ce dernier unique. Pour cela, quand vous avez un familier avec vous tapez la commande `/surnomfamilier.`Exemple : `/surnomfamilier surnom:Henri` permet de surnommer votre familier "Henri".
 
-<picture><source srcset="../.gitbook/assets/Screenshot_20250617-152124.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/familier_clair.png" alt="Commande /familier avec affichage du surnom du familier"></picture>
+<picture><source srcset="../.gitbook/assets/Screenshot_20250617-152124.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 195918.png" alt="Commande /familier avec affichage du surnom du familier"></picture>
 
 ### Comment vendre un familier ?
 
 Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer (ou alors que vous aimez l'argent), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `/vendrefamilier` en précisant le prix attendu. Par exemple, pour proposer votre familier à la vente pour 1000:moneybag:, entrez la commande `/vendrefamilier prix:1000`.
 
-<figure><img src="../.gitbook/assets/Screenshot_20250617-151829 (1).png" alt=""><figcaption><p>Ici, le familier "Poulpe" va être vendu pour 1000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185603.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185616.png" alt=""></picture><figcaption><p>Ici, le familier "Poulpe" va être vendu pour 1000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></p></figcaption></figure>
 
 Il y a des conditions importantes à respecter pour la vente de familiers :
 

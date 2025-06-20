@@ -25,7 +25,7 @@ Un mini-évènement est souvent une simple phrase. Il existe cependant des mini-
 Chaque mini-évènement rapporte au joueur une quantité de points diminuant à chaque nouveau mini-évènement. Ces points sont ajoutés au nombre de points remportés lors de l'évènement suivant.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/SE_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/RapportTemps.png" alt="Interface entre 2 rapports , où les points gagnés sur ce trajet apparaissent"></picture><figcaption><p>Une fois le mini-évènement passé, il apparaît sur l'interface de voyage</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 200706.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 200717.png" alt="Interface entre 2 rapports , où les points gagnés sur ce trajet apparaissent"></picture><figcaption><p>Une fois le mini-évènement passé, il apparaît sur l'interface de voyage</p></figcaption></figure>
 
 Vous pouvez voir le nombre de points récoltés avec les mini-évènements ainsi que le temps d'attente avant le prochain.
 
