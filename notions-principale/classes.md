@@ -26,7 +26,7 @@ Pour changer de classe, et à condition que votre personnage soit au moins nivea
 
 <figure><img src="../.gitbook/assets/tier3.png" alt="Liste des classes de niveau 3"><figcaption><p>Classes de palier 3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/tier4.png" alt="Liste des classes de niveau 4"><figcaption><p>Classes de palier 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_20250618-082250.png" alt=""><figcaption><p>Classes de palier 4</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/tier5.png" alt="Liste des classes de niveau 5"><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 

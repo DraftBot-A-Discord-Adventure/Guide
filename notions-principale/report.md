@@ -33,12 +33,12 @@ Vous pouvez voir le nombre de points récoltés avec les mini-évènements ainsi
 
 Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une situation à choix multiples à l'aide des boutons. En fonction de son choix, différentes issues surviennent.
 
-<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 174406.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 174310.png" alt="Un exemple d&#x27;évènement"></picture>
+![Un exemple d'évènement](../.gitbook/assets/Screenshot_20250618-080140.png)
 
-Ici, le joueur possède 5 choix différents : les 4 choix de réaction mais également le choix de ne rien faire.
+Ici, le joueur possède 3 choix  différents : les 2 choix de réaction mais également le choix de ne rien faire.
 
 {% hint style="info" %}
-Le non-choix ("Ne rien faire") se déclenche automatiquement au bout de 2 minutes en l'absence de choix explicite. Il est possible de forcer ce non-choix en ajoutant manuellement la réaction :end: (:end:) au texte de l'évènement.
+Le non-choix ("Ne rien faire") se déclenche automatiquement au bout de 2 minutes e l'absence de choix explicite. Il est possible de forcer ce non-choix en ajoutant manuellement la réaction :end: (:end:) au texte de l'évènement.
 {% endhint %}
 
 {% hint style="success" %}

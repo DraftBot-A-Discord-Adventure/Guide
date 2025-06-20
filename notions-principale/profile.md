@@ -4,7 +4,7 @@ description: Un guide à propos de la commande /profil.
 
 # Profil
 
-Comme quasiment tous les RPGs, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande `/profil`.
+Comme dans quasiment tous les RPGs, votre personnage possède un profil servant à afficher ses différentes statistiques. Pour accéder à votre profil, vous devez utiliser la commande `/profil`.
 
 {% hint style="success" %}
 Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via l'option "classement" ou en le mentionnant avec le paramètre "utilisateur" !
@@ -12,7 +12,7 @@ Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via 
 
 Le profil d'un joueur se décompose donc de cette façon :
 
-<figure><picture><source srcset="../.gitbook/assets/Screenshot_20250619-164801.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-133728.png" alt=""></picture><figcaption><p>Profil d'un joueur</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Screenshot_20250619-164801.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-133728.png" alt="Profil du joueur Yuno"></picture><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 
 ### Informations
 

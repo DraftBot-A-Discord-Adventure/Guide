@@ -14,11 +14,11 @@ Il existe trois catégories de mission :
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
 * Les missions secondaires sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](https://guide.draftbot.com/notions-avancees/mini-evenements#trouver-une-mission).
 
-<figure><picture><source srcset="../.gitbook/assets/missions_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/missions.png" alt="Les missions d&#x27;un joueur visible via la commande /missons"></picture><figcaption><p>Affichage de la commande /missions</p></figcaption></figure>
+<picture><source srcset="../.gitbook/assets/missions_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-083113.png" alt="Affichage de la commande /missions"></picture>
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
-<figure><picture><source srcset="../.gitbook/assets/mission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/mission_clair.png" alt="Un joueur trouvant une mission via un mini-évent"></picture><figcaption><p>Obtention d'une mission secondaire</p></figcaption></figure>
+<picture><source srcset="../.gitbook/assets/mission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-083242.png" alt="Obtention d&#x27;une mission secondaire"></picture>
 
 ### Magasin des missions <a href="#magasin-des-missions" id="magasin-des-missions"></a>
 
@@ -43,7 +43,7 @@ Celui-ci se divise en 3 catégories :
 {% endtab %}
 {% endtabs %}
 
-<figure><picture><source srcset="../.gitbook/assets/magasinmission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/magasinmission_clair.png" alt="Magasin de missions , visible grâce à la commande /magasinmissions"></picture><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/magasinmission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-083339.png" alt=""></picture><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
 
 {% hint style="info" %}
 Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [iles-mysterieuses.md](../notions-avancees/iles-mysterieuses.md "mention").
