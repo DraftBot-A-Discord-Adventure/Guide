@@ -305,7 +305,7 @@ Vous rencontrez un animal sauvage qui se met à vous attaquer ! Pour le calmer, 
 Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaque pas), vous obtenez un point de rage (cumulable), c'est-à-dire des dégâts supplémentaires face au monstre de la zone suivante, appliqués en début de combat avant la 1ère attaque du joueur.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180214.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180236.png" alt="Mini-évènement de la rage "></picture><figcaption><p>FuirFui</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180214.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180236.png" alt="Mini-évènement de la rage "></picture><figcaption><p>Exemple de mini évènement où le joueur rencontre un animal sauvage.</p></figcaption></figure>
 
 ### Informations sur l'île
 

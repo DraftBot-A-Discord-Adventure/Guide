@@ -26,7 +26,7 @@ Pour changer de classe, et à condition que votre personnage soit au moins nivea
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 183938.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier3.png" alt="Liste des classes de niveau 3"></picture><figcaption><p>Classes de palier 3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot_20250618-082250.png" alt="Liste des classes de niveau 4"><figcaption><p>Classes de palier 4</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/T4.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-082250.png" alt="Liste des classes de niveau 4"></picture><figcaption><p>Classes de palier 4</p></figcaption></figure>
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184256.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier5.png" alt="Liste des classes de niveau 5"></picture><figcaption><p>Classes de palier 5 (qui sont des améliorations de celles de palier 4, à l'exception du mage)</p></figcaption></figure>
 
@@ -39,8 +39,8 @@ Afin d'éviter de nombreux changements de classe, un délai minimum est imposé 
 
 ### Statistiques des classes
 
-Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de DraftBot pour connaître les différentes statistiques des classes.
+Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de Crownicles pour connaître les différentes statistiques des classes.
 
 Il s'agit de la commande `/infosclasses`.
 
-<figure><picture><source srcset="../.gitbook/assets/infosclasse_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-134630.png" alt=""></picture><figcaption><p>Statistiques des classes</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-22 095349.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-134630.png" alt=""></picture><figcaption><p>Statistiques des classes</p></figcaption></figure>

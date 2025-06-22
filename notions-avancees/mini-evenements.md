@@ -76,7 +76,7 @@ Voilà les probabilités d'obtention de chaque rareté de familiers :
 | 1 :star: | 2 :star: | 3:star: | 4:star: | 5:star: |
 | 87.6%    | 9.64%    | 1.664%  | 0.65%   | 0.446%  |
 
-<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191320.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191334.png" alt="Ne me demandez pas comment elle était montée là haut"></picture>
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191320.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191334.png" alt="Un exemple de rapport où le joueur trouve un familier."></picture>
 
 ## Trouver un équipement
 
@@ -525,7 +525,7 @@ Ce mini-événement vous fera rencontrer un individu mystérieux qui vous propos
 
 Ce mini-événement vous fera rencontrer Talvar, un nain amoureux de la cause animale. Il vous récompensera avec une gemme à chaque nouvelle espèce que vous lui présenterait  si votre animal n'est pas fielleux (sinon il vous réprimandera vertement ) . Une fois toutes les espèces répertoriés, vous gagnerez en signe de profond respect le [badge](badges.md) :feet:(et de l'argent si vous l'avez déjà) .
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194419.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194258.png" alt=""></picture><figcaption><p>On raconte que son amour des animaux est aussi immense que sa richesse.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-22 120719.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-22 120730.png" alt=""></picture><figcaption><p>On raconte que son amour des animaux est aussi immense que sa richesse.</p></figcaption></figure>
 
 {% hint style="info" %}
 Ce mini-événement n'apparaît qu'autour du Mont Célestrum.
