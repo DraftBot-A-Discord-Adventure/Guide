@@ -313,7 +313,7 @@ Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaq
 
 L'équipage du bateau vous donnera des informations sur l'île vers laquelle vous vous dirigez. Ces infos peuvent vous être utiles pour votre aventure au-delà des côtes du continent principal.
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 175638.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/boatAdvice.png" alt="Information donné par un mini-évent sur le bateau"></picture><figcaption><p>Exemple de mini-évènement donnant des informations sur l'île</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/SE_islandinfo_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_islandinfo.png" alt="Information donné par un mini-évent sur le bateau"></picture><figcaption><p>Exemple de mini-évènement donnant des informations sur l'île</p></figcaption></figure>
 
 {% hint style="info" %}
 Malgré sa rareté de 1, il est le seul mini-événement disponible sur le trajet en bateau vers l'île.
@@ -325,4 +325,4 @@ Au fil de votre progression, les joueurs gagnent des points de guilde :mirror\_b
 
 &#x20;&#x20;
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d’écran 2025-06-23 083739.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-091215.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/classement_guildes_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classement_guildes.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>

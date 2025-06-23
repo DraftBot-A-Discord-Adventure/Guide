@@ -37,6 +37,7 @@
 * [Redactor Gang](lore/redactor-gang.md)
 * [Les personnages récurrents](lore/les-personnages.md)
 * [Grande Histoire du Kyutisme](lore/grande-histoire-du-kyutisme.md)
+* [Changement de nom](lore/changement-de-nom.md)
 
 ## Aidez-nous à développer Crownicles !
 
