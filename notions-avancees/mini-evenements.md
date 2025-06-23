@@ -1,6 +1,6 @@
 # Mini-évènements sur le continent principal
 
-Il existe actuellement 29 types de mini-évènement différents dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
+Il existe actuellement plusieurs types de mini-évènement dans le bot. Voici quelques informations au sujet des mini-évènements qui vous permettront d'aborder cette fonctionnalité de manière plus stratégique.
 
 Plus la valeur de la rareté d'un mini-évènement est élevée, plus celui-ci est fréquent.
 

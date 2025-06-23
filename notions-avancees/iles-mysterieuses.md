@@ -16,7 +16,7 @@ Les monstres sont répartis sur 2 îles : l'île volcanique et l'île de glace.
 
 Ces îles mystérieuses peuvent être rejointes au travers d'un [mini-évènement](mini-evenements.md) à partir du niveau 20.
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190520.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090315.png" alt="Mini-évent permettant d&#x27;aller sur l&#x27;île"></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190520.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d’écran 2025-06-23 084026.png" alt="Mini-évent permettant d&#x27;aller sur l&#x27;île"></picture><figcaption><p>On dirait que quelqu'un est sur le point de partir…</p></figcaption></figure>
 
 {% hint style="success" %}
 Si un membre de votre guilde est déjà sur un bateau, il vous suffit de faire `/rejoindrebateau` pour le rejoindre !
@@ -305,7 +305,7 @@ Vous rencontrez un animal sauvage qui se met à vous attaquer ! Pour le calmer, 
 Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaque pas), vous obtenez un point de rage (cumulable), c'est-à-dire des dégâts supplémentaires face au monstre de la zone suivante, appliqués en début de combat avant la 1ère attaque du joueur.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180214.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180236.png" alt="Mini-évènement de la rage "></picture><figcaption><p>Exemple de mini évènement où le joueur rencontre un animal sauvage.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d’écran 2025-06-23 083859.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180236.png" alt="Mini-évènement de la rage "></picture><figcaption><p>Exemple de mini évènement où le joueur rencontre un animal sauvage.</p></figcaption></figure>
 
 ### Informations sur l'île
 
@@ -325,4 +325,4 @@ Au fil de votre progression, les joueurs gagnent des points de guilde :mirror\_b
 
 &#x20;&#x20;
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190812.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-091215.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d’écran 2025-06-23 083739.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-091215.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>
