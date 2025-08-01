@@ -12,7 +12,7 @@ L'altération d'état d'un joueur définit sa situation actuelle. Certains statu
 | :confounded:          | Confus                          | **40min**       |
 | :drooling\_face:      | Affamé                          | **50min**       |
 | :cold\_face:          | Gelé                            | **1h**          |
-| :foot:                | Mal aux pieds                   | 1h50            |
+| :foot:                | Mal aux pieds                   | **1h50**        |
 | :sleeping:            | Endormi                         | **3h**          |
 | :zany\_face:          | Ivre                            | **4h**          |
 | :face\_with\_monocle: | Perdu                           | **4h30**        |

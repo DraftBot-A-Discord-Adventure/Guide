@@ -120,7 +120,7 @@ Vous avez la possibilité de stocker votre familier dans le **refuge de votre gu
 
 Pour visualiser le refuge, vous pouvez utiliser la commande `/abriguilde`.
 
-<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185446.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185435.png" alt="Refuge de la guilde B1 Bis Alpha"></picture>
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185446.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185435.png" alt="Refuge d&#x27;une guilde"></picture>
 
 {% hint style="info" %}
 Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.

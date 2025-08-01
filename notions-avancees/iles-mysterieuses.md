@@ -127,7 +127,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 | :shield: Attaque bouclier                    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 6                       |
 | :bed: Repos                                  | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 0                       |
 | :smiling\_imp: Attaque maudite               | <p>Niveau 50+ uniquement. </p><p>Voir la page des <a href="https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques">combats</a></p> | 6                       |
-| :people\_holding\_hands: Invocation d'alliés | Niveau 65+ uniquement. Appelle des alliés afin de cumuler les dégâts infligés par chacun des adversaires invoqués en plus de ceux du lanceur.                       | 5                       |
+| :people\_holding\_hands: Invocation d'alliés | Niveau 65+ uniquement. Appelle des alliés qui s'acharneront sur l'adversaire pour le reste du combat. Utilisable une seule fois.                                    | 5                       |
 
 ### Chemin escarpé
 
@@ -155,7 +155,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 | Nom de l'attaque           | Description                                                                                                                                                                                                          | Consommation en souffle |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :volcano: Éruption         | Fait entrer en éruption le volcan grondant. Émet des rochers en fusion infligeant des dégâts à l'adversaire pendant quelques tours.                                                                                  | 7                       |
+| :volcano: Éruption         | Fait entrer en éruption le volcan grondant. La précision diminue avec la vitesse adverse.                                                                                                                            | 7                       |
 | :foot: Attaque impact      | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                                                                                      | 6                       |
 | :fire:Attaque feu          | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                                  | 8                       |
 | :bathtub: Bain de magma    | Fonctionne comme Repos (voir page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
@@ -176,7 +176,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 | :tooth:Attaque morsure puissante | Une morsure qui applique l'altération saignement.                                                                                 | 6                       |
 | :face\_in\_clouds:Discrétion     | Se cache afin de doubler les dégâts de la prochaine attaque.                                                                      | 6                       |
 | 🌕Hurlement                      | Améliore aléatoirement l'attaque, la défense ou la vitesse.                                                                       | 1                       |
-| :feet:Attaque griffure           | Un violent coup de griffe.                                                                                                        | 2                       |
+| :feet:Attaque griffe             | Un violent coup de griffe. Échoue plus souvent face à un adversaire plus rapide.                                                  | 2                       |
 | :wolf:Appel à la meute           | Il appelle sa meute à l'aide. La première attaque fait de faible dégâts et les suivantes sont renforcés par la force de la meute. | 9                       |
 
 ### Caverne de cristal
@@ -218,7 +218,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 | 🌡️ Attaque drain de chaleur      | Augmente l'attaque du lanceur et gèle l'adversaire.                                                                                              | 7                       |
 | :dash:Attaque vol de souffle      | Niveau 50+. Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                         | 1                       |
 | ❄️ Attaque séduction glaciale     | Niveau 110+. Peut geler ou rendre confus l'adversaire en plus de lui infliger des dégâts.                                                        | 5                       |
-| 💋Attaque baiser gelé             | Gèle et fait des dégâts (fortement réduits si déjà gelé).                                                                                        | 4                       |
+| 💋Attaque baiser gelé             | Si l'adversaire est gelé, les dégâts sont fortement réduits.                                                                                     | 4                       |
 | :ghost:Attaque revanche spectrale | Semblable à [l'attaque riposte](../notions-principale/combats.md#detail-des-differentes-attaques).Échoue si l'attaque précédente était magique.  | 8                       |
 
 ### Portes sacrées
@@ -243,7 +243,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 | Nom de l'attaque                | Description                                                                                                                               | Consommation en souffle |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :feet:Attaque griffure          | Un violent coup de griffe.                                                                                                                | 2                       |
+| :feet:Attaque griffe            | Un violent coup de griffe. Échoue plus souvent face à un adversaire plus rapide.                                                          | 2                       |
 | :dragon:Attaque souffle glacial | Libère un vent glacé qui inflige des dégâts à l'adversaire et a une chance de le geler.                                                   | 13                      |
 | 🌨️ Attaque rage de blizzard    | Peut geler, ralentir et réduire la défense de l'adversaire. Utilisable une fois par combat.                                               | 10                      |
 | 🦅Attaque plongée aérienne      | Niveau 80+. Il fond sur son adversaire depuis les airs. Échoue si l'attaque précédente est une attaque à distance.                        | 8                       |
@@ -255,13 +255,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 > Une redoutable dragonne qui protège férocement son trésor et sa progéniture dans les profondeurs glacées de son antre. Plus agressive que son compagnon, elle n'hésite pas à déchaîner sa fureur contre quiconque ose s'approcher de son nid. Ses écailles scintillent comme des diamants et sa queue peut briser la glace la plus épaisse d'un seul coup.
 
-| Nom de l'attaque                | Description                                                                                                                                    | Consommation en souffle |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| 🐊Attaque coup de queue         | Une puissante coup de queue qui peut étourdir.                                                                                                 | 2                       |
-| 🤍Étreinte de glace             | Niveau 70+. Fait des dégâts et peut vous geler. Cette étreinte se prolongera si vous ne vous ne vous défendez pas avec une attaque à distance. | 7                       |
-| 🧊Attaque armure cristalline    | Utilise le bouclier de l'adversaire pour attaquer. Réussit uniquement si l'attaque précédente de son adversaire est physique.                  | 3                       |
-| 🐉Attaque souffle glacial       | Libère un vent glacé qui inflige des dégâts à l'adversaire et a une chance de le geler.                                                        | 13                      |
-| 💥Attaque effondrement glacial  | Niveau 50+.  Une chute de stalactites qui peut être esquiver par anticipation en faisant une attaque physique.                                 | 9                       |
+| Nom de l'attaque                | Description                                                                                                                                  | Consommation en souffle |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| 🐊Attaque coup de queue         | Une puissante coup de queue qui peut étourdir.                                                                                               | 2                       |
+| 🤍Étreinte de glace             | Niveau 70+. Fait des dégâts et peut vous geler. Cette étreinte se prolongera si vous ne vous ne vous défendez pas avec une attaque physique. | 7                       |
+| 🧊Attaque armure cristalline    | Utilise le bouclier de l'adversaire pour attaquer. Réussit uniquement si l'attaque précédente de son adversaire est physique.                | 3                       |
+| 🐉Attaque souffle glacial       | Libère un vent glacé qui inflige des dégâts à l'adversaire et a une chance de le geler.                                                      | 13                      |
+| 💥Attaque effondrement glacial  | Niveau 50+.  Une chute de stalactites qui peut être esquiver par anticipation en faisant une attaque physique.                               | 9                       |
 
 ## Mini-évènements
 
