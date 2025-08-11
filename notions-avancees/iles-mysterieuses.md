@@ -307,6 +307,42 @@ Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaq
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d’écran 2025-06-23 083859.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180236.png" alt="Mini-évènement de la rage "></picture><figcaption><p>Exemple de mini évènement où le joueur rencontre un animal sauvage.</p></figcaption></figure>
 
+**Voici les différentes options qui pourraient s'offrir à vous :**
+
+_La plupart des choix dépendent aussi de la rareté de l’animal adverse. Généralement, plus l’animal est rare, plus il est difficile de réussir._
+
+🤛 **Attaquer à gauche / 🤜 Attaquer à droite :** fonctionne mieux si vous attaquez du bon côté (1/10 des joueurs sont gauchers)&#x20;
+
+🥩 **Distraire la bête avec de la viande :** dépend du régime de l’animal et de votre stock de viande 🥩&#x20;
+
+🥕 **Distraire la bête avec un légume :** dépend du régime de l’animal et de votre stock de salades 🥬&#x20;
+
+😱 **Crier :** fonctionne légèrement mieux si l’animal est une femelle&#x20;
+
+👊 **Coup de poing :** dépend de l’attaque 🗡️&#x20;
+
+🛡️ **Se protéger :** dépend de la défense 🛡️&#x20;
+
+🏃 **Fuir :** dépend de la vitesse 🚀&#x20;
+
+⚡ **Concentrer son énergie et attaquer :** fonctionne mieux si beaucoup d’énergie ⚡️&#x20;
+
+🔥 **Utiliser toutes vos forces pour attaquer :** fonctionne mieux si peu d’énergie ⚡️&#x20;
+
+💪 **Intimider la créature :** dépend du niveau du joueur&#x20;
+
+💀 **Faire le mort :** fonctionne mieux si la vie ❤️ du joueur est faible&#x20;
+
+😤 **Provoquer la bête :** fonctionne mieux si le joueur possède une forte attaque par rapport à un bas niveau ou s’il possède l’arme « 🤬 insultes »&#x20;
+
+🙏 **Prier dieu :** dépend du nombre d’objets sacrés dans l’inventaire du joueur&#x20;
+
+🐕 **Faire appel à votre familier :** dépend de la rareté, du régime et du moral du familier du joueur&#x20;
+
+🏟️ **Faire appel aux membres de votre guilde :** dépend du nombre d’alliés 🤝&#x20;
+
+🚶 **Ne rien faire :** peu de réussite
+
 ### Informations sur l'île
 
 **rareté : 1 - uniquement disponible sur le trajet en bateau vers l'île**

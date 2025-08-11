@@ -73,7 +73,17 @@ Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est
 
 Vous pouvez retrouvez le détail des attaques sur le document ci-dessous.
 
-<figure><img src="../.gitbook/assets/5.0.2.png" alt="Liste des attaques de Crownicles et leurs spéficités"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/attaques crownicles.png" alt="Liste des attaques de Crownicles et leurs spéficités"><figcaption></figcaption></figure>
+
+**Quelles attaques ne peuvent pas être contrées par l'attaque riposte** 🥊 ?
+
+_Pour les joueurs :_
+
+> 🔥 Attaque feu, 😈 Attaque maudite, ✴️ Attaque sombre , ☄️ Attaque ultime, 🙏 Attaque divine, 👼 Bénédiction, 🧪 Attaque empoisonnée, 🎯 Concentration, 🙅 Protection, 🛏️ Repos, 🥊 Attaque riposte, 🧘‍♂️ Boost de défense, 💨 Attaque vol de souffle
+
+_Pour les monstres :_
+
+> 💢 Colère, 🔊 Rugissement, 🧑‍🤝‍🧑 Invocation d'alliés, 😶‍🌫️ Discrétion, 🌋 Éruption, ♨️ Vague de lave, 🛁 Bain de magma, 🧑‍🌾 Tir de boue, 🏺 boue brûlante, 🌡️ Drain de chaleur
 
 ### Gestion du souffle
 
