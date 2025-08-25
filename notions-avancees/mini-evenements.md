@@ -523,7 +523,7 @@ Ce mini-événement vous fera rencontrer un individu mystérieux qui vous propos
 
 **Rareté: 5**
 
-Ce mini-événement vous fera rencontrer Talvar, un nain amoureux de la cause animale. Il vous récompensera avec une gemme à chaque nouvelle espèce que vous lui présenterait  si votre animal n'est pas fielleux (sinon il vous réprimandera vertement ) . Une fois toutes les espèces répertoriés, vous gagnerez en signe de profond respect le [badge](badges.md) :feet:(et de l'argent si vous l'avez déjà) .
+Ce mini-événement vous fera rencontrer Talvar, un nain amoureux de la cause animale. Il vous récompensera avec une gemme à chaque nouvelle espèce que vous lui présenterait  si votre animal n'est pas fielleux (sinon il vous réprimandera vertement ) . Une fois toutes les espèces répertoriés (mâle ou femelle n'a pas d'importance), vous gagnerez en signe de profond respect le [badge](badges.md) :feet: (et de l'argent si vous l'avez déjà) .
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-22 120719.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-22 120730.png" alt=""></picture><figcaption><p>On raconte que son amour des animaux est aussi immense que sa richesse.</p></figcaption></figure>
 
