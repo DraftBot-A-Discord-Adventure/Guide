@@ -73,7 +73,7 @@ Le joueur le plus rapide commence toujours le combat. (En cas d'égalité, c'est
 
 Vous pouvez retrouvez le détail des attaques sur le document ci-dessous.
 
-<figure><img src="../.gitbook/assets/attaques crownicles.png" alt="Liste des attaques de Crownicles et leurs spéficités"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.1.5.png" alt="Liste des attaques de Crownicles et leurs spéficités"><figcaption></figcaption></figure>
 
 **Quelles attaques ne peuvent pas être contrées par l'attaque riposte** 🥊 ?
 
