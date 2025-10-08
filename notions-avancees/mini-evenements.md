@@ -538,3 +538,13 @@ Ce mini-événement n'apparaît qu'autour du Mont Célestrum.
 Ce mini-événement  vous fera rencontrer Sir Rowan, ancien capitaine de la garde royale.Il vous présentera les différentes attaques du jeu qu'elles soient humaines ou monstrueuses.
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194650.png" alt=""></picture><figcaption></figcaption></figure>
+
+## L'homme étrange amoureux de sa ville
+
+Rareté : 2
+
+Ce mini-événement vous fera rencontrer un conteur passionné par une cité lointaine. Il vous interrogera sur l’intérêt que vous portez à cette ville. Vos réponses détermineront s’il vous récompense ou non.
+
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 175955.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 180321.png" alt=""></picture><figcaption></figcaption></figure>
+
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 180038.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 180405.png" alt=""></picture><figcaption><p>Exemple de récompenses obtenues selon vos réponses.</p></figcaption></figure>
