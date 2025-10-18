@@ -268,7 +268,7 @@ Les familiers 4 :star::star::star::star:\
 :dodo: **dodo** : frappe l'adversaire de son bec\
 :mammoth: **mammouth** : protège son propriétaire du froid\
 :dove: **colombe** : soigne à la fois son propriétaire et l'adversaire\
-:penguin: **manchot.e** : pzercute l'adversaire en glissant\
+:penguin: **manchot.e** : percute l'adversaire en glissant\
 :snowman2: **bonhomme de neige** : gèle l'adversaire\
 :dolphin: **dauphin** : protège son propriétaire du feu\
 :lobster: **homard** : pince l'adversaire\
