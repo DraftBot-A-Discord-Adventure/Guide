@@ -12,7 +12,7 @@ Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via 
 
 Le profil d'un joueur se décompose donc de cette façon :
 
-<figure><picture><source srcset="../.gitbook/assets/Screenshot_20250619-164801.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-133728.png" alt="Profil du joueur Yuno"></picture><figcaption><p>Profil d'un joueur</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/profil_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/profil_clair.png" alt="Profil du joueur Yuno"></picture><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 
 ### Informations
 
@@ -33,7 +33,7 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 * 🌬  Souffle disponible / Souffle maximal
 * :lungs: Récupération de souffle
 
-### [missions.md](missions.md "mention")
+### [Missions](missions.md)
 
 * Votre nombre de gemmes
 * Votre avancement dans la campagne en pourcentage
@@ -55,7 +55,8 @@ Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personn
 
 ### Gloire et Ligue
 
-* :sparkles: Points de  gloire&#x20;
+* Votre position dans le classement glorieux
+* Vos points de gloire :sparkles:
 * Votre ligue : celle-ci change en fonction de votre gloire : plus d'informations dans [ligues.md](ligues.md "mention").
 
 {% hint style="success" %}
@@ -66,7 +67,7 @@ La couleur de l'embed indique aussi votre ligue actuelle !
 
 C'est l'endroit où vous dirigez sur la carte.
 
-### [familiers.md](familiers.md "mention")
+### [Familiers](familiers.md)
 
 Un animal qui vous accompagne dans votre aventure.
 

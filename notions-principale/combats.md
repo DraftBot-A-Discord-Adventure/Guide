@@ -25,7 +25,7 @@ Vous trouverez plus d'informations sur les statistiques dans le guide consacré 
 
 #### Les combats de joueurs
 
-Un combat peut être lancé avec la commande `/combat`. Vous affronterez une IA avec la classe et les statistiques d'un joueur aléatoire (à condition que sa gloire de défense soit au maximum 450 points au-dessus ou en dessous de votre gloire d'attaque et que vous l'avez affronté moins de 3 fois). Le gagnant remporte de la gloire :sparkles: ,le perdant en perd et l'énergie perdue est consommée.
+Un combat peut être lancé avec la commande `/combat`. Vous affronterez une IA avec la classe et les statistiques d'un joueur aléatoire (à condition que sa gloire de défense soit au maximum 450 points au-dessus ou en dessous de votre gloire d'attaque et que vous l'avez affronté moins de 3 fois depuis le début de la saison). Le gagnant remporte de la gloire :sparkles: ,le perdant en perd et l'énergie perdue est consommée.
 
 {% hint style="info" %}
 Il n'est possible de lancer une combat que si vous possédez 80% ou plus d'énergie.
@@ -36,7 +36,7 @@ Votre gloire est divisée en 2 parties dont la somme forme la gloire affichée s
 
 -La gloire d'attaque : lorsque vous combattez l'IA d'un joueur.
 
--La gloire de défense : lorsque votre IA est attaqué par un joueur.
+-La gloire de défense : lorsque votre IA est attaquée par un joueur.
 {% endhint %}
 
 {% hint style="info" %}
@@ -45,7 +45,7 @@ A la fin de chaque combat, vous obtenez, en plus de la gloire, de l'argent et de
 
 #### Les combats de monstres
 
-Voir [#combats](../notions-avancees/iles-mysterieuses.md#combats "mention")
+Voir [iles-mysterieuses.md](../notions-avancees/iles-mysterieuses.md "mention")
 
 ### Déroulement d'un combat
 
@@ -97,7 +97,7 @@ Si un joueur est essoufflé et tente d'utiliser une attaque qui nécessite plus 
 
 Dès lors que l'énergie :zap: de l'un des combattants tombe à 0, le combat s'arrête. Le joueur encore debout remporte le combat.
 
-Un combat peut se terminer sur une égalité si le 24e tour se finit sans vainqueur ou si les deux combattants atteignent 0 :zap: au cours du même tour.
+Un combat peut se terminer sur une égalité si le 26e tour se finit sans vainqueur ou si les deux combattants atteignent 0 :zap: au cours du même tour.
 
 Une fois un combat terminé, vous devrez attendre un certain temps avant de récupérer l'énergie :zap:que vous avez perdue.
 

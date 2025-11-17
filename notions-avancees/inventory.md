@@ -40,8 +40,10 @@ Lors de l'achat d'un emplacement supplémentaire, le prix de l'amélioration de 
 
 ### Interaction avec les objets de l'inventaire
 
-La commande `/bonusjournalier` permet d'utiliser un objet placé dans la case "objet actif". Un objet peut être utilisé toutes les 22h minimum.
+La commande `/bonusjournalier` permet d'utiliser un objet à effet journalier. Un objet peut être utilisé toutes les 22h minimum.
 
 La commande `/vendre` permet de vendre n'importe quel équipement situé dans la réserve d'un joueur.
 
 La commande `/intervertir` permet d'échanger les équipements actifs avec les équipements de la réserve.
+
+La commande `/deposer` permet de déposer un équipement actif dans la réserve (si vous avez de la place).&#x20;

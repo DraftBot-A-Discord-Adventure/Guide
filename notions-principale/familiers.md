@@ -46,6 +46,10 @@ Un familier a 2 fonctions:
 * Lors de ce [mini-événement](https://guide.draftbot.com/notions-avancees/mini-evenements#interaction-avec-un-familier), vous interagissez avec votre familier. Il peut vous donner (ou vous faire perdre) des ressources selon son moral, gagner (ou perdre s'il n'est pas dressé) des points d'affection ou simplement ne rien se passer.
 * Lors des combats, chaque familier aidera (ou du moins essayera d'aider) son propriétaire.
 
+Vous pouvez également le caresser (mais cela n'a aucun effet sur son moral).
+
+<figure><picture><source srcset="../.gitbook/assets/caresser_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/caresser_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
 ### Comment nourrir mon familier ?
 
 #### Acheter de la nourriture.
@@ -150,7 +154,9 @@ Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience
 
 ### **Liste des familiers disponibles**
 
-<table><thead><tr><th></th><th width="200"></th><th width="133.86669921875"></th><th></th><th></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td></tr><tr><td><p>Chien.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f415">🐕</span></p><p>Caniche <span data-gb-custom-inline data-tag="emoji" data-code="1f429">🐩</span></p><p>Chat.te <span data-gb-custom-inline data-tag="emoji" data-code="1f408">🐈</span></p><p>Chat.te noir <span data-gb-custom-inline data-tag="emoji" data-code="1f408-2b1b">🐈‍⬛</span></p><p>Rongeur / Souris <span data-gb-custom-inline data-tag="emoji" data-code="1f401">🐁</span></p><p>Hamster <span data-gb-custom-inline data-tag="emoji" data-code="1f439">🐹</span></p><p>Lapin.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f407">🐇</span></p><p>Bœuf / Vache <span data-gb-custom-inline data-tag="emoji" data-code="1f404">🐄</span></p><p>Porc / Truie <span data-gb-custom-inline data-tag="emoji" data-code="1f437">🐷</span></p><p>Poule / Coq <span data-gb-custom-inline data-tag="emoji" data-code="1f414">🐔</span></p><p>Oiseau <span data-gb-custom-inline data-tag="emoji" data-code="1f426">🐦</span></p><p>Canard / Cane <span data-gb-custom-inline data-tag="emoji" data-code="1f986">🦆</span></p><p>Étalon / Jument <span data-gb-custom-inline data-tag="emoji" data-code="1f40e">🐎</span></p><p>Tortue <span data-gb-custom-inline data-tag="emoji" data-code="1f422">🐢</span></p><p>Serpent <span data-gb-custom-inline data-tag="emoji" data-code="1f40d">🐍</span></p><p>Lézard.e <span data-gb-custom-inline data-tag="emoji" data-code="1f98e">🦎</span></p><p>Bélier / Brebis <span data-gb-custom-inline data-tag="emoji" data-code="1f411">🐑</span></p><p>Bouc / Chèvre <span data-gb-custom-inline data-tag="emoji" data-code="1f410">🐐</span></p><p>Dindon / Dinde <span data-gb-custom-inline data-tag="emoji" data-code="1f983">🦃</span></p><p>Bonhomme / Dame de neige <span data-gb-custom-inline data-tag="emoji" data-code="26c4">⛄</span> </p><p>Poisson <span data-gb-custom-inline data-tag="emoji" data-code="1f41f">🐟</span> </p><p>Escargot <span data-gb-custom-inline data-tag="emoji" data-code="1f40c">🐌</span></p><p>Poussin <span data-gb-custom-inline data-tag="emoji" data-code="1f423">🐣</span> </p><p>Rat.e <span data-gb-custom-inline data-tag="emoji" data-code="1f400">🐀</span></p><p>oie <span data-gb-custom-inline data-tag="emoji" data-code="1fabf">🪿</span><br></p></td><td><p>Renard.e <span data-gb-custom-inline data-tag="emoji" data-code="1f98a">🦊</span></p><p>Koala <span data-gb-custom-inline data-tag="emoji" data-code="1f428">🐨</span></p><p>Crapaud / Grenouille <span data-gb-custom-inline data-tag="emoji" data-code="1f438">🐸</span></p><p>Singe / Guenon <span data-gb-custom-inline data-tag="emoji" data-code="1f412">🐒</span></p><p>Pingouin.e <span data-gb-custom-inline data-tag="emoji" data-code="1f427">🐧</span></p><p>Hibou / Chouette <span data-gb-custom-inline data-tag="emoji" data-code="1f989">🦉</span></p><p>Chauve-souris <span data-gb-custom-inline data-tag="emoji" data-code="1f987">🦇</span></p><p>Loup / Louve <span data-gb-custom-inline data-tag="emoji" data-code="1f43a">🐺</span></p><p>Sanglier / Laie <span data-gb-custom-inline data-tag="emoji" data-code="1f417">🐗</span></p><p>Phoque / Otarie <span data-gb-custom-inline data-tag="emoji" data-code="1f9ad">🦭</span></p><p>Hippopotame <span data-gb-custom-inline data-tag="emoji" data-code="1f99b">🦛</span></p><p>Lama.te <span data-gb-custom-inline data-tag="emoji" data-code="1f999">🦙</span></p><p>Cygne <span data-gb-custom-inline data-tag="emoji" data-code="1f9a2">🦢</span></p><p>Flamant rose <span data-gb-custom-inline data-tag="emoji" data-code="1f9a9">🦩</span></p><p>Raton Laveur / Ratonne <span data-gb-custom-inline data-tag="emoji" data-code="1f99d">🦝</span></p><p>Putois / Moufette <span data-gb-custom-inline data-tag="emoji" data-code="1f9a8">🦨</span></p><p>Blaireau / Blairelle <span data-gb-custom-inline data-tag="emoji" data-code="1f9a1">🦡</span></p><p>Castor <span data-gb-custom-inline data-tag="emoji" data-code="1f9ab">🦫</span></p><p>Paresseux / Paresseuse <span data-gb-custom-inline data-tag="emoji" data-code="1f9a5">🦥</span></p><p>Tamia <span data-gb-custom-inline data-tag="emoji" data-code="1f43f">🐿️</span></p><p>Hérisson.ne 🦔️ </p><p>Crevette 🦐 </p><p>Méduse <span data-gb-custom-inline data-tag="emoji" data-code="1fabc">🪼</span> </p><p>Crabe <span data-gb-custom-inline data-tag="emoji" data-code="1f980">🦀</span></p><p>Âne / Ânesse 🫏 </p></td><td><p>Ours.e <span data-gb-custom-inline data-tag="emoji" data-code="1f43b">🐻</span></p><p>Ours.e polaire <span data-gb-custom-inline data-tag="emoji" data-code="1f43b-2744">🐻‍❄️</span></p><p>Panda <span data-gb-custom-inline data-tag="emoji" data-code="1f43c">🐼</span></p><p>Scorpion.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f982">🦂</span></p><p>Crocodile <span data-gb-custom-inline data-tag="emoji" data-code="1f40a">🐊</span></p><p>Éléphant.e <span data-gb-custom-inline data-tag="emoji" data-code="1f418">🐘</span></p><p>Zèbre.lle <span data-gb-custom-inline data-tag="emoji" data-code="1f993">🦓</span></p><p>Rhinocéros <span data-gb-custom-inline data-tag="emoji" data-code="1f98f">🦏</span></p><p>Dromadaire / Chamelle <span data-gb-custom-inline data-tag="emoji" data-code="1f42a">🐪</span></p><p>Chameau / Chamelle <span data-gb-custom-inline data-tag="emoji" data-code="1f42b">🐫</span></p><p>Girafe <span data-gb-custom-inline data-tag="emoji" data-code="1f992">🦒</span></p><p>Kangourou <span data-gb-custom-inline data-tag="emoji" data-code="1f998">🦘</span></p><p>Paon.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f99a">🦚</span></p><p>Perroquet <span data-gb-custom-inline data-tag="emoji" data-code="1f99c">🦜</span></p><p>Loutre <span data-gb-custom-inline data-tag="emoji" data-code="1f9a6">🦦</span></p><p>Poulpe / Pieuvre <span data-gb-custom-inline data-tag="emoji" data-code="1f419">🐙</span></p><p>Baleine🐋</p><p>Cerf / Biche <span data-gb-custom-inline data-tag="emoji" data-code="1f98c">🦌</span></p><p>Bison.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f9ac">🦬</span></p><p>Merle <span data-gb-custom-inline data-tag="emoji" data-code="1f426-2b1b">🐦‍⬛</span><br>Élan 🫎</p></td><td><p>Tigre.sse <span data-gb-custom-inline data-tag="emoji" data-code="1f405">🐅</span></p><p>Lion.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f981">🦁</span></p><p>Aigle <span data-gb-custom-inline data-tag="emoji" data-code="1f985">🦅</span></p><p>Dodo <span data-gb-custom-inline data-tag="emoji" data-code="1f9a4">🦤</span></p><p>Léopard.e <span data-gb-custom-inline data-tag="emoji" data-code="1f406">🐆</span></p><p>Mammouth <span data-gb-custom-inline data-tag="emoji" data-code="1f9a3">🦣</span></p><p>Colombe <span data-gb-custom-inline data-tag="emoji" data-code="1f54a">🕊️</span></p><p>Manchot.e <span data-gb-custom-inline data-tag="emoji" data-code="1f427">🐧</span></p><p>Bonhomme / Dame de neige <span data-gb-custom-inline data-tag="emoji" data-code="2603">☃️</span> </p><p>Dauphin 🐬 </p><p>Homard 🦞 </p><p>Requin 🦈 </p><p>Buffle d'eau <span data-gb-custom-inline data-tag="emoji" data-code="1f403">🐃</span></p><p>Orang-outan <span data-gb-custom-inline data-tag="emoji" data-code="1f9a7">🦧</span></p><p>Poisson-globe <span data-gb-custom-inline data-tag="emoji" data-code="1f421">🐡</span></p><p>Gorille <span data-gb-custom-inline data-tag="emoji" data-code="1f98d">🦍</span> </p><p>Corbeau <span data-gb-custom-inline data-tag="emoji" data-code="1f426-2b1b">🐦‍⬛</span></p></td><td><p>Licorne <span data-gb-custom-inline data-tag="emoji" data-code="1f984">🦄</span></p><p>Dragon.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f409">🐉</span></p><p>T-rex <span data-gb-custom-inline data-tag="emoji" data-code="1f996">🦖</span></p><p>Stitch/Angel <span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span></p><p>Alien.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f47d">👽</span></p><p>Canard / Cane écarlate 🦆</p><p>Baleine  🐳 </p><p>Poisson tropical 🐠</p><p>Phénix 🐦‍🔥</p><p>Diplodocus <span data-gb-custom-inline data-tag="emoji" data-code="1f995">🦕</span></p></td></tr></tbody></table>
+<table><thead><tr><th></th><th width="200"></th><th width="133.86669921875"></th><th></th><th></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td></tr><tr><td><p>Chien.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f415">🐕</span></p><p>Caniche <span data-gb-custom-inline data-tag="emoji" data-code="1f429">🐩</span></p><p>Chat.te <span data-gb-custom-inline data-tag="emoji" data-code="1f408">🐈</span></p><p>Chat.te noir <span data-gb-custom-inline data-tag="emoji" data-code="1f408-2b1b">🐈‍⬛</span></p><p>Rongeur / Souris <span data-gb-custom-inline data-tag="emoji" data-code="1f401">🐁</span></p><p>Hamster <span data-gb-custom-inline data-tag="emoji" data-code="1f439">🐹</span></p><p>Lapin.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f407">🐇</span></p><p>Bœuf / Vache <span data-gb-custom-inline data-tag="emoji" data-code="1f404">🐄</span></p><p>Porc / Truie <span data-gb-custom-inline data-tag="emoji" data-code="1f437">🐷</span></p><p>Poule / Coq <span data-gb-custom-inline data-tag="emoji" data-code="1f414">🐔</span></p><p>Oiseau <span data-gb-custom-inline data-tag="emoji" data-code="1f426">🐦</span></p><p>Canard / Cane <span data-gb-custom-inline data-tag="emoji" data-code="1f986">🦆</span></p><p>Étalon / Jument <span data-gb-custom-inline data-tag="emoji" data-code="1f40e">🐎</span></p><p>Tortue <span data-gb-custom-inline data-tag="emoji" data-code="1f422">🐢</span></p><p>Serpent <span data-gb-custom-inline data-tag="emoji" data-code="1f40d">🐍</span></p><p>Lézard.e <span data-gb-custom-inline data-tag="emoji" data-code="1f98e">🦎</span></p><p>Bélier / Brebis <span data-gb-custom-inline data-tag="emoji" data-code="1f411">🐑</span></p><p>Bouc / Chèvre <span data-gb-custom-inline data-tag="emoji" data-code="1f410">🐐</span></p><p>Dindon / Dinde <span data-gb-custom-inline data-tag="emoji" data-code="1f983">🦃</span></p><p>Bonhomme / Dame de neige <span data-gb-custom-inline data-tag="emoji" data-code="26c4">⛄</span> </p><p>Poisson <span data-gb-custom-inline data-tag="emoji" data-code="1f41f">🐟</span> </p><p>Escargot <span data-gb-custom-inline data-tag="emoji" data-code="1f40c">🐌</span></p><p>Poussin <span data-gb-custom-inline data-tag="emoji" data-code="1f423">🐣</span> </p><p>Rat.e <span data-gb-custom-inline data-tag="emoji" data-code="1f400">🐀</span></p><p>Oie <span data-gb-custom-inline data-tag="emoji" data-code="1fabf">🪿</span><br></p></td><td><p>Renard.e <span data-gb-custom-inline data-tag="emoji" data-code="1f98a">🦊</span></p><p>Koala <span data-gb-custom-inline data-tag="emoji" data-code="1f428">🐨</span></p><p>Crapaud / Grenouille <span data-gb-custom-inline data-tag="emoji" data-code="1f438">🐸</span></p><p>Singe / Guenon <span data-gb-custom-inline data-tag="emoji" data-code="1f412">🐒</span></p><p>Pingouin.e <span data-gb-custom-inline data-tag="emoji" data-code="1f427">🐧</span></p><p>Hibou / Chouette <span data-gb-custom-inline data-tag="emoji" data-code="1f989">🦉</span></p><p>Chauve-souris <span data-gb-custom-inline data-tag="emoji" data-code="1f987">🦇</span></p><p>Loup / Louve <span data-gb-custom-inline data-tag="emoji" data-code="1f43a">🐺</span></p><p>Sanglier / Laie <span data-gb-custom-inline data-tag="emoji" data-code="1f417">🐗</span></p><p>Phoque / Otarie <span data-gb-custom-inline data-tag="emoji" data-code="1f9ad">🦭</span></p><p>Hippopotame <span data-gb-custom-inline data-tag="emoji" data-code="1f99b">🦛</span></p><p>Lama.te <span data-gb-custom-inline data-tag="emoji" data-code="1f999">🦙</span></p><p>Cygne <span data-gb-custom-inline data-tag="emoji" data-code="1f9a2">🦢</span></p><p>Flamant rose <span data-gb-custom-inline data-tag="emoji" data-code="1f9a9">🦩</span></p><p>Raton Laveur / Ratonne <span data-gb-custom-inline data-tag="emoji" data-code="1f99d">🦝</span></p><p>Putois / Moufette <span data-gb-custom-inline data-tag="emoji" data-code="1f9a8">🦨</span></p><p>Blaireau / Blairelle <span data-gb-custom-inline data-tag="emoji" data-code="1f9a1">🦡</span></p><p>Castor <span data-gb-custom-inline data-tag="emoji" data-code="1f9ab">🦫</span></p><p>Paresseux / Paresseuse <span data-gb-custom-inline data-tag="emoji" data-code="1f9a5">🦥</span></p><p>Tamia <span data-gb-custom-inline data-tag="emoji" data-code="1f43f">🐿️</span></p><p>Hérisson.ne 🦔️ </p><p>Crevette 🦐 </p><p>Méduse <span data-gb-custom-inline data-tag="emoji" data-code="1fabc">🪼</span> </p><p>Crabe <span data-gb-custom-inline data-tag="emoji" data-code="1f980">🦀</span></p><p>Âne / Ânesse <span data-gb-custom-inline data-tag="emoji" data-code="1facf">🫏</span> </p></td><td><p>Ours.e <span data-gb-custom-inline data-tag="emoji" data-code="1f43b">🐻</span></p><p>Ours.e polaire <span data-gb-custom-inline data-tag="emoji" data-code="1f43b-2744">🐻‍❄️</span></p><p>Panda <span data-gb-custom-inline data-tag="emoji" data-code="1f43c">🐼</span></p><p>Scorpion.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f982">🦂</span></p><p>Crocodile <span data-gb-custom-inline data-tag="emoji" data-code="1f40a">🐊</span></p><p>Éléphant.e <span data-gb-custom-inline data-tag="emoji" data-code="1f418">🐘</span></p><p>Zèbre.lle <span data-gb-custom-inline data-tag="emoji" data-code="1f993">🦓</span></p><p>Rhinocéros <span data-gb-custom-inline data-tag="emoji" data-code="1f98f">🦏</span></p><p>Dromadaire / Chamelle <span data-gb-custom-inline data-tag="emoji" data-code="1f42a">🐪</span></p><p>Chameau / Chamelle <span data-gb-custom-inline data-tag="emoji" data-code="1f42b">🐫</span></p><p>Girafe <span data-gb-custom-inline data-tag="emoji" data-code="1f992">🦒</span></p><p>Kangourou <span data-gb-custom-inline data-tag="emoji" data-code="1f998">🦘</span></p><p>Paon.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f99a">🦚</span></p><p>Perroquet <span data-gb-custom-inline data-tag="emoji" data-code="1f99c">🦜</span></p><p>Loutre <span data-gb-custom-inline data-tag="emoji" data-code="1f9a6">🦦</span></p><p>Poulpe / Pieuvre <span data-gb-custom-inline data-tag="emoji" data-code="1f419">🐙</span></p><p>Baleine🐋</p><p>Cerf / Biche <span data-gb-custom-inline data-tag="emoji" data-code="1f98c">🦌</span></p><p>Bison.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f9ac">🦬</span></p><p>Merle <span data-gb-custom-inline data-tag="emoji" data-code="1f426-2b1b">🐦‍⬛</span><br>Élan <span data-gb-custom-inline data-tag="emoji" data-code="1face">🫎</span></p></td><td><p>Tigre.sse <span data-gb-custom-inline data-tag="emoji" data-code="1f405">🐅</span></p><p>Lion.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f981">🦁</span></p><p>Aigle <span data-gb-custom-inline data-tag="emoji" data-code="1f985">🦅</span></p><p>Dodo <span data-gb-custom-inline data-tag="emoji" data-code="1f9a4">🦤</span></p><p>Léopard.e <span data-gb-custom-inline data-tag="emoji" data-code="1f406">🐆</span></p><p>Mammouth <span data-gb-custom-inline data-tag="emoji" data-code="1f9a3">🦣</span></p><p>Colombe <span data-gb-custom-inline data-tag="emoji" data-code="1f54a">🕊️</span></p><p>Manchot.e <span data-gb-custom-inline data-tag="emoji" data-code="1f427">🐧</span></p><p>Bonhomme / Dame de neige <span data-gb-custom-inline data-tag="emoji" data-code="2603">☃️</span> </p><p>Dauphin 🐬 </p><p>Homard 🦞 </p><p>Requin 🦈 </p><p>Buffle d'eau <span data-gb-custom-inline data-tag="emoji" data-code="1f403">🐃</span></p><p>Orang-outan <span data-gb-custom-inline data-tag="emoji" data-code="1f9a7">🦧</span></p><p>Poisson-globe <span data-gb-custom-inline data-tag="emoji" data-code="1f421">🐡</span></p><p>Gorille <span data-gb-custom-inline data-tag="emoji" data-code="1f98d">🦍</span> </p><p>Corbeau <span data-gb-custom-inline data-tag="emoji" data-code="1f426-2b1b">🐦‍⬛</span></p><p>Fantôme <span data-gb-custom-inline data-tag="emoji" data-code="1f47b">👻</span></p><p>Jack-o-lantern <span data-gb-custom-inline data-tag="emoji" data-code="1f383">🎃</span></p></td><td><p>Licorne <span data-gb-custom-inline data-tag="emoji" data-code="1f984">🦄</span></p><p>Dragon.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f409">🐉</span></p><p>T-rex <span data-gb-custom-inline data-tag="emoji" data-code="1f996">🦖</span></p><p>Stitch/Angel <span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span></p><p>Alien.ne <span data-gb-custom-inline data-tag="emoji" data-code="1f47d">👽</span></p><p>Canard / Cane écarlate 🦆</p><p>Baleine  🐳 </p><p>Poisson tropical 🐠</p><p>Phénix 🐦‍🔥</p><p>Diplodocus <span data-gb-custom-inline data-tag="emoji" data-code="1f995">🦕</span></p><p>Vampire <span data-gb-custom-inline data-tag="emoji" data-code="1f9db">🧛</span></p></td></tr></tbody></table>
+
+
 
 {% hint style="info" %}
 Le Bonhomme de neige existe en deux versions :
@@ -176,8 +182,9 @@ L'emoji qui la représente permet de différencier les deux animaux !
 ### Pouvoir des familiers en combat
 
 {% tabs %}
-{% tab title="" %}
-Les familiers 1 :star:\
+{% tab title="1 *" %}
+Les familiers 1 :star:
+
 \
 :cat2: **chat.te** : griffe légèrement l’adversaire\
 :dog2: **chien.ne** : mord légèrement l'adversaire\
@@ -203,7 +210,10 @@ Les familiers 1 :star:\
 :rabbit2: **lapin.e** : inflige des dégâts dérisoires à l'adversaire\
 :turkey: **dinde/dindon** : inflige des dégâts insignifiants à l’adversaire\
 :hatching\_chick: **poussin** : inflige des dégâts insignifiants à l’adversaire\
-:snail: **escargot** : ne fait absolument rien (mais il le fait bien)\
+:snail: **escargot** : ne fait absolument rien (mais il le fait bien)
+{% endtab %}
+
+{% tab title="2*" %}
 
 
 Les familiers 2 :star::star:\
@@ -224,16 +234,17 @@ Les familiers 2 :star::star:\
 :raccoon: **raton laveur/ratonne** : dérobe l'arme de l'adversaire\
 :monkey: **singe/guenon** : dérobe l'arme de l'adversaire\
 :beaver: **castor** : boost la défense de son propriétaire\
-🫏 **âne.sse** : boost la vitesse de son propriétaire\
+:donkey:**âne.sse** : boost la vitesse de son propriétaire\
 :owl:**hiboux/chouette** : protège son propriétaire de l'aveuglement\
 :seal: **otarie/phoque** : redonne du souffle à son propriétaire\
 :flamingo: **flamant rose** : inflige des dégâts insignifiants à l'adversaire\
 :chipmunk: **tamia** : inflige des dégâts insignifiants à l'adversaire\
 :koala: **koala** : ne fait rien (et assume pleinement)\
 :sloth: **paresseux/paresseuse** : ne fait rien (et c’est déjà un exploit)\
-:shrimp: **crevette** : ne fait rien (mais le cœur y est)\
+:shrimp: **crevette** : ne fait rien (mais le cœur y est)
+{% endtab %}
 
-
+{% tab title="3*" %}
 Les familiers 3 :star::star::star:\
 \
 :elephant: **éléphant.e** : resitue le souffle consommé à son propriétaire\
@@ -255,10 +266,10 @@ Les familiers 3 :star::star::star:\
 :black\_bird: **merle** : frappe l'adversaire de son bec\
 :otter: **loutre** : redonne du souffle à son propriétaire\
 :octopus: **poulpe** : rend l'adversaire aveugle\
-:giraffe: **girafe** : protège son propriétaire de l'aveuglement\
-\
+:giraffe: **girafe** : protège son propriétaire de l'aveuglement
+{% endtab %}
 
-
+{% tab title="4*" %}
 Les familiers 4 :star::star::star::star:\
 \
 :tiger2: **tigre.sse** : griffe férocement l'adversaire\
@@ -279,21 +290,36 @@ Les familiers 4 :star::star::star::star:\
 :water\_buffalo: **buffle d'eau** : charge et étourdit l'adversaire\
 :polar\_bear: **ours.e polaire** : protège son propriétaire du froid\
 :blowfish: **poisson globe** : protège son propriétaire du feu\
-:panda\_face: **panda** : ne fait rien (la flemme, tout simplement)\
-\
+:panda\_face: **panda** : ne fait rien (la flemme, tout simplement)
 
+:ghost:**fantôme**: jette une malédiction sur l'adversaire
 
-Les familiers 5 :star::star::star::star::star:\
-\
-:dragon: **dragon.ne** : brûle l'adversaire\
-:unicorn: **licorne** : soigne son propriétaire après une attaque magique\
-:t\_rex: **t-rex** : attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire\
-:blue\_circle: **stitch/angel** : attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire\
-:alien: **alien.ne** : rend l'adversaire confus\
-:duck: **canard écarlate/cane écarlate** : attaque sauvagement l'adversaire en fin de combat\
-:tropical\_fish: **poisson tropical** : protège son propriétaire du feu\
-:whale: **baleine** : avale l'adversaire\
-:sauropod: **diplodocus** : écrase l'adversaire\
-🐦‍🔥 **phénix** : soigne son propriétaire
+:jack\_o\_lantern:**jack-o-lantern**: son regard hypnotique pétrifie l'adversaire
+{% endtab %}
+
+{% tab title="5*" %}
+Les familiers 5 ⭐⭐⭐⭐⭐&#x20;
+
+:dragon:**dragon.ne**: brûle l'adversaire
+
+:unicorn:**licorne**: soigne son propriétaire après une attaque magique
+
+:t\_rex:**t-rex:** attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire&#x20;
+
+:blue\_circle:**stitch/angel**: attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire
+
+:alien: **alien.ne**: rend l'adversaire confus&#x20;
+
+🦆 **canard écarlate/cane écarlate**: attaque sauvagement l'adversaire en fin de combat&#x20;
+
+🐠 **poisson tropical**: protège son propriétaire du feu&#x20;
+
+🐳 **baleine**: avale l'adversaire&#x20;
+
+:sauropod: **diplodocus**: écrase l'adversaire&#x20;
+
+🐦‍🔥 **phénix**: soigne son propriétaire
+
+:vampire:**vampire**: soigne son adversaire à partir de l'énergie vitale de son adversaire,sa morsure fait saigner
 {% endtab %}
 {% endtabs %}

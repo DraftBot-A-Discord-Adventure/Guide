@@ -171,13 +171,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 > Un prédateur féroce et agile. Ses griffes acérées pourraient sceller votre destin. Le froid et les sentiers sinueux lui offrent un grand avantage face aux aventuriers imprudents.
 
-| Nom de l'attaque                 | Description                                                                                                                       | Consommation en souffle |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :tooth:Attaque morsure puissante | Une morsure qui applique l'altération saignement.                                                                                 | 6                       |
-| :face\_in\_clouds:Discrétion     | Se cache afin de doubler les dégâts de la prochaine attaque.                                                                      | 6                       |
-| 🌕Hurlement                      | Améliore aléatoirement l'attaque, la défense ou la vitesse.                                                                       | 1                       |
-| :feet:Attaque griffe             | Un violent coup de griffe. Échoue plus souvent face à un adversaire plus rapide.                                                  | 2                       |
-| :wolf:Appel à la meute           | Il appelle sa meute à l'aide. La première attaque fait de faible dégâts et les suivantes sont renforcés par la force de la meute. | 9                       |
+| Nom de l'attaque                 | Description                                                                                                                                              | Consommation en souffle |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :tooth:Attaque morsure puissante | Une morsure qui applique l'altération saignement.                                                                                                        | 6                       |
+| :face\_in\_clouds:Discrétion     | Niveau 40+ uniquement. Se cache afin de doubler les dégâts de la prochaine attaque.                                                                      | 6                       |
+| 🌕Hurlement                      | Améliore aléatoirement l'attaque, la défense ou la vitesse.                                                                                              | 1                       |
+| :feet:Attaque griffe             | Un violent coup de griffe. Échoue plus souvent face à un adversaire plus rapide.                                                                         | 2                       |
+| :wolf:Appel à la meute           | Niveau 80+ uniquement. Il appelle sa meute à l'aide. La première attaque fait de faible dégâts et les suivantes sont renforcés par la force de la meute. | 9                       |
 
 ### Caverne de cristal
 

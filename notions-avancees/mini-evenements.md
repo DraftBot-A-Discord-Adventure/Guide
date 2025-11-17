@@ -190,7 +190,11 @@ Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant.
 
 Il existe une multitude de phrases en fonction de la situation de la personne que vous croisez !
 
-Voilà la liste des caractéristiques qui peuvent être exploitées :
+<details>
+
+<summary>Voilà la liste des caractéristiques qui peuvent être exploitées :</summary>
+
+
 
 * Top 10
 * Top 50
@@ -218,6 +222,10 @@ Voilà la liste des caractéristiques qui peuvent être exploitées :
 * Altération d'état
 * Inventaire du joueur
 
+</details>
+
+
+
 <picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192003.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192013.png" alt="Un exemple d&#x27;interaction avec un autre joueur"></picture>
 
 ## Avancement du temps
@@ -232,7 +240,11 @@ Avance le temps de 10 à 50 minutes.
 
 **Rareté : 2**
 
-Raconte une information à propos du bot parmi celles-ci :
+Vous découvrirez une information à propos du bot.
+
+<details>
+
+<summary>Une liste des différentes informations possibles:</summary>
 
 * Moyenne des points totaux des joueurs
 * Moyenne des points durant la semaine
@@ -244,9 +256,13 @@ Raconte une information à propos du bot parmi celles-ci :
 * Nombre de familiers fielleux
 * Pourcentage de familiers femelles dans le jeu
 * Pourcentage de familiers mâles dans le jeu
-* Moyenne du niveau des guildes
+* Moyenne du niveau des guilde
 * Nombre de joueurs d'une classe
-* Nombre de joueurs voyageant sur notre chemin&#x20;
+* Nombre de joueurs voyageant sur votre chemin&#x20;
+
+</details>
+
+
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192421.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192409.png" alt=""></picture><figcaption><p>Exemple d'une information à propos du bot</p></figcaption></figure>
 
@@ -338,6 +354,10 @@ Ce mini-événement n'apparait pas autour de la Route des Merveilles, de la Rout
 
 Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 
+<details>
+
+<summary>Liste des membres qui possèdent leurs légendes:</summary>
+
 * Nysvaa
 * Thero1st
 * Oscar
@@ -366,6 +386,11 @@ Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 * aureochocob0n
 * BananePlantain
 * Ravenclaw
+* GabrieLre
+
+
+
+</details>
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192946.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192935.png" alt=""></picture><figcaption><p>Exemple de légende d'un staff</p></figcaption></figure>
 
@@ -373,13 +398,17 @@ Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 
 **Rareté : 3**
 
-Vous rencontrez un homme se disant être un oracle, il vous donnera une vraie information (hormis quelques détails, comme les noms) sur l'espace parmi celles-ci :
+<details>
+
+<summary>Vous rencontrez un homme se disant être un oracle, il vous donnera une vraie information (hormis quelques détails, comme les noms) sur l'espace parmi celles-ci: </summary>
 
 * Un objet se rapprochant de la Terre
 * Les phases de la Lune
 * La prochaine pleine Lune
 * La prochaine éclipse lunaire partielle
 * La prochaine éclipse lunaire totale
+
+</details>
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193031.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193040.png" alt=""></picture><figcaption><p>Exemple de rencontre avec l'oracle</p></figcaption></figure>
 
@@ -403,7 +432,7 @@ La guérisseuse ne se balade qu'autour de Claire De Ville.&#x20;
 
 **Rareté : 5**
 
-Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience de guilde dépendant de son niveau.
+Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience de guilde. La quantité d'expérience de guilde reçue dépend de son niveau.
 
 {% hint style="info" %}
 Vous n'obtiendrez ce mini-évènement que si vous faites partie d'une guilde qui n'est pas niveau 150.
@@ -449,14 +478,10 @@ Selon votre choix, vous pourrez :&#x20;
 * Ne rien avoir
 
 {% hint style="info" %}
-En réagissant avec :end:, l'action "Ne rien faire" se déclenche et il ne vous arrivera rien.
-{% endhint %}
-
-{% hint style="info" %}
 Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offrira à vous et vous pourrez soit ajouter un ingrédient soit faire une action.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193607.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193555.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193607.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193555.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière (en étant mage mystique)</p></figcaption></figure>
 
 ## Marchand ultime de nourriture
 
@@ -480,11 +505,15 @@ Ce mini-évènement vous donnera des informations sur les récompenses de votre 
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193840.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193830.png" alt=""></picture><figcaption><p>Exemple de mini-évènement d'informations sur les récompenses de ligue</p></figcaption></figure>
 
-## Voyage vers l'île du [PVE](iles-mysterieuses.md)
+{% hint style="info" %}
+Ce mini-évènement n'apparait plus le dimanche si vous avez déjà récupéré votre récompense de ligue.
+{% endhint %}
+
+## Voyage vers les [îles mystérieuses](iles-mysterieuses.md)
 
 **Rareté : 12 (si les conditions sont remplies)**
 
-Ce mini-évènement vous permet de voyager vers l'île du PVE, il ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué dans l'ordre suivant : Gratuit - 15 :gem: - 25 :gem:. Une fois 3 trajets effectués il ne vous est plus possible d'aller sur l'île, vous devrez attendre la semaine prochaine !
+Ce mini-évènement vous permet de voyager vers les îles mystérieuses, il ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué dans l'ordre suivant : Gratuit - 15 :gem: - 25 :gem:. Une fois 3 trajets effectués il ne vous est plus possible d'aller sur l'île, vous devrez attendre la semaine prochaine !
 
 {% hint style="warning" %}
 Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau !
@@ -538,6 +567,10 @@ Ce mini-événement n'apparaît qu'autour du Mont Célestrum.
 Ce mini-événement  vous fera rencontrer Sir Rowan, ancien capitaine de la garde royale.Il vous présentera les différentes attaques du jeu qu'elles soient humaines ou monstrueuses.
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 194650.png" alt=""></picture><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Sir Rowan a également une (infime) chance de vous indiquer si votre personnage est droitier ou gaucher.
+{% endhint %}
 
 ## L'homme étrange amoureux de sa ville
 

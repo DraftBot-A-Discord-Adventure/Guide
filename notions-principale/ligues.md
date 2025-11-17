@@ -11,7 +11,7 @@ Voici un tableau un peu plus explicatif :&#x20;
 Une saison se déroule du dimanche au samedi : durant celle-ci, les joueurs récupèrent ou perdent de la gloire au fur et à mesure des combats qu'ils font. Une fois la saison finie, les joueurs peuvent effectuer la commande `/bonusligue` le dimanche afin de recevoir leurs récompenses de fin de saison.
 
 {% hint style="warning" %}
-La commande `/bonusligue` n'est utilisable que si le joueur fait partie du classement de la saison terminée la veille du dimanche de l'exécution de la commande (donc en lançant `/classement gloire` avant la fin de ladite saison). Donc si vous n'obtenez rien du tout, c'est qu'il vous manquait encore des combats.
+La commande `/bonusligue` n'est utilisable que si le joueur à participé à la saison précédente. Si vous n'obtenez rien du tout, c'est qu'il vous manquait encore des combats (mais vous pouvez vous en assurer en faisant /classement glorieux).
 {% endhint %}
 
 ### Récompenses
@@ -24,4 +24,8 @@ Il y a 4 types de récompenses :&#x20;
 
 {% hint style="success" %}
 Si vous êtes situés en dessous du top 200, vous ne gagnerez pas de points.
+{% endhint %}
+
+{% hint style="info" %}
+Le gagnant de la saison reçoit également un [badge](../notions-avancees/badges.md) :sparkles:(s'il ne le possède pas encore).
 {% endhint %}

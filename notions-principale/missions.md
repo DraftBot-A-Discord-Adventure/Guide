@@ -10,11 +10,11 @@ Vous avez également la possibilité d'afficher les missions en cours d'un autre
 
 Il existe trois catégories de mission :
 
-* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il en existe 76 et leur difficulté évolue avec le joueur.
+* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il en existe 96 et leur difficulté évolue avec le joueur.
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
 * Les missions secondaires sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](https://guide.draftbot.com/notions-avancees/mini-evenements#trouver-une-mission).
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185858.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 185848.png" alt="Les missions d&#x27;un joueur visible via la commande /missons"></picture><figcaption><p>Affichage de la commande /missions</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/mission_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/missions_clair.png" alt="Les missions d&#x27;un joueur visible via la commande /missions"></picture><figcaption><p>Affichage de la commande /missions</p></figcaption></figure>
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
@@ -46,5 +46,5 @@ Celui-ci se divise en 3 catégories :
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190155.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190144.png" alt="Magasin de missions , visible grâce à la commande /magasinmissions"></picture><figcaption><p>Affiche du magasin de missions</p></figcaption></figure>
 
 {% hint style="info" %}
-Les gemmes peuvent être dépenser autrement ! Elles peuvent vous permettre de payer un trajet en bâteau pour rejoindre l'ile [iles-mysterieuses.md](../notions-avancees/iles-mysterieuses.md "mention").
+Les gemmes peuvent être dépensées autrement ! Elles peuvent vous permettre de payer un trajet en bateau vers les [iles-mysterieuses.md](../notions-avancees/iles-mysterieuses.md "mention").
 {% endhint %}
