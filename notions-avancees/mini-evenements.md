@@ -338,10 +338,6 @@ Vous devrez faire un choix entre ces trois gobelets qui vous donnera une des iss
 * Une altération qui dépend de votre niveau
 * Rien
 
-{% hint style="info" %}
-En réagissant avec :end:, l'action "Ne rien faire" se déclenche et vous perdez une quantité de vie dépendant de votre niveau.
-{% endhint %}
-
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192829.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192839.png" alt=""></picture><figcaption><p>Exemple du jeu de gobelets</p></figcaption></figure>
 
 {% hint style="info" %}
