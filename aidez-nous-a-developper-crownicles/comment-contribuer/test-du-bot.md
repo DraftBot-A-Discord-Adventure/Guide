@@ -4,7 +4,7 @@ Pour que l'expérience de jeu reste de bonne qualité, il est primordial que de 
 
 * Il engendre un grand nombre de mentions sur le serveur Discord.
 * Les candidatures sont à poser sur le questionnaire ci-dessous. (rassurez-vous, il y a très peu de critères pour y entrer :relaxed:)
-* Vous pouvez aussi ping `@DoctorT1807` sur [le serveur Discord](https://discord.com/invite/USnCxg4) afin d'obtenir des renseignements sur le rôle (le lien de celui-ci n'est jamais bien loin)...
+* Vous pouvez aussi ping `@DoctorT1807` sur [le serveur Discord](https://discord.com/invite/crownicles) afin d'obtenir des renseignements sur le rôle (le lien de celui-ci n'est jamais bien loin)...
 * Si le questionnaire ci-dessous ne s'affiche pas, voici [le lien de celui-ci](https://forms.gle/VZqGvTi6GnZrWbZYA).
 
 {% embed url="https://forms.gle/VZqGvTi6GnZrWbZYA" %}

@@ -1,6 +1,6 @@
 # Familiers
 
-Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de DraftBot, vous pouvez avoir un ou plusieurs **familiers**.
+Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de Crownicles, vous pouvez avoir un ou plusieurs **familiers**.
 
 Pour avoir les informations sur votre familier, vous devez utiliser la commande `/familier`.
 

@@ -20,9 +20,9 @@ La commande `!topguilde` a été supprimée et sera réintroduite dans une versi
 
 Les interfaces de combat et du profil ont été complètement réécrites. Pour vous donner un aperçu, voici l'interface du profil avant et après la v1.0.0.
 
-![Système de profil avant la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot\_\(48\).png/revision/latest/scale-to-width-down/617?cb=20200409185454\&path-prefix=fr)
+![Système de profil avant la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/2/29/Screenshot_\(48\).png/revision/latest/scale-to-width-down/617?cb=20200409185454\&path-prefix=fr)
 
-![Système de profil après la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot\_\(50\).png/revision/latest?cb=20200409190521\&path-prefix=fr)
+![Système de profil après la mise à jour](https://vignette.wikia.nocookie.net/draftbot/images/f/f7/Screenshot_\(50\).png/revision/latest?cb=20200409190521\&path-prefix=fr)
 
 ### Ajout des badges
 
@@ -32,6 +32,6 @@ Je vous invite à consulter la page du wiki dédiée aux [badges](../notions-ava
 
 La liste complète des nouveautés de cette mise à jour est disponible sur le site dédié aux historiques de mises à jour :
 
-{% embed url="https://history.draftbot.com/1.0.0" %}
+{% embed url="https://history.crownicles.com/crownicles-v1/1.0.0" %}
 Historique des nouveautés de la 1.0.0
 {% endembed %}

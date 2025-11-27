@@ -4,13 +4,13 @@ La rédaction du bot peut se faire sur GitHub mais il est très fortement consei
 
 Si vous souhaitez nous aider, vous pouvez donc rejoindre le serveur Discord ci-dessous et prendre le rôle "rédacteur" dans le salon `#infos-grades`.
 
-{% embed url="https://discord.gg/draftbot" %}
+{% embed url="https://discord.com/invite/crownicles" %}
 Le serveur discord
 {% endembed %}
 
 Vous pouvez aussi visiter le guide beaucoup plus complet qui vous initiera à tous les principes de la rédaction !
 
-{% embed url="https://rg.draftbot.com" %}
+{% embed url="https://rg.crownicles.com/" %}
 Le wiki pour la rédaction
 {% endembed %}
 

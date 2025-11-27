@@ -1,8 +1,8 @@
 # Rédaction / Traduction du guide
 
-Nous utilisons exclusivement [GitBook](https://www.gitbook.com) pour la rédaction du guide (les pull requests sur le dépôt github du guide ne seront pas prises en compte).
+Nous utilisons exclusivement [GitBook](https://app.gitbook.com/o/-MH1_FERaV0tsl55ERgC/s/-MH1fCvNZ7zikrWd7dJj-2584506019/) pour la rédaction du guide (les pull requests sur le dépôt github du guide ne seront pas prises en compte).
 
-Toutes les infos nécessaires sont accessibles via [le serveur Discord](https://discord.com/invite/WwgBfSg) du bot. Il vous faudra vous rendre dans le channel `#infos-grades` et demander le rôle `@Wiki`. Ceci vous permettra d'accéder au channel `#wiki` où sont échangées toutes les informations relatives au guide et à sa rédaction.
+Toutes les infos nécessaires sont accessibles via [le serveur Discord](https://discord.com/invite/crownicles) du bot. Il vous faudra vous rendre dans le channel `#infos-grades` et demander le rôle `@Wiki`. Ceci vous permettra d'accéder au channel `#wiki` où sont échangées toutes les informations relatives au guide et à sa rédaction.
 
 Le lien permettant d'accéder au projet GitBook et de commencer à proposer vos améliorations est épinglé dans le channel `#wiki`.
 
@@ -10,7 +10,7 @@ Le lien permettant d'accéder au projet GitBook et de commencer à proposer vos 
 
 Une fois l'accès au projet GitBook obtenu, commencez par cliquer sur le bouton Edit (en haut à droite) pour créer une change request :
 
-![Le bouton Edit permettant de créer une change request](<../../.gitbook/assets/image (71).png>)
+<div align="center"><img src="../../.gitbook/assets/change_request.png" alt="Le bouton Edit permettant de créer une change request"></div>
 
 Donnez ensuite un nom à votre change request :
 
@@ -32,4 +32,4 @@ Si besoin, la documentation complète de l'outil GitBook est accessible à l'adr
 
 ### Traduction du guide
 
-Pour la traduction, rien de plus simple ! Il suffit de faire exactement comme pour la rédaction mais en cliquant sur le wiki [english](https://app.gitbook.com/o/-MH1\_FERaV0tsl55ERgC/s/-MH1fCvNZ7zikrWd7dJj-1972196547/) !
+Pour la traduction, rien de plus simple ! Il suffit de faire exactement comme pour la rédaction mais en cliquant sur le wiki [english](https://app.gitbook.com/o/-MH1_FERaV0tsl55ERgC/s/-MH1fCvNZ7zikrWd7dJj-1972196547/) !

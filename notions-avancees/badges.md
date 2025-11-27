@@ -52,4 +52,4 @@ Le gérant des badges est`qqtin`.
 
 Une fois un badge débloqué, celui-ci s'affiche sur votre [profil](../notions-principale/profile.md).
 
-Certains badges ne sont plus disponibles depuis la version 1.0 de DraftBot. Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
+Certains badges ne sont plus disponibles depuis la version 1.0 de Crownicles. Les joueurs qui arborent ces badges sont donc considérés comme les plus anciens et les plus loyaux de la communauté !
