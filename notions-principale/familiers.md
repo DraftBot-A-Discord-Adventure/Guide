@@ -4,7 +4,7 @@ Depuis la version [2.1.2](https://history.draftbot.com/draftbot-v2/2.1.2) de Cro
 
 Pour avoir les informations sur votre familier, vous devez utiliser la commande `/familier`.
 
-Il y a 5 niveaux de **rareté** de familiers, ceux-ci sont représentés par des étoiles :star: :star: :star: :star: :star:.
+Les niveaux de **rareté** de familiers sont les mêmes que pour les équipements (de commun à mythique).
 
 Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier leur moral augmentera. A contrario, si vous délaissez vos familiers leur moral diminuera.
 
@@ -14,20 +14,20 @@ Les familiers s'obtiennent dans les récompenses de guilde `/bonusjournalierguil
 
 La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
-|                               |         |          |          |          |          |
-| ----------------------------- | ------- | -------- | -------- | -------- | -------- |
-| Niveau guilde/rareté familier | 1:star: | 2 :star: | 3 :star: | 4 :star: | 5 :star: |
-| 0-9                           | 90%     | 9%       | 0.9%     | 0.09%    | 0.01%    |
-| 10-19                         | 89.4%   | 9.16%    | 1.091%   | 0.23%    | 0.119%   |
-| 20-29                         | 87.6%   | 9.64%    | 1.664%   | 0.65%    | 0.446%   |
-| 30-39                         | 84.6%   | 10.44%   | 2.619%   | 1.35%    | 0.991%   |
-| 40-49                         | 80.4%   | 11.56%   | 3.956%   | 2.33%    | 1.754%   |
-| 50-59                         | 75%     | 13%      | 5.675%   | 3.59%    | 2.735%   |
-| 60-69                         | 68.4%   | 14.76%   | 7.776%   | 5.13%    | 3.934%   |
-| 70-79                         | 60.6%   | 16.84%   | 10.259%  | 6.9499%  | 5.3511%  |
-| 80-89                         | 51.6%   | 19.24%   | 13.124%  | 9.0499%  | 6.9861%  |
-| 90-99                         | 41.4%   | 21.96%   | 16.371%  | 11.4299% | 8.8391%  |
-| 100-150                       | 30%     | 25%      | 20%      | 14.0899% | 10.9101% |
+|                               |                                 |                   |                    |               |                 |               |                    |                |
+| ----------------------------- | ------------------------------- | ----------------- | ------------------ | ------------- | --------------- | ------------- | ------------------ | -------------- |
+| Niveau guilde/rareté familier | Commun :large\_orange\_diamond: | Peu commun :fire: | Exotique :trident: | Rare :comet:  | Spécial :dizzy: | Épique :star: | Légendaire :star2: | Mythique :gem: |
+| 0-9                           |                                 |                   |                    |               |                 |               |                    |                |
+| 10-19                         |                                 |                   |                    |               |                 |               |                    |                |
+| 20-29                         |                                 |                   |                    |               |                 |               |                    |                |
+| 30-39                         |                                 |                   |                    |               |                 |               |                    |                |
+| 40-49                         |                                 |                   |                    |               |                 |               |                    |                |
+| 50-59                         |                                 |                   |                    |               |                 |               |                    |                |
+| 60-69                         |                                 |                   |                    |               |                 |               |                    |                |
+| 70-79                         |                                 |                   |                    |               |                 |               |                    |                |
+| 80-89                         |                                 |                   |                    |               |                 |               |                    |                |
+| 90-99                         |                                 |                   |                    |               |                 |               |                    |                |
+| 100-150                       |                                 |                   |                    |               |                 |               |                    |                |
 
 {% hint style="info" %}
 Si un familier est obtenu dans un mini-évènement, sa rareté est générée avec les statistiques des guildes de niveau 20.
@@ -98,11 +98,7 @@ Il existe pour le moment 5 niveaux de moral qui correspondent à la mentalité d
 2. :pouting\_cat: Sauvage (entre 5 et 24 points d'affection)
 3. :scream\_cat: Craintif (entre 25 et 49 points d'affection)
 4. :smiley\_cat: Apprivoisé (entre 50 et 99 points d'affection)
-5. :heart\_eyes\_cat: Dressé (100 points d'affection)
-
-{% hint style="info" %}
-Les animaux dressés ne perdent plus de moral et n'ont donc pas besoin d'être nourris pour être aimés (mais vous pouvez le faire quand même).
-{% endhint %}
+5. :heart\_eyes\_cat: Dressé (entre 100 et 110 points d'affection)
 
 {% hint style="danger" %}
 Il n'est pas possible d'effectuer certaines actions avec un familier fielleux !

@@ -12,7 +12,7 @@ La rareté maximale actuelle est de 12 (très fréquent) !
 Info supplémentaire :  Pour le coté technique, la sélection aléatoire des mini-évènements se déroule ainsi : Toutes les raretés de tous les mini-évènements sont additionnées, puis un nombre aléatoire entre 0 et le résultat est choisi aléatoirement, puis dans un ordre précis on soustrait à ce nombre la rareté de différents mini-évènements, et celui qui le fait atteindre 0 est choisi.
 {% endhint %}
 
-## Mini-shop
+## Marchand ambulant
 
 **Rareté :** **4**
 
@@ -22,7 +22,7 @@ Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possib
 Attention, une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 5 fois plus cher !
 {% endhint %}
 
-<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191024.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191037.png" alt="Un exemple de mini-shop"></picture>
+<picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191024.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191037.png" alt="Un exemple de marchand ambulant"></picture>
 
 ## Interaction avec un familier
 

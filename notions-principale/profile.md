@@ -12,7 +12,7 @@ Vous pouvez aussi voir le profil d'un autre joueur grâce à son classement via 
 
 Le profil d'un joueur se décompose donc de cette façon :
 
-<figure><picture><source srcset="../.gitbook/assets/profil_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/profil_clair.png" alt="Profil du joueur Yuno"></picture><figcaption><p>Profil d'un joueur</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/profil_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/profil_clair (1).png" alt="Profil du joueur Yuno"></picture><figcaption><p>Profil d'un joueur</p></figcaption></figure>
 
 ### Informations
 
@@ -21,6 +21,7 @@ Ce sont les informations générales de votre personnage.
 * :heart: Points de vie
 * :star: Points d'expérience
 * :moneybag: Argent
+* :coin: Jetons
 
 ### Statistiques
 
@@ -49,9 +50,9 @@ Pour plus d'informations voir [monter-dans-les-classements.md](../notions-avance
 
 Cette ligne affiche le statut actuel du joueur. Si vous avez une [altération d'état](alterations-detat.md) active, le temps restant avant la fin de celle-ci sera affiché, précédé d'un émoji relatif à l'altération en question.
 
-### Classe et guilde
+### Classe
 
-Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personnage ainsi que de créer ou rejoindre une [guilde](guildes.md). Ces deux informations sont visibles depuis cet espace de votre profil.
+Vous avez la possibilité de choisir une [classe](classes.md) pour votre personnage.
 
 ### Gloire et Ligue
 
@@ -63,14 +64,18 @@ Vous avez la possibilité de choisir une [classe ](classes.md)pour votre personn
 La couleur de l'embed indique aussi votre ligue actuelle !
 {% endhint %}
 
+### Guilde
+
+Vous pouvez créer ou rejoindre une [guilde](guildes.md).
+
 ### Destination
 
 C'est l'endroit où vous dirigez sur la carte.
 
-### [Familiers](familiers.md)
+### [Familier](familiers.md)
 
 Un animal qui vous accompagne dans votre aventure.
 
 ### Badges
 
-Pour finir, le bot ajoutera en réaction de votre profil des émojis correspondants aux [badges ](../notions-avancees/badges.md)que vous avez acquis durant votre aventure.
+Pour finir, le bot ajoutera en réaction de votre profil des émojis correspondants aux [badges](../notions-avancees/badges.md) que vous avez acquis durant votre aventure.

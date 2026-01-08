@@ -90,12 +90,12 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 > Le Mutant Vaseux est un monstre pouvant copier les autres monstres ou son adversaire directement. Il est très polyvalent et peut s'adapter à toutes les situations.
 
-| Nom de l'attaque                          | Description                                                                                                                                                                                                      | Consommation en souffle |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :performing\_arts:Attaque mimique magique | <p>Niveau 60+ uniquement. </p><p>Fonctionne comme une <a href="iles-mysterieuses.md#combats">attaque simple</a> en temps normal sauf si l'adversaire lance une attaque magique, celle-ci se verra répliquer.</p> | 3                       |
-| :test\_tube:Attaque empoisonnée           | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                              | 3                       |
-| :farmer:Attaque tir de boue               | Lance de la boue sur l'adversaire qui le rend sale et augmente de 5% son attaque, l'altération a 20% de chances de disparaître à chaque tour.                                                                    | 5                       |
-| :amphora: Attaque boue brûlante           | Attaque puissante si l'adversaire est sali ! Sinon dégâts classiques.                                                                                                                                            | 9                       |
+| Nom de l'attaque                          | Description                                                                                                                                                                                                                                          | Consommation en souffle |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :performing\_arts:Attaque mimique magique | <p>Niveau 60+ uniquement. </p><p>Fonctionne comme une <a href="../notions-principale/combats.md#detail-des-differentes-attaques">attaque simple</a> en temps normal sauf si l'adversaire lance une attaque magique, celle-ci se verra répliquer.</p> | 3                       |
+| :test\_tube:Attaque empoisonnée           | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                                                                  | 3                       |
+| :farmer:Attaque tir de boue               | Lance de la boue sur l'adversaire qui le rend sale et augmente de 5% son attaque, l'altération a 20% de chances de disparaître à chaque tour.                                                                                                        | 5                       |
+| :amphora: Attaque boue brûlante           | Attaque puissante si l'adversaire est sali ! Sinon dégâts classiques.                                                                                                                                                                                | 9                       |
 
 ### Mine brumeuse
 
@@ -137,13 +137,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 **Attaques**:
 
-| Nom de l'attaque             | Description                                                                                                                                     | Consommation en souffle |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :rock: Attaque rocheuse      | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                            | 6                       |
-| :foot: Attaque impact        | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                 | 6                       |
-| :bricks: Peau de roche       | Recouvre sa peau de roches, augmentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.                        | 3                       |
-| :mountain: Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
-| :headstone: Pétrification    | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
+| Nom de l'attaque             | Description                                                                                                                           | Consommation en souffle |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :rock: Attaque rocheuse      | Lance des rochers sur l'adversaire. Peut l'étourdir.                                                                                  | 6                       |
+| :foot: Attaque impact        | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                       | 6                       |
+| :bricks: Peau de roche       | Recouvre sa peau de roches, augmentant sa défense considérablement si cette attaque est lancée plusieurs fois d'affilée.              | 3                       |
+| :mountain: Bouclier de roche | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                          | 2                       |
+| :headstone: Pétrification    | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en doublant sa défense. | 8                       |
 
 ### Volcan grondant
 
@@ -185,13 +185,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 > Un être né des cristaux de la caverne. Il n'hésitera pas à utiliser ses pouvoirs élémentaires pour vous faire valser à l'autre bout du chemin.
 
-| Nom de l'attaque                | Description                                                                                                                                     | Consommation en souffle |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| 🪦 Pétrification                | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en augmentant sa défense de 200%. | 8                       |
-| 🪡Attaque perçante              | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                    | 5                       |
-| ⛰️ Bouclier de roche            | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                                    | 2                       |
-| :sunny:Attaque rayon de lumière | Un rayon de lumière si puissant qu'il peut vous brûler ou vous aveugler.                                                                        | 7                       |
-| 🔮Attaque éclat de cristal      | Niveau 90+. Une attaque qui inflige plus de dégâts aux adversaires lents.                                                                       | 3                       |
+| Nom de l'attaque                | Description                                                                                                                           | Consommation en souffle |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| 🪦 Pétrification                | Niveau 50+ uniquement. Transforme l'adversaire en pierre et l'empêche d'attaquer pendant quelques tours, mais en doublant sa défense. | 8                       |
+| 🪡Attaque perçante              | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                          | 5                       |
+| ⛰️ Bouclier de roche            | Crée un bouclier avec des rochers, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire.                          | 2                       |
+| :sunny:Attaque rayon de lumière | Un rayon de lumière si puissant qu'il peut vous brûler ou vous aveugler.                                                              | 7                       |
+| 🔮Attaque éclat de cristal      | Niveau 90+. Une attaque qui inflige plus de dégâts aux adversaires lents.                                                             | 3                       |
 
 ### Lac souterrain
 
