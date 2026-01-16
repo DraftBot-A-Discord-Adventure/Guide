@@ -79,7 +79,7 @@ Les valeurs exprimées dans le tableau ci-dessous sont les pourcentages de proba
 | 150                 | 40              | 0                    | 30                     | 10                          | 5           | 1                             | 10                  | 1                      | 1                            | 2                               |
 
 {% hint style="danger" %}
-Le badge guilde très puissante :mirror\_ball: ne dépend pas uniquement du niveau de la guilde mais également de son classement. Pour plus de détails, se référer à [Badges](../notions-avancees/badges.md) ou [PVE](../notions-avancees/iles-mysterieuses.md).
+Le badge guilde très puissante :mirror\_ball: ne dépend pas uniquement du niveau de la guilde mais également de son classement. Pour plus de détails, se référer à [Badges](../notions-avancees/badges.md) ou [Îles mystérieuses](../notions-avancees/iles-mysterieuses.md#classement-des-guildes).
 {% endhint %}
 
 {% hint style="info" %}
