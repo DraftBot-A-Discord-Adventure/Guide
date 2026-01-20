@@ -4,10 +4,6 @@ Il existe actuellement plusieurs types de mini-évènement dans le bot. Voici qu
 
 Plus la valeur de la rareté d'un mini-évènement est élevée, plus celui-ci est fréquent.
 
-{% hint style="success" %}
-La rareté maximale actuelle est de 12 (très fréquent) !
-{% endhint %}
-
 {% hint style="info" %}
 Info supplémentaire :  Pour le coté technique, la sélection aléatoire des mini-évènements se déroule ainsi : Toutes les raretés de tous les mini-évènements sont additionnées, puis un nombre aléatoire entre 0 et le résultat est choisi aléatoirement, puis dans un ordre précis on soustrait à ce nombre la rareté de différents mini-évènements, et celui qui le fait atteindre 0 est choisi.
 {% endhint %}
@@ -26,25 +22,27 @@ Attention, une faible proportion de vendeurs sont des arnaqueurs et tenteront de
 
 ## Interaction avec un familier
 
-**Rareté : 10** - Nécessite d'avoir un familier équipé pour apparaître.
+**Rareté : 7** - Nécessite d'avoir un familier équipé pour apparaître.
 
-Réalise une interaction entre le propriétaire d'un familier et son familier. Ce mini-évènement peut être positif ou négatif en fonction de l'affection du familier. Les familiers plus rares permettent d'obtenir de meilleures récompenses.
+Réalise une interaction entre le propriétaire d'un familier et son familier. Ce mini-évènement peut être positif ou négatif en fonction de l'affection du familier.&#x20;
 
-| Récompense                 | Nombre d'étoiles du familier | Probabilité |
-| -------------------------- | ---------------------------- | ----------- |
-| Argent (20 à 70)           | 3                            | Élevée      |
-| Nourriture                 | 1                            | Moyenne     |
-| Item                       | 5                            | Faible      |
-| Points de vie (1 à 5)      | 4                            | Moyenne     |
-| Rien ne se passe           | 1                            | Très élevée |
-| Un peu d'affection (1 à 3) | 2                            | Moyenne     |
-| Temps (5 à 20 minutes)     | 3                            | Faible      |
-| Points bonus (20 à 70)     | 1                            | Moyenne     |
-| Badge                      | 6                            | Très faible |
-| Énergie (10 à 250)         | 1                            | Élevée      |
+Les gains sont dus à la vigueur du familier, un nombre entre 1 et 6 qui dépend de la force et de l'amour de l'animal. Les familiers plus forts et aimants permettent d'obtenir de meilleures récompenses !
+
+| Récompense                 | Vigueur du familier | Probabilité |
+| -------------------------- | ------------------- | ----------- |
+| Rien ne se passe           | 1                   | Très élevée |
+| Nourriture                 | 1                   | Moyenne     |
+| Points bonus (20 à 70)     | 1                   | Moyenne     |
+| Énergie (10 à 250)         | 1                   | Élevée      |
+| Un peu d'affection (1 à 3) | 2                   | Moyenne     |
+| Argent (20 à 70)           | 3                   | Élevée      |
+| Temps (5 à 20 minutes)     | 3                   | Faible      |
+| Points de vie (1 à 5)      | 4                   | Moyenne     |
+| Item                       | 5                   | Faible      |
+| Badge                      | 6                   | Très faible |
 
 {% hint style="success" %}
-Si un familier est dressé, il compte dans le calcul des récompenses accessibles comme ayant une étoile en plus.
+
 {% endhint %}
 
 Si le familier est fielleux, il ne vous apportera que des malus:
@@ -88,7 +86,7 @@ Le joueur découvre un équipement aléatoire. Il n'est pas possible d'obtenir d
 
 ## Rien ne se passe
 
-**Rareté : 8**&#x20;
+**Rareté : 6**&#x20;
 
 Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur.
 
@@ -96,7 +94,7 @@ Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur
 
 ## Petit malheur
 
-**Rareté : 8**
+**Rareté : 6**
 
 Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent à de petits malus.
 
@@ -184,7 +182,7 @@ Vous devez avoir au moins 175 d'argent pour tenter votre chance à la loterie. S
 
 ## Interaction avec un joueur sur le même trajet
 
-**Rareté : 12**
+**Rareté : 10**
 
 Il est possible de rencontrer d'autres joueurs sur le même trajet en voyageant. Ce mini-évènement permet de discuter avec un joueur que vous croisez, que vous suivez ou que vous précédez !
 
@@ -304,7 +302,7 @@ Vous gagnez une récompense qui dépend de votre classe.
 
 ## Trouver une mission
 
-**Rareté : 6**
+**Rareté : 9**
 
 Vous obtenez une mission secondaire.
 
@@ -326,29 +324,30 @@ Vous trouvez une potion aléatoire.
 
 **Rareté : 2**
 
-Un homme suspect s'approche de vous et vous fait participer à un jeu composé de trois gobelets :&#x20;
-
-* Gobelet en métal :dragon\_face:
-* Grand gobelet :bucket:
-* Gobelet scintillant sculpté dans un bois bleu :sparkles:
-
-Vous devrez faire un choix entre ces trois gobelets qui vous donnera une des issues suivantes :&#x20;
+Un homme suspect s'approche de vous et vous fait participer à un jeu. Vous devrez faire un choix entre quatre gobelets qui vous donnera une des issues suivantes :&#x20;
 
 * Perdre une quantité de vie dépendant de votre niveau
 * Une altération qui dépend de votre niveau
 * Rien
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192829.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192839.png" alt=""></picture><figcaption><p>Exemple du jeu de gobelets</p></figcaption></figure>
+Vous aurez donc le choix entre ces 4 gobelets :&#x20;
+
+* Un gobelet en métal :dragon\_face:, équilibré. Chaque issue est équiprobable.
+* Un grand gobelet :bucket:, peu risqué. Les malus sont constants mais réduits.
+* Un gobelet scintillant :sparkles:
+* Un gobelet fissuré :skull:, dont les malus sont rares mais bien plus dévastateurs.
+
+<figure><img src="../.gitbook/assets/goblets small event.pnj.webp" alt=""><figcaption><p>Exemple du jeu des gobelets</p></figcaption></figure>
 
 {% hint style="info" %}
 Ce mini-événement n'apparait pas autour de la Route des Merveilles, de la Route Marécageuse et du mont Célestrum.
 {% endhint %}
 
-## Membres du staff
+## Membres d
 
 **Rareté : 1**
 
-Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
+Ce mini-évènement vous contera une histoire à propos d'un membre d.
 
 <details>
 
@@ -396,7 +395,7 @@ Ce mini-évènement vous contera une histoire à propos d'un membre du staff.
 
 <details>
 
-<summary>Vous rencontrez un homme se disant être un oracle, il vous donnera une vraie information (hormis quelques détails, comme les noms) sur l'espace parmi celles-ci: </summary>
+<summary>Vous rencontrez un homme se disant être un oracle, il vous donnera une vraie information (hormis quelques détails, comme les noms) sur l'espace.</summary>
 
 * Un objet se rapprochant de la Terre
 * Les phases de la Lune
@@ -507,12 +506,12 @@ Ce mini-évènement n'apparait plus le dimanche si vous avez déjà récupéré 
 
 ## Voyage vers les [îles mystérieuses](iles-mysterieuses.md)
 
-**Rareté : 12 (si les conditions sont remplies)**
+**Rareté : 40 (si les conditions sont remplies)**
 
-Ce mini-évènement vous permet de voyager vers les îles mystérieuses, il ne se déclenche que si vous êtes à 80% minimum de votre énergie maximale et son prix augmente à chaque trajet effectué dans l'ordre suivant : Gratuit - 15 :gem: - 25 :gem:. Une fois 3 trajets effectués il ne vous est plus possible d'aller sur l'île, vous devrez attendre la semaine prochaine !
+Ce mini-évènement vous permet de voyager vers les îles mystérieuses, il ne se déclenche que si vous êtes à 80% minimum de votre énergie ⚡️ maximale et son prix augmente à chaque trajet effectué dans l'ordre suivant : Gratuit - 15 :gem: - 25 :gem:. Une fois 3 trajets effectués, ou si vous venez de rejoindre une guilde, il ne vous est plus possible d'aller sur l'île, vous devrez attendre la semaine suivante !
 
 {% hint style="warning" %}
-Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau !
+Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau, une seule fois par trajet !
 {% endhint %}
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193928.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193938.png" alt=""></picture><figcaption><p>et c'est parti !</p></figcaption></figure>
@@ -533,7 +532,7 @@ Voyager sur le chemin de la :motorway: **Route des merveilles** réduira consid�
 
 ## Une charrette rapide
 
-**Rareté : 1**
+**Rareté : 2**
 
 Ce mini-événement vous fera rencontrer un individu mystérieux qui vous proposera une destination connue ou non selon les critères suivants:&#x20;
 
