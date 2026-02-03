@@ -41,10 +41,6 @@ Les gains sont dus à la vigueur du familier, un nombre entre 1 et 6 qui dépend
 | Item                       | 5                   | Faible      |
 | Badge                      | 6                   | Très faible |
 
-{% hint style="success" %}
-
-{% endhint %}
-
 Si le familier est fielleux, il ne vous apportera que des malus:
 
 | Malus                           | Probabilité |
@@ -69,10 +65,10 @@ S'il n'y a plus de place dans le refuge de la guilde du joueur et que ce dernier
 
 Voilà les probabilités d'obtention de chaque rareté de familiers :
 
-|          |          |         |         |         |
-| -------- | -------- | ------- | ------- | ------- |
-| 1 :star: | 2 :star: | 3:star: | 4:star: | 5:star: |
-| 87.6%    | 9.64%    | 1.664%  | 0.65%   | 0.446%  |
+|                                 |                   |                    |             |                |               |                    |                |
+| ------------------------------- | ----------------- | ------------------ | ----------- | -------------- | ------------- | ------------------ | -------------- |
+| Commun :large\_orange\_diamond: | Peu commun :fire: | Exotique :trident: | Rare:comet: | Spécial:dizzy: | Épique :star: | Légendaire :star2: | Mythique :gem: |
+| 43,75%                          | 25%               | 15%                | 10%         | 5%             | 1%            | 0,23%              | 0,02%          |
 
 <picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191320.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191334.png" alt="Un exemple de rapport où le joueur trouve un familier."></picture>
 
@@ -98,11 +94,12 @@ Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur
 
 Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent à de petits malus.
 
-| Malus                    | Effet                        |
-| ------------------------ | ---------------------------- |
-| Perte de vie             | 1 à 5 points de vie perdus   |
-| Perte d'argent           | 10 à 50 d'argent perdus      |
-| Perte de temps aléatoire | 5 minutes à 2 heures perdues |
+| Malus                    | Effet                                     |
+| ------------------------ | ----------------------------------------- |
+| Perte de vie             | 1 à 5 points de vie perdus                |
+| Perte d'argent           | 10 à 50 d'argent perdus                   |
+| Perte de temps aléatoire | 5 minutes à 2 heures perdues              |
+| Altération endormi       | L'altération endormi a une durée variable |
 
 <picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191648.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191637.png" alt="Un exemple de petit malheur"></picture>
 
@@ -343,11 +340,11 @@ Vous aurez donc le choix entre ces 4 gobelets :&#x20;
 Ce mini-événement n'apparait pas autour de la Route des Merveilles, de la Route Marécageuse et du mont Célestrum.
 {% endhint %}
 
-## Membres d
+## Membres de l'équipe
 
 **Rareté : 1**
 
-Ce mini-évènement vous contera une histoire à propos d'un membre d.
+Ce mini-évènement vous contera une histoire à propos d'un membre de l'équipe du jeu.
 
 <details>
 
@@ -547,7 +544,7 @@ Ce mini-événement vous fera rencontrer un individu mystérieux qui vous propos
 
 **Rareté: 5**
 
-Ce mini-événement vous fera rencontrer Talvar, un nain amoureux de la cause animale. Il vous récompensera avec une gemme à chaque nouvelle espèce que vous lui présenterait  si votre animal n'est pas fielleux (sinon il vous réprimandera vertement ) . Une fois toutes les espèces répertoriés (mâle ou femelle n'a pas d'importance), vous gagnerez en signe de profond respect le [badge](badges.md) :feet: (et de l'argent si vous l'avez déjà) .
+Ce mini-événement vous fera rencontrer Talvar, un nain amoureux de la cause animale. Il vous récompensera avec une gemme à chaque nouvelle espèce que vous lui présenterait si votre animal n'est pas fielleux (sinon il vous réprimandera vertement). Une fois toutes les espèces répertoriés (mâle ou femelle n'a pas d'importance), vous gagnerez en signe de profond respect le [badge](badges.md) :feet: (et de l'argent si vous l'avez déjà) .
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-22 120719.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-22 120730.png" alt=""></picture><figcaption><p>On raconte que son amour des animaux est aussi immense que sa richesse.</p></figcaption></figure>
 
@@ -569,10 +566,38 @@ Sir Rowan a également une (infime) chance de vous indiquer si votre personnage 
 
 ## L'homme étrange amoureux de sa ville
 
-Rareté : 2
+**Rareté : 2**
 
 Ce mini-événement vous fera rencontrer un conteur passionné par une cité lointaine. Il vous interrogera sur l’intérêt que vous portez à cette ville. Vos réponses détermineront s’il vous récompense ou non.
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 175955.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 180321.png" alt=""></picture><figcaption></figcaption></figure>
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 180038.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-10-08 180405.png" alt=""></picture><figcaption><p>Exemple de récompenses obtenues selon vos réponses.</p></figcaption></figure>
+
+## Le familier trouve de la nourriture
+
+**Rareté : 5 -** Nécessite d'avoir un familier équipé pour apparaître.
+
+Lors de ce mini-événement votre familier peut trouver de la nourriture.
+
+{% hint style="info" %}
+Vous n'obtiendrez ce mini-évènement que si votre familier n'a pas été nourri récemment.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_petfood_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_petfood_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
+## Malheur pour votre familier
+
+**Rareté : 4 -** Nécessite d'avoir un familier équipé pour apparaître.
+
+Ce mini-événement vous fera rencontrer Moltiar, un nain qui possède une haine profonde des animaux. Prenez garde à lui, il pourrait s'en prendre à votre familier !
+
+<figure><picture><source srcset="../.gitbook/assets/SE_badpet_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_badpet_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
+## Conseils sur les expéditions
+
+**Rareté : 4**
+
+Ce mini-événement vous fera rencontrer Velanna, une puissante guerrière, qui vous donnera des conseils sur les expéditions de familier.
+
+<figure><picture><source srcset="../.gitbook/assets/SE_expeditionadvice_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_expeditionadvice_clair.png" alt=""></picture><figcaption></figcaption></figure>

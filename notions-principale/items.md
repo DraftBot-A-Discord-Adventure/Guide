@@ -24,7 +24,7 @@ La valeur des équipements est calculée principalement en fonction de leur rare
 
 Il en va de même pour leur puissance. Cependant, la puissance d'un équipement peut être limitée par la puissance d'un joueur. Par exemple, un joueur ayant très peu d'attaque ne sera pas en capacité de profiter de toutes les capacités d'une arme très puissante. Cette limitation sera affichée pour le joueur dans son inventaire.&#x20;
 
-<picture><source srcset="../.gitbook/assets/inventaire_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/inventaire_clair (1).png" alt="Ce joueur ne dispose pas de suffisamment d&#x27;attaque pour utiliser la pleine puissance de son arme."></picture>
+<picture><source srcset="../.gitbook/assets/inventaire_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/inventaire_clair (2).png" alt="Ce joueur ne dispose pas de suffisamment de défense pour utiliser la pleine puissance de son armure."></picture>
 
 ## Liste des équipements
 

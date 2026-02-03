@@ -10,16 +10,17 @@ Vous avez également la possibilité d'afficher l'inventaire d'un autre joueur. 
 
 
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190321.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-090139.png" alt="Inventaire d&#x27;un joueur , visible via la commande /inventaire"></picture><figcaption><p>Un exemple d'inventaire d'un joueur</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/inventaire_artefacts_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/inventaire_artefacts_clair.png" alt="Inventaire d&#x27;un joueur, visible via la commande /inventaire"></picture><figcaption><p>Un exemple d'inventaire d'un joueur</p></figcaption></figure>
 
 L'inventaire se décompose en deux parties distinctes, la première est dédiée aux objets équipés par le joueur, la seconde, quant à elle, est une réserve permettant de stocker un ou plusieurs équipements supplémentaires.
 
-La première partie de l'inventaire est partagée en **4 éléments** :
+La première partie de l'inventaire est partagée comme suit:
 
 * L'emplacement d'arme
 * L'emplacement d'armure ou de bouclier
 * L'emplacement de la potion
 * L'emplacement de l'objet actif
+* L'emplacement des artefacts
 
 La seconde partie de l'inventaire sert à **stocker des équipements supplémentaires** que vous pourrez échanger avec vos équipements actifs en fonction de vos besoins.
 
