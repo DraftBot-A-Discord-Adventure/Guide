@@ -597,6 +597,8 @@ Ce mini-événement vous fera rencontrer Moltiar, un nain qui possède une haine
 
 <figure><picture><source srcset="../.gitbook/assets/SE_badpet_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_badpet_clair.png" alt=""></picture><figcaption></figcaption></figure>
 
+{% include "../.gitbook/includes/les-differents-choix-contre-moltiar.md" %}
+
 ## Conseils sur les expéditions
 
 **Rareté : 4**
