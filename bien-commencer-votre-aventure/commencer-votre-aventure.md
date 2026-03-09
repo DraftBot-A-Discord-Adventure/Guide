@@ -8,7 +8,7 @@ description: Un petit guide pas à pas pour débuter votre aventure.
 
 Le plus simple sera de rejoindre le serveur Discord du bot ! Pour cela, utilisez ce lien :
 
-{% embed url="https://discord.com/invite/crownicles" %}
+{% embed url="https://discord.com/invite/AP3Wmzb" %}
 
 {% hint style="info" %}
 Il est aussi possible d'inviter le bot sur votre serveur ! (le lien d'invitation se trouve sur le Discord du bot)&#x20;

@@ -1,6 +1,6 @@
 # Classes
 
-&#x20;Depuis la  version [**2.1.0** ](https://history.draftbot.com/draftbot-v2/2.1.0)de Crownicles vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 4**. La classe par défaut pour l'ensemble des joueurs est **Recrue**.
+&#x20;Depuis la  version [**2.1.0**](https://history.crownicles.com/crownicles-v2/2.1.0) de Crownicles vous avez la possibilité de choisir une classe pour votre personnage une fois que vous avez atteint le **niveau 4**. La classe par défaut pour l'ensemble des joueurs est **Recrue**.
 
 ### Comment choisir une classe ?
 
@@ -33,13 +33,14 @@ Pour changer de classe, et à condition que votre personnage soit au moins nivea
 {% hint style="danger" %}
 Afin d'éviter de nombreux changements de classe, un délai minimum est imposé entre deux changements :
 
-* Paliers 1 et 2 : 2 semaines
-* Paliers 3, 4 et 5 : 4 semaines.
+* Paliers 1 et 2 : 1 semaine
+* Paliers 3 et 4 : 2 semaines
+* Palier 5 : 3 semaines.
 {% endhint %}
 
 ### Statistiques des classes
 
-Une commande a été ajoutée depuis la version [2.1.1](https://history.draftbot.com/draftbot-v2/2.1.1) de Crownicles pour connaître les différentes statistiques des classes.
+Une commande a été ajoutée depuis la version [2.1.1](https://history.crownicles.com/crownicles-v2/2.1.1) de Crownicles pour connaître les différentes statistiques des classes.
 
 Il s'agit de la commande `/infosclasses`.
 

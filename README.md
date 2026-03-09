@@ -18,7 +18,7 @@ L'histoire se déroule dans un monde médiéval où le joueur contrôle un avent
 * **Aucune permission n'est nécessaire.** Votre serveur est en sécurité !
 * **Configuration simple** : Crownicles a seulement besoin d'accéder à un salon pour fonctionner.
 * Rejoignez **plusieurs milliers de joueurs**, combattez et créez votre guilde avec vos amis !
-* Aidez-nous à améliorer le bot ! Projet complètement [**open-source**](https://github.com/DraftBot-A-Discord-Adventure/) !
+* Aidez-nous à améliorer le bot ! Projet complètement [**open-source**](https://github.com/Crownicles/Crownicles) !
 
 <picture><source srcset=".gitbook/assets/Screenshot_20250618-155807.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Capture d&#x27;écran 2025-06-19 173311.png" alt="Un exemple de rapport effectué par un joueur."></picture>
 

@@ -15,7 +15,7 @@ Info supplémentaire :  Pour le coté technique, la sélection aléatoire des mi
 Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre ancien objet, l'objet sera racheté par le vendeur pour un prix inférieur à son prix d'achat.
 
 {% hint style="warning" %}
-Attention, une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des items pour 5 fois plus cher !
+Attention, une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des équipements pour 5 fois plus cher !
 {% endhint %}
 
 <picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191024.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191037.png" alt="Un exemple de marchand ambulant"></picture>
@@ -38,7 +38,7 @@ Les gains sont dus à la vigueur du familier, un nombre entre 1 et 6 qui dépend
 | Argent (20 à 70)           | 3                   | Élevée      |
 | Temps (5 à 20 minutes)     | 3                   | Faible      |
 | Points de vie (1 à 5)      | 4                   | Moyenne     |
-| Item                       | 5                   | Faible      |
+| Équipement                 | 5                   | Faible      |
 | Badge                      | 6                   | Très faible |
 
 Si le familier est fielleux, il ne vous apportera que des malus:
@@ -90,7 +90,7 @@ Ce mini-évènement affiche simplement une phrase d'encouragement pour le joueur
 
 ## Petit malheur
 
-**Rareté : 6**
+**Rareté : 7**
 
 Parfois, tout ne se passe pas comme prévu. Certains mini-évènements amènent à de petits malus.
 
@@ -191,35 +191,34 @@ Il existe une multitude de phrases en fonction de la situation de la personne qu
 
 
 
-* Top 10
-* Top 50
-* Top 100
-* Top 1
+* Top 1/10/50/100
 * Guilde puissante
+* Membre de l'équipe technique
 * Débutant
 * Niveau 50 ou plus
-* Inactif
 * Même classe que le joueur
 * Même guilde
-* Membre du staff
 * Points du classement de la semaine
-* Peu de vie
-* Beaucoup de vie
-* Mieux classé
-* Moins bien classé
-* Riche
-* Pauvre
-* Duplication de potion
-* Familier
-* Chef de guilde
-* Aîné de guilde
-* Classe du joueur
+* Peu ou beaucoup de vie
+* Inactif
+* Mieux ou moins bien classé
+* Riche ou pauvre
+* Familier : espèce/expédition/clone
+* Chef ou aîné de guilde
 * Altération d'état
 * Inventaire du joueur
+* Classe du joueur
+* Badges :shinto\_shrine:/:compass:/ :revolving\_hearts:/ :ring:
+* Ligue supérieur ou identique
+* Classement glorieux
+* Beaucoup de gemmes
+* Beaucoup de jetons
+* Possède le talisman d'ancrage ou de clonage
+* Même familier
+* Familier de type volant ou aquatique
+* Victoire contre le titan de magma/le seigneur des glaces/la reine des glaces
 
 </details>
-
-
 
 <picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192003.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192013.png" alt="Un exemple d&#x27;interaction avec un autre joueur"></picture>
 
@@ -267,33 +266,33 @@ Vous découvrirez une information à propos du bot.
 
 Vous gagnez une récompense qui dépend de votre classe.
 
-| Classes                               | Items                                                                   |
-| ------------------------------------- | ----------------------------------------------------------------------- |
-| Recrue :herb:                         | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Combattant :axe:                      | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Soldat :dagger:                       | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Fantassin :crossed\_swords:           | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Ganté :boxing\_glove:                 | Objet de défense, potion de défense ou armure                           |
-| Casqué :military\_helmet:             | Objet de défense, potion de défense ou armure                           |
-| Maillé :chains:                       | Objet de défense, potion de défense ou armure                           |
-| Tank :shield:                         | Objet de défense, potion de défense ou armure                           |
-| Lanceur de pierre :rock:              | Objet d'attaque, potion d'attaque ou arme                               |
-| Frondeur :mechanical\_arm:            | Objet d'attaque, potion d'attaque ou arme                               |
-| Archer :bow\_and\_arrow:              | Objet d'attaque, potion d'attaque ou arme                               |
-| Canonnier :gun:                       | Objet d'attaque, potion d'attaque ou arme                               |
-| Ecuyer :broom:                        | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Cavalier :horse\_racing:              | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Piquier :probing\_cane:               | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Chevalier :person\_fencing:           | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Paladin :fleur-de-lis:                | Objet de défense, potion de défense ou armure                           |
-| Vétéran :trident:                     | Item au hasard ou gagner des points de vie (entre 1:heart:et 5:heart:)  |
-| Fantassin puissant :crossed\_swords:  | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Tank impénétrable :shield:            | Objet de défense, potion de défense ou armure                           |
-| Canonnier redoutable :gun:            | Objet d'attaque, potion d'attaque ou arme                               |
-| Chevalier valeureux :person\_fencing: | Item au hasard ou argent (entre 50:moneybag:et 150:moneybag:)           |
-| Paladin lumineux :fleur-de-lis:       | Objet de défense, potion de défense ou armure                           |
-| Vétéran chevronné :trident:           | Item au hasard ou gagner des points de vie (entre 1 :heart:et 5:heart:) |
-| Mage mystique :mage:                  | Item au hasard ou gagner des points de vie (entre 1 :heart:et 5:heart:) |
+| Classes                               | Récompense                                                             |
+| ------------------------------------- | ---------------------------------------------------------------------- |
+| Recrue :herb:                         | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Combattant :axe:                      | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Soldat :dagger:                       | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Fantassin :crossed\_swords:           | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Ganté :boxing\_glove:                 | Objet de défense, potion de défense ou armure                          |
+| Casqué :military\_helmet:             | Objet de défense, potion de défense ou armure                          |
+| Maillé :chains:                       | Objet de défense, potion de défense ou armure                          |
+| Tank :shield:                         | Objet de défense, potion de défense ou armure                          |
+| Lanceur de pierre :rock:              | Objet d'attaque, potion d'attaque ou arme                              |
+| Frondeur :mechanical\_arm:            | Objet d'attaque, potion d'attaque ou arme                              |
+| Archer :bow\_and\_arrow:              | Objet d'attaque, potion d'attaque ou arme                              |
+| Canonnier :gun:                       | Objet d'attaque, potion d'attaque ou arme                              |
+| Écuyer :broom:                        | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Cavalier :horse\_racing:              | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Piquier :probing\_cane:               | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Chevalier :person\_fencing:           | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Paladin :fleur-de-lis:                | Objet de défense, potion de défense ou armure                          |
+| Vétéran :trident:                     | Équipement aléatoire ou des points de vie (entre 1:heart:et 5:heart:)  |
+| Fantassin puissant :crossed\_swords:  | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Tank impénétrable :shield:            | Objet de défense, potion de défense ou armure                          |
+| Canonnier redoutable :gun:            | Objet d'attaque, potion d'attaque ou arme                              |
+| Chevalier valeureux :person\_fencing: | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
+| Paladin lumineux :fleur-de-lis:       | Objet de défense, potion de défense ou armure                          |
+| Vétéran chevronné :trident:           | Équipement aléatoire ou des points de vie (entre 1 :heart:et 5:heart:) |
+| Mage mystique :mage:                  | Équipement aléatoire ou des points de vie (entre 1 :heart:et 5:heart:) |
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192517.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 192528.png" alt=""></picture><figcaption><p>Exemple de gain dépendant d'une classe</p></figcaption></figure>
 
@@ -454,7 +453,7 @@ Durant votre voyage, il vous arrivera de gagner de l'expérience (entre 10:star:
 
 ## Sorcière
 
-**Rareté : 4**
+**Rareté : 5**
 
 Vous rencontrez une sorcière préparant une potion. Vous pourrez lui conseiller de :&#x20;
 
@@ -477,13 +476,13 @@ Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offri
 
 ## Marchand ultime de nourriture
 
-**Rareté : 1**
+**Rareté : 2**
 
 Vous rencontrez un marchand qui vous donne une récompense parmi celles-ci :
 
 * Des friandises si votre niveau est inférieur au niveau 30 et que votre entrepôt vous le permet.
 * Des soupes ultimes si votre niveau est supérieur ou égal au niveau 30 et que votre entrepôt vous le permet.
-* Un item aléatoire, dépendant de votre niveau, si le niveau de votre guilde est supérieur ou égal au niveau 30.
+* Un équipement aléatoire, dépendant de votre niveau, si le niveau de votre guilde est supérieur ou égal au niveau 30.
 
 Si vous n'avez pas de guilde, vous recevrez de l'argent.
 
@@ -511,15 +510,19 @@ Ce mini-évènement vous permet de voyager vers les îles mystérieuses, il ne s
 Ce mini-évènement ne se déclenche qu'au bord d'un point d'eau, une seule fois par trajet !
 {% endhint %}
 
+{% hint style="warning" %}
+Ce mini-évènement ne se déclenche que si êtes au moins niveau 20.
+{% endhint %}
+
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193928.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193938.png" alt=""></picture><figcaption><p>et c'est parti !</p></figcaption></figure>
 
 
 
 ## Marchand épique
 
-**Rareté : 1**
+**Rareté : 2**
 
-Ce mini-événement vous fera rencontrer Aldéric, un marchand qui vous proposera un item de la rareté épique à la rareté légendaire (voir [items.md](../notions-principale/items.md "mention")) à l'exceptions des potions.
+Ce mini-événement vous fera rencontrer Aldéric, un marchand qui vous proposera un équipement de la rareté épique à la rareté légendaire (voir [items.md](../notions-principale/items.md "mention")) à l'exceptions des potions.
 
 {% hint style="info" %}
 Voyager sur le chemin de la :motorway: **Route des merveilles** réduira considérablement le prix de l'achat sinon vous avez 10% de chance d'avoir une réduction mais moins considérable.
@@ -529,7 +532,7 @@ Voyager sur le chemin de la :motorway: **Route des merveilles** réduira consid�
 
 ## Une charrette rapide
 
-**Rareté : 2**
+**Rareté : 4**
 
 Ce mini-événement vous fera rencontrer un individu mystérieux qui vous proposera une destination connue ou non selon les critères suivants:&#x20;
 
@@ -588,7 +591,7 @@ Vous n'obtiendrez ce mini-évènement que si votre familier n'a pas été nourri
 
 ## Malheur pour votre familier
 
-**Rareté : 4 -** Nécessite d'avoir un familier équipé pour apparaître.
+**Rareté : 3 -** Nécessite d'avoir un familier équipé pour apparaître.
 
 Ce mini-événement vous fera rencontrer Moltiar, un nain qui possède une haine profonde des animaux. Prenez garde à lui, il pourrait s'en prendre à votre familier !
 
@@ -601,3 +604,47 @@ Ce mini-événement vous fera rencontrer Moltiar, un nain qui possède une haine
 Ce mini-événement vous fera rencontrer Velanna, une puissante guerrière, qui vous donnera des conseils sur les expéditions de familier.
 
 <figure><picture><source srcset="../.gitbook/assets/SE_expeditionadvice_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_expeditionadvice_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
+## Autel
+
+**Rareté : 6**
+
+Lors de ce mini-événement, un oracle vous fera comprendre qu'un don dans sa cagnotte sera le bienvenu pour déclencher une [bénédiction](benedictions.md).
+
+{% hint style="info" %}
+Vous ne rencontrerez pas l'oracle pendant qu'une bénédiction est active sauf pour se présenter.
+{% endhint %}
+
+{% hint style="info" %}
+Ce mini-événement est limité à une fois par trajet.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_altar_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_altar_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Les options de dons sont 100, 2% de la richesse du joueur, 10x le niveau du joueur. La dernière option propose différents paliers compris en 50 et 1500.
+{% endhint %}
+
+{% hint style="success" %}
+Après de grandes quantités de dons vous obtiendrez un [badge](badges.md) :shinto\_shrine: et chaque don supérieur à 100 peut vous donner 5 :gem: (avec une probabilité croissante au montant du don) et/ou un équipement (probabilité fixe de 4%).
+{% endhint %}
+
+## Un familier vous offre un jeton
+
+**Rareté : 1**
+
+Ce mini-événement vous fera rencontrer le familier d'un autre joueur qui est en expédition, il vous donnera un jeton.
+
+<figure><picture><source srcset="../.gitbook/assets/SE_petdroptoken_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_petdroptoken_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
+## Fermière
+
+**Rareté : 20**
+
+Ce mini-événement vous fera rencontrer une fermière qui vous donnera de la salade, si vous n'avez pas de guilde ou que votre entrepôt est plein, elle vous donnera un objet.
+
+{% hint style="info" %}
+Ce mini-événement n'apparait que sur les routes proche d'une plaine et pas plus d'une fois par trajet.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_farmer_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_farmer_clair.png" alt=""></picture><figcaption></figcaption></figure>

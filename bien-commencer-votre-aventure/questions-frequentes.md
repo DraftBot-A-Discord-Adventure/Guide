@@ -37,7 +37,7 @@ Si les permissions sont correctes pour le salon où vous avez fait la commande, 
 
 ### **Est-il possible de rajouter le bot sur mon serveur ?**
 
-OUI ! Le lien pour inviter le bot est disponible sur [http://crownicles.com/](http://crownicles.com/), ainsi que sur le [serveur Discord](https://discord.gg/aJhQy4AtAA) du bot dans le salon **#👑-bienvenue** ou parmi les messages épinglés dans le salon **🗣-général**. Une méthode plus simple consiste à cliquer sur le lien ci-dessous :
+OUI ! Le lien pour inviter le bot est disponible sur [crownicles.com](https://crownicles.com), ainsi que sur le [serveur Discord](https://discord.gg/aJhQy4AtAA) du bot dans le salon **#👑-bienvenue** ou parmi les messages épinglés dans le salon **🗣-général**. Une méthode plus simple consiste à cliquer sur le lien ci-dessous :
 
 {% embed url="https://discord.com/oauth2/authorize?client_id=448110812801007618&scope=bot&permissions=274878254144" %}
 

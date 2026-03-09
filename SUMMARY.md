@@ -29,6 +29,7 @@
 * [Îles mystérieuses](notions-avancees/iles-mysterieuses.md)
 * [Mini-évènements sur le continent principal](notions-avancees/mini-evenements.md)
 * [Badges](notions-avancees/badges.md)
+* [Bénédictions](notions-avancees/benedictions.md)
 
 ## Lore et histoire du bot <a href="#lore" id="lore"></a>
 

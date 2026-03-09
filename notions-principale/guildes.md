@@ -48,7 +48,7 @@ Il existe également 3 options à cette commande:
 
 #### Dans les mini-événements
 
-Lors d'un mini-événement de ce [type](https://guide.draftbot.com/notions-avancees/mini-evenements#gagner-de-lexperience-de-guilde), vous pouvez gagner de l'expérience de guilde.
+Lors d'un mini-événement de ce [type](../notions-avancees/mini-evenements.md#gagner-de-lexperience-de-guilde), vous pouvez gagner de l'expérience de guilde.
 
 #### Dans le magasin de guilde
 

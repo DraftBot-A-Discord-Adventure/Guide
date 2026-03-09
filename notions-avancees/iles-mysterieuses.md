@@ -78,13 +78,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 **Attaques**:
 
-| Nom de l'attaque                            | Description                                                                                                                                                         | Consommation en souffle |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :cricket\_game: Attaque gourdin             | Attaque en deux tours, avec une charge puissante au deuxième.                                                                                                       | 9                       |
-| :martial\_arts\_uniform: Attaque projection | Projette l'adversaire s'il utilise une attaque physique. Peut étourdir l'adversaire.                                                                                | 6                       |
-| :rage: Colère                               | Augmente son attaque de 100%, en dépit de 75% de sa défense.                                                                                                        | 1                       |
-| :sound:Rugissement                          | Baisse l'attaque et la vitesse de l'adversaire.                                                                                                                     | 4                       |
-| :triumph: Attaque intense                   | <p>Niveau 50+ uniquement. </p><p>Voir la page des <a href="https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques">combats</a></p> | 4                       |
+| Nom de l'attaque                            | Description                                                                                                                                  | Consommation en souffle |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :cricket\_game: Attaque gourdin             | Attaque en deux tours, avec une charge puissante au deuxième.                                                                                | 9                       |
+| :martial\_arts\_uniform: Attaque projection | Projette l'adversaire s'il utilise une attaque physique. Peut étourdir l'adversaire.                                                         | 6                       |
+| :rage: Colère                               | Augmente son attaque de 100%, en dépit de 75% de sa défense.                                                                                 | 1                       |
+| :sound:Rugissement                          | Baisse l'attaque et la vitesse de l'adversaire.                                                                                              | 4                       |
+| :triumph: Attaque intense                   | <p>Niveau 50+ uniquement. </p><p>Voir la page des <a href="../notions-principale/combats.md#detail-des-differentes-attaques">combats</a></p> | 4                       |
 
 **Monstre : Mutant Vaseux**
 
@@ -93,7 +93,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 | Nom de l'attaque                          | Description                                                                                                                                                                                                                                          | Consommation en souffle |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | :performing\_arts:Attaque mimique magique | <p>Niveau 60+ uniquement. </p><p>Fonctionne comme une <a href="../notions-principale/combats.md#detail-des-differentes-attaques">attaque simple</a> en temps normal sauf si l'adversaire lance une attaque magique, celle-ci se verra répliquer.</p> | 3                       |
-| :test\_tube:Attaque empoisonnée           | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                                                                  | 3                       |
+| :test\_tube:Attaque empoisonnée           | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                                                                                                                         | 3                       |
 | :farmer:Attaque tir de boue               | Lance de la boue sur l'adversaire qui le rend sale et augmente de 5% son attaque, l'altération a 20% de chances de disparaître à chaque tour.                                                                                                        | 5                       |
 | :amphora: Attaque boue brûlante           | Attaque puissante si l'adversaire est sali ! Sinon dégâts classiques.                                                                                                                                                                                | 9                       |
 
@@ -107,10 +107,10 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 | Nom de l'attaque                      | Description                                                                                                                                                                     | Consommation en souffle |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :test\_tube: Attaque empoisonnée      | <p>Niveau 40+ uniquement. </p><p>Voir la page des <a href="https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques">combats</a></p>             | 3                       |
+| :test\_tube: Attaque empoisonnée      | <p>Niveau 40+ uniquement. </p><p>Voir la page des <a href="../notions-principale/combats.md#detail-des-differentes-attaques">combats</a></p>                                    | 3                       |
 | :spider\_web: Attaque jet de toile    | Envoie un jet de toile qui blesse et ralentit l'adversaire.                                                                                                                     | 8                       |
 | :face\_in\_clouds: Discrétion         | Se cache afin de doubler les dégâts de la prochaine attaque.                                                                                                                    | 6                       |
-| :crossed\_swords: Attaque simple      | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                             | 2                       |
+| :crossed\_swords: Attaque simple      | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                                                    | 2                       |
 | :fork\_knife\_plate: Repas de famille | Niveau 60+ uniquement. Appelle des alliés pour dévorer l'adversaire et l'empoisonner au passage. Inflige l'altération "Repu" au lanceur, l'empêchant de bouger pendant 2 tours. | 20                      |
 
 ### Village en ruines
@@ -121,13 +121,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 **Attaques**:
 
-| Nom de l'attaque                             | Description                                                                                                                                                         | Consommation en souffle |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :crossed\_swords: Attaque simple             | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 2                       |
-| :shield: Attaque bouclier                    | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 6                       |
-| :bed: Repos                                  | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                 | 0                       |
-| :smiling\_imp: Attaque maudite               | <p>Niveau 50+ uniquement. </p><p>Voir la page des <a href="https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques">combats</a></p> | 6                       |
-| :people\_holding\_hands: Invocation d'alliés | Niveau 65+ uniquement. Appelle des alliés qui s'acharneront sur l'adversaire pour le reste du combat. Utilisable une seule fois.                                    | 5                       |
+| Nom de l'attaque                             | Description                                                                                                                                  | Consommation en souffle |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :crossed\_swords: Attaque simple             | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                 | 2                       |
+| :shield: Attaque bouclier                    | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                 | 6                       |
+| :bed: Repos                                  | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                 | 0                       |
+| :smiling\_imp: Attaque maudite               | <p>Niveau 50+ uniquement. </p><p>Voir la page des <a href="../notions-principale/combats.md#detail-des-differentes-attaques">combats</a></p> | 6                       |
+| :people\_holding\_hands: Invocation d'alliés | Niveau 65+ uniquement. Appelle des alliés qui s'acharneront sur l'adversaire pour le reste du combat. Utilisable une seule fois.             | 5                       |
 
 ### Chemin escarpé
 
@@ -153,13 +153,13 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 **Attaques**:
 
-| Nom de l'attaque           | Description                                                                                                                                                                                                          | Consommation en souffle |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| :volcano: Éruption         | Fait entrer en éruption le volcan grondant. La précision diminue avec la vitesse adverse.                                                                                                                            | 7                       |
-| :foot: Attaque impact      | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                                                                                      | 6                       |
-| :fire:Attaque feu          | Voir la page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)                                                                                                  | 8                       |
-| :bathtub: Bain de magma    | Fonctionne comme Repos (voir page des [combats](https://guide.draftbot.com/notions-principale/combats#detaille-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
-| :hotsprings: Vague de lave | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                                        | 15                      |
+| Nom de l'attaque           | Description                                                                                                                                                                                   | Consommation en souffle |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :volcano: Éruption         | Fait entrer en éruption le volcan grondant. La précision diminue avec la vitesse adverse.                                                                                                     | 7                       |
+| :foot: Attaque impact      | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                                                                                               | 6                       |
+| :fire:Attaque feu          | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                                                                  | 8                       |
+| :bathtub: Bain de magma    | Fonctionne comme Repos (voir page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)). Le lanceur se baigne dans du magma, régénérant une partie de son énergie. | 2                       |
+| :hotsprings: Vague de lave | Niveau 50+ uniquement. Le lanceur surfe sur une vague de lave se dirigeant droit sur l'adversaire, infligeant des dégâts importants et le brûlant au passage.                                 | 15                      |
 
 ## Liste des monstres de l'île de glace :
 
@@ -307,7 +307,9 @@ Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaq
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d’écran 2025-06-23 083859.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 180236.png" alt="Mini-évènement de la rage "></picture><figcaption><p>Exemple de mini évènement où le joueur rencontre un animal sauvage.</p></figcaption></figure>
 
-**Voici les différentes options qui pourraient s'offrir à vous :**
+<details>
+
+<summary><strong>Voici les différentes options qui pourraient s'offrir à vous :</strong></summary>
 
 _La plupart des choix dépendent aussi de la rareté de l’animal adverse. Généralement, plus l’animal est rare, plus il est difficile de réussir._
 
@@ -329,7 +331,7 @@ _La plupart des choix dépendent aussi de la rareté de l’animal adverse. Gén
 
 🔥 **Utiliser toutes vos forces pour attaquer :** fonctionne mieux si peu d’énergie ⚡️&#x20;
 
-💪 **Intimider la créature :** dépend du niveau du joueur&#x20;
+💪 **Intimider la créature :** dépend du niveau du joueur et de la rareté du familier adverse
 
 💀 **Faire le mort :** fonctionne mieux si la vie ❤️ du joueur est faible&#x20;
 
@@ -342,6 +344,24 @@ _La plupart des choix dépendent aussi de la rareté de l’animal adverse. Gén
 🏟️ **Faire appel aux membres de votre guilde :** dépend du nombre d’alliés 🤝&#x20;
 
 🚶 **Ne rien faire :** peu de réussite
+
+:brain: **Analyser les faiblesses :** dépend uniquement du niveau
+
+:postal\_horn:**Pousser un cri de guerre :** un choix fiable rendu plus efficace par son familier
+
+:red\_circle: **Canaliser sa rage :** dépend de vos points de rage :anger:
+
+:performing\_arts:**Feinter :** un choix fiable
+
+:triangular\_flag\_on\_post:**Brandir l'étendard de guilde :** Dépend du niveau de la guilde
+
+:stew: **Faire sentir l'une de vos soupes :** fort chance de succès si votre entrepôt de guilde contient une soupe sinon échec assuré
+
+:dagger: **Approche furtive :** dépend de la vitesse et de la classe
+
+:rock: **Lancer un caillou au loin :** Fonctionne mieux avec une arme à distance et en canonnier
+
+</details>
 
 ### Informations sur l'île
 

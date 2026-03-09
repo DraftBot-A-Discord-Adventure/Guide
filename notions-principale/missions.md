@@ -10,11 +10,15 @@ Vous avez également la possibilité d'afficher les missions en cours d'un autre
 
 Il existe trois catégories de mission :
 
-* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il en existe 106 et leur difficulté évolue avec le joueur.
+* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il en existe 129 et leur difficulté évolue avec le joueur.
 * Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
-* Les missions secondaires sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](https://guide.draftbot.com/notions-avancees/mini-evenements#trouver-une-mission).
+* Les missions secondaires sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](../notions-avancees/mini-evenements.md#trouver-une-mission).
 
-<figure><picture><source srcset="../.gitbook/assets/mission_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/mission_clair.png" alt="Les missions d&#x27;un joueur visible via la commande /missions"></picture><figcaption><p>Affichage de la commande /missions</p></figcaption></figure>
+{% hint style="success" %}
+Finir la campagne vous récompensera par un [familier](familiers.md) mythique : la fée.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/missions129_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/missions129_clair.png" alt="Les missions d&#x27;un joueur visible via la commande /missions"></picture><figcaption><p>Affichage de la commande /missions</p></figcaption></figure>
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 

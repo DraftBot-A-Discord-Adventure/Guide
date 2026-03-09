@@ -38,6 +38,7 @@ description: >-
 | :dove:                | Personne ayant rapporté un bug exploitable sans en profiter                          | Découvrir un bug exploitable et le signaler sur GitHub sans l'utiliser ni l'avoir développée                                                          | Gérant des badges |
 | :feet:                | Personne ayant montré tous les familiers à Talvar le nain                            | S'obtient lors de mini-événement du [nain fan des animaux ](mini-evenements.md#le-nain-fan-des-animaux)après lui avoir montré tout les animaux du jeu | Bot               |
 |  :compass:            | Personne ayant réussi de nombreuses expéditions avec son familier                    | S'obtient après la 550e expédition réussie                                                                                                            | Bot               |
+| :shinto\_shrine:      | Protecteur de l'Oracle, ayant contribué généreusement à de nombreuses bénédictions   | S'obtient après avoir contribué à hauteur de 150 000 :moneybag: dans les cagnottes de bénédictions                                                    | Bot               |
 
 {% hint style="info" %}
 Lorsque vous cliquez en jeu sur un badge, sa description s'affichera (à condition que la commande /profil est récente).
