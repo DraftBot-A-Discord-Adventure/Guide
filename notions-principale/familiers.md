@@ -10,24 +10,18 @@ Les familiers ont un **moral**, si vous les nourrissez à intervalle régulier l
 
 ### Comment obtenir un familier ?
 
-Les familiers s'obtiennent dans les récompenses de guilde `/bonusjournalierguilde` avec 1% de chance, ou alors dans les mini-évènements.
+Les familiers s'obtiennent dans les récompenses de guilde `/bonusjournalierguilde` avec 7% de chance, ou alors dans les mini-évènements.
 
 La probabilité d'avoir des raretés supérieures augmente avec le niveau de votre guilde.
 
 |                               |                                 |                   |                    |               |                 |               |                    |                |
 | ----------------------------- | ------------------------------- | ----------------- | ------------------ | ------------- | --------------- | ------------- | ------------------ | -------------- |
 | Niveau guilde/rareté familier | Commun :large\_orange\_diamond: | Peu commun :fire: | Exotique :trident: | Rare :comet:  | Spécial :dizzy: | Épique :star: | Légendaire :star2: | Mythique :gem: |
-| 0-9                           |                                 |                   |                    |               |                 |               |                    |                |
-| 10-19                         |                                 |                   |                    |               |                 |               |                    |                |
-| 20-29                         | 43,75%                          | 25%               | 15%                | 10%           | 5%              | 1%            | 0,24%              | 0,02%          |
-| 30-39                         |                                 |                   |                    |               |                 |               |                    |                |
-| 40-49                         |                                 |                   |                    |               |                 |               |                    |                |
-| 50-59                         |                                 |                   |                    |               |                 |               |                    |                |
-| 60-69                         |                                 |                   |                    |               |                 |               |                    |                |
-| 70-79                         |                                 |                   |                    |               |                 |               |                    |                |
-| 80-89                         |                                 |                   |                    |               |                 |               |                    |                |
-| 90-99                         |                                 |                   |                    |               |                 |               |                    |                |
-| 100-150                       |                                 |                   |                    |               |                 |               |                    |                |
+| 0-29                          | 43,76%                          | 25%               | 15%                | 10%           | 5%              | 1%            | 0,23%              | 0,02%          |
+| 30-59                         | 0%                              | 44,44%            | 26,67%             | 17,78%        | 8,89%           | 1,78%         | 0,41%              | 0,04%          |
+| 60-89                         | 0%                              | 0%                | 48%                | 32%           | 16%             | 3,2%          | 0,74%              | 0,06%          |
+| 90-119                        | 0%                              | 0%                | 0%                 | 61,54%        | 30,77%          | 6,15%         | 1,42%              | 0,12%          |
+| 120-150                       | 0%                              | 0%                | 0%                 | 0%            | 80%             | 16%           | 3,68%              | 0,32%          |
 
 {% hint style="info" %}
 Si un familier est obtenu dans un mini-évènement, sa rareté est générée avec les statistiques des guildes de niveau 20.
