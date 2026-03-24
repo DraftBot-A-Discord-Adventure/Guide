@@ -463,16 +463,57 @@ Vous rencontrez une sorcière préparant une potion. Vous pourrez lui conseiller
 
 Selon votre choix, vous pourrez :&#x20;
 
-* Recevoir une potion
-* Avoir une altération d'état
-* Perdre de la vie
+* Recevoir une potion :alembic:
+* Avoir une altération d'état :clock2:
+* Perdre un peu de vie :broken\_heart:
 * Ne rien avoir
 
 {% hint style="info" %}
 Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offrira à vous et vous pourrez soit ajouter un ingrédient soit faire une action.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193607.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193555.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière (en étant mage mystique)</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193607.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193555.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière (en étant mage mystique <span data-gb-custom-inline data-tag="emoji" data-code="1f9d9">🧙</span>)</p></figcaption></figure>
+
+{% hint style="info" icon="circle-info" %}
+Si ajouter un ingrédient est immédiat, agir sur la concoction vous prendra généralement quelques minutes :clock2:.
+{% endhint %}
+
+Les potions reçues dépendent des choix, mais vous pourrez toujours obtenir une potion sans effet :x:. Le tableau ci-dessous résume les potions que la sorcière :broom: vous fournira si sa préparation est un succès, ainsi que leur rareté - faible, moyenne ou puissante.&#x20;
+
+{% tabs %}
+{% tab title="Ingrédients" %}
+:bat: / :frog: Potion de temps :clock1030: ou de vitesse :rocket: moyenne\
+:eye: Potion de temps :clock1030: puissante\
+:bubbles: Potion de vitesse :rocket: moyenne\
+:wind\_blowing\_face: Potion de vitesse :rocket: puissante\
+:wilted\_rose: Potion de défense :shield: faible\
+:ice\_cube: Potion de défense :shield:puissante\
+:rat: / :scorpion: / :snake: / :spider: Potion d'attaque :dagger: faible\
+:tooth: Potion d'attaque :dagger:  moyenne\
+:dragon: Potion d'attaque :dagger: puissante\
+:chicken: / :bone: / :worm: Potion d'énergie :zap:\
+:green\_apple: / :apple: / :mushroom: / :drop\_of\_blood: / :rose:Potion de vie :heart: faible\
+:honey\_pot: Potion de vie :heart: moyenne\
+:anatomical\_heart: Potion de vie :heart:\
+:bird: / :package: Potion quelconque\
+:test\_tube: Potion quelconque moyenne\
+:beer: Permet de boire un alcool\
+:spider\_web: Sans effet :x:
+{% endtab %}
+
+{% tab title="Actions" %}
+:crystal\_ball: Potion de temps :clock1030: moyenne \
+:alembic: Potion de temps :clock1030: puissante (55 min :clock2:)\
+:fire: Potion d'attaque :dagger: puissante (30 min :clock2:)\
+:thermometer: Potion d'attaque :dagger: moyenne (15 min :clock2:)\
+:spoon: Potion quelconque faible (5 min :clock2:)\
+:musical\_note:Potion quelconque moyenne (10 min :clock2:)\
+:book:  Potion quelconque moyenne (25 min :clock2:)\
+:magic\_wand: Potion quelconque puissante (50 min :clock2:)\
+:hourglass\_flowing\_sand: Sans effet :x: (15 min :clock2:)\
+:clock10: Sans effet :x: (45 min :clock2:)
+{% endtab %}
+{% endtabs %}
 
 ## Marchand ultime de nourriture
 
