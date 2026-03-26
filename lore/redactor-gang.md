@@ -8,10 +8,10 @@ Nowadays, adding a new event's content inside the bot is possible by everyone. I
 
 Here is the list of the main creators of the Redactor Gang :
 
-| Discord name       | Main role         |
-| ------------------ | ----------------- |
-| Ines#7400          | Dicsord Moderator |
-| Kyusaki#9053       | Discord Moderator |
-| Thero1st#9119      | Discord Moderator |
-| ReallyMinoryo#1304 | Technical Team    |
-| DeadAngelV6#6892   | Technical Team    |
+| Discord name  |
+| ------------- |
+| `ines33`      |
+| `kyusaki_`    |
+| `thero1st`    |
+| `minoryo`     |
+| `DeadAngelV6` |

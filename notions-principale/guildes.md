@@ -1,3 +1,8 @@
+---
+tags:
+  - lightly-outdated
+---
+
 # Guilds
 
 A guild can consist up to 6 players, and get daily rewards which will improve with the level of the guild.

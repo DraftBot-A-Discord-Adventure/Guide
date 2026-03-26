@@ -16,7 +16,7 @@
 * [State alteration](notions-principale/alterations-detat.md)
 * [Fights](notions-principale/combats.md)
 * [Leagues](notions-principale/leagues.md)
-* [Items](notions-principale/items.md)
+* [Equipments](notions-principale/items.md)
 * [Classes](notions-principale/classes.md)
 * [Guilds](notions-principale/guildes.md)
 * [Pets](notions-principale/pets.md)
@@ -26,8 +26,10 @@
 
 * [Rank up](notions-avancees/monter-dans-les-classements.md)
 * [Managing inventory](notions-avancees/inventory.md)
-* [Small events](notions-avancees/small-events.md)
+* [Mysterious islands](notions-avancees/mysterious-islands.md)
+* [Small events on the main continent](notions-avancees/small-events-on-the-main-continent.md)
 * [Badges](notions-avancees/badges.md)
+* [Blessings](notions-avancees/blessings.md)
 
 ## Lore and history of the bot <a href="#lore" id="lore"></a>
 

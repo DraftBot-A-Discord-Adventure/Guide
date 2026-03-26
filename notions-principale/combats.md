@@ -23,13 +23,27 @@ For more information about those numbers, please see the profile section.
 
 ### Fight types
 
-#### Normal fight
+#### Fight against players
 
-A normal fight can be started with the `/fight` command. You can add a `@user` option just after the command, to specify a user to fight. If you are not the creator of the fight, and if you don't have any state alteration, you can click on the :white\_check\_mark: emoji in reaction. In these type of fights, the winner earns glory points. Take note that the energy is consumed with this kind of fight.
+A fight can be initiated using the `/fight` command. You will face an AI opponent with the class and stats of a random player (provided that their defence glory is no more than 450 points above or below your attack glory, and that you have faced them fewer than three times since the start of the season). The winner gains glory ✨, the loser loses some, and the energy lost is consumed.
 
-#### Friendly fights
+{% hint style="info" %}
+You can only start a fight if you have 80% or more energy.
+{% endhint %}
 
-The friendly fights work the same way as the normal fights but no one is losing energy nor earning glory points at the end. To start one you can run the`/fight` command, with the `friendly` option set to `true`.
+{% hint style="info" icon="gear" %}
+Your glory is divided into two parts, the sum of which makes up the glory displayed on your profile:\
+-Attack glory: when you fight another player’s AI.\
+-Defence glory: when your AI is attacked by another player.
+{% endhint %}
+
+{% hint style="success" %}
+At the end of each fight, you’ll receive, in addition to glory, money and points (up to 200 gold and 105 points per day).
+{% endhint %}
+
+#### Fight against monsters
+
+Check out [mysterious islands](../notions-avancees/mysterious-islands.md).
 
 ### Progress of a fight
 
@@ -53,7 +67,7 @@ The fight is a turn by turn system. At every turn you will have to choose betwee
 The above attack stay the same for the equivalent of the associated class, depending on the level.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 The person with more speed gets first turn (or randomized if both fighters have the same speed).
 {% endhint %}
 
@@ -61,7 +75,7 @@ The person with more speed gets first turn (or randomized if both fighters have 
 
 The details of the various attacks can be read below:
 
-<figure><img src="../.gitbook/assets/4.3.3.png" alt=""><figcaption><p>That's a lot of attacks!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/en_5.1.7_fight.png" alt=""><figcaption><p>That's a lot of attacks!</p></figcaption></figure>
 
 ### Breath management
 
@@ -75,10 +89,16 @@ If a player doesn't have enough breath to use an attack they want to use, due to
 
 The fight ends when a fighter's life drops to 0.&#x20;
 
-A fight can also end when both fighters both lose all their energy on the same turn or when the 24th turn has ended. These conditions will trigger a draw.
+A fight can also end when both fighters both lose all their energy on the same turn or when the 26th turn has ended. These conditions will trigger a draw.
 
-When the fight ends, you'll probably lose energy, except if the fight was friendly, but it'll be recovered over time.&#x20;
+Once a fight is over, you’ll have to wait a while before you can recover the energy ⚡ you’ve lost.
 
 {% hint style="danger" %}
-If a fighter doesn't react for more than 30 seconds, the fight will be considered as over. The inactive fighter will lose this fight, and all their energy if it was a ranked one.
+If you don't react for more than 45 seconds, the fight will be considered as over. You will automatically lose the fight and, therefore , all your energy.
 {% endhint %}
+
+### Fight history
+
+The /`fighthistory` command displays the results of the fights you have fought as both attacker and defender.
+
+<figure><img src="../.gitbook/assets/fighthistory_dark.png" alt=""><figcaption><p>Since your AI can fight for you, it might be worth finding out how your glory has evolved in your absence.</p></figcaption></figure>

@@ -2,7 +2,7 @@
 
 ### Kyutism in general :
 
-The religion is Kyutism, and its followers are called Kyutists. It is the religion of the DraftBot universe. There are three main types of followers :
+The religion is Kyutism, and its followers are called Kyutists. It is the religion of the Crownicles universe. There are three main types of followers :
 
 * "Simple" followers, who practice Kyutism but have their own professions and lives alongside it.
 * The religious ones.
@@ -28,7 +28,7 @@ The Kyuran is an ancient book that recounts the founding legends of Kyutism. It 
 
 It is said that the book possesses magical powers, but this information is difficult to verify as the few existing copies are highly sought after and expensive.
 
-![Un exemplaire du Kyuran vendu au marché noir.](<../.gitbook/assets/image (40).png>)
+![A copy of Kyuran sold on the black market.](<../.gitbook/assets/image (40).png>)
 
 #### The Genesis :
 

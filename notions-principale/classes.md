@@ -1,6 +1,6 @@
 # Classes
 
-Since the [**2.10**](https://history.draftbot.com/draftbot-v2/2.1.0) version of DraftBot, you can choose a class for your player once you have reached the **level 4**. The default class for every player is **Recruit**.
+Since the [**2.10**](https://history.draftbot.com/draftbot-v2/2.1.0) version of Crownicles, you can choose a class for your player once you have reached the **level 4**. The default class for every player is **Recruit**.
 
 ### How to choose a class ?
 
@@ -22,26 +22,30 @@ Then you have to click on the reaction corresponding to the class you want.
 
 ### Class list
 
-![Rank 1 classes](<../.gitbook/assets/image (47).png>)
-
-![Rank 2 classes](<../.gitbook/assets/image (76).png>)
-
-![Rank 3 classes](<../.gitbook/assets/image (8).png>)
-
-<figure><img src="../.gitbook/assets/Classes tier 4.png" alt=""><figcaption><p>Tier 4 classes</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Capture2.PNG" alt=""><figcaption><p>Tier 5 classes, an improvement over the previous tier (with a new class, nonetheless!)</p></figcaption></figure>
+<picture><source srcset="../.gitbook/assets/classes_t1_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classes_t1_light.png" alt="Rank 1 classes"></picture>
 
 {% hint style="info" %}
-The above screenshots were taken when classes still were a paid option. Now that they're free since v4.3.3, the prices are not to be considered anymore.
+The recruit class does not appear because it is the class of the player who executed the command.
 {% endhint %}
 
+<picture><source srcset="../.gitbook/assets/classes_t2_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classes_t2_light.png" alt="Rank 2 classes"></picture>
+
+<picture><source srcset="../.gitbook/assets/classes_t3_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classes_t3_light.png" alt="Rank 3 classes"></picture>
+
+<figure><picture><source srcset="../.gitbook/assets/classes_t4_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classes_t4_light.png" alt=""></picture><figcaption><p>Tier 4 classes</p></figcaption></figure>
+
+<figure><picture><source srcset="../.gitbook/assets/classes_t5_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classes_t5_light.png" alt=""></picture><figcaption><p>Tier 5 classes, an improvement over the previous tier (with a new class, nonetheless!)</p></figcaption></figure>
+
 {% hint style="danger" %}
-However, there's a cooldown of either two weeks (for tiers 1 and 2) or a month (tier 3 and up) after choosing a class to avoid spamming class changes.
+To avoid frequent changes of class, a minimum interval is required between two changes:<br>
+
+* Ranks 1 and 2: 1 week
+* Ranks 3 and 4: 2 weeks
+* Rank 5: 3 weeks.
 {% endhint %}
 
 ### Class statistics
 
-The `/classesinfo` command has been added since version 2.1.1 of DraftBot to know the different statistics of the classes.
+The `/classesinfo` command has been added since version 2.1.1 of Crownicles to know the different statistics of the classes.
 
-<figure><img src="../.gitbook/assets/comparatif classes.PNG" alt=""><figcaption><p>Everything you need to know on the go, plus more if you click on a reaction!</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/classlist_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classlist_light.png" alt=""></picture><figcaption><p>Everything you need to know on the go, plus more in the menu!</p></figcaption></figure>

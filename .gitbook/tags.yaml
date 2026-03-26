@@ -1,0 +1,12 @@
+- tag: heavily-outdated
+  label: Heavily outdated content
+  color: red
+- tag: lightly-outdated
+  label: Lightly outdated content
+  color: orange
+- tag: outdated-images
+  label: Old/alpha's bot images
+  color: yellow
+- tag: work-in-progress
+  label: Work in progress
+  color: purple

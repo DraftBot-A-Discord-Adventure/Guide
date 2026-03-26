@@ -1,3 +1,8 @@
+---
+tags:
+  - outdated-images
+---
+
 # Reports
 
 The report is the main function of the game. It can be used to get the last informations about your player, since the last interaction. You can ask for a report by executing the `/report` command.
@@ -55,6 +60,6 @@ After an event, the player is led to choose a destination. It is not possible fo
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Example of a destination choice</p></figcaption></figure>
 
-The time indicated in parenthesis is the travel time to reach the location, a question mark means that the time is unknown. In one-third of cases, the bot automatically chooses the player's destination.
+The time indicated in parenthesis is the travel time to reach the location, a question mark means that the time is unknown.
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Here is your information about your destination.</p></figcaption></figure>

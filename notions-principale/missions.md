@@ -10,17 +10,17 @@ You can also check out another player's missions by adding the `user` or `rank` 
 
 &#x20;There are 3 types of missions:
 
-* Campaign missions: they don't change and are preset : there are 60 of them and their difficulty is evolving with the player.
+* Campaign missions: they don't change and are preset : there are 129 of them and their difficulty is evolving with the player.
 * Daily missions: as their name implies, they change every day and make the player earn rewards in a different way than campaign missions.
 * Secondary missions are another possibility to earn rewards, they can be found occasionally in specific small events.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-07 à 15.05.38.png" alt=""><figcaption><p>For example, here's a list of what missions you could have.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/missions_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/missions_light.png" alt=""></picture><figcaption><p>For example, here's a list of what missions you could have.</p></figcaption></figure>
 
 Secondary missions can be found on small events that look like this:
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>Something like this. At least, check if it begins with <span data-gb-custom-inline data-tag="emoji" data-code="1f4dc">📜</span>to see if you received one.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/SE_findmission_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (56).png" alt=""></picture><figcaption><p>Something like this. At least, check if it begins with <span data-gb-custom-inline data-tag="emoji" data-code="1f4dc">📜</span>to see if you received one.</p></figcaption></figure>
 
-### The missions store
+### The missions shop
 
 Gems that are earned by completing campaign and daily missions can be spent on the missions shop. You can access the latter with the `/missionsshop` command.
 
@@ -35,7 +35,7 @@ It is divided in 3 categories:
 
 {% tab title="Utilities" %}
 * The mission change allows you, as its name indicates, to pass a secondary mission and replace it with another randomly picked mission. This option costs 10 gems.&#x20;
-* King's court vet gives you informations about the pet that you currently own. The visit will be 5 gems.
+* King's court vet gives you informations about the pet that you currently own. The visit will be 3 gems.
 {% endtab %}
 
 {% tab title="Prestige" %}
@@ -43,4 +43,4 @@ It is divided in 3 categories:
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-05-06 à 16.50.32.png" alt=""><figcaption><p>The missions shop at its full glory.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/missionsshop_dark (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/missionsshop_light (1).png" alt=""></picture><figcaption><p>Here's the missions shop</p></figcaption></figure>

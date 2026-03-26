@@ -1,8 +1,8 @@
 # Map and destinations
 
-The world map of DraftBot allows the players to find them in different places of the game. It is possible to show directly the map in-game by typing `/map`. You will also get your position and a detailed description of the place you are traveling to.
+The world map of Crownicles allows the players to find them in different places of the game. It is possible to show directly the map in-game by typing `/map`. You will also get your position and a detailed description of the place you are traveling to.
 
-<figure><img src="../.gitbook/assets/map.jpg" alt=""><figcaption><p>The entire map of DraftBot !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/map_en.jpg" alt=""><figcaption><p>The entire map of Crownicles !</p></figcaption></figure>
 
 ### Places list :&#x20;
 

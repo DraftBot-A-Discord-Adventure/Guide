@@ -6,7 +6,7 @@ All you have to do is type `/language` and you are all set !
 
 ### Find the commands list.
 
-You ca get a complete list of the commands by typing `/help` in a channel where draftbot can talk !
+You can get a complete list of the commands by typing `/help` in a channel where Crownicles can talk !
 
 ### I've invited the bot but he doesn't answer...
 

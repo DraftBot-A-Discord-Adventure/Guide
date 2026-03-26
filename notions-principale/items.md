@@ -1,4 +1,10 @@
-# Items
+---
+tags:
+  - lightly-outdated
+  - outdated-images
+---
+
+# Equipments
 
 ## Obtaining items
 

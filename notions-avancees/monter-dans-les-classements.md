@@ -2,9 +2,9 @@
 
 ## The `/top score` command
 
-The `/top score` command (not to be confused with `/top glory`) can be used to see the leaderboard of the DraftBot players, by points count. It also displays your ranking, and the page at which you are. The players will be displayed 15 by 15, showing their name, their status, their points count, and their level.
+The `/top score` command (not to be confused with `/top glory`) can be used to see the leaderboard of the Crownicles players, by points count. It also displays your ranking, and the page at which you are. The players will be displayed 15 by 15, showing their name, their status, their points count, and their level.
 
-![An example of the /top score command, showcasing the top 15 as of this screenshot's upload](<../.gitbook/assets/Capture d’écran 2023-05-06 à 16.57.52.png>)
+<picture><source srcset="../.gitbook/assets/top_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/top_light.png" alt="An example of the /top score command, showcasing the top 15 as of this screenshot&#x27;s upload"></picture>
 
 ### `/top score` options
 
@@ -32,10 +32,6 @@ The weekly leaderboard is reset every sunday. The winner of that leaderboard wil
 
 More informations about badges can be viewed here:
 
-{% embed url="https://guide.draftbot.com/v/en/notions-avancees/badges" %}
-
-#### Set a specific scope to the leaderboard
-
-The leaderboard can be set on two possible scopes: "Global" (by default), and "Server". The `scope` option lets you choose if you want to limit the leaderboard to those who are in your server only or not.
-
-For example: `/top score scope:🚩 Server ranking` will display the leaderboard of the server on which this command was executed.
+{% content-ref url="badges.md" %}
+[badges.md](badges.md)
+{% endcontent-ref %}

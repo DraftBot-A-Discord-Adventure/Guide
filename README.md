@@ -2,6 +2,8 @@
 description: >-
   This guide is a presentation of the main features of Crownicles and tips to
   start your adventure nicely.
+tags:
+  - outdated-images
 ---
 
 # Discover Crownicles !

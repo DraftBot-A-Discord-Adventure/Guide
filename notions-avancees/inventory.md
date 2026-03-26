@@ -1,3 +1,8 @@
+---
+tags:
+  - outdated-images
+---
+
 # Managing inventory
 
 The inventory is the place in which every items found in the reports, or bougth in the shop are stored. To check an inventory's content, type the `/inventory` command.
@@ -38,7 +43,7 @@ When buying an additional slot, the option's price will increase in consequence.
 
 ### Interacting with the inventory's items
 
-The `/dailybonus` command allows the user to use the item placed in the "Active object" slot. An item can be used every 22h minimum if it's not a fighting bonus.
+The `/dailybonus` command allows you to use a daily-use item, with a minimum of 22 hours between each use.
 
 The `/sell` command lets you sell any of your stock's equipment (except the potions, which you can only throw away).
 

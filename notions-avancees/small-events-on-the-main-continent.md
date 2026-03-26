@@ -1,12 +1,13 @@
-# Small events
+---
+tags:
+  - outdated-images
+---
 
-There are 25 small event types in the bot at the time this page is being written. Below are some informations about them which will allow you to plan your journey more strategically.
+# Small events on the main continent
+
+There are currently several types of mini-events in the bot. Below are some informations about them which will allow you to plan your journey more strategically.
 
 The higher a small event's rarity is, the more frequent it is.
-
-{% hint style="info" %}
-The current maximum rarity (by analogy, the rarity that can be known as the most common) is 12.
-{% endhint %}
 
 ### Wandering shop
 
@@ -470,6 +471,178 @@ You will meet Gaspard-Jo, the ultimate soup merchant. He'll give you something d
 
 ### League rewards
 
+**Rarity: 2**
+
 This small event will give you some informations about your league's rewards and how much time is left until the fighting season's ending.
 
-<figure><img src="../.gitbook/assets/Y.png" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/SE_league_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_league_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+This mini-event will not appear on Sundays if you have already claimed your league reward.
+{% endhint %}
+
+### Travel to [mysterious islands](mysterious-islands.md)
+
+**Rarity: 40 (if condtions are met)**
+
+This small event lets you travel to the mysterious islands; it only triggers if you have at least 80% of your maximum energy ⚡️, and the cost increases with each journey in the following order: Free – 15 💎 – 25 💎. Once you have completed 3 trips, or if you have just joined a guild, you will no longer be able to visit the island; you will have to wait until the following week!
+
+{% hint style="warning" %}
+This mini-event only triggers when you're near a water source, and only once per trip!
+{% endhint %}
+
+{% hint style="warning" %}
+This mini-event only triggers if you are at least level 20.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_gotopveisland_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_gotopveisland_light.png" alt=""></picture><figcaption><p>and here we go !</p></figcaption></figure>
+
+### Epic merchant
+
+**Rarity: 2**
+
+This small event will introduce you to Alderic, a merchant who will offer you equipment ranging from epic to legendary rarity (see [items.md](../notions-principale/items.md "mention")), with the exception of potions.
+
+{% hint style="info" %}
+Travelling along the 🛣️ Road of Wonders will significantly reduce the purchase price; otherwise, you have a 10% chance of getting a discount, but it won’t be as substantial.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_epicitemshop_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_epicitemshop_light.png" alt=""></picture><figcaption><p>Exemple of a epic merchant</p></figcaption></figure>
+
+### A fast cart
+
+**Rarity: 4**
+
+This small event will introduce you to a mysterious figure who will offer you a destination – either one you know or one you don’t – based on the following criteria:
+
+* A 35% chance of a trip to a destination you already know.
+* A 30% chance of a trip to a destination you don’t know, but at a reduced price.
+* A 15% chance of a fake destination, but at a reduced price.
+* Otherwise, the trip is simply cheaper.
+
+<figure><picture><source srcset="../.gitbook/assets/SE_cart_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_cart_light.png" alt=""></picture><figcaption><p>Here's a exemple of a fast travel</p></figcaption></figure>
+
+### The animal-loving dwarf
+
+**Rarity: 5**
+
+This small event will introduce you to Talvar, a dwarf who is passionate about animal welfare. He will reward you with a gem for every new species you show him, provided your pet isn’t feisty (otherwise he’ll give you a stern telling-off). Once all species have been catalogued (male or female makes no difference), you will be awarded the 🐾 [badge](badges.md) as a sign of deep respect (and some money if you already have it).
+
+<figure><picture><source srcset="../.gitbook/assets/SE_dwarfpetfan_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_dwarfpetfan_light.png" alt=""></picture><figcaption><p>It is said that his love for animals is as great as his wealth.</p></figcaption></figure>
+
+{% hint style="info" %}
+This small event only occurs around Mount Celestrum.
+{% endhint %}
+
+### Information about fight
+
+**Rarity: 3**
+
+This small event will introduce you to Sir Rowan, former captain of the Royal Guard. He will show you the various attacks in the game, whether they come from humans or monsters.
+
+<figure><picture><source srcset="../.gitbook/assets/SE_infofight_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_infofight_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Sir Rowan also has a (slight) chance of telling you whether your character is right-handed or left-handed.
+{% endhint %}
+
+### The strange man in love with his city
+
+**Rarity :** **2**
+
+This small event will introduce you to a storyteller who is passionate about a faraway city. He will ask you about your interest in that city. Your answers will determine whether or not he rewards you.
+
+<figure><picture><source srcset="../.gitbook/assets/SE_limoges_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_limoges_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+<figure><picture><source srcset="../.gitbook/assets/SE_limoges_dark_p2.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_limoges_light_p2.png" alt=""></picture><figcaption><p>Examples of rewards you can earn based on your answers.</p></figcaption></figure>
+
+### The pet finds food
+
+**Rarity :** **5** - You must have a pet equipped for it to appear.
+
+During this small event, your pet can find food.
+
+{% hint style="info" %}
+You will only receive this small event if your pet hasn't been fed recently.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_petfood_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_petfood_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+### Misadventure for your pet
+
+**Rarity : 3 -** You must have a pet equipped for it to appear.
+
+In this small event, you’ll meet Moltiar, a dwarf who harbours a deep hatred for animals. Watch out for him – he might attack your pet!
+
+<figure><picture><source srcset="../.gitbook/assets/SE_badpet_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_badpet_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+<details>
+
+<summary>During this encounter, you will be able to choose from three of the responses listed below. Each choice depends on a parameter that will affect the loss of love points <span data-gb-custom-inline data-tag="emoji" data-code="1f49e">💞</span> for your pet.</summary>
+
+* 🛡️ Step in to protect your companion ➡️ player’s defence 🛡️
+* 🚀 Flee with your companion ➡️ player’s speed 🚀
+* 👑 Let your companion stand up to the dwarf ➡️ pet’s rarity 🎰
+* 🥬 Offer the dwarf some vegetables as a sign of peace ➡️ pet’s diet; a carnivore won’t mind if you give them vegetables 🥬.
+* 🍖 Offer the dwarf some meat as a sign of peace ➡️ pet’s diet; a herbivore won’t mind if you give them meat 🍖.
+* ⏳ Wait for the dwarf’s anger to subside ➡️ small, constant loss
+* 🎭 Distract the dwarf ➡️ random
+* 🤗 Try to calm your frightened companion ➡️ pet’s love 💞
+* 🦁 Order your pet to intimidate the dwarf ➡️ pet’s strength 💪; a powerful pet is intimidating.
+* 💪 Encourage your companion to stand firm ➡️ pet’s strength 💪 and love 💞; a strong and loving animal will resist the hateful dwarf.
+* 🫣 Hide your companion ➡️ pet’s strength 💪; a weak pet is more discreet.
+* 🙏 Try to reason with the dwarf through words ➡️ pet’s strength 💪; a weak pet will soften Moltiar’s heart.
+
+</details>
+
+### Expedition advice
+
+**Rarity : 4**
+
+This small event will introduce you to Velanna, a powerful warrior, who will give you advice on pet expeditions.
+
+<figure><picture><source srcset="../.gitbook/assets/SE_expeditionadvice_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_expeditionadvice_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+### Altar
+
+**Rarity : 6**
+
+During this small event, an oracle will let you know that a donation to their fund would be welcome to activate a [blessing](blessings.md).
+
+{% hint style="info" %}
+You will not encounter the oracle whilst a blessing is active, except to introduce himself.
+{% endhint %}
+
+{% hint style="info" %}
+This small event is limited to once per trip.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_altar_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_altar_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The donation options are 100, 2% of the player’s wealth, and 10 times the player’s level. The last option offers various tiers ranging from 50 to 1,500.
+{% endhint %}
+
+{% hint style="success" %}
+After making a large number of donations, you will receive a ⛩️ [badge](badges.md), and each donation of over 100 may earn you 5 💎 (with the probability increasing as the donation amount rises) and/or a piece of equipment (fixed probability of 4%).
+{% endhint %}
+
+### A pet gives you a token
+
+**Rarity : 1**
+
+In this small event, you’ll meet another player’s pet who is on an expedition; they’ll give you a token.<br>
+
+<figure><picture><source srcset="../.gitbook/assets/SE_petdroptoken_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_petdroptoken_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+### Farmer
+
+**Rarity : 20**
+
+This small event will introduce you to a farmer who will give you some salad; if you aren’t in a guild or your storage is full, she’ll give you an item instead.
+
+{% hint style="info" %}
+This small event only appears on roads near a plain, and no more than once per trip.
+{% endhint %}
+
+<figure><picture><source srcset="../.gitbook/assets/SE_farmer_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_farmer_light.png" alt=""></picture><figcaption></figcaption></figure>

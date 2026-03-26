@@ -8,3 +8,8 @@ During your journey, you will certainly encounter characters whose names are oft
 * **Price** : Price is a bodyguard and bounty hunter known in the Duke's lands. He is renowned for his discretion and efficiency.
 * **Gruffo** : Gruffo is a mysterious character wandering the region, unsure of what to do with his life, he tries his hand at various activities. He seems to have a shared past with Pérotin, as they both had the same mentor, Périssien. However, following a dispute, Gruffo cut ties with his master and has since become the charlatan he is today.
 * **Gaspard-Jo** : Gaspard-Jo is a soup merchant who roams the land in search of adventurers to sell his soups. Wise and generous, he is not hesitant to give food or an object for free to someone he encounters. However, the source of his merchandise remains unknown.
+* **Xirtex** : A cheerful hermit living in King's Valley, he won’t hesitate to invite you to his home to share your adventures over a nice cup...
+* **Talvar**: A dwarf who is a passionate advocate for animal welfare, whom you’ll come across in his neighbourhood on the paths of Mount Celestrum.
+* **Moltiar**: He goes out of his way to avoid his brother Talvar, whom he detests deeply, grumbling that he’s lost his mind. For his part, he harbours an unconditional hatred of animals following a past trauma. If you happen to cross paths with him, he might attack your familiar.
+* **Velanna**: A powerful warrior whose leather armour bears the scars of many battles, who will give you a powerful artefact when she deems you worthy...
+* **Sir Rowan**: A former commander of the Royal Guard turned adventurer who teaches the noble art of combat to anyone willing to learn.
