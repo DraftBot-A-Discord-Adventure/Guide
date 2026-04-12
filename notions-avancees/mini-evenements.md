@@ -172,7 +172,7 @@ Malus :&#x20;
 {% endtabs %}
 
 {% hint style="warning" %}
-Vous devez avoir au moins 175 d'argent pour tenter votre chance à la loterie. Si vous en possédez moins, votre mise sera rejetée par le gérant du jeu de hasard.
+Vous devez avoir au moins 175 d'argent pour tenter votre chance pour la :moneybag: grosse mise. Si vous en possédez moins, votre mise sera rejetée par le gérant du jeu de hasard.
 {% endhint %}
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191915.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 191904.png" alt=""></picture><figcaption><p>Un exemple de loterie</p></figcaption></figure>
@@ -272,14 +272,14 @@ Vous gagnez une récompense qui dépend de votre classe.
 | Combattant :axe:                      | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
 | Soldat :dagger:                       | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
 | Fantassin :crossed\_swords:           | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
-| Ganté :boxing\_glove:                 | Objet de défense, potion de défense ou armure                          |
-| Casqué :military\_helmet:             | Objet de défense, potion de défense ou armure                          |
-| Maillé :chains:                       | Objet de défense, potion de défense ou armure                          |
-| Tank :shield:                         | Objet de défense, potion de défense ou armure                          |
-| Lanceur de pierre :rock:              | Objet d'attaque, potion d'attaque ou arme                              |
-| Frondeur :mechanical\_arm:            | Objet d'attaque, potion d'attaque ou arme                              |
-| Archer :bow\_and\_arrow:              | Objet d'attaque, potion d'attaque ou arme                              |
-| Canonnier :gun:                       | Objet d'attaque, potion d'attaque ou arme                              |
+| Ganté :boxing\_glove:                 | Objet de défense, potion de défense ou armure :shield:                 |
+| Casqué :military\_helmet:             | Objet de défense, potion de défense ou armure :shield:                 |
+| Maillé :chains:                       | Objet de défense, potion de défense ou armure :shield:                 |
+| Tank :shield:                         | Objet de défense, potion de défense ou armure:shield:                  |
+| Lanceur de pierre :rock:              | Objet d'attaque, potion d'attaque ou arme :dagger:                     |
+| Frondeur :mechanical\_arm:            | Objet d'attaque, potion d'attaque ou arme :dagger:                     |
+| Archer :bow\_and\_arrow:              | Objet d'attaque, potion d'attaque ou arme :dagger:                     |
+| Canonnier :gun:                       | Objet d'attaque, potion d'attaque ou arme :dagger:                     |
 | Écuyer :broom:                        | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
 | Cavalier :horse\_racing:              | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
 | Piquier :probing\_cane:               | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
@@ -287,10 +287,10 @@ Vous gagnez une récompense qui dépend de votre classe.
 | Paladin :fleur-de-lis:                | Objet de défense, potion de défense ou armure                          |
 | Vétéran :trident:                     | Équipement aléatoire ou des points de vie (entre 1:heart:et 5:heart:)  |
 | Fantassin puissant :crossed\_swords:  | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
-| Tank impénétrable :shield:            | Objet de défense, potion de défense ou armure                          |
-| Canonnier redoutable :gun:            | Objet d'attaque, potion d'attaque ou arme                              |
+| Tank impénétrable :shield:            | Objet de défense, potion de défense ou armure :shield:                 |
+| Canonnier redoutable :gun:            | Objet d'attaque, potion d'attaque ou arme :dagger:                     |
 | Chevalier valeureux :person\_fencing: | Équipement aléatoire ou argent (entre 50:moneybag:et 150:moneybag:)    |
-| Paladin lumineux :fleur-de-lis:       | Objet de défense, potion de défense ou armure                          |
+| Paladin lumineux :fleur-de-lis:       | Objet de défense, potion de défense ou armure :shield:                 |
 | Vétéran chevronné :trident:           | Équipement aléatoire ou des points de vie (entre 1 :heart:et 5:heart:) |
 | Mage mystique :mage:                  | Équipement aléatoire ou des points de vie (entre 1 :heart:et 5:heart:) |
 
@@ -300,11 +300,7 @@ Vous gagnez une récompense qui dépend de votre classe.
 
 **Rareté : 9**
 
-Vous obtenez une mission secondaire.
-
-{% hint style="info" %}
-Vous pouvez avoir jusqu'à 3 missions secondaires.
-{% endhint %}
+Vous obtenez une mission secondaire. Vous pouvez en accumuler jusqu'à 3 dépendant de votre niveau.&#x20;
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190037.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190047.png" alt=""></picture><figcaption><p>Exemple d'obtention d'une mission secondaire</p></figcaption></figure>
 
@@ -426,7 +422,7 @@ La guérisseuse ne se balade qu'autour de Claire De Ville.&#x20;
 Grâce à vous, votre guilde se fait connaitre et elle remporte de l'expérience de guilde. La quantité d'expérience de guilde reçue dépend de son niveau.
 
 {% hint style="info" %}
-Vous n'obtiendrez ce mini-évènement que si vous faites partie d'une guilde qui n'est pas niveau 150.
+Ce mini-évènement n'apparaîtra plus si votre guilde atteint le niveau 150.&#x20;
 {% endhint %}
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193231.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193244.png" alt=""></picture><figcaption><p>Exemple de gain d'expérience de guilde</p></figcaption></figure>
@@ -438,7 +434,7 @@ Vous n'obtiendrez ce mini-évènement que si vous faites partie d'une guilde qui
 Durant votre voyage, il vous arrivera de récupérer des points de vies (entre 1:heart:et 4:heart:).&#x20;
 
 {% hint style="info" %}
-Vous n'obtiendrez ce mini-évènement que si votre vie n'est pas déjà à son maximum.
+Ce mini-évènement n'apparait pas si votre vie est déjà au maximum.
 {% endhint %}
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193352.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193340.png" alt=""></picture><figcaption><p>Exemple de gain de points de vie</p></figcaption></figure>

@@ -311,15 +311,15 @@ Si vous réussissez à calmer l'animal (ou à faire en sorte qu'il ne vous attaq
 
 <summary><strong>Voici les différentes options qui pourraient s'offrir à vous :</strong></summary>
 
-_La plupart des choix dépendent aussi de la rareté de l’animal adverse. Généralement, plus l’animal est rare, plus il est difficile de réussir._
+_La plupart des choix dépendent aussi de la puissance de l’animal adverse. Généralement, plus l’animal est fort, plus il est difficile de réussir._
 
 🤛 **Attaquer à gauche / 🤜 Attaquer à droite :** fonctionne mieux si vous attaquez du bon côté (1/10 des joueurs sont gauchers)&#x20;
 
-🥩 **Distraire la bête avec de la viande :** dépend du régime de l’animal et de votre stock de viande 🥩&#x20;
+🥩 **Distraire la bête avec de la viande :** dépend du régime de l’animal sauvage et de votre stock de viande 🥩&#x20;
 
-🥕 **Distraire la bête avec un légume :** dépend du régime de l’animal et de votre stock de salades 🥬&#x20;
+🥕 **Distraire la bête avec un légume :** dépend du régime de l’animal sauvage et de votre stock de salades 🥬&#x20;
 
-😱 **Crier :** fonctionne légèrement mieux si l’animal est une femelle&#x20;
+😱 **Crier :** fonctionne légèrement mieux si l’animal adverse est une femelle&#x20;
 
 👊 **Coup de poing :** dépend de l’attaque 🗡️&#x20;
 
@@ -331,15 +331,15 @@ _La plupart des choix dépendent aussi de la rareté de l’animal adverse. Gén
 
 🔥 **Utiliser toutes vos forces pour attaquer :** fonctionne mieux si peu d’énergie ⚡️&#x20;
 
-💪 **Intimider la créature :** dépend du niveau du joueur et de la rareté du familier adverse
+💪 **Intimider la créature :** dépend du niveau du joueur et de la force du familier adverse
 
 💀 **Faire le mort :** fonctionne mieux si la vie ❤️ du joueur est faible&#x20;
 
 😤 **Provoquer la bête :** fonctionne mieux si le joueur possède une forte attaque par rapport à un bas niveau ou s’il possède l’arme « 🤬 insultes »&#x20;
 
-🙏 **Prier dieu :** dépend du nombre d’objets sacrés dans l’inventaire du joueur&#x20;
+🙏 **Prier dieu :** dépend du nombre d’objets sacrés dans l’inventaire du joueur
 
-🐕 **Faire appel à votre familier :** dépend de la rareté, du régime et du moral du familier du joueur&#x20;
+🐕 **Faire appel à votre familier :** dépend de la force, du régime et du moral du familier du joueur&#x20;
 
 🏟️ **Faire appel aux membres de votre guilde :** dépend du nombre d’alliés 🤝&#x20;
 
