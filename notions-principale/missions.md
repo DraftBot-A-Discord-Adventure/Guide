@@ -1,8 +1,3 @@
----
-tags:
-  - images-pas-a-jour
----
-
 # Missions
 
 Les missions sont des objectifs à réaliser afin de gagner de l'expérience et des gemmes. Pour afficher vos missions en cours, saisissez la commande `/missions`.
@@ -23,7 +18,7 @@ Il existe trois catégories de mission :
 Finir la campagne vous récompensera par un [familier](familiers.md) mythique : la fée.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/missions129_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/missions129_clair.png" alt="Les missions d&#x27;un joueur visible via la commande /missions"></picture><figcaption><p>Affichage de la commande /missions</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/missions149_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Missions149_claor.png" alt="Les missions d&#x27;un joueur visible via la commande /missions"></picture><figcaption><p>Affichage de la commande /missions</p></figcaption></figure>
 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
@@ -54,4 +49,4 @@ Ces achats sont situés sur le :gem: marché royal du Château du roi
 {% endtab %}
 {% endtabs %}
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190155.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190144.png" alt="Magasin de missions , visible grâce à la commande /magasinmissions"></picture><figcaption><p>A CHANGER EN V6</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190155.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190144.png" alt="Magasin de missions , visible grâce à la commande /magasinmissions"></picture><figcaption><p>Affichage du marché royal</p></figcaption></figure>

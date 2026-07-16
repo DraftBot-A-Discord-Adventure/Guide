@@ -12,7 +12,7 @@ Info supplémentaire :  Pour le coté technique, la sélection aléatoire des mi
 
 **Rareté :** **4**
 
-Vous permet d'acheter un objet pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre ancien objet, l'objet sera racheté par le vendeur pour un prix inférieur à son prix d'achat.
+Vous permet d'acheter un équipement pour pas cher (60 % du prix). Il n'est pas possible d'obtenir des objets de rareté supérieure à spécial. Si vous achetez un objet mais que vous n'acceptez pas de remplacer votre ancien objet, l'objet sera racheté par le vendeur pour un prix inférieur à son prix d'achat.
 
 {% hint style="warning" %}
 Attention, une faible proportion de vendeurs sont des arnaqueurs et tenteront de vous vendre des équipements pour 5 fois plus cher !

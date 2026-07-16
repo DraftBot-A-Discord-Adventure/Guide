@@ -50,7 +50,7 @@ Le soin d'altération d'état est également une récompense de la récompense j
 {% hint style="warning" %}
 Les jetons :coin: sont le seul moyen de soigner l'altération d'état occupé, il peut vous en falloir jusqu'à 5 pour les plus longues.
 
-L'altération enfermé :unlock: ne peut être soigné que si un autre joueur paye une caution de 3k :moneybag:.
+L'altération enfermé :unlock: ne peut être soigné que si un autre joueur paye une caution de 3 000 :moneybag:.
 {% endhint %}
 
 #### Moyens divers permettant de faire avancer le temps plus vite

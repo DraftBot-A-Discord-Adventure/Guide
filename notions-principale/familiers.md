@@ -56,7 +56,7 @@ Vous pouvez également le caresser (mais cela n'a aucun effet sur son moral).
 
 L'achat de nourriture pour les familiers se fait dans les villes, à l'approvisionnement de la guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise, pour votre animal.
 
-<picture><source srcset="../.gitbook/assets/Screenshot_20250617-151531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184818.png" alt="METTRE UN SCREEN DE L&#x27;APPROVISIONNEMENT DE LA V6"></picture>
+<picture><source srcset="../.gitbook/assets/Screenshot_20250617-151531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184818.png" alt="Le magasin de guilde permet d&#x27;acheter différentes sortes de nourriture"></picture>
 
 {% hint style="info" %}
 Il est aussi possible que votre familier trouve de la nourriture pendant l'aventure.
@@ -127,7 +127,7 @@ Pour visualiser le refuge, vous pouvez utiliser la commande `/abriguilde`.
 <picture><source srcset="../.gitbook/assets/abriguilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/abriguilde_clair.png" alt="Refuge d&#x27;une guilde"></picture>
 
 {% hint style="info" %}
-Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents, ou plus en l'améliorant.&#x20;
+Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents par défaut et bien plus en l'améliorant.&#x20;
 {% endhint %}
 
 ### Comment surnommer un familier ?

@@ -111,7 +111,7 @@ Le bois est notamment utile pour attiser le fourneau de la cuisine, il est donc 
 
 Situés à Mergagnan et à Claire de Ville, les vétérinaires auscultent les familiers pour 3 :gem:, leur donnant 15 points d'amour :revolving\_hearts: ainsi que fournissant de nombreuses informations.&#x20;
 
-Il est ainsi possible de connaitre le niveau d'amour, les statistiques, l'âge, les préférences, la capacité de combat, le régime et la faim d'un familier (cf [niveaux de moral](familiers.md#niveaux-de-moral)), ainsi qu'un familier que désire voir [Talvar](../notions-avancees/mini-evenements.md#le-nain-fan-des-animaux).
+Il est ainsi possible de connaitre le niveau d'amour, les statistiques, l'âge, les préférences, la capacité de combat, le régime et la faim d'un familier (voir [niveaux de moral](familiers.md#niveaux-de-moral)), ainsi qu'un familier que désire voir [Talvar](../notions-avancees/mini-evenements.md#le-nain-fan-des-animaux).
 
 </details>
 
@@ -119,7 +119,7 @@ Il est ainsi possible de connaitre le niveau d'amour, les statistiques, l'âge, 
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f48e">💎</span> La Bourse</summary>
 
-Localisée à Claire de ville, La Bourse permet d'acheter une spéculation des futurs prix de divers commerces, ainsi qu'un badge de prestige monétaire :money\_mouth:.&#x20;
+Localisée à Claire de ville, la Bourse permet d'acheter une spéculation des futurs prix de divers commerces, ainsi qu'un badge de prestige monétaire :money\_mouth:.&#x20;
 
 </details>
 
@@ -218,14 +218,11 @@ Chaque niveau correspond pour les potions à une rareté. 1 = commun... et 8 = m
 {% endhint %}
 
 {% hint style="danger" %}
-Préparer une recette d'un niveau supérieur au maximum du grade augmente les échecs (15% par écart).
+Préparer une recette d'un niveau supérieur au maximum du grade augmente les échecs (15% par niveau d'écart).
 {% endhint %}
 
 ### :office\_worker:Les logis
 
-En plus de leur maison principale, les joueurs peuvent acheter un logis dans toutes les villes. Il permet d'accéder à un lit :bed: (capé à +4 :heart:), leur coffre :package: et leurs fourneaux :fire:, qui coûte entre 6k et 20k :moneybag:selon la ville.&#x20;
+En plus de leur maison principale, les joueurs peuvent acheter un logis dans toutes les villes. Il permet d'accéder à un lit :bed: (max +4 :heart:), leur coffre :package: et leurs fourneaux :fire:, qui coûte entre 6k et 20k :moneybag:selon la ville.&#x20;
 
 Dans la ville de la maison du joueur, le logis rapporte une rente de 212 :moneybag:par jour, qui s'accumule chez le notaire et peut être récupéré à tout moment.&#x20;
-
-
-
