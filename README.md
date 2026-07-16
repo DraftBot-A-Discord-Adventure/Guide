@@ -24,4 +24,4 @@ L'histoire se déroule dans un monde médiéval où le joueur contrôle un avent
 
 ## Comment contribuer ?
 
-Tous les contributeurs sont les bienvenus ! Si vous souhaitez vous investir dans le développement de Crownicles, la rédaction ou la traduction de son guide, les informations dont vous aurez besoin se trouvent dans la section [Comment contribuer](/broken/pages/SdCEhyuanZTeK41OAprp).
+Tous les contributeurs sont les bienvenus ! Si vous souhaitez vous investir dans le développement de Crownicles, la rédaction ou la traduction de son guide, les informations dont vous aurez besoin se trouvent dans la section [Comment contribuer](https://app.gitbook.com/s/-MH1fCvNZ7zikrWd7dJj-2584506019/aidez-nous-a-developper-crownicles).

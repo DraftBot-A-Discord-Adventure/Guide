@@ -1,3 +1,8 @@
+---
+tags:
+  - partiellement-pas-a-jour
+---
+
 # Familiers
 
 Depuis la version [2.1.2](https://history.crownicles.com/crownicles-v2/2.1.2) de Crownicles, vous pouvez avoir un ou plusieurs **familiers**.
@@ -323,6 +328,8 @@ Les familiers mythiques :gem:
 {% endtab %}
 {% endtabs %}
 
+### Les expéditions
+
 Pour débloquer les expéditions,il faudra le talisman d'ancrage qui est remis par [Velanna ](../notions-avancees/mini-evenements.md#conseils-sur-les-expeditions)à partir de votre troisième rencontre si vous avez un familier nourri et non fielleux, que vous êtes au moins niveau 30, que vous appartenez à une guilde et que votre familier a déjà été présenté à [Talvar](../notions-avancees/mini-evenements.md#le-nain-fan-des-animaux).
 
 Les expéditions coûtent des provisions (jusqu'à 32) et ont une durée (jusqu'à 3 jours) mais rapportent des jetons, de l'argent, de l'expérience, des points et un équipement en cas de succès partiel ou total.
@@ -365,6 +372,10 @@ Une fois l'expédition terminée:
 
 {% hint style="warning" %}
 Quand votre familier est en expédition, il n'est pas considéré comme équipé, il ne vous assistera pas pendant les mini-événements, les combats (attaque et défense) et sur les îles mystérieuses.
+{% endhint %}
+
+{% hint style="success" %}
+Les jetons en récompenses des expéditions peuvent vous faire dépasser la limite de 20.
 {% endhint %}
 
 {% hint style="info" %}

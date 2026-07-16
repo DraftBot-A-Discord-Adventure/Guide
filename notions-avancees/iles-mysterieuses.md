@@ -6,7 +6,7 @@ description: >-
 
 # Îles mystérieuses
 
-Les monstres sont répartis sur 2 îles : l'île volcanique et l'île de glace.
+Les monstres sont répartis sur 3 îles : l'île volcanique, l'île de glace et île océanique.
 
 {% hint style="info" %}
 &#x20;Chaque semaine une île est choisie et il ne peut pas avoir 2 semaines de suite la même île.
@@ -262,6 +262,87 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 | 🧊Attaque armure cristalline    | Utilise le bouclier de l'adversaire pour attaquer. Réussit uniquement si l'attaque précédente de son adversaire est physique.                | 3                       |
 | 🐉Attaque souffle glacial       | Libère un vent glacé qui inflige des dégâts à l'adversaire et a une chance de le geler.                                                      | 13                      |
 | 💥Attaque effondrement glacial  | Niveau 50+.  Une chute de stalactites qui peut être esquiver par anticipation en faisant une attaque physique.                               | 9                       |
+
+## Liste des monstres de l'île océanique :
+
+<figure><img src="../.gitbook/assets/carte_ile_océanique.jpg" alt=""><figcaption></figcaption></figure>
+
+### Creux du lagon
+
+**Monstre : tortue géante**
+
+> Une gigantesque tortue se reposant paisiblement dans son lagon. Lorsqu’elle est menacée, elle se retranche dans sa carapace avant de libérer de puissants jets d’eau capables de renverser ses ennemis. Mille ans de survie ont transformé cette carapace en une forteresse de corne et de lichen que le temps lui-même semble avoir renoncé à user.
+
+| Nom de l'attaque                | Description                                                                                          | Consommation en souffle |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------- |
+| :shell:Repli                    | Se retire dans sa carapace, amortissant la moitié des dégâts de la prochaine attaque de l'adversaire | 5                       |
+| :earth\_americas:Séisme         | Une attaque fortement basée sur la défense de l'adversaire.                                          | 10                      |
+| :sweat\_drops:Attaque jet d'eau | Une attaque simple mais efficace qui peut tremper l'adversaire, réduisant sa vitesse et sa défense   | 4                       |
+| :bricks:Solidification          | Si la prochaine attaque de l'adversaire est physique,une partie des dégâts seront renvoyés           | 3                       |
+| :anger:Colère                   | Augmente son attaque de 100%, en dépit de 75% de sa défense.                                         | 1                       |
+
+### Caverne maritime
+
+**Monstre : Esprits des mers**
+
+> Une entité dotée d'une vivacité de prédateur, capable de surgir de nulle part pour tendre des embuscades mortelles. Son souffle glacial gèle ses adversaires sur place, tandis que ses puissants jets d'eau et ses raz-de-marée dévastateurs ne laissent aucun répit. Elle peut même puiser dans les flots pour soigner ses blessures.
+
+<table><thead><tr><th>Nom de l'attaque</th><th width="249">Description</th><th>Consommation en souffle</th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f409">🐉</span>Attaque souffle glacial</td><td>Niveau 50+ uniquement. Libère un vent glacé qui inflige des dégâts à l'adversaire et a une chance de le geler.</td><td>13</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f518">🔘</span>Attaque rafale aqueuse</td><td>Une attaque puissante qui peut submerger son adversaire, ce qui lui réduit sa vitesse et son souffle.</td><td>6</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3c4">🏄</span>Esquive aquatique</td><td>Si l'adversaire vient d'utiliser une attaque à distance, annule les dégâts de la prochaine attaque du joueur. Sinon, elle inflige des dégâts modérés.</td><td>4</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f30a">🌊</span>Attaque raz-de-marée</td><td>Niveau 50+ uniquement.   Une attaque qui peut submerger son adversaire, ce qui lui réduit sa vitesse et son souffle.</td><td>9</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1fae7">🫧</span>Soin hydraulique</td><td>Fonctionne comme Repos (voir page des <a href="https://guide.crownicles.com/notions-principale/combats#detail-des-differentes-attaques">combats</a>). fait appel aux courants marins pour récupérer de l'énergie.</td><td>5</td></tr></tbody></table>
+
+{% hint style="info" %}
+Après ce combat, deux chemins s'offre à vous : la Crique du Revenant ou la Cave des Murmures.
+{% endhint %}
+
+### Crique du Revenant
+
+**Monstre : Capitaine Crow**
+
+> Âme damnée du plus redouté des pirates, le Capitaine Crow hante la Crique du Revenant depuis sa mort tragique. Son regard de braise et son rire sinistre glacent le sang de ceux qui osent fouler ses eaux maudites.
+
+| Nom de l'attaque                | Description                                                                                                                                                             | Consommation en souffle |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :dash: Attaque vol de souffle   | Voir la page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)                                                                            | 1                       |
+| :black\_bird: Volée Funeste     | Niveau 100+ uniquement. Utilisable qu'une seule fois mais fait des gros dégâts.                                                                                         | 25                      |
+| :trident: Malédiction de la mer | Fonctionne comme Malédiction (voir page des [combats](../notions-principale/combats.md#detail-des-differentes-attaques)).                                               | 5                       |
+| :pirate\_flag: Mutinerie        | Niveau 80+ uniquement. L'équipage se rebelle faisant des dégâts au Capitaine Crow et à son adversaire.                                                                  | 9                       |
+| :ghost:Revanche spectrale       | Semblable à [l'attaque riposte](https://guide.crownicles.com/notions-principale/combats#detail-des-differentes-attaques). Échoue si l'attaque précédente était magique. | 8                       |
+
+### Ravin des Abysses
+
+**Monstre : Léviathan**
+
+> Le seigneur incontesté des océans, capable d'invoquer la foudre céleste et de déchaîner des déluges apocalyptiques. Ses crocs acérés déchirent tout sur leur passage, et sa faim sépulcrale est insatiable. Parfois emporté par une fureur aveugle, il engendre alors un maelström si violent qu'il ne laisse derrière lui qu'un sillage de débris et de silence.
+
+| Nom de l'attaque                      | Description                                                                                                                                                                                                                                               | Consommation en souffle |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :zap:Foudre céleste                   | Une attaque qui paralyse son adversaire. Ses dégâts sont plus élevés si l'adversaire possède des équipements métalliques. Si ce dernier est de classe paladin (ou équivalent), il subira moins de dégâts de cette attaque et ne pourra pas être paralysé. | 9                       |
+| :tooth: Crocs acérés                  | Une attaque qui peut faire saigner son adversaire.                                                                                                                                                                                                        | 9                       |
+| :shark: Faim sépulcrale               | Niveau 80+ uniquement. Une attaque qui peut affaiblir et faire plus de dégâts à son adversaire en fonction de son énergie.                                                                                                                                | 10                      |
+| :thunder\_cloud\_rain: Attaque Déluge | Niveau 115+ uniquement. Une attaque qui maudit son adversaire après 2 tours de chargement.                                                                                                                                                                | 30                      |
+| :cyclone: Maelström                   | Niveau 95+ uniquement. Une puissante attaque qui submerge son adversaire après 2 tours de chargement.                                                                                                                                                     | 25                      |
+| :new\_moon: Aura abyssale             | Applique l'altération "tétanisé" qui réduit toutes les statistiques de combat de son adversaire pendant au maximum 3 tours tout en augmentant ses  propres dégâts.                                                                                        | 10                      |
+
+### La Cave des murmures
+
+**Monstre : Sirène**
+
+> Mi-femme mi-poisson, cette créature enchanteresse attire ses proies par son chant envoûtant avant de les achever d'un baiser glacé. Son cri strident résonne comme un appel des profondeurs, et sa séduction glaciale paralyse même les plus braves. Rares sont ceux qui ne finissent par succomber à la tentation qu'elle incarne.
+
+<table><thead><tr><th width="202">Nom de l'attaque</th><th>Description</th><th>Consommation en souffle</th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3b6">🎶</span>Chant de la mer</td><td>Niveau 50+. Entonne un chant qui  peut endormir ou étourdir son adversaire.</td><td>3</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f5e3">🗣️</span>Attaque cri infernal</td><td>Un cri si puissant qu'en plus de ses dégâts, il peut paralyser son adversaire.</td><td>4</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f48b">💋</span>Baiser gelé </td><td>Si l'adversaire est gelé, les dégâts sont fortement réduits.</td><td>4</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="2744">❄️</span>Attaque séduction glaciale</td><td>Niveau 85+. Inflige des dégâts et peut geler ou rendre confus son adversaire.</td><td>5</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4f2">📲</span>Attaque appel de la mer</td><td>Niveau 60+. Appelle des alliés qui s'acharneront sur l'adversaire pour le reste du combat. Utilisable une seule fois.</td><td>20</td></tr></tbody></table>
+
+### Gouffre des Profondeurs
+
+**Monstre : Kraken**
+
+> Un titan des profondeurs marines dont les tentacules massifs frappent avec une force dévastatrice. Il corrode ses proies avec des jets d'encre noire, les étouffe dans son étreinte abyssale et peut déclencher des maelströms capables de tout engloutir. Sa progression est pesante mais elle cache une puissance colossale.
+
+| Nom de l'attaque                | Description                                                                                                                                     | Consommation en souffle |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| :pen\_ballpoint:Jet d'encre     | Niveau 50+. Applique l'altération "corrosion" à son adversaire augmentant ses statistiques tout en faisant des dégâts sur la durée ou "aveuglé. | 6                       |
+| :octopus:Bouclier tentacule     | Renvoie les dégâts à distance.                                                                                                                  | 8                       |
+| :knot:Attaque coup de tentacule | Peut étourdir son adversaire.                                                                                                                   | 5                       |
+| :cyclone:Maelström              | Niveau 95+. Une puissante attaque qui submerge son adversaire après 2 tours de chargement.                                                      | 25                      |
+| :curly\_loop:Noyade             | Niveau 50+. Réduit le souffle de son adversaire si celui n'en a pas en réserve.                                                                 | 7                       |
 
 ## Mini-évènements
 
