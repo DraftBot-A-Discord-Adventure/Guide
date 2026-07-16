@@ -24,7 +24,9 @@ L'altération d'état d'un joueur définit sa situation actuelle. Certains statu
 | :skull:               | Mort                            | **Ø**           |
 
 {% hint style="warning" %}
-L'altération d'état "Enfermé" est la seule altération d'état qui empêche le joueur d'accéder aux magasins. C'est également la seule altération qui ne peut pas être soignée grâce à une récompense de guilde.
+L'altération d'état "Enfermé" est la seule altération d'état qui ne peut être soignée par le joueur. C'est également la seule altération qui ne peut pas être soignée grâce à une récompense de guilde.
+
+Un autre aventurier doit payer une caution de 3 000 :moneybag: pour la soigner.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -39,18 +41,20 @@ Il est cependant possible de soigner une altération d'état autrement qu'en att
 
 #### Obtention d'un "soin des altérations d'état"
 
-Il est possible d'acheter un soin des altérations d'état dans le magasin en utilisant la commande `/magasin`. Cet achat vous coûtera 510 d'argent ou moins en fonction de la durée restante. Cet achat annulera votre altération d'état et avancera votre voyage de 10m vous permettant d'obtenir un nouveau rapport.
+Il est possible d'acheter un soin des altérations d'état à l'aide d'un bouton, lors de la commande `/rapport.` Cet achat vous coûtera 510 d'argent ou moins en fonction de la durée restante. Il annulera votre altération d'état et avancera votre voyage de 10m vous permettant d'obtenir un nouveau rapport.
 
 {% hint style="info" %}
 Le soin d'altération d'état est également une récompense de la récompense journalière de guilde à partir d'un certain niveau de guilde.
 {% endhint %}
 
 {% hint style="warning" %}
-Les jetons sont le seul moyen de soigner l'altération d'état occupé, il peut vous en falloir jusqu'à 5 pour les plus longues.
+Les jetons :coin: sont le seul moyen de soigner l'altération d'état occupé, il peut vous en falloir jusqu'à 5 pour les plus longues.
+
+L'altération enfermé :unlock: ne peut être soigné que si un autre joueur paye une caution de 3k :moneybag:.
 {% endhint %}
 
 #### Moyens divers permettant de faire avancer le temps plus vite
 
 Certains objets et potions permettent de faire avancer le temps plus rapidement pendant un temps donné. Lorsque ces derniers sont utilisés, c'est comme si le temps s'était écoulé, mais seulement pour votre personnage.
 
-Il est aussi aussi possible d'avancer sur votre voyage de 10m en utilisant des jetons.
+Il est aussi aussi possible d'avancer sur votre voyage de 10m en utilisant des jetons :coin:.

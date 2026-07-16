@@ -53,13 +53,13 @@ Le combat est basé sur un système de tour par tour. À chaque tour, vous aurez
 
 Ces attaques sont réparties dans les différentes classes du jeu :&#x20;
 
-* Fantassin : Attaque simple, Attaque perçante, Attaque puissante, Attaque chargée, Protection.
-* Tank : Attaque simple, Attaque intense, Attaque riposte, Attaque bouclier, Boost de la défense.
-* Canonnier : Attaque rapide, Attaque sabotage, Attaque boomerang, Attaque canon, Attaque intense.
-* Chevalier : Attaque simple, Attaque rapide, Attaque lourde, Bénédiction, Repos.
-* Paladin : Attaque simple, Attaque bélier, Attaque ultime, Attaque bouclier, Attaque divine.
-* Vétéran : Attaque rapide, Attaque énergique, Attaque chargée, Attaque perçante, Concentration.
-* Mage : Attaque empoisonnée, Attaque feu, Attaque vol de souffle, Attaque maudite, Attaque sombre.
+* Fantassin : Attaque simple :crossed\_swords:, Attaque perçante :sewing\_needle:, Attaque puissante :axe:, Attaque chargée :magnet:, Protection :person\_gesturing\_no:.
+* Tank : Attaque simple :crossed\_swords:, Attaque intense :triumph:, Attaque riposte :boxing\_glove:, Attaque bouclier :shield:, Boost de la défense :person\_in\_lotus\_position:.
+* Canonnier : Attaque rapide :dagger:, Attaque sabotage :hammer\_pick:, Attaque boomerang :boomerang:, Attaque canon :gun:, Attaque intense :triumph:.
+* Chevalier : Attaque simple :crossed\_swords:, Attaque rapide :dagger:, Attaque lourde :person\_lifting\_weights:, Bénédiction :angel:, Repos :bed:.
+* Paladin : Attaque simple :crossed\_swords:, Attaque bélier :ram:, Attaque ultime :comet:, Attaque bouclier :shield:, Attaque divine :pray:.
+* Vétéran : Attaque rapide :dagger:, Attaque énergique :zap:, Attaque chargée :magnet:, Attaque perçante :sewing\_needle:, Concentration :dart:.
+* Mage : Attaque empoisonnée :test\_tube:, Attaque feu :fire:, Attaque vol de souffle :dash:, Attaque maudite :smiling\_imp:, Attaque sombre :eight\_pointed\_black\_star:.
 
 {% hint style="danger" %}
 Les attaques ci-dessus restent toujours les mêmes pour l'équivalent de la classe associée en fonction du niveau.

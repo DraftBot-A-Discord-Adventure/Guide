@@ -21,11 +21,13 @@
 * [Guildes](notions-principale/guildes.md)
 * [Familiers](notions-principale/familiers.md)
 * [Missions](notions-principale/missions.md)
+* [Villes et maisons](notions-principale/villes-et-maisons.md)
 
 ## Notions avancées
 
 * [Monter dans les classements](notions-avancees/monter-dans-les-classements.md)
 * [Gestion de l'inventaire](notions-avancees/inventory.md)
+* [Matériaux et enchantements](notions-avancees/materiaux-et-enchantements.md)
 * [Îles mystérieuses](notions-avancees/iles-mysterieuses.md)
 * [Mini-évènements sur le continent principal](notions-avancees/mini-evenements.md)
 * [Badges](notions-avancees/badges.md)

@@ -8,7 +8,13 @@ La carte du monde de Crownicles permet aux joueurs de se repérer entre les diff
 
 #### :european\_castle: **Château du Roi** :
 
-Le Château du Roi est l'endroit où le joueur pourra débuter son aventure et découvrir ainsi quelques notions de bases pour conquérir le cœur de la Princesse ! Mais celui-ci pourrait être amené à avoir d'autres fonctions…
+Le Château du Roi est l'endroit où le joueur pourra débuter son aventure et découvrir ainsi quelques notions de bases pour conquérir le cœur de la Princesse !
+
+***
+
+#### :homes:**Cour du Château**
+
+Esplanade pavée reliant Boug-Coton aux portes du château royal. Les messagers s’y croisent avant d’accéder aux appartements du roi.
 
 ***
 

@@ -1,3 +1,6 @@
+- tag: images-pas-a-jour
+  label: Images pas à jour
+  color: $warning
 - tag: partiellement-pas-a-jour
   label: Partiellement pas à jour
   color: $info

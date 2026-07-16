@@ -4,12 +4,13 @@ Les rapports représentent la base du jeu. Il s'agit d'une petite description de
 
 ### Interface :
 
-La commande `/rapport` possède 4 états différents :
+La commande `/rapport` possède 5 états différents :
 
 * Le joueur est en train de voyager.
 * Le joueur est victime d'une altération d'état.
 * Le joueur réalise un évènement.
 * Le joueur réalise un mini-évènement.
+* Le joueur est en ville.
 
 <picture><source srcset="../.gitbook/assets/voyage_debut_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/voyage_debut_clair.png" alt="Interface de la commande rapport quand le joueur est en train de voyager"></picture>
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - partiellement-pas-a-jour
+  - images-pas-a-jour
 ---
 
 # Familiers
@@ -54,9 +54,9 @@ Vous pouvez également le caresser (mais cela n'a aucun effet sur son moral).
 
 #### Acheter de la nourriture.
 
-L'achat de nourriture pour les familiers se fait dans le magasin de votre guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise, pour votre animal.
+L'achat de nourriture pour les familiers se fait dans les villes, à l'approvisionnement de la guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise, pour votre animal.
 
-<picture><source srcset="../.gitbook/assets/Screenshot_20250617-151531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184818.png" alt="Le magasin de guilde permet d&#x27;acheter différentes sortes de nourritures"></picture>
+<picture><source srcset="../.gitbook/assets/Screenshot_20250617-151531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184818.png" alt="METTRE UN SCREEN DE L&#x27;APPROVISIONNEMENT DE LA V6"></picture>
 
 {% hint style="info" %}
 Il est aussi possible que votre familier trouve de la nourriture pendant l'aventure.
@@ -114,7 +114,7 @@ Vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_c
 Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
 
-Contre 3 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement. La consultation s'obtient dans le [magasin de missions](missions.md#magasin-des-missions).
+Contre 3 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement, et lui donnera 15 points d'amour :revolving\_hearts:. La consultation s'obtient à Mergagnan ou Claire de Ville.&#x20;
 
 <figure><picture><source srcset="../.gitbook/assets/vétérinaire_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/vétérinaire_clair.png" alt="Description du familier avec le vétérinaire , achetable via le magasin de missions , la commande /magasinmissions"></picture><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, quand il aura faim mais encore bien plus.</p></figcaption></figure>
 
@@ -127,7 +127,7 @@ Pour visualiser le refuge, vous pouvez utiliser la commande `/abriguilde`.
 <picture><source srcset="../.gitbook/assets/abriguilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/abriguilde_clair.png" alt="Refuge d&#x27;une guilde"></picture>
 
 {% hint style="info" %}
-Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents.
+Le refuge de votre guilde permet d'accueillir jusqu'à 6 familiers différents, ou plus en l'améliorant.&#x20;
 {% endhint %}
 
 ### Comment surnommer un familier ?
@@ -149,7 +149,7 @@ Il y a des conditions importantes à respecter pour la vente de familiers :
 * Vous ne pouvez pas vendre un familier en dessous de 100:moneybag:, ni au-dessus de 50 000 :moneybag:.
 
 {% hint style="warning" %}
-Le vendeur ne gagnera pas d'argent lors de la transaction, mais de l'expérience de guilde.
+L'argent sera transféré dans la trésorerie de la guilde du vendeur, moyennant une commission de 5% (maximum 350 :moneybag:)
 {% endhint %}
 
 ### **Liste des familiers disponibles**
@@ -364,11 +364,12 @@ Pour augmenter vos chances de réussite de vos expéditions, en plus de regarder
 
 * Dresser votre familier.
 * Choisir un familier avec une meilleure statistique de force.
+* Envoyer votre familier dans un lieu qu'il apprécie particulièrement
 * Vérifier que l’entrepôt de votre guilde contient suffisamment de provisions.
 
 Une fois l'expédition terminée:
 
-<table><thead><tr><th width="304.39996337890625">Échec</th><th width="443.4000244140625">Succès</th></tr></thead><tbody><tr><td>L'expédition est un échec:  le familier perd 3 points d'affection.</td><td><p>Vous recevrez: </p><p>-des jetons (si vous avez de la place),</p><p>-de l'argent, </p><p>-de l'expérience, </p><p>-des points,</p><p>-un équipement.</p><p>Ensuite, les récompenses estimées agissent comme un </p><p>multiplicateur:</p><p>-Maigres (0-0.5)<br>-Modestes (0.51-1.0)<br>-Correctes (1.01-1.5)<br>-Abondantes (1.51-2.0)</p><p>Les préférences des familiers agissent pour ± 30% si le </p><p>familier aime ou déteste le type de terrain.</p><p>Les expéditions mentionnant un trésor en jetons possèdent un multiplicateur de jetons.</p></td></tr></tbody></table>
+<table><thead><tr><th width="304.39996337890625">Échec</th><th width="443.4000244140625">Succès</th></tr></thead><tbody><tr><td>L'expédition est un échec:  le familier perd 3 points d'affection.</td><td><p>Vous recevrez: </p><p>-des jetons (si vous avez de la place),</p><p>-de l'argent, </p><p>-de l'expérience, </p><p>-des points,</p><p>-un équipement,</p><p>-des matériaux.</p><p>Ensuite, les récompenses estimées, la probabilité de succès et les rations utilisées permettent de statuer sur la valeur de ces récompenses (quantité de ressources ou qualité de l'équipement).</p><p>Un terrain apprécié par le familier permet de récupérer 100% des récompenses, là où un terrain neutre ne gagne que 80% et détesté 25%. </p><p>Les expéditions mentionnant un trésor en jetons possèdent un multiplicateur de jetons.</p></td></tr></tbody></table>
 
 {% hint style="warning" %}
 Quand votre familier est en expédition, il n'est pas considéré comme équipé, il ne vous assistera pas pendant les mini-événements, les combats (attaque et défense) et sur les îles mystérieuses.
@@ -379,5 +380,5 @@ Les jetons en récompenses des expéditions peuvent vous faire dépasser la limi
 {% endhint %}
 
 {% hint style="info" %}
-Vous pouvez trouver au cours de vos expéditions avec un petit probabilité un talisman de clonage (certains expéditions parle de ce talisman ce qui se traduit par un multiplicateur x10). Ce puissant artefact crée un double de votre familier qui vous aidera dans les mini-événements et les combats en défense.
+Vous pouvez trouver au cours de vos expéditions avec une petite probabilité un talisman de clonage (certains expéditions parle de ce talisman ce qui se traduit par un multiplicateur x10). Ce puissant artefact crée un double de votre familier qui vous aidera dans les mini-événements et les combats en défense.
 {% endhint %}

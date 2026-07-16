@@ -27,7 +27,7 @@ La seconde partie de l'inventaire sert à **stocker des équipements supplément
 <figure><picture><source srcset="../.gitbook/assets/réserve_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190415.png" alt="Réserve de l&#x27;inventaire disponible en achetant des places d&#x27;invntaire dans le le /magasin"></picture><figcaption><p>Un exemple de réserve d'inventaire</p></figcaption></figure>
 
 {% hint style="info" %}
-La réserve du joueur peut être améliorée dans le magasin. Différents emplacements supplémentaires sont achetables:
+La réserve du joueur peut être améliorée chez le Tanneur, à Mergagnan. Différents emplacements supplémentaires sont achetables:
 
 * 1 emplacement pour une arme,
 * 1 emplacement pour une armure,
@@ -45,6 +45,4 @@ La commande `/bonusjournalier` permet d'utiliser un objet à effet journalier. U
 
 La commande `/vendre` permet de vendre n'importe quel équipement situé dans la réserve d'un joueur.
 
-La commande `/intervertir` permet d'échanger les équipements actifs avec les équipements de la réserve.
-
-La commande `/deposer` permet de déposer un équipement actif dans la réserve (si vous avez de la place).&#x20;
+La commande `/equiper` permet d'échanger les équipements actifs avec les équipements de la réserve.

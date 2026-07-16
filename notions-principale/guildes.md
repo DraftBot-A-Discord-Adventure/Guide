@@ -46,14 +46,19 @@ Il existe également 3 options à cette commande:
 
 ### Monter de niveau une guilde:
 
+Chaque guilde possède une barre d'expérience :star:, dont les paliers sont les mêmes que ceux des joueurs, à ceci près que le niveau de guilde est limité à 150. Chaque membre peut contribuer à faire augmenter ce niveau.&#x20;
+
 #### Dans les mini-événements
 
 Lors d'un mini-événement de ce [type](../notions-avancees/mini-evenements.md#gagner-de-lexperience-de-guilde), vous pouvez gagner de l'expérience de guilde.
 
-#### Dans le magasin de guilde
+#### En améliorant les bâtiments de guilde
 
-Dans le magasin de guilde, le joueur peut acheter de l'expérience pour sa guilde.\
-Pour 1 000 pièces, la guilde recevra aléatoirement entre 50 et 450:star: et pour 15 000 pièces elle recevra entre 750 et 6750:star:.
+A chaque amélioration d'un bâtiment de guilde, celle-ci gagne de l'expérience :star:. Plus l'amélioration coûte cher, plus la récompense est grande. 1/5 du prix est converti en expérience, avec 1k :moneybag: donnant entre 50 et 450 :star:.&#x20;
+
+#### En vainquant des monstres
+
+En explorant les :island: [îles mystérieuses](../notions-avancees/iles-mysterieuses.md), les joueurs d'une guilde lui rapportent de l'expérience :star: à chaque monstre vaincu.&#x20;
 
 #### Dans les récompenses quotidiennes
 
@@ -90,18 +95,72 @@ Vous avez également une petite chance de trouver en plus un [familier](familier
 
 Vous pouvez mettre un aîné pour votre guilde avec la commande `/aineguilde`. L'aîné pourra alors recruter des gens et modifier la description de votre guilde. Bien sûr si celui-ci vous énerve vous pouvez le retirer avec la commande `/supprimeraineguilde`.
 
-### Voir le stockage de la guilde.
+### Qu'est-ce que le domaine de guilde ?&#x20;
 
-Vous pouvez afficher la nourriture stockée dans votre guilde avec la commande `/entrepotguilde`. Vous pouvez stocker jusqu'à :&#x20;
+Le domaine de guilde est un ensemble de bâtiments que le chef de guilde peut installer dans une ville et améliorer, afin de fournir à ses membres des services de meilleur qualité. \
+Tout d'abord, le chef de guilde doit installer son domaine dans une ville, grâce au :office\_worker:notaire. Cette action est gratuite. Il peut améliorer divers bâtiments. Le coût sera directement puisé dans une trésorerie commune. &#x20;
 
-* 25 friandises
-* 15 salades
-* 15 viandes
-* 5 soupes ultimes
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f6d2">🛒</span> La boutique</summary>
+
+La boutique s'achète pour 2 000 :moneybag:, à partir du niveau 5 de guilde. Elle permet aux différents membres de participer au trésor commun et d'acheter de la nourriture de guilde.&#x20;
+
+Les friandises :candy: coûtent 20 :moneybag:, les viandes :meat\_on\_bone: et salades :leafy\_green: pour 250 :moneybag: et le prix des soupes ultimes :stew: culmine à 600 :moneybag:. Les stocks peuvent être renouvelés dans toutes les villes.&#x20;
+
+A chaque don à la trésorerie, l'intendant demande une commission de 5%, avec un maximum de 350 :moneybag:.&#x20;
 
 {% hint style="info" %}
-Vous pouvez acheter de la nourriture dans le magasin de la guilde.
+Lorsque vous achetez de la nourriture, l'intendant vous propose de rembourser la somme utilisée, sans demander de commission.&#x20;
 {% endhint %}
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f43e">🐾</span> Le refuge </summary>
+
+Ce bâtiment permet de voir les différents familiers de la guilde. Il est aussi visible avec la commande `/abriguilde` , et permet de stocker initialement 6 familiers.&#x20;
+
+Chaque amélioration de ce bâtiment augmente de 2 les places disponibles, allant jusqu'à 18 places au niveau 6, moyennant un coût et un niveau minimum de la guilde. Le niveau maximal coûte 430k :moneybag:.
+
+<table><thead><tr><th width="97">Niveau</th><th width="140.5">Coût</th><th width="152.5">Niveau requis</th><th>Places disponibles</th></tr></thead><tbody><tr><td>1</td><td>10 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>15</td><td>8</td></tr><tr><td>2</td><td>20 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>40</td><td>10</td></tr><tr><td>3</td><td>40 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>75</td><td>12</td></tr><tr><td>4</td><td>80 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>100</td><td>14</td></tr><tr><td>5</td><td>120 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>120</td><td>16</td></tr><tr><td>6</td><td>160 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>150</td><td>18</td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f356">🍖</span> L'entrepôt</summary>
+
+Ce bâtiment permet de voir le stockage en nourriture de la guilde. Il est aussi visible avec la commande `/entrepotguilde` .&#x20;
+
+Les stocks initiaux sont de 150 :candy:, 90 :meat\_on\_bone: & :leafy\_green: et 30 :stew:. Chaque niveau augmente le stockage et permet une production de nourriture (entre parenthèse dans le tableau ci dessous sont les approvisionnements quotidiens gratuits et automatiques).&#x20;
+
+<table><thead><tr><th width="97">Niveau</th><th width="110">Coût</th><th width="136.5">Niveau requis</th><th width="116">Friandises</th><th width="111">Viandes &#x26; salades</th><th width="98">Soupes ultimes</th></tr></thead><tbody><tr><td>1</td><td>40 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>15</td><td>250 (+3)</td><td>150</td><td>50</td></tr><tr><td>2</td><td>60 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>40</td><td>400 (+4)</td><td>240 </td><td>80 </td></tr><tr><td>3</td><td>100 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>75</td><td>700 (+5)</td><td>420 (+1)</td><td>140</td></tr><tr><td>4</td><td>120 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>100</td><td>1000 (+6)</td><td>600 (+2)</td><td>200 (+1)</td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="2694">⚔️</span> La ménagerie</summary>
+
+Ce bâtiment permet d'entrainer les familiers du refuge, leur faisant gagner automatiquement des points d'amour :two\_hearts: chaque jour.&#x20;
+
+<table><thead><tr><th width="110">Niveau</th><th width="149.5">Coût</th><th width="142">Niveau requis</th><th width="284">Gain quotidien d'affection</th></tr></thead><tbody><tr><td>1</td><td>150 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>50</td><td>+1 <span data-gb-custom-inline data-tag="emoji" data-code="1f495">💕</span> par jour</td></tr><tr><td>2</td><td>300 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>100</td><td>+2 <span data-gb-custom-inline data-tag="emoji" data-code="1f495">💕</span> par jour</td></tr><tr><td>3</td><td>600 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span> </td><td>150</td><td>+3 <span data-gb-custom-inline data-tag="emoji" data-code="1f495">💕</span> par jour</td></tr></tbody></table>
+
+</details>
+
+{% hint style="info" %}
+Le domaine de guilde peut être déplacé dans une autre ville pour 100 000 :moneybag:.
+{% endhint %}
+
+### Comment participer à la trésorerie ?
+
+Il y a 3 moyens de faire augmenter le trésor commun d'une guilde :&#x20;
+
+* Donner de l'argent par la boutique, en se rendant au domaine de la guilde
+* En récompense quotidienne avec `/bonusjournalierguilde`&#x20;
+* En gagnant des points de guilde :mirror\_ball:, notamment sur les :island: îles mystérieuses. Chaque point gagné donne 1 :moneybag: dans la trésorerie.
 
 ### Comment quitter une guilde ?
 

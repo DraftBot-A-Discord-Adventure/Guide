@@ -76,6 +76,10 @@ C'est l'endroit où vous dirigez sur la carte.
 
 Un animal qui vous accompagne dans votre aventure.
 
+### Niveau de cuisine
+
+Il s'agit de l'expérience accumulée lors des préparations de différentes recettes, ce qui vous octroie un grade de cuisinier.&#x20;
+
 ### Badges
 
 Pour finir, le bot ajoutera en réaction de votre profil des émojis correspondants aux [badges](../notions-avancees/badges.md) que vous avez acquis durant votre aventure.
