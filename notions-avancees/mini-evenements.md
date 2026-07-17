@@ -468,6 +468,10 @@ Selon votre choix, vous pourrez :&#x20;
 Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offrira à vous et vous pourrez soit ajouter un ingrédient soit faire une action.
 {% endhint %}
 
+{% hint style="info" %}
+Recevoir une potion permet parfois de débloquer une recette de cuisine, selon le type de potion reçue.
+{% endhint %}
+
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193607.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193555.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière (en étant mage mystique <span data-gb-custom-inline data-tag="emoji" data-code="1f9d9">🧙</span>)</p></figcaption></figure>
 
 {% hint style="info" icon="circle-info" %}
@@ -522,6 +526,8 @@ Vous rencontrez un marchand qui vous donne une récompense parmi celles-ci :
 * Un équipement aléatoire, dépendant de votre niveau, si le niveau de votre guilde est supérieur ou égal au niveau 30.
 
 Si vous n'avez pas de guilde, vous recevrez de l'argent.
+
+Gaspard-Joe peut aussi vendre diverses recettes de cuisines, dont les prix progressifs sont : 15 - 50 - 100 - 250 - 500 - 750 - 1000 - 1250 - 1500 :moneybag:.
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193704.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193715.png" alt=""></picture><figcaption><p>Exemple de mini-évènement du marchand ultime de nourriture</p></figcaption></figure>
 
@@ -682,8 +688,53 @@ Ce mini-événement vous fera rencontrer le familier d'un autre joueur qui est e
 
 Ce mini-événement vous fera rencontrer une fermière qui vous donnera de la salade, si vous n'avez pas de guilde ou que votre entrepôt est plein, elle vous donnera un objet.
 
+La fermière peut aussi vendre des recettes :scroll: de cuisine, dont les prix progressifs sont : 15 - 50 - 100 - 250 - 500 - 750 - 1000 :moneybag:.&#x20;
+
 {% hint style="info" %}
 Ce mini-événement n'apparait que sur les routes proche d'une plaine et pas plus d'une fois par trajet.
 {% endhint %}
 
 <figure><picture><source srcset="../.gitbook/assets/SE_farmer_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_farmer_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
+## :bricks: Butin de matériaux
+
+**Rareté : 8**
+
+Ce mini-évènement permet de trouver entre 2 et 16 matériaux d'un même type, selon votre position sur la carte. Le lieu de départ ou d'arrivée définit ainsi un biome qui indique quel type de matériau sera fourni dans le mini-évènement.&#x20;
+
+{% hint style="info" %}
+Le biome choisit entre le départ et l'arrivée est aléatoire, pondéré par la proportion de trajet parcouru.
+{% endhint %}
+
+Ainsi, les montagnes :mountain: et grottes :hole: donneront des matériaux métalliques, les plaines :ear\_of\_rice:, forêts :evergreen\_tree: et côtes :ocean: donneront des matériaux naturels, les ruines :classical\_building: sont plus axées magies, les déserts :desert: fournissent des explosifs et les marais :herb: donnent des poisons.&#x20;
+
+10% des matériaux trouvés sont rares :fire:, 30% sont peu communs :small\_orange\_diamond:et le reste est commun :large\_orange\_diamond:.&#x20;
+
+{% hint style="info" %}
+Ce mini-évènement peut apparaître sur les îles mystérieuses.&#x20;
+{% endhint %}
+
+## :seedling: Le jardinier
+
+**Rareté : 9**
+
+Le jardinier donne aux joueurs diverses graines, sous certaines conditions, peut donner des plantes et différents conseils. Ces graines peuvent ensuite être plantées dans le :seedling: [jardin](../notions-principale/villes-et-maisons.md#le-jardinage), pour produire la plante correspondante à chaque cycle de croissance.
+
+{% hint style="warning" %}
+Vous ne pourrez avoir sur vous qu'une seule graine. Plantez là pour récupérer la suivante.
+{% endhint %}
+
+&#x20;Il apparait sur les trajets :&#x20;
+
+* Le berceau - La forêt du viellard
+* Le village Coco - La forêt Célestrum
+* Le Bois Hurlant - Lac Mirage
+
+Voici la liste des graines fournies, que le joueur doit récupérer et planter dans l'ordre, avec leurs conditions associées :&#x20;
+
+<table data-search="false"><thead><tr><th width="125">Graine</th><th width="122">Niveau min</th><th width="104.5">Coût</th><th>Conditions</th></tr></thead><tbody><tr><td>Herbe commune</td><td>8</td><td>0</td><td>Aucune</td></tr><tr><td><p>Trèfle </p><p>doré</p></td><td>15</td><td>250</td><td>Aucune</td></tr><tr><td>Mousse lunaire</td><td>22</td><td>0</td><td>La nuit (21h-6h) et en lune claire (>0.5)</td></tr><tr><td><p>Racine de </p><p>fer</p></td><td>30</td><td>850</td><td>Aucune</td></tr><tr><td>Champignon nocturne </td><td>38</td><td>0</td><td>La nuit (21h-6h)</td></tr><tr><td>Feuille venimeuse</td><td>48</td><td>0</td><td>Familier herbivore dressé</td></tr><tr><td><p>Bulbe de</p><p> feu</p></td><td>58</td><td>0</td><td>En mage ou avec un familier de feu ou avec un équipement de feu</td></tr><tr><td>Plante carnée</td><td>68</td><td>0</td><td>Familier carnivore au moins épique <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td></tr><tr><td>Fleur de cristal</td><td>85</td><td>2500</td><td>Aucune</td></tr><tr><td>Arbre ancestral</td><td>100</td><td>0</td><td>Familier herbivore dressé au moins épique <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td></tr></tbody></table>
+
+{% hint style="info" %}
+Les familiers de feu sont le dragon :dragon: et le phénix :fire:. Les équipement de feu sont le Brûleur, l'épée du dragon, la lame du phénix, le pare-feu et le Soleil ou bien une arme avec l'enchantement Aspect de feu.
+{% endhint %}
+

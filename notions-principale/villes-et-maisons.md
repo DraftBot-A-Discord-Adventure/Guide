@@ -44,7 +44,7 @@ S'il vous manque des matériaux, le forgeron peut vous les vendre, avec un prix 
 
 Chaque ville possède son auberge personnalisée, qui propose différents services.&#x20;
 
-Les repas, consommables toutes les 12h, rapportent de l'énergie :zap: et les chambres, utilisables qu'une fois par jour, rapportent un peu de vie :heart:. Les villes les plus luxueuses proposent des services plus chers, mais plus efficaces.&#x20;
+Les repas, consommables toutes les 12h, rapportent de l'énergie :zap: et les chambres, utilisables qu'une fois toutes les 24h, rapportent un peu de vie :heart:. Les villes les plus luxueuses proposent des services plus chers, mais plus efficaces.&#x20;
 
 </details>
 
@@ -152,10 +152,14 @@ Les mages mystiques :mage: ont une réduction de 20% !
 Chaque joueur peut acheter et améliorer sa maison chez le notaire :office\_worker: d'une ville de son choix. Cette maison lui offre un lit pour de la vie :heart: gratuite, un coffre :package: pour stocker de l'équipement et des ressources, un jardin :seedling: à cultiver, une forge :hammer\_pick: personnelle et une cuisine :fire:.&#x20;
 
 {% hint style="warning" %}
-Déplacer une maison coûte 15 000 :moneybag:.
+Déplacer une maison coûte 15 000 :moneybag:, sauf si c'est dans la ville la moins peuplé, auquel cas le prix est diminué à 1 000 :moneybag:.&#x20;
 {% endhint %}
 
 ### Les niveaux d'amélioration
+
+{% hint style="info" %}
+Chaque ville multiplie les prix par un coefficient qui lui est propre, allant de +8% à -5%. Renseignez-vous auprès du notaire, car le prix pourrait impacter votre décision.&#x20;
+{% endhint %}
 
 <table data-search="false"><thead><tr><th width="95">Niveau</th><th width="113.5">Prix</th><th width="95.5">Niveau requis</th><th width="69">Lit</th><th width="152">Emplacements arme&#x26;bouclier</th><th width="145.5">Emplacements objet</th><th width="146.5">Emplacements potions</th><th width="132">Rareté max amélioration</th><th width="137.5">Niveau max amélioration</th><th width="149">Emplacements jardin</th><th>Stockage plantes</th><th width="104.5">Qualité terre</th><th width="150.5">Emplacements de cuisine</th></tr></thead><tbody><tr><td>1</td><td>1000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>0</td><td>+1 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1</td><td>0</td><td>0</td><td>Commun</td><td>1</td><td>0</td><td>3</td><td>-</td><td>0</td></tr><tr><td>2</td><td>3500 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>15</td><td>+2 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1</td><td>1</td><td>1</td><td>Exotique</td><td>1</td><td>2</td><td>4</td><td>Pauvre</td><td>1</td></tr><tr><td>3</td><td>20 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>30</td><td>+3 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1 (+1)</td><td>1</td><td>1</td><td>Rare</td><td>1</td><td>4</td><td>5</td><td>Pauvre</td><td>2</td></tr><tr><td>4</td><td>35 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>45</td><td>+4 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1 (+1)</td><td>1</td><td>1</td><td>Spécial</td><td>1</td><td>6</td><td>6</td><td>Moyenne</td><td>3</td></tr><tr><td>5</td><td>75 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>60</td><td>+5 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>2 (+1)</td><td>1 (+1)</td><td>1</td><td>Épique</td><td>2</td><td>8</td><td>12</td><td>Moyenne</td><td>4</td></tr><tr><td>6</td><td>100 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>85</td><td>+6 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>2 (+1)</td><td>1 (+1)</td><td>2</td><td>Légendaire</td><td>2</td><td>10</td><td>18</td><td>Riche</td><td>5</td></tr><tr><td>7</td><td>150 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>100</td><td>+7 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>3 (+1)</td><td>1 (+1)</td><td>3</td><td>Mythique</td><td>2</td><td>10</td><td>25</td><td>Riche </td><td>5</td></tr><tr><td>8</td><td>250 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>120</td><td>+8 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>3 (+1)</td><td>2 (+1)</td><td>4</td><td>Mythique</td><td>3</td><td>10</td><td>50</td><td>Riche</td><td>5</td></tr></tbody></table>
 
@@ -168,7 +172,7 @@ La forge personnelle permet d'économiser le prix du forgeron, mais consomme tou
 {% endhint %}
 
 {% hint style="warning" %}
-Utiliser le lit consomme une nuit de repos. Vous ne pourrez donc plus vous reposer dans une auberge pour le reste de la journée.&#x20;
+Utiliser le lit consomme une nuit de repos. Vous ne pourrez donc plus vous reposer dans une auberge pour les 24 prochaines heures.&#x20;
 {% endhint %}
 
 ### :seedling: Le jardinage
@@ -181,9 +185,13 @@ Une graine plantée produira de manière cyclique sa plante correspondante. Il n
 
 Il est possible d'arroser :droplet: les plantes toutes les 12h, ce qui a pour effet d'accélérer leur croissance d'une heure.&#x20;
 
+{% hint style="info" %}
+La qualité de la terre impacte la durée de croissance des plantes, allant jusqu'à doubler le temps d'attente pour une terre pauvre.
+{% endhint %}
+
 Une fois la plante récupérée, elle peut être stockée, utilisée dans diverses ou compostée pour former des matériaux : à chaque plante corresponds quelques matériaux disponibles.&#x20;
 
-Le jardin n'est disponible que dans la maison. Cependant, le joueur peut acheter le :four\_leaf\_clover: Cœur Sylvestre à l'Herboriste du Village Coco, afin de pouvoir le manipuler n'importe quand à l'aide de la commande `/jardin`. Il n'est cependant pas possible d'arroser.&#x20;
+Le jardin n'est disponible que dans la maison. Cependant, le joueur peut acheter le :four\_leaf\_clover: Cœur Sylvestre à l'Herboriste du Village Coco pour 2450 :moneybag:, afin de pouvoir le manipuler n'importe quand à l'aide de la commande `/jardin`. Il n'est cependant pas possible d'arroser.&#x20;
 
 ### :fire: La cuisine
 
@@ -207,11 +215,11 @@ Relancer le fourneau permet de modifier les recettes proposées. L'action coûte
 Il est possible d'épingler une recette à préparer plus tard. Elle sera conservée.&#x20;
 {% endhint %}
 
-Toutes les recettes :scroll: ne sont pas disponible immédiatement. Certaines se débloquent en obtenant plus de fourneaux, en prenant des niveaux de cuisine et d'autres doivent être achetées auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) ou de [Gaspard-Joe](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture), en mini-evènement.&#x20;
+Toutes les recettes :scroll: ne sont pas disponible immédiatement. Certaines se débloquent en obtenant plus de fourneaux et d'autres doivent être achetées auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) ou de [Gaspard-Joe](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture), en mini-evènement. Les joueurs peuvent aussi apprendre des recettes en cuisinant ou en aidant la sorcière (mini-évènement).&#x20;
 
-Augmenter son niveau et monter en grade de cuisine permet d'accéder à certains avantages pour les préparations. Vous pourrez cuisiner sans pénalité d'échec des préparations d'un plus haut niveau, avoir moins de recettes cachées et parfois ne pas consommer certaines ressources.&#x20;
+Augmenter son niveau et monter en grade de cuisine permet d'accéder à certains avantages pour les préparations. Vous pourrez cuisiner sans pénalité d'échec des préparations d'un plus haut niveau, avoir moins de recettes cachées, ne pas consommer certaines ressources ou doubler l'expérience reçue.&#x20;
 
-<table data-search="false"><thead><tr><th width="189.5">Grade</th><th width="162">Niveaux de cuisine</th><th width="175">Niveau max préparation</th><th width="204">Succès de base</th></tr></thead><tbody><tr><td>Aide-cuisine</td><td>0-10</td><td>2</td><td>90%</td></tr><tr><td>Marmiton</td><td>11-20</td><td>3</td><td>92%</td></tr><tr><td>Cuisinier</td><td>21-30</td><td>4</td><td>93%</td></tr><tr><td>Rôtisseur</td><td>31-40</td><td>5</td><td>94%</td></tr><tr><td>Saucier</td><td>41-50</td><td>5</td><td>95%</td></tr><tr><td>Maître d'office</td><td>51-60</td><td>6</td><td>96%</td></tr><tr><td>Chef de table</td><td>61-70</td><td>7</td><td>97%</td></tr><tr><td>Chef des fourneaux</td><td>71-80</td><td>7</td><td>98%</td></tr><tr><td>Maître des cuisines</td><td>81-90</td><td>8</td><td>98,5%</td></tr><tr><td>Grand cuisinier royal</td><td>91+</td><td>8</td><td>99%</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="189.5">Grade</th><th width="130">Niveaux de cuisine</th><th width="126.5">Niveau max préparation</th><th width="166">Succès de base</th><th width="115">Recettes cachées</th><th>Sauvegarde matériau</th><th>Sauvegarde bois</th><th width="112.5">XP doublée</th></tr></thead><tbody><tr><td>Aide-cuisine</td><td>0-10</td><td>2</td><td>90%</td><td>20%</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Marmiton</td><td>11-20</td><td>3</td><td>92%</td><td>10%</td><td>2%</td><td>1%</td><td>1%</td></tr><tr><td>Cuisinier</td><td>21-30</td><td>4</td><td>93%</td><td>10%</td><td>5%</td><td>2%</td><td>2%</td></tr><tr><td>Rôtisseur</td><td>31-40</td><td>5</td><td>94%</td><td>5%</td><td>8%</td><td>4%</td><td>3%</td></tr><tr><td>Saucier</td><td>41-50</td><td>5</td><td>95%</td><td>5%</td><td>11%</td><td>6%</td><td>4%</td></tr><tr><td>Maître d'office</td><td>51-60</td><td>6</td><td>96%</td><td>5%</td><td>14%</td><td>8%</td><td>5%</td></tr><tr><td>Chef de table</td><td>61-70</td><td>7</td><td>97%</td><td>5%</td><td>17%</td><td>10%</td><td>6%</td></tr><tr><td>Chef des fourneaux</td><td>71-80</td><td>7</td><td>98%</td><td>5%</td><td>20%</td><td>12%</td><td>7%</td></tr><tr><td>Maître des cuisines</td><td>81-90</td><td>8</td><td>98,5%</td><td>5%</td><td>22%</td><td>13%</td><td>8%</td></tr><tr><td>Grand cuisinier royal</td><td>91+</td><td>8</td><td>99%</td><td>0.5%</td><td>25%</td><td>15%</td><td>10%</td></tr></tbody></table>
 
 {% hint style="info" %}
 Chaque niveau correspond pour les potions à une rareté. 1 = commun... et 8 = mythique.&#x20;
@@ -223,6 +231,8 @@ Préparer une recette d'un niveau supérieur au maximum du grade augmente les é
 
 ### :office\_worker:Les logis
 
-En plus de leur maison principale, les joueurs peuvent acheter un logis dans toutes les villes. Il permet d'accéder à un lit :bed: (max +4 :heart:), leur coffre :package: et leurs fourneaux :fire:, qui coûte entre 6k et 20k :moneybag:selon la ville.&#x20;
+En plus de leur maison principale, les joueurs peuvent acheter un logis dans toutes les villes. Il permet d'accéder à un lit :bed: (max +4 :heart:), leur coffre :package: et leurs fourneaux :fire:, qui coûte entre 6k et 50k :moneybag:selon la ville.&#x20;
 
 Dans la ville de la maison du joueur, le logis rapporte une rente de 212 :moneybag:par jour, qui s'accumule chez le notaire et peut être récupéré à tout moment.&#x20;
+
+<table><thead><tr><th>Ville</th><th width="261">Prix du logis</th><th width="210.5">Prix maison</th></tr></thead><tbody><tr><td>Boug-Coton</td><td>6 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>-5%</td></tr><tr><td>Ville Forte</td><td>9 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+1%</td></tr><tr><td>Claire de Ville</td><td>12 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>-1%</td></tr><tr><td>Mergagnan</td><td>18 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+3%</td></tr><tr><td>Château du roi</td><td>25 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+5%</td></tr><tr><td>Village Coco</td><td>50 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+8%</td></tr></tbody></table>
