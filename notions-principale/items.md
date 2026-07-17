@@ -294,6 +294,8 @@ Les potions de combat possède une durabilité en fonction de leur rareté (10% 
 
 | Symbole                                                                    | Nom                       | Effet                            | Rareté     |
 | -------------------------------------------------------------------------- | ------------------------- | -------------------------------- | ---------- |
+| :hourglass:                                                                | Tisane tiède              | :clock10:Avance le temps de 5m   | Commun     |
+| :hourglass:                                                                | Infusion rapide           | :clock10:Avance le temps de 10m  | Peu commun |
 | :potato:                                                                   | Jus de Pomme de Terre     | :clock10:Avance le temps de 15m  | Exotique   |
 | :tea:                                                                      | Jus                       | :clock10: Avance le temps de 1h  | Rare       |
 | :herb:                                                                     | Breuvage à base de coca   | :clock10: Avance le temps de 1h  | Rare       |
