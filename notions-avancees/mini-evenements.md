@@ -5,7 +5,7 @@ Il existe actuellement plusieurs types de mini-évènement dans le bot. Voici qu
 Plus la valeur de la rareté d'un mini-évènement est élevée, plus celui-ci est fréquent.
 
 {% hint style="info" %}
-Info supplémentaire :  Pour le coté technique, la sélection aléatoire des mini-évènements se déroule ainsi : Toutes les raretés de tous les mini-évènements sont additionnées, puis un nombre aléatoire entre 0 et le résultat est choisi aléatoirement, puis dans un ordre précis on soustrait à ce nombre la rareté de différents mini-évènements, et celui qui le fait atteindre 0 est choisi.
+Info supplémentaire :  pour le coté technique, la sélection aléatoire des mini-évènements se déroule ainsi : toutes les raretés de tous les mini-évènements sont additionnées, puis un nombre aléatoire entre 0 et le résultat est choisi aléatoirement, puis dans un ordre précis on soustrait à ce nombre la rareté de différents mini-évènements, et celui qui le fait atteindre 0 est choisi.
 {% endhint %}
 
 ## Marchand ambulant
@@ -472,7 +472,7 @@ Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offri
 Recevoir une potion permet parfois de débloquer une recette de cuisine, selon le type de potion reçue.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193607.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193555.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière (en étant mage mystique <span data-gb-custom-inline data-tag="emoji" data-code="1f9d9">🧙</span>)</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/SE_witch_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_witch_clair.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière</p></figcaption></figure>
 
 {% hint style="info" icon="circle-info" %}
 Si ajouter un ingrédient est immédiat, agir sur la concoction vous prendra généralement quelques minutes :clock2:.
@@ -527,7 +527,7 @@ Vous rencontrez un marchand qui vous donne une récompense parmi celles-ci :
 
 Si vous n'avez pas de guilde, vous recevrez de l'argent.
 
-Gaspard-Joe peut aussi vendre diverses recettes de cuisines, dont les prix progressifs sont : 15 - 50 - 100 - 250 - 500 - 750 - 1000 - 1250 - 1500 :moneybag:.
+Gaspard-Jo peut aussi vendre diverses recettes de cuisines, dont les prix progressifs sont : 15 - 50 - 100 - 250 - 500 - 750 - 1000 - 1250 - 1500 :moneybag:.
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193704.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 193715.png" alt=""></picture><figcaption><p>Exemple de mini-évènement du marchand ultime de nourriture</p></figcaption></figure>
 

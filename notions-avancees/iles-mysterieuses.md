@@ -269,7 +269,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 ### Creux du lagon
 
-**Monstre : tortue géante**
+**Monstre : Tortue géante**
 
 > Une gigantesque tortue se reposant paisiblement dans son lagon. Lorsqu’elle est menacée, elle se retranche dans sa carapace avant de libérer de puissants jets d’eau capables de renverser ses ennemis. Mille ans de survie ont transformé cette carapace en une forteresse de corne et de lichen que le temps lui-même semble avoir renoncé à user.
 

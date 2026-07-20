@@ -36,13 +36,13 @@ Cette ligne correspond aux statistiques liées aux [combats](combats.md). On y r
 
 ### [Missions](missions.md)
 
-* Votre nombre de gemmes
+* Votre nombre de gemmes :gem:
 * Votre avancement dans la campagne en pourcentage
 
 ### Classement et score
 
-* Votre rang / nombre de joueurs total&#x20;
-* Vos points accumulés au fil de l'aventure
+* Votre rang / nombre de joueurs total :trophy:
+* Vos points accumulés au fil de l'aventure :medal:
 
 Pour plus d'informations voir [monter-dans-les-classements.md](../notions-avancees/monter-dans-les-classements.md "mention")
 
@@ -56,7 +56,7 @@ Vous avez la possibilité de choisir une [classe](classes.md) pour votre personn
 
 ### Gloire et Ligue
 
-* Votre position dans le classement glorieux
+* Votre position dans le classement glorieux :trophy:
 * Vos points de gloire :sparkles:
 * Votre ligue : celle-ci change en fonction de votre gloire : plus d'informations dans [ligues.md](ligues.md "mention").
 
@@ -66,7 +66,7 @@ La couleur de l'embed indique aussi votre ligue actuelle !
 
 ### Guilde
 
-Vous pouvez créer ou rejoindre une [guilde](guildes.md).
+Vous pouvez créer ou rejoindre une [guilde](guildes.md) :stadium:.
 
 ### Destination
 
