@@ -25,8 +25,6 @@ L'altération d'état d'un joueur définit sa situation actuelle. Certains statu
 
 {% hint style="warning" %}
 L'altération d'état "Enfermé" est la seule altération d'état qui ne peut être soignée par le joueur. C'est également la seule altération qui ne peut pas être soignée grâce à une récompense de guilde.
-
-Un autre aventurier doit payer une caution de 3 000 :moneybag: pour la soigner.
 {% endhint %}
 
 {% hint style="danger" %}

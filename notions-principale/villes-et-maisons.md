@@ -30,11 +30,13 @@ Les potions du jour sont disponibles avec un stock de 5 potions par jour et par 
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="2692">⚒️</span> Le forgeron</summary>
 
-Le forgeron peut améliorer vos équipements en échange de matériaux, et retirer leurs enchantements, moyennant le coût de l'ouvrage. Un équipement rare sera plus coûteux à modifier.&#x20;
+Le forgeron peut améliorer vos équipements en échange de matériaux, et retirer leurs enchantements, moyennant le coût de l'ouvrage. Ceci permet d'augmenter les statistiques de combat de votre inventaire. Un équipement rare sera plus coûteux à modifier.&#x20;
 
 Les forgerons peuvent améliorer une arme ou un bouclier jusqu'au niveau 4.&#x20;
 
 S'il vous manque des matériaux, le forgeron peut vous les vendre, avec un prix augmentant pour chaque ressource ajoutée.&#x20;
+
+Il n'est pas présent au Village Coco.&#x20;
 
 </details>
 
@@ -91,7 +93,7 @@ Situé au Village Coco, ce marchand propose chaque semaine une sélection de pla
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f6d2">🛒</span> Le marchand de matériaux</summary>
 
-Installé à la Ville Forte, ce marchand vend des matériaux aléatoires à 133 :moneybag: l'unité, par lot de 10, 15 ou 30.&#x20;
+Installé à la Ville Forte, ce marchand vend des matériaux aléatoires à 133 :moneybag: l'unité, par lot de 10, 15 ou 30. Un matériau rare :fire: a 1/10 d'être trouvé, et cette probabilité monte à 3/10 pour les matériaux peu commun :large\_orange\_diamond:. Les 60% restant sont communs :small\_orange\_diamond:.&#x20;
 
 </details>
 
@@ -102,6 +104,8 @@ Installé à la Ville Forte, ce marchand vend des matériaux aléatoires à 133 
 Le bucheron du Village Coco vend exclusivement des lots de matériaux de type bois, avec une option premium garantissant des ressources de meilleure qualité.&#x20;
 
 Le bois est notamment utile pour attiser le fourneau de la cuisine, il est donc conseillé d'y faire le plein, surtout avec son prix très avantageux de 10 ou 35 :moneybag: le matériau.&#x20;
+
+Les :maple\_leaf: feuilles d'érable, :evergreen\_tree: pommes de pin et :chestnut: branches de chênes sont des bois de chauffage, là où les :herb: planches d'acacia, :deciduous\_tree: écorces d'hêtre et :chestnut: branches de noyer sont du bois travaillé.&#x20;
 
 </details>
 
@@ -139,9 +143,23 @@ Au Château du Roi, le marché royal propose divers services en échange de gemm
 
 <details>
 
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4dc">📜</span> L'archiviste des îles</summary>
+
+Situé au Château du roi, cet archiviste répertorie tous les exploits des aventuriers vainqueurs de boss finaux des [îles mystérieuses](../notions-avancees/iles-mysterieuses.md) - le Titan de magna :volcano:, la Reine des glaces :dragon:, le Seigneur des glaces :dragon:, le Kraken :squid:, le Léviathan :dragon:.&#x20;
+
+Les joueurs pourront notamment y trouver leur plus puissante créature vaincue avec le récit de leurs performances, ainsi qu'un classement des exploits des autres aventuriers selon la classe.
+
+{% hint style="info" %}
+Seuls les aventuriers avec une classe du palier 5 (niveau 80 et plus) apparaissent dans ce classement général.&#x20;
+{% endhint %}
+
+</details>
+
+<details>
+
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f52e">🔮</span> L'enchanteur</summary>
 
-L'enchanteur se déplace quotidiennement, allant de ville en ville et proposant chaque jour un enchantement différent, qu'il peut appliquer sur les armes ou les boucliers, en échange d'argent :moneybag: et de gemmes :gem:.&#x20;
+L'enchanteur se déplace quotidiennement, allant de ville en ville et proposant chaque jour un enchantement différent, qu'il peut appliquer sur les armes ou les boucliers, en échange d'argent :moneybag: et de gemmes :gem: (voir [materiaux-et-enchantements.md](../notions-avancees/materiaux-et-enchantements.md "mention")).
 
 Les mages mystiques :mage: ont une réduction de 20% !
 
@@ -152,7 +170,7 @@ Les mages mystiques :mage: ont une réduction de 20% !
 Chaque joueur peut acheter et améliorer sa maison chez le notaire :office\_worker: d'une ville de son choix. Cette maison lui offre un lit pour de la vie :heart: gratuite, un coffre :package: pour stocker de l'équipement et des ressources, un jardin :seedling: à cultiver, une forge :hammer\_pick: personnelle et une cuisine :fire:.&#x20;
 
 {% hint style="warning" %}
-Déplacer une maison coûte 15 000 :moneybag:, sauf si c'est dans la ville la moins peuplé, auquel cas le prix est diminué à 1 000 :moneybag:.&#x20;
+Déplacer une maison coûte 15 000 :moneybag:, sauf si c'est dans la ville la moins peuplée, auquel cas le prix est diminué à 1 000 :moneybag:.&#x20;
 {% endhint %}
 
 ### Les niveaux d'amélioration
@@ -191,11 +209,11 @@ La qualité de la terre impacte la durée de croissance des plantes, allant jusq
 
 Une fois la plante récupérée, elle peut être stockée, utilisée dans diverses ou compostée pour former des matériaux : à chaque plante corresponds quelques matériaux disponibles.&#x20;
 
-Le jardin n'est disponible que dans la maison. Cependant, le joueur peut acheter le :four\_leaf\_clover: Cœur Sylvestre à l'Herboriste du Village Coco pour 2450 :moneybag:, afin de pouvoir le manipuler n'importe quand à l'aide de la commande `/jardin`. Il n'est cependant pas possible d'arroser.&#x20;
+Le jardin n'est disponible que dans la maison. Cependant, le joueur peut acheter le :four\_leaf\_clover: Cœur Sylvestre à l'Herboriste du Village Coco pour 2450 :moneybag:, afin de pouvoir récolter ses plantes :seedling: n'importe quand à l'aide de la commande `/jardin`. Il n'est cependant pas possible d'arroser ni de planter une nouvelle graine.&#x20;
 
 ### :fire: La cuisine
 
-La cuisine permet de fabriquer des potions :alembic:, des matériaux rares :bricks: et de la nourriture :stew: à partir de plantes et de matériaux. Pour cela, le joueur doit allumer les fourneaux de sa maison ou son logis à l'aide d'un matériaux de type bois, et sélectionner une préparation. En cas de succès, le joueur reçoit son dû et de l'expérience de cuisine. Sinon, il perd les ressources utilisées, mais peut obtenir une potion sans effet.&#x20;
+La cuisine permet de fabriquer des potions :alembic:, des matériaux rares :bricks: et de la nourriture :stew: à partir de plantes et de matériaux. Pour cela, le joueur doit allumer les fourneaux de sa maison ou son logis à l'aide d'un matériaux de type bois :wood:, et sélectionner une préparation. En cas de succès, le joueur reçoit son dû et de l'expérience de cuisine. Sinon, il perd les ressources utilisées, mais peut obtenir une potion sans effet et de l'expérience. &#x20;
 
 {% hint style="info" %}
 Des matériaux et des plantes rares rapportent plus d'expérience.&#x20;
@@ -208,14 +226,14 @@ Chaque recette a une chance d'apparaitre masquée. Le résultat sera une surpris
 {% endhint %}
 
 {% hint style="info" %}
-Relancer le fourneau permet de modifier les recettes proposées. L'action coûte 1 bois.
+Relancer le fourneau permet de modifier les recettes proposées pour le coût d'un matériau de type bois, une ressource vendue par le bûcheron du Village Coco.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
 Il est possible d'épingler une recette à préparer plus tard. Elle sera conservée.&#x20;
 {% endhint %}
 
-Toutes les recettes :scroll: ne sont pas disponible immédiatement. Certaines se débloquent en obtenant plus de fourneaux et d'autres doivent être achetées auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) ou de [Gaspard-Joe](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture), en mini-evènement. Les joueurs peuvent aussi apprendre des recettes en cuisinant ou en aidant la sorcière (mini-évènement).&#x20;
+Toutes les recettes :scroll: ne sont pas disponibles immédiatement. Certaines se débloquent en obtenant plus de fourneaux ou lors de mini-evènements, en aidant la [sorcière](../notions-avancees/mini-evenements.md#sorciere) :woman\_mage: ou à l'achat auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) :woman\_farmer: ou de [Gaspard-Jo](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture) :stew:.
 
 Augmenter son niveau et monter en grade de cuisine permet d'accéder à certains avantages pour les préparations. Vous pourrez cuisiner sans pénalité d'échec des préparations d'un plus haut niveau, avoir moins de recettes cachées, ne pas consommer certaines ressources ou doubler l'expérience reçue.&#x20;
 
