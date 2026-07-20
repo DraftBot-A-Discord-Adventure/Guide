@@ -9,7 +9,7 @@ Ils peuvent être récupérés avec :&#x20;
 * Un mini-évènement qui en donne entre 1 et 16 d'un seul type.
 * En butin d'expédition de familier. Chaque type rapporte certains matériaux spécifiques.
 * En récompense après avoir battu un monstre des [iles-mysterieuses.md](iles-mysterieuses.md "mention")
-* Chez certains marchands, comme le bucheron du Village Coco ou le marchand de matériaux de la Ville Forte.
+* Chez certains marchands, comme le bûcheron du Village Coco ou le marchand de matériaux de la Ville Forte.
 
 Une fois récoltés, les matériaux sont parfois utilisés en [cuisine](../notions-principale/villes-et-maisons.md#la-cuisine) mais servent essentiellement à améliorer les armes, boucliers et armures à la forge, ce qui peut augmenter leurs performances jusqu'à ⅓ de puissance supplémentaire. Ces améliorations peuvent être faites chez les forgerons des villes ou dans la forge personnelle du joueur.
 
@@ -35,8 +35,8 @@ L'enchanteur Mernil :crystal\_ball: est un personnage itinérant, qui se déplac
 * Énergie max I-II-III : augmente l'énergie :zap:maximale (jusqu'à +9%)
 * Souffle de base I-II : Ajoute jusqu'à +2 :dash: au souffle de début de combat
 * Souffle max : augmente le souffle maximal :wind\_blowing\_face: de 3
-* Aspect de feu : augmente les dégâts de brûlure :hot\_face: de 20% et résiste le gel :cold\_face: de 25%
-* Aspect de givre : augmente les dégâts de gel :cold\_face: de 20% et résiste le feu :hot\_face: de 25%
+* Aspect de feu : augmente les dégâts de brûlure :hot\_face: de 20% et augmente la résistance au gel :cold\_face: de 25%
+* Aspect de givre : augmente les dégâts de gel :cold\_face: de 20% et augmente la résistance au feu :hot\_face: de 25%
 * Aspect de venin : augmente les dégâts de poison :nauseated\_face: de 20% et résiste à ses dégâts de 25%
 
 {% hint style="info" %}

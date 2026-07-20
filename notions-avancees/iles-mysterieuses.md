@@ -366,7 +366,7 @@ Comme son nom l'indique, il vous permet de récupérer un peu d'énergie.
 
 ### Péripéties
 
-**rareté : 8**
+**rareté : 6**
 
 Durant votre expédition sur l'île, certaines péripéties peuvent survenir, et vous (ainsi que votre guilde si vous en avez une) tentez de surmonter ces catastrophes. Ces mini-évènements ont des issues dépendantes de votre appartenance à une guilde. Ils peuvent ne rien faire, apporter un gain (points de guilde, expérience...) ou vous faire perdre de l'énergie, de l'argent ou de la vie.
 
@@ -443,6 +443,14 @@ _La plupart des choix dépendent aussi de la puissance de l’animal adverse. G�
 :rock: **Lancer un caillou au loin :** Fonctionne mieux avec une arme à distance et en canonnier
 
 </details>
+
+### Trouver des matériaux&#x20;
+
+**rareté : 8**
+
+Telle son [équivalent](mini-evenements.md#butin-de-materiaux) sur le continent terrestre, il permet de trouver entre 2 et 16 matériaux d'un même type.
+
+<figure><picture><source srcset="../.gitbook/assets/SE_findmaterial_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_findmaterial_clair.png" alt=""></picture><figcaption></figcaption></figure>
 
 ### Informations sur l'île
 

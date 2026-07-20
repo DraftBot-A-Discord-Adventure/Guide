@@ -113,9 +113,7 @@ Les :maple\_leaf: feuilles d'érable, :evergreen\_tree: pommes de pin et :chestn
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f9d1-2695">🧑‍⚕️</span>Les vétérinaires</summary>
 
-Situés à Mergagnan et à Claire de Ville, les vétérinaires auscultent les familiers pour 3 :gem:, leur donnant 15 points d'amour :revolving\_hearts: ainsi que fournissant de nombreuses informations.&#x20;
-
-Il est ainsi possible de connaitre le niveau d'amour, les statistiques, l'âge, les préférences, la capacité de combat, le régime et la faim d'un familier (voir [niveaux de moral](familiers.md#niveaux-de-moral)), ainsi qu'un familier que désire voir [Talvar](../notions-avancees/mini-evenements.md#le-nain-fan-des-animaux).
+Situés à Mergagnan et à Claire de Ville, les vétérinaires auscultent les familiers pour 3 :gem:, leur donnant 15 points d'amour :revolving\_hearts: si leur moral est inférieur ou égal à 50 ainsi que fournissant de nombreuses informations telles que le niveau d'amour, les statistiques, l'âge, les préférences, la capacité de combat, le régime et la faim d'un familier (voir [niveaux de moral](familiers.md#niveaux-de-moral)), ainsi qu'un familier que désire voir [Talvar](../notions-avancees/mini-evenements.md#le-nain-fan-des-animaux).
 
 </details>
 

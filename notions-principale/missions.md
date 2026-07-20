@@ -36,7 +36,7 @@ Les achats se divisent en 3 catégories :
 * Le trésor du roi vous octroie un objet ayant pour rareté minimale Spécial. Il coûte 30 gemmes.
 * La ferveur du roi vous donne 1 000 points mais ne peut être utilisée qu'une fois par semaine. Elle coûte 5 gemmes.
 
-Ces achats sont situés sur le :gem: marché royal du Château du roi
+Ces achats sont situés sur le :gem: marché royal du Château du Roi.
 {% endtab %}
 
 {% tab title="Utilitaires" %}
