@@ -4,6 +4,8 @@
 
 Certains lieux ont un statut spécial : Mergagnan, la Ville Forte, Boug-Coton, le Village Coco, Claire de Ville et le Château du roi permettent, une fois arrivé à destination, de s'y arrêter. Une fois entrés en ville, les joueurs ont accès à divers services, qui varient selon les jours et les lieux.&#x20;
 
+<figure><picture><source srcset="../.gitbook/assets/RapportVille_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/RapporVille_clair.png" alt=""></picture><figcaption><p>Les services de Claire De Ville</p></figcaption></figure>
+
 #### :shopping\_cart: Les services communs à toutes les villes&#x20;
 
 <details>
@@ -163,6 +165,8 @@ Les mages mystiques :mage: ont une réduction de 20% !
 
 </details>
 
+<figure><picture><source srcset="../.gitbook/assets/Archiviste_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Archiviste_clair.png" alt="Séparation en 2 catégories - exploits personnels et classement total - des boss finaux d&#x27;îles vaincus"></picture><figcaption><p>Les informations fournies par l'archiviste des îles</p></figcaption></figure>
+
 ## **La maison**
 
 Chaque joueur peut acheter et améliorer sa maison chez le notaire :office\_worker: d'une ville de son choix. Cette maison lui offre un lit pour de la vie :heart: gratuite, un coffre :package: pour stocker de l'équipement et des ressources, un jardin :seedling: à cultiver, une forge :hammer\_pick: personnelle et une cuisine :fire:.&#x20;
@@ -219,6 +223,8 @@ Des matériaux et des plantes rares rapportent plus d'expérience.&#x20;
 
 Le nom d'une potion et l'emote correspondante indiquent la nature de celle-ci. Une potion de protection :shield:confère de la défense, une potion de vigueur :zap:donne de l'énergie et une potion de célérité :hourglass: avance le temps.
 
+<figure><picture><source srcset="../.gitbook/assets/Cuisine_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Cuisine_clair (1).png" alt=""></picture><figcaption><p>Les différentes recettes générées par le fourneau</p></figcaption></figure>
+
 {% hint style="warning" %}
 Chaque recette a une chance d'apparaitre masquée. Le résultat sera une surprise !
 {% endhint %}
@@ -250,5 +256,7 @@ Préparer une recette d'un niveau supérieur au maximum du grade augmente les é
 En plus de leur maison principale, les joueurs peuvent acheter un logis dans toutes les villes. Il permet d'accéder à un lit :bed: (max +4 :heart:), leur coffre :package: et leurs fourneaux :fire:, qui coûte entre 6k et 50k :moneybag:selon la ville.&#x20;
 
 Dans la ville de la maison du joueur, le logis rapporte une rente de 212 :moneybag:par jour, qui s'accumule chez le notaire et peut être récupéré à tout moment.&#x20;
+
+<figure><picture><source srcset="../.gitbook/assets/NotaireLoyer_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/NotaireLoyer_clair.png" alt=""></picture><figcaption><p>Les différents logis et leurs rentes, visibles chez le notaire</p></figcaption></figure>
 
 <table><thead><tr><th>Ville</th><th width="261">Prix du logis</th><th width="210.5">Prix maison</th></tr></thead><tbody><tr><td>Boug-Coton</td><td>6 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>-5%</td></tr><tr><td>Ville Forte</td><td>9 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+1%</td></tr><tr><td>Claire de Ville</td><td>12 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>-1%</td></tr><tr><td>Mergagnan</td><td>18 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+3%</td></tr><tr><td>Château du roi</td><td>25 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+5%</td></tr><tr><td>Village Coco</td><td>50 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>+8%</td></tr></tbody></table>

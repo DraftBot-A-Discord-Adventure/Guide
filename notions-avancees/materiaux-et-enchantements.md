@@ -4,12 +4,16 @@
 
 Il existe 90 matériaux différents, regroupés en différents types, tels que les bois, les explosifs ou les métaux et différentes raretés - commun :small\_orange\_diamond:, peu commun :large\_orange\_diamond:, rare :fire:.
 
+<figure><picture><source srcset="../.gitbook/assets/InventaireMateriaux_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/InventaireMateriaux_clair.png" alt=""></picture><figcaption><p>Un inventaire de divers matériaux</p></figcaption></figure>
+
 Ils peuvent être récupérés avec :&#x20;
 
 * Un mini-évènement qui en donne entre 1 et 16 d'un seul type.
 * En butin d'expédition de familier. Chaque type rapporte certains matériaux spécifiques.
 * En récompense après avoir battu un monstre des [îles mystérieuses](iles-mysterieuses.md).
 * Chez certains marchands, comme le bûcheron du Village Coco ou le marchand de matériaux de la Ville Forte.
+
+<figure><picture><source srcset="../.gitbook/assets/AchatMateriaux_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/AchatMateriaux_clair.png" alt=""></picture><figcaption><p>Un achat de matériaux au marchand de la Ville Forte </p></figcaption></figure>
 
 Une fois récoltés, les matériaux sont parfois utilisés en [cuisine](../notions-principale/villes-et-maisons.md#la-cuisine) mais servent essentiellement à améliorer les armes, boucliers et armures à la forge, ce qui peut augmenter leurs performances jusqu'à ⅓ de puissance supplémentaire. Ces améliorations peuvent être faites chez les forgerons des villes ou dans la forge personnelle du joueur.
 
@@ -50,6 +54,8 @@ Les enchantements Attaque et Défense impactent directement les dégâts subis o
 Les enchantements d'attaque, de souffle de base et d'aspect de feu, givre et venin peuvent être appliqués sur une arme, alors que défense, vitesse, énergie et souffle max sont réservés aux boucliers et armures.&#x20;
 
 Seuls les enchantements de l'arme et de l'armure équipées sont appliqués.&#x20;
+
+<figure><picture><source srcset="../.gitbook/assets/EnchanteurMernil_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/EnchanteurMernil_clair.png" alt="Image enchanteur Mernil avec une proposition d&#x27;enchantement (énergie max I) pour boucliers et armures. Elle coute 5000 d&#x27;argent et 9 gemmes"></picture><figcaption><p>Une proposition d'enchantement pour boucliers et armures par Mernil</p></figcaption></figure>
 
 {% hint style="warning" %}
 Un équipement déjà enchanté ne peut pas recevoir de nouvel enchantement. Il faut d'abord le désenchanter chez un forgeron.&#x20;

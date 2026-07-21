@@ -32,16 +32,16 @@ Les achats se divisent en 3 catégories :
 
 {% tabs %}
 {% tab title="Ressources" %}
-* L'argent du roi permet de recevoir une quantité d'argent aléatoire entre 5150 et 7850 :moneybag:. Il coûte 50 gemmes.
-* Le trésor du roi vous octroie un objet ayant pour rareté minimale Spécial. Il coûte 30 gemmes.
-* La ferveur du roi vous donne 1 000 points mais ne peut être utilisée qu'une fois par semaine. Elle coûte 5 gemmes.
+* L'argent du roi :moneybag:permet de recevoir une quantité d'argent aléatoire entre 5150 et 7850 :moneybag:. Il coûte 50 gemmes.
+* Le trésor du roi :crown: vous octroie un objet ayant pour rareté minimale Spécial. Il coûte 30 gemmes.
+* La ferveur du roi :medal: vous donne 1 000 points mais ne peut être utilisée qu'une fois par semaine. Elle coûte 5 gemmes.
 
 Ces achats sont situés sur le :gem: marché royal du Château du Roi.
 {% endtab %}
 
 {% tab title="Utilitaires" %}
-* Le change-mission permet, comme son nom l'indique, de passer une mission secondaire :scroll: et de la remplacer par une nouvelle choisie aléatoirement. Celui-ci est d'abord gratuit puis augmente de 1 :gem: par utilisation. Le coût est réinitialisé chaque semaine, disponible au marché royal.
-* Les vétérinaires permettent de récupérer des informations sur le familier que vous avez actuellement. Celui-ci coûte 3 gemmes, et est disponible à Mergagnan et Claire de Ville.
+* Le change-mission :receipt: permet, comme son nom l'indique, de passer une mission secondaire :scroll: et de la remplacer par une nouvelle choisie aléatoirement. Celui-ci est d'abord gratuit puis augmente de 1 :gem: par utilisation. Le coût est réinitialisé chaque semaine, disponible au marché royal.
+* Les vétérinaires :health\_worker: permettent de récupérer des informations sur le familier que vous avez actuellement. Celui-ci coûte 3 gemmes, et est disponible à Mergagnan et Claire de Ville.
 {% endtab %}
 
 {% tab title="Prestige" %}
@@ -49,4 +49,4 @@ Ces achats sont situés sur le :gem: marché royal du Château du Roi.
 {% endtab %}
 {% endtabs %}
 
-<figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190155.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190144.png" alt="Magasin de missions , visible grâce à la commande /magasinmissions"></picture><figcaption><p>Affichage du marché royal</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/MarcheRoyal_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/MarcheRoyal_clair (1).png" alt="Magasin de missions , visible grâce à la commande /magasinmissions"></picture><figcaption><p>Affichage du marché royal</p></figcaption></figure>

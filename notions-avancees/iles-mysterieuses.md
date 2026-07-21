@@ -6,7 +6,9 @@ description: >-
 
 # Îles mystérieuses
 
-Les monstres sont répartis sur 3 îles : l'île volcanique, l'île de glace et île océanique.
+Les monstres sont répartis sur 3 îles : l'île volcanique, l'île de glace et île océanique. Chaque île possède un ou deux boss finaux qu'il est possible de vaincre. Ce sont les véritables défis de ces aventures !
+
+<figure><picture><source srcset="../.gitbook/assets/ArchivisteBoss_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/ArchivisteBoss_clair.png" alt="Liste des boss finaux par l&#x27;archiviste : Titan, Seigneur des glaces, Reine des glaces, Léviathan, Kraken"></picture><figcaption><p>Liste des boss finaux dans les archives des îles des joueurs</p></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;Chaque semaine une île est choisie et il ne peut pas avoir 2 semaines de suite la même île.
@@ -54,7 +56,9 @@ Certaines commandes seront aussi interdites sur l'île afin d'empêcher toute te
 
 ## Combats
 
-Les îles se décomposent en une série de lieux, avec un monstre à combattre différent pour chacun d'entre eux. Après une victoire face à un monstre, vous gagnerez de l'argent et de l'expérience. De plus, si vous appartenez à une guilde, elle recevra aussi de l'expérience (si votre guilde n'est pas au niveau 150) et des points de guilde !
+Les îles se décomposent en une série de lieux, avec un monstre à combattre différent pour chacun d'entre eux. Après une victoire face à un monstre, vous gagnerez de l'argent :moneybag:, de l'expérience :star: et des matériaux :bricks:. De plus, si vous appartenez à une guilde, elle recevra aussi de l'expérience :star: (si votre guilde n'est pas au niveau 150) et des points de guilde :mirror\_ball:, et sa trésorerie augmentera du même montant que les points de guilde :mirror\_ball: obtenus !
+
+<figure><picture><source srcset="../.gitbook/assets/BossReward_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/BossReward_clair.png" alt="Récompenses d&#x27;une victoire face à la Reine des glaces : argent, XP, points de guilde et matériaux"></picture><figcaption><p>Les récompenses d'une victoire face à un monstre</p></figcaption></figure>
 
 {% hint style="info" %}
 Pendant le combat, si vous êtes plusieurs dans votre guilde à être sur l'île, il y a une petite chance que l'attaque de guilde :stadium: apparaisse : sa puissance varie avec le nombre de membres présents !
@@ -471,3 +475,15 @@ Au fil de votre progression, les joueurs gagnent des points de guilde :mirror\_b
 &#x20;&#x20;
 
 <figure><picture><source srcset="../.gitbook/assets/classement_guildes_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/classement_guildes.png" alt="Classement des guildes en fonction de leur nombre de points de guilde"></picture><figcaption><p>Première page du classement des guildes avec le nom, niveau et nombre de points de chaque guilde</p></figcaption></figure>
+
+## L'archiviste des îles
+
+Situé au Château du Roi, cet archiviste répertorie tous les exploits des aventuriers vainqueurs de boss finaux, Il est divisé en 2 parties :&#x20;
+
+* les exploits personnels, où est répertorié la meilleure performance du joueur face à chaque boss final ainsi que sa date.
+
+<figure><picture><source srcset="../.gitbook/assets/ArchivisteSolo_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/ArchivisteSolo_clair.png" alt=""></picture><figcaption><p>Le meilleur Titan de Magma vaincu par Procion. Il était <span data-gb-custom-inline data-tag="emoji" data-code="1f9d9">🧙</span>mage mystique</p></figcaption></figure>
+
+* Un classement des meilleurs boss vaincus, selon la classe. Il est réservé aux classes du 5e palier, au niveau 80 et plus.&#x20;
+
+<figure><picture><source srcset="../.gitbook/assets/ArchivisteTotal_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/ArchivisteTotal_clair.png" alt="Classement des meilleures Reines des glaces vaincue en chevalier valeureux"></picture><figcaption><p>Classement des 10 meilleurs adversaires de la Reine des glace en <span data-gb-custom-inline data-tag="emoji" data-code="1f93a">🤺</span> Chevalier valeureux</p></figcaption></figure>

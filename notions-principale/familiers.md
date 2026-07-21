@@ -1,8 +1,3 @@
----
-tags:
-  - images-pas-a-jour
----
-
 # Familiers
 
 Depuis la version [2.1.2](https://history.crownicles.com/crownicles-v2/2.1.2) de Crownicles, vous pouvez avoir un ou plusieurs **familiers**.
@@ -54,9 +49,9 @@ Vous pouvez également le caresser (mais cela n'a aucun effet sur son moral).
 
 #### Acheter de la nourriture.
 
-L'achat de nourriture pour les familiers se fait dans les villes, à l'approvisionnement de la guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise, pour votre animal.
+L'achat de nourriture pour les familiers se fait dans les villes, au ravitaillement de guilde. Si vous n'avez pas de guilde, vous n'aurez accès qu'à la forme la plus basique de nourriture, c'est-à-dire la friandise :candy:, pour votre animal. Si vous êtes dans la ville de votre domaine de guilde :european\_castle:, l'approvisionnement se fait dans la boutique de la guilde :shopping\_cart:.&#x20;
 
-<picture><source srcset="../.gitbook/assets/Screenshot_20250617-151531.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 184818.png" alt="Le magasin de guilde permet d&#x27;acheter différentes sortes de nourriture"></picture>
+<picture><source srcset="../.gitbook/assets/RavitaillementHorde_sombre.jpg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/RavitaillementHorde_clair.jpg" alt="Le ravitaillement permet d&#x27;acheter différentes sources de nourriture"></picture>
 
 {% hint style="info" %}
 Il est aussi possible que votre familier trouve de la nourriture pendant l'aventure.
@@ -114,9 +109,9 @@ Vendre un familier avec un autre joueur réinitialisera son moral à :pouting\_c
 Changer de propriétaire, c'est dur à supporter pour un animal !
 {% endhint %}
 
-Contre 3 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement, et lui donnera 15 points d'amour :revolving\_hearts:. La consultation s'obtient à Mergagnan ou Claire de Ville.&#x20;
+Contre 3 gemmes, le vétérinaire de la cour vous donnera des informations sur le familier que vous possédez actuellement, et lui donnera 15 points d'amour :revolving\_hearts: s'il n'est pas déjà apprivoisé ou dressé. La consultation s'obtient à Mergagnan ou Claire de Ville.&#x20;
 
-<figure><picture><source srcset="../.gitbook/assets/vétérinaire_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/vétérinaire_clair.png" alt="Description du familier avec le vétérinaire , achetable via le magasin de missions , la commande /magasinmissions"></picture><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, quand il aura faim mais encore bien plus.</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Veterinaire_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Veterinaire_clair.png" alt="Description du familier avec le vétérinaire , achetable via le magasin de missions , la commande /magasinmissions"></picture><figcaption><p>Il est toujours utile pour savoir s'il a perdu du moral ou pas de façon précise, quand il aura faim mais encore bien plus.</p></figcaption></figure>
 
 ### Comment stocker mon familier ?
 
@@ -140,7 +135,7 @@ Vous pouvez définir un surnom pour votre familier afin de rendre ce dernier uni
 
 Si vous souhaitez vous débarrasser d'un familier mais que vous n'avez pas le cœur de le libérer (ou alors que vous aimez l'argent), il est possible de vendre le familier que vous transportez. Pour cela, vous pouvez utiliser la commande `/vendrefamilier` en précisant le prix attendu. Par exemple, pour proposer votre familier à la vente pour 1000:moneybag:, entrez la commande `/vendrefamilier prix:1000`.
 
-<figure><picture><source srcset="../.gitbook/assets/vendrefamilier_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/vendrefamilier_clair.png" alt=""></picture><figcaption><p>Ici, le familier "Chewbie" va être vendu pour 100 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/VentePet_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/VentePet_clair.png" alt=""></picture><figcaption><p>Ici, le familier "hukarere" est vendu pour 100 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span>.. La guilde La Horde 3 récupère 95% de l'argent pour sa trésorerie.</p></figcaption></figure>
 
 Il y a des conditions importantes à respecter pour la vente de familiers :
 
@@ -180,151 +175,240 @@ L’émoji qui la représente permet de différencier les deux animaux !
 ### Pouvoir des familiers en combat
 
 {% tabs %}
-{% tab title="1 *" %}
-Les familiers 1 :star:
+{% tab title="Commun" %}
+#### Les familiers communs :large\_orange\_diamond:
 
-\
-:cat2: **chat.te** : griffe légèrement l’adversaire\
-:dog2: **chien.ne** : mord légèrement l'adversaire\
-:poodle: **caniche** : mord légèrement l'adversaire\
-:rat: **rat.e** : mord l'adversaire en l'empoisonnant parfois\
-:chicken: **poule/coq** : frappe l'adversaire de son bec\
-:bird: **oiseau** : frappe l'adversaire de son bec\
-:duck: **canard/cane** : frappe l'adversaire de son bec\
-:goose: **oie** : frappe l'adversaire de son bec\
-:pig: **cochon/truie** : charge l'adversaire\
-:sheep: **bélier/brebis** : charge l'adversaire\
-:goat: **chèvre/bouc** : charge l'adversaire\
-:snake: **serpent** : mord et empoisonne l'adversaire\
-:cow2: **boeuf/vache** : charge et étourdit l'adversaire\
-:black\_cat: **chat.te noir.e** : jette une malédiction sur l'adversaire\
-:snowman:**bonhomme de neige** : gèle l'adversaire\
-:racehorse: **étalon/jument** : boost la vitesse de son propriétaire\
-:turtle: **tortue** : augmente la défense de son propriétaire, mais le ralentit\
-:lizard: **lézard** : soigne légèrement son propriétaire\
-:fish: **poisson** : protège son propriétaire du feu\
-:mouse2: **souris/rongeur** : effraie l'éléphant adverse\
-:hamster: **hamster** : inflige des dégâts dérisoires à l'adversaire\
-:rabbit2: **lapin.e** : inflige des dégâts dérisoires à l'adversaire\
-:turkey: **dinde/dindon** : inflige des dégâts insignifiants à l’adversaire\
-:hatching\_chick: **poussin** : inflige des dégâts insignifiants à l’adversaire\
-:snail: **escargot** : ne fait absolument rien (mais il le fait bien)
+🐕 **chien.ne** : mord légèrement l'adversaire
+
+🐩 **caniche** : mord légèrement l'adversaire
+
+🐈 **chat.te** : griffe légèrement l’adversaire
+
+🐈‍⬛ **chat.te noir.e** : jette une malédiction sur l'adversaire
+
+🐭 **souris/rongeur** : effraie l'éléphant adverse
+
+🐹 **hamster** : inflige des dégâts dérisoires à l'adversaire
+
+🐰 **lapin.e** : inflige des dégâts dérisoires à l'adversaire
+
+🐄 **boeuf/vache** : charge et étourdit l'adversaire
+
+🐖 **cochon/truie** : charge l'adversaire
+
+🐓 **poule/coq** : frappe l'adversaire de son bec
+
+🐦 **oiseau** : frappe l'adversaire de son bec
+
+🦆 **canard/cane** : frappe l'adversaire de son bec
+
+🕊️ **colombe** : soigne à la fois son propriétaire et l'adversaire
+
+🐟 **poisson** : protège son propriétaire du feu
+
+🐌 **escargot** : ne fait absolument rien (mais il le fait bien)
+
+🐥 **poussin** : inflige des dégâts insignifiants à l'adversaire
 {% endtab %}
 
-{% tab title="2*" %}
+{% tab title="Peu commun" %}
+#### Les familiers peu communs :fire:
 
+🐎 **étalon/jument** : boost la vitesse de son propriétaire
 
-Les familiers 2 :star::star:\
-\
-:fox: **renard.e** : mord l'adversaire\
-:wolf: **loup/louve** : mord l'adversaire\
-:crab: **crabe** : pince l'adversaire\
-:badger: **blaireau/blairelle** : griffe légèrement l’adversaire\
-:hedgehog: **hérisson.ne** : pique l'adversaire après une attaque physique\
-:penguin: **pingouin.e** : fonce sur l’adversaire en glissant\
-:bat: **chauve-souris** : attaque l'adversaire et soigne son propriétaire\
-:boar: **sanglier/laie** : charge et étourdit l'adversaire\
-:swan: **cygne** : charge l'adversaire\
-:llama: **lama.te** : crache sur l'adversaire après une attaque physique\
-:jellyfish: **méduse** : paralyse l'adversaire\
-:frog: **grenouille/crapaud** : empoisonne l'adversaire\
-:skunk: **putois/moufette** : empoisonne l'adversaire\
-:raccoon: **raton laveur/ratonne** : dérobe l'arme de l'adversaire\
-:monkey: **singe/guenon** : dérobe l'arme de l'adversaire\
-:beaver: **castor** : boost la défense de son propriétaire\
-:donkey:**âne.sse** : boost la vitesse de son propriétaire\
-:owl:**hiboux/chouette** : protège son propriétaire de l'aveuglement\
-:seal: **otarie/phoque** : redonne du souffle à son propriétaire\
-:flamingo: **flamant rose** : inflige des dégâts insignifiants à l'adversaire\
-:chipmunk: **tamia** : inflige des dégâts insignifiants à l'adversaire\
-:koala: **koala** : ne fait rien (et assume pleinement)\
-:sloth: **paresseux/paresseuse** : ne fait rien (et c’est déjà un exploit)\
-:shrimp: **crevette** : ne fait rien (mais le cœur y est)
+🐏 **bélier/brebis** : charge l'adversaire
+
+🐐 **chèvre/bouc** : charge l'adversaire
+
+🦃 **dinde/dindon** : inflige des dégâts insignifiants à l’adversaire
+
+🦊 **renard.e** : mord l'adversaire
+
+🐸 **grenouille/crapaud** : empoisonne l'adversaire
+
+🦉 **hiboux/chouette** : protège son propriétaire de l'aveuglement
+
+🦇 **chauve-souris** : attaque l'adversaire et soigne son propriétaire
+
+🐗 **sanglier/laie** : charge et étourdit l'adversaire
+
+🦭 **otarie/phoque** : redonne du souffle à son propriétaire
+
+🐀 **rat.e** : mord l'adversaire en l'empoisonnant parfois
+
+🪿 **oie** : frappe l'adversaire de son bec
 {% endtab %}
 
-{% tab title="3*" %}
-Les familiers 3 :star::star::star:\
-\
-:elephant: **éléphant.e** : resitue le souffle consommé à son propriétaire\
-:zebra: **zèbre.lle** : boost la vitesse de son propriétaire\
-:dromedary\_camel: **dromadaire** : boost la vitesse de son propriétaire\
-:camel: **chameau/chamelle** : boost la vitesse de son propriétaire\
-:moose: **élan** : vole le bouclier de l'adversaire\
-:whale2: **baleine** : avale l'adversaire\
-:scorpion: **scorpion.ne** : mord et empoisonne l'adversaire\
-:bison: **bison.ne** : charge et étourdit l'adversaire\
-:bear: **ours.e** : charge et étourdit l'adversaire\
-:crocodile: **crocodile** : mord l'adversaire\
-:rhino: **rhinocéros** : donne un coup de corne à l'adversaire\
-:deer: **cerf/biche** : donne un coup de corne à l'adversaire\
-:kangaroo: **kangourou** : assène un coup de poing à l'adversaire\
-:hippopotamus: **hippopotame** : attaque sauvagement l'adversaire\
-:peacock: **paon.ne** : frappe l'adversaire de son bec\
-:parrot: **perroquet** : frappe l'adversaire de son bec\
-:black\_bird: **merle** : frappe l'adversaire de son bec\
-:otter: **loutre** : redonne du souffle à son propriétaire\
-:octopus: **poulpe** : rend l'adversaire aveugle\
-:giraffe: **girafe** : protège son propriétaire de l'aveuglement
+{% tab title="Exotique" %}
+#### Les familiers exotiques :trident:
+
+🐢 **tortue** : augmente la défense de son propriétaire, mais le ralentit
+
+🐍 **serpent** : mord et empoisonne l'adversaire
+
+🦎 **lézard** : soigne légèrement son propriétaire
+
+🐨 **koala** : ne fait rien (et assume pleinement)
+
+🐧 **pingouin.e** : fonce sur l’adversaire en glissant
+
+🦛 **hippopotame** : attaque sauvagement l'adversaire
+
+🦙 **lama.te** : crache sur l'adversaire après une attaque physique
+
+🦢 **cygne** : charge l'adversaire
+
+🦩 **flamant rose** : inflige des dégâts insignifiants à l'adversaire
+
+🦝 **raton laveur/ratonne** : dérobe l'arme de l'adversaire
+
+🦨 **putois/moufette** : empoisonne l'adversaire
+
+🦡 **blaireau/blairelle** : griffe légèrement l’adversaire
+
+🦫 **castor** : boost la défense de son propriétaire
+
+🫏 **âne.sse** : boost la vitesse de son propriétaire
 {% endtab %}
 
-{% tab title="4*" %}
-Les familiers 4 :star::star::star::star:\
-\
-:tiger2: **tigre.sse** : griffe férocement l'adversaire\
-:lion\_face: l**ion.ne** : griffe férocement l'adversaire\
-:leopard: **léopard.e** : griffe férocement l'adversaire\
-:eagle: **aigle** : protège son propriétaire de l'aveuglement\
-:dodo: **dodo** : frappe l'adversaire de son bec\
-:mammoth: **mammouth** : protège son propriétaire du froid\
-:dove: **colombe** : soigne à la fois son propriétaire et l'adversaire\
-:penguin: **manchot.e** : percute l'adversaire en glissant\
-:snowman2: **bonhomme de neige** : gèle l'adversaire\
-:dolphin: **dauphin** : protège son propriétaire du feu\
-:lobster: **homard** : pince l'adversaire\
-:shark: **requin** : effraie tous les poissons\
-:orangutan: **orang-outan** : boost aléatoirement la vitesse la défense ou l'attaque de son propriétaire\
-:gorilla: **gorille** : assène un coup de poing à l'adversaire\
-:black\_bird:  **corbeau** : maudit l'adversaire\
-:water\_buffalo: **buffle d'eau** : charge et étourdit l'adversaire\
-:polar\_bear: **ours.e polaire** : protège son propriétaire du froid\
-:blowfish: **poisson globe** : protège son propriétaire du feu\
-:panda\_face: **panda** : ne fait rien (la flemme, tout simplement)
+{% tab title="Rare" %}
+#### Les familiers rares :comet:
 
-:ghost:**fantôme** : jette une malédiction sur l'adversaire
+🐻 **ours.e** : charge et étourdit l'adversaire
 
-:jack\_o\_lantern:**jack-o-lantern** : son regard hypnotique pétrifie l'adversaire
+🐺 **loup/louve** : mord l'adversaire
+
+🦥 **paresseux/paresseuse** : ne fait rien (et c’est déjà un exploit)
+
+🐿️ **tamia** : inflige des dégâts insignifiants à l'adversaire
+
+🦔 **hérisson.ne** : pique l'adversaire après une attaque physique
+
+🐻‍❄️ **ours.e polaire** : protège son propriétaire du froid
+
+🐼 **panda** : ne fait rien (la flemme, tout simplement)
+
+🦂 **scorpion.ne** : mord et empoisonne l'adversaire
+
+🐊 **crocodile** : mord l'adversaire
+
+🐘 **éléphant.e** : resitue le souffle consommé à son propriétaire
+
+🦓 **zèbre.lle** : boost la vitesse de son propriétaire
+
+🪼 **méduse** : paralyse l'adversaire
+
+🦐 **crevette** : ne fait rien (mais le cœur y est)
+
+🦀 **crabe** : pince l'adversaire
 {% endtab %}
 
-{% tab title="5*" %}
-Les familiers 5 ⭐⭐⭐⭐⭐&#x20;
+{% tab title="Spécial" %}
+#### Les familiers spéciaux :dizzy:
 
-:dragon:**dragon.ne**: brûle l'adversaire
+🐒 **singe/guenon** : dérobe l'arme de l'adversaire
 
-:unicorn:**licorne**: soigne son propriétaire après une attaque magique
+🦏 **rhinocéros** : donne un coup de corne à l'adversaire
 
-:t\_rex:**t-rex:** attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire&#x20;
+🐪 **dromadaire** : boost la vitesse de son propriétaire
 
-:blue\_circle:**stitch/angel**: attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire
+🐫 **chameau/chamelle** : boost la vitesse de son propriétaire
 
-:alien: **alien.ne**: rend l'adversaire confus&#x20;
+🦒 **girafe** : protège son propriétaire de l'aveuglement
 
-🦆 **canard écarlate/cane écarlate**: attaque sauvagement l'adversaire en fin de combat&#x20;
+🦘 **kangourou** : assène un coup de poing à l'adversaire
 
-🐠 **poisson tropical**: protège son propriétaire du feu&#x20;
+🦚 **paon.ne** : frappe l'adversaire de son bec
 
-🐳 **baleine**: avale l'adversaire&#x20;
+🦜 **perroquet** : frappe l'adversaire de son bec
 
-:sauropod: **diplodocus**: écrase l'adversaire&#x20;
+🦦 **loutre** : redonne du souffle à son propriétaire
 
-🐦‍🔥 **phénix**: soigne son propriétaire
+🐅 **tigre.sse** : griffe férocement l'adversaire
+
+🐙 **poulpe** : rend l'adversaire aveugle
+
+🐋 **baleine** : avale l'adversaire
+
+🦌 **cerf/biche** : donne un coup de corne à l'adversaire
+
+🦬 **bison.ne** : charge et étourdit l'adversaire
+
+🫎 **élan** : vole le bouclier de l'adversaire
+{% endtab %}
+
+{% tab title="Épique" %}
+#### Les familiers épiques :star:
+
+🦁 **lion.ne** : griffe férocement l'adversaire
+
+🦅 **aigle** : protège son propriétaire de l'aveuglement
+
+🦤 **dodo** : frappe l'adversaire de son bec
+
+🐆 **léopard.e** : griffe férocement l'adversaire
+
+🦣 **mammouth** : protège son propriétaire du froid
+
+⛄ **bonhomme de neige** : gèle l'adversaire
+
+🐧 **manchot.e** : percute l'adversaire en glissant
+
+🐡 **poisson globe** : protège son propriétaire du feu
+
+🦈 **requin** : effraie tous les poissons
+
+🦞 **homard** : pince l'adversaire
+
+🐬 **dauphin** : protège son propriétaire du feu
+
+🐃 **buffle d'eau** : charge et étourdit l'adversaire
+
+🦧 **orang-outan** : boost aléatoirement la vitesse la défense ou l'attaque de son propriétaire
+
+🦍 **gorille** : assène un coup de poing à l'adversaire
 {% endtab %}
 
 {% tab title="Mythique" %}
-Les familiers mythiques :gem:
+#### Les familiers mythiques :gem:
 
 :vampire:**vampire**: soigne son adversaire à partir de l'énergie vitale de son adversaire, sa morsure fait saigner
 
 :fairy:**fée**: soigne son propriétaire avec efficacité et régularité
+{% endtab %}
+
+{% tab title="Légendaire" %}
+#### Les familiers légendaire :star2:
+
+🦄 **licorne** : soigne son propriétaire après une attaque magique
+
+🐉 **dragon.ne** : brûle l'adversaire
+
+🦖 **t-rex** : attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire
+
+🟣 **stitch/angel** : attaque sauvagement l'adversaire et inflige de légers dégâts à son propriétaire
+
+🦆 **canard écarlate/cane écarlate** : attaque sauvagement l'adversaire en fin de combat
+
+☃️ **bonhomme de neige** : gèle l'adversaire
+
+👽 **alien.ne** : rend l'adversaire confus
+
+🐠 **poisson tropical** : protège son propriétaire du feu
+
+🐳 **baleine** : avale l'adversaire
+
+🐦‍🔥 **phénix** : soigne son propriétaire
+
+🦕 **diplodocus** : écrase l'adversaire
+
+🐦‍⬛ **merle** : frappe l'adversaire de son bec
+
+🐦‍⬛ **corbeau** : maudit l'adversaire
+
+🎃 **jack-o-lantern** : son regard hypnotique pétrifie l'adversaire
+
+👻 **fantôme** : jette une malédiction sur l'adversaire
 {% endtab %}
 {% endtabs %}
 
@@ -332,13 +416,13 @@ Les familiers mythiques :gem:
 
 Pour débloquer les expéditions,il faudra le talisman d'ancrage qui est remis par [Velanna ](../notions-avancees/mini-evenements.md#conseils-sur-les-expeditions)à partir de votre troisième rencontre si vous avez un familier nourri et non fielleux, que vous êtes au moins niveau 30, que vous appartenez à une guilde et que votre familier a déjà été présenté à [Talvar](../notions-avancees/mini-evenements.md#le-nain-fan-des-animaux).
 
-Les expéditions coûtent des provisions (jusqu'à 32) et ont une durée (jusqu'à 3 jours) mais rapportent des jetons, de l'argent, de l'expérience, des points et un équipement en cas de succès partiel ou total.
+Les expéditions coûtent des provisions (jusqu'à 32 :meat\_on\_bone:) et ont une durée (jusqu'à 3 jours) mais rapportent des jetons :coin:, de l'argent :moneybag:, de l'expérience :star:, des points :medal:, des matériaux :bricks: et un équipement :hammer\_pick:en cas de succès partiel ou total.
 
 {% hint style="info" %}
 Pensez à vérifier l’entrepôt de la guilde avant de laisser partir votre familier en expédition. Si ce dernier n'a pas assez de provisions ses chances de succès sont considérablement diminuées.
 {% endhint %}
 
-Pour commencer une expédition, le joueur doit posséder un familier nourri et avec 50 points d'amour ou plus et un talisman d'ancrage. Il vous suffira ensuite de cliquer sur le bouton :map:**Expédition** pour qu'apparaisse un menu qui vous proposera trois destinations.
+Pour commencer une expédition, le joueur doit posséder un familier nourri et avec 20 points d'amour ou plus et un talisman d'ancrage. Il vous suffira ensuite de cliquer sur le bouton :map:**Expédition** pour qu'apparaisse un menu qui vous proposera trois destinations.
 
 <figure><picture><source srcset="../.gitbook/assets/expedition_generation_entier_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/expedition_generation_entier_clair.png" alt="Le talisman d&#x27;ancrage propose 3 expéditions avec leurs destinations, leurs durées, leurs dangerosités, la difficulté de leurs terrain, leurs récompenses et les vôutrs en provisions."></picture><figcaption><p>C'est parti pour l'aventure</p></figcaption></figure>
 
@@ -350,26 +434,54 @@ Chaque expédition a une plage de durée définie : moins d'une heure pour la pr
 Si vous décidez d'annuler le départ en expédition et à partir de la deuxième fois en 7j, votre familier perdra considérablement confiance en vous et ce de plus en plus.
 {% endhint %}
 
-Avant de choisir une expédition, il faut savoir que son taux de réussite et ses récompenses dépend de pleins de facteurs.
+Avant de choisir une expédition, il faut savoir que son taux de réussite et ses récompenses dépend de pleins de facteurs. La dangerosité et le terrain augmente les échecs, là où la force :muscle: et l'amour :revolving\_hearts: du familier les réduisent.&#x20;
 
 | Dangerosité                                                                                                                                                                                         | Terrain                                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>-Tranquille 🌿 (0–10)<br>-Serein ☀️ (11-20)<br>-Hasardeux 🌤️ (21–32)<br>-Risqué ⚡ (33–45)<br>-Dangereux 🔥 (46–58)<br>-Périlleux ⚠️ (59-72)<br>-Mortel 💀 (73–86)<br>-Désespéré ⚰️ (87–100)</p> | <p>-Paisible <span data-gb-custom-inline data-tag="emoji" data-code="1f338">🌸</span>(0-20)<br>-Praticable 🌲(21-40)<br>-Accidenté ⛰️ (41-60)<br>-Hostile 🏔️ (61-80)<br>-Périlleux 🌋(81-100)</p> |
 
 {% hint style="info" %}
-Le type de terrain influence la difficulté du terrain, en effet une grotte est plus souvent hostile et une plaine plus souvent paisible mais aussi les récompenses : certains terrains donne plus d'expérience, d'autre plus de points ou d'argent.
+Le Terrain impacte 4 fois moins les échecs que la Dangerosité, pour la même influence sur le butin.&#x20;
 {% endhint %}
+
+{% hint style="info" %}
+Le biome de l'expédition influence la dangerosité, en effet une grotte est plus souvent périlleuse et une plaine plus souvent tranquille ; mais aussi les récompenses : certains terrains donne plus d'expérience :star:, d'autres plus de points :medal: ou d'argent :moneybag:.
+
+Le tableau ci-dessous répertorie les coefficients d'argent, d'expérience et de points de chaque biome, classés par difficulté.&#x20;
+{% endhint %}
+
+<table data-search="false"><thead><tr><th width="133">Biome</th><th>Coefficient argent</th><th>Coefficient expérience</th><th>Coefficient points</th></tr></thead><tbody><tr><td>Plaine <span data-gb-custom-inline data-tag="emoji" data-code="1f33e">🌾</span></td><td>1</td><td>1</td><td>1</td></tr><tr><td>Côte <span data-gb-custom-inline data-tag="emoji" data-code="1f30a">🌊</span></td><td>1,2</td><td>0,7</td><td>0,8</td></tr><tr><td>Forêt <span data-gb-custom-inline data-tag="emoji" data-code="1f332">🌲</span></td><td>0,8</td><td>1,3</td><td>0,9</td></tr><tr><td>Désert <span data-gb-custom-inline data-tag="emoji" data-code="1f3dc">🏜️</span></td><td>0,6</td><td>0,4</td><td>1,5</td></tr><tr><td>Montagne <span data-gb-custom-inline data-tag="emoji" data-code="26f0">⛰️</span></td><td>1,9</td><td>1</td><td>0,3</td></tr><tr><td>Marais <span data-gb-custom-inline data-tag="emoji" data-code="1f33f">🌿</span></td><td>0,4</td><td>1</td><td>1,6</td></tr><tr><td>Ruine <span data-gb-custom-inline data-tag="emoji" data-code="1f3db">🏛️</span></td><td>1,7</td><td>1</td><td>0,5</td></tr><tr><td>Grotte <span data-gb-custom-inline data-tag="emoji" data-code="1f573">🕳️</span></td><td>2,2</td><td>0,5</td><td>0,2</td></tr></tbody></table>
 
 Pour augmenter vos chances de réussite de vos expéditions, en plus de regarder la difficulté et le terrain, vous pouvez:
 
 * Dresser votre familier.
 * Choisir un familier avec une meilleure statistique de force.
-* Envoyer votre familier dans un lieu qu'il apprécie particulièrement
+* Envoyer votre familier dans un lieu qu'il apprécie particulièrement. Cela réduit de 5% les échecs.
 * Vérifier que l’entrepôt de votre guilde contient suffisamment de provisions.
 
-Une fois l'expédition terminée:
+{% hint style="danger" %}
+Une expédition détestée de moins de 12h aura 10% d'échec supplémentaire.
+{% endhint %}
 
-<table><thead><tr><th width="304.39996337890625">Échec</th><th width="443.4000244140625">Succès</th></tr></thead><tbody><tr><td>L'expédition est un échec:  le familier perd 3 points d'affection.</td><td><p>Vous recevrez: </p><p>-des jetons (si vous avez de la place),</p><p>-de l'argent, </p><p>-de l'expérience, </p><p>-des points,</p><p>-un équipement,</p><p>-des matériaux.</p><p>Ensuite, les récompenses estimées, la probabilité de succès et les rations utilisées permettent de statuer sur la valeur de ces récompenses (quantité de ressources ou qualité de l'équipement).</p><p>Un terrain apprécié par le familier permet de récupérer 100% des récompenses, là où un terrain neutre ne gagne que 80% et détesté 25%. </p><p>Les expéditions mentionnant un trésor en jetons possèdent un multiplicateur de jetons.</p></td></tr></tbody></table>
+{% hint style="info" %}
+Vous pouvez connaître les appréciations d'un familier à l'aide du :health\_worker: vétérinaire, ou en essayant diverses biomes.
+{% endhint %}
+
+Une fois l'expédition terminée, vous pourrez appeler votre familier pour récupérer le butin avec le bouton :map: Expédition après avoir fait la commande `/familier` .
+
+<figure><picture><source srcset="../.gitbook/assets/FinExpedition_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/FinExpedition_clair.png" alt="Interface du /familier puis appui sur le bouton Expedition pour le rappeler"></picture><figcaption><p>Fin d'une expédition de familier et ouverture du butin</p></figcaption></figure>
+
+Si l'expédition est un échec, le familier perd 3 points d'affection :revolving\_hearts:.
+
+Sinon, vous recevez de l'argent :moneybag:, de l'expérience :star: et des points :medal:. La difficulté de l'expédition et de son terrain ainsi que les rations consommées :meat\_on\_bone:, le type de biome et une réussite totale ou partielle (/2 des gains) statuent sur leurs valeurs. Les expéditions rapportent aussi des jetons :coin:, des matériaux :bricks: et un équipement :hammer\_pick:, dont la quantité et la rareté varie selon la richesse du butin.&#x20;
+
+Un terrain apprécié :green\_heart: par le familier permet de récupérer 100% des récompenses, là où un terrain neutre ne gagne que 80% et détesté :broken\_heart: 25%. Le familier reçoit aussi des points d'amour :revolving\_hearts:, et plus encore s'il a apprécié le terrain de son aventure.
+
+{% hint style="info" %}
+Les expéditions mentionnant un trésor en jetons rapporteront trois fois plus de jetons :coin: !
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/ExpeditionReward_clair.png" alt=""><figcaption><p>Une réussite d'expédition longue dans un biome grotte <span data-gb-custom-inline data-tag="emoji" data-code="1f573">🕳️</span></p></figcaption></figure>
 
 {% hint style="warning" %}
 Quand votre familier est en expédition, il n'est pas considéré comme équipé, il ne vous assistera pas pendant les mini-événements, les combats (attaque et défense) et sur les îles mystérieuses.
@@ -380,5 +492,5 @@ Les jetons en récompenses des expéditions peuvent vous faire dépasser la limi
 {% endhint %}
 
 {% hint style="info" %}
-Vous pouvez trouver au cours de vos expéditions avec une petite probabilité un talisman de clonage (certains expéditions parle de ce talisman ce qui se traduit par un multiplicateur x10). Ce puissant artefact crée un double de votre familier qui vous aidera dans les mini-événements et les combats en défense.
+Vous pouvez trouver au cours de vos expéditions avec une petite probabilité un talisman de clonage (certains expéditions parle de ce talisman ce qui se traduit par un multiplicateur x10). Ce puissant artefact crée un double de votre familier qui vous aidera dans les mini-événements et les combats, en défense uniquement.
 {% endhint %}

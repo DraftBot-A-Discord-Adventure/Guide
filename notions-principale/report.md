@@ -36,7 +36,7 @@ Les évènements sont le cœur du jeu, le joueur doit simplement réagir à une 
 
 <picture><source srcset="../.gitbook/assets/rapport_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250618-080140.png" alt="Un exemple d&#x27;évènement"></picture>
 
-Ici, le joueur possède 3 choix  différents : les 2 choix de réaction mais également le choix de ne rien faire.
+Ici, le joueur possède 3 choix différents : les 2 choix de réaction mais également le choix de ne rien faire.
 
 {% hint style="info" %}
 Le non-choix ("Ne rien faire") se déclenche automatiquement au bout de 2 minutes en l'absence de choix explicite. Il est possible de forcer ce non-choix en ajoutant manuellement la réaction :end: (:end:) au texte de l'évènement.
@@ -52,7 +52,7 @@ Une fois un choix réalisé par le joueur, ce dernier peut cliquer sur une réac
 
 ### Destination :
 
-Après un évènement, le joueur est amené à choisir une destination. Il n'est pas possible pour un joueur de faire un retour sur ses pas (sauf si c'est le seul choix possible).
+Après un évènement, le joueur est amené à choisir une destination. Il n'est pas possible pour un joueur de faire un retour sur ses pas (sauf si c'est le seul choix possible). C'est dans cette interface qu'il est aussi possible de faire le choix "Entrer en ville" si le joueur est arrivée à l'une des 6 villes et villages.
 
 <picture><source srcset="../.gitbook/assets/Screenshot_20250619-164527.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Screenshot_20250617-125431.png" alt="Exemple de choix de destination"></picture>
 

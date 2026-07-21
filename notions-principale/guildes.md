@@ -36,13 +36,15 @@ Un salon destiné à recueillir les annonces de recrutement est disponible sur l
 
 ### Comment voir les statistiques d'une guilde ?
 
-La commande `/guilde` permet d'afficher les informations de la guilde de la personne effectuant la commande.
+La commande `/guilde` permet d'afficher les informations de la guilde de la personne effectuant la commande. Elle affiche ainsi le nom de la guilde, son niveau, sa barre d'expérience, ses membres ainsi que ceux présents sur le [bateau](../notions-avancees/mini-evenements.md#voyage-vers-les-iles-mysterieuses) :ferry:, sur une [île mystérieuse](../notions-avancees/iles-mysterieuses.md) :island:ou les inactifs :ghost:.
 
 Il existe également 3 options à cette commande:
 
 * `guilde` Permet de voir les informations d'une guilde à partir de son nom.
 * `utilisateur` Permet de voir les informations d'une guilde à partir du nom d'un de ses membres.
 * `classement` Permet de voir les informations d'une guilde à partir du classement d'un de ses membres.
+
+<figure><picture><source srcset="../.gitbook/assets/guilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/guilde_clair.png" alt="Image des membres d&#x27;une guilde " width="563"></picture><figcaption><p>Affichage d'une guilde</p></figcaption></figure>
 
 ### Monter de niveau une guilde:
 
@@ -56,13 +58,17 @@ Lors d'un mini-événement de ce [type](../notions-avancees/mini-evenements.md#g
 
 A chaque amélioration d'un bâtiment de guilde, celle-ci gagne de l'expérience :star:. Plus l'amélioration coûte cher, plus la récompense est grande. 20% du prix est converti en expérience, avec 1 000 :moneybag: donnant entre 50 et 450 :star:.&#x20;
 
+<figure><picture><source srcset="../.gitbook/assets/AmeliorationGuilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/AmeliorationGuilde_clair.png" alt=""></picture><figcaption><p>Amélioration d'un bâtiment du domaine de guilde <span data-gb-custom-inline data-tag="emoji" data-code="1f3f0">🏰</span></p></figcaption></figure>
+
 #### En vainquant des monstres
 
 En explorant les :island: [îles mystérieuses](../notions-avancees/iles-mysterieuses.md), les joueurs d'une guilde lui rapportent de l'expérience :star: à chaque monstre vaincu.&#x20;
 
 #### Dans les récompenses quotidiennes
 
-Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent… Le type de récompense varie en fonction du niveau de votre guilde.&#x20;
+Toutes les 22h, il est possible d'utiliser la commande `/bonusjournalierguilde` afin d'obtenir une récompense qui peut être de l'expérience de guilde, de l'argent… Le type de récompense varie en fonction du niveau de votre guilde. La guilde reçoit en plus quelques points de guilde :mirror\_ball:, dont la même somme est versée dans la trésorerie.&#x20;
+
+<figure><picture><source srcset="../.gitbook/assets/BonusJournalierGuilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/BonusJournalierGuilde_clair.png" alt=""></picture><figcaption><p>Un bonus de guilde</p></figcaption></figure>
 
 {% hint style="info" %}
 Les valeurs exprimées dans le tableau ci-dessous sont les pourcentages de probabilité de recevoir telle récompense de guilde selon son niveau.
@@ -99,6 +105,8 @@ Vous pouvez mettre un aîné pour votre guilde avec la commande `/aineguilde`. L
 
 Le domaine de guilde est un ensemble de bâtiments que le chef de guilde peut installer dans une ville et améliorer, afin de fournir à ses membres des services de meilleur qualité. \
 Tout d'abord, le chef de guilde doit installer son domaine dans une ville, grâce au :office\_worker:notaire. Cette action est gratuite. Il peut améliorer divers bâtiments. Le coût sera directement puisé dans une trésorerie commune. &#x20;
+
+<figure><picture><source srcset="../.gitbook/assets/DomaineGuilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/DomaineGuilde_clair.png" alt=""></picture><figcaption><p>Les différents bâtiments d'un domaine de guilde <span data-gb-custom-inline data-tag="emoji" data-code="1f3f0">🏰</span></p></figcaption></figure>
 
 <details>
 
@@ -150,6 +158,8 @@ Ce bâtiment permet d'entrainer les familiers du refuge, leur faisant gagner aut
 
 </details>
 
+<figure><picture><source srcset="../.gitbook/assets/RefugeGuilde_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/RefugeGuilde_clair.png" alt="" width="563"></picture><figcaption><p>Interface d'amélioration du refuge de la guilde <span data-gb-custom-inline data-tag="emoji" data-code="1f43e">🐾</span></p></figcaption></figure>
+
 {% hint style="info" %}
 Le domaine de guilde peut être déplacé dans une autre ville pour 100 000 :moneybag:.
 {% endhint %}
@@ -160,10 +170,14 @@ Il y a 3 moyens de faire augmenter le trésor commun d'une guilde :&#x20;
 
 * Donner de l'argent par la boutique, en se rendant au domaine de la guilde
 * En récompense quotidienne avec `/bonusjournalierguilde`&#x20;
-* En gagnant des points de guilde :mirror\_ball:, notamment sur les :island: îles mystérieuses. Chaque point gagné donne 1 :moneybag: dans la trésorerie.
+* En gagnant des points de guilde :mirror\_ball:, notamment sur les :island: îles mystérieuses. Chaque point gagné donne en plus 1 :moneybag: dans la trésorerie.
 
 {% hint style="info" %}
 À sa création, la guilde débute avec une trésorerie équivalent à son coût de création soit 5 000 :moneybag:.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Perdre des points de guilde :mirror\_ball: ne diminue pas la trésorerie.&#x20;
 {% endhint %}
 
 ### Comment quitter une guilde ?

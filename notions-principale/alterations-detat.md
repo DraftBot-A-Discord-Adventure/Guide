@@ -51,6 +51,8 @@ Les jetons :coin: sont le seul moyen de soigner l'altération d'état occupé, i
 L'altération enfermé :unlock: ne peut être soigné que si un autre joueur paye une caution de 3 000 :moneybag:.
 {% endhint %}
 
+<figure><picture><source srcset="../.gitbook/assets/SoinAlte_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SoinAlte_clair.png" alt="Soin d&#x27;altération d&#x27;état contre de l&#x27;argent"></picture><figcaption><p>Soin d'altération d'état contre un peu d'argent <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></p></figcaption></figure>
+
 #### Moyens divers permettant de faire avancer le temps plus vite
 
 Certains objets et potions permettent de faire avancer le temps plus rapidement pendant un temps donné. Lorsque ces derniers sont utilisés, c'est comme si le temps s'était écoulé, mais seulement pour votre personnage.
