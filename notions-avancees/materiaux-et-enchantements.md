@@ -8,7 +8,7 @@ Ils peuvent être récupérés avec :&#x20;
 
 * Un mini-évènement qui en donne entre 1 et 16 d'un seul type.
 * En butin d'expédition de familier. Chaque type rapporte certains matériaux spécifiques.
-* En récompense après avoir battu un monstre des [iles-mysterieuses.md](iles-mysterieuses.md "mention")
+* En récompense après avoir battu un monstre des [îles mystérieuses](iles-mysterieuses.md).
 * Chez certains marchands, comme le bûcheron du Village Coco ou le marchand de matériaux de la Ville Forte.
 
 Une fois récoltés, les matériaux sont parfois utilisés en [cuisine](../notions-principale/villes-et-maisons.md#la-cuisine) mais servent essentiellement à améliorer les armes, boucliers et armures à la forge, ce qui peut augmenter leurs performances jusqu'à ⅓ de puissance supplémentaire. Ces améliorations peuvent être faites chez les forgerons des villes ou dans la forge personnelle du joueur.

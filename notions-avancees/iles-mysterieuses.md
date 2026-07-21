@@ -446,7 +446,7 @@ _La plupart des choix dépendent aussi de la puissance de l’animal adverse. G�
 
 ### Trouver des matériaux&#x20;
 
-**rareté : 8**
+**rareté : 2**
 
 Telle son [équivalent](mini-evenements.md#butin-de-materiaux) sur le continent terrestre, il permet de trouver entre 2 et 16 matériaux d'un même type.
 

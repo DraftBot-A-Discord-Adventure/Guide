@@ -40,7 +40,7 @@ Votre gloire est divisée en 2 parties dont la somme forme la gloire affichée s
 {% endhint %}
 
 {% hint style="info" %}
-A la fin de chaque combat, vous obtenez, en plus de la gloire, de l'argent et des points (dans la limite de 200 pièces et 105 points par jour).&#x20;
+A la fin de chaque combat, vous obtenez, en plus de la gloire, de l'argent (dépendant du résultat du combat et, en cas de victoire, de votre [ligue](ligues.md)) et des points (dans la limite de 3750 pièces et 105 points par jour).&#x20;
 {% endhint %}
 
 #### Les combats de monstres

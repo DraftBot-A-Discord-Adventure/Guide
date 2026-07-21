@@ -726,15 +726,13 @@ Le jardinier donne aux joueurs diverses graines, sous certaines conditions, peut
 
 <figure><picture><source srcset="../.gitbook/assets/SE_gardener_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_gardener_clair.png" alt=""></picture><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Ce mini-événement n'apparait que sur les routes proche d'une forêt.
+{% endhint %}
+
 {% hint style="warning" %}
 Vous ne pourrez avoir sur vous qu'une seule graine. Plantez là pour récupérer la suivante.
 {% endhint %}
-
-&#x20;Il apparait sur les trajets :&#x20;
-
-* Le Berceau - La Forêt du Vieillard
-* Le Village Coco - La Forêt Célestrum
-* Le Bois Hurlant - Lac Mirage
 
 Voici la liste des graines fournies, que le joueur doit récupérer et planter dans l'ordre, avec leurs conditions associées :&#x20;
 

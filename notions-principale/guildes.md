@@ -8,7 +8,7 @@ Une guilde permet de réunir jusqu'à 6 personnes, afin de gagner des récompens
 
 ### Comment créer une guilde ?
 
-Créer une guilde est possible à l'aide de la commande `/creationguilde`. Cela vous coûtera 5000 pièces d'argent.
+Créer une guilde est possible à l'aide de la commande `/creationguilde`. Cela vous coûtera 5 000 pièces d'argent.
 
 Vous pouvez ajouter une description à votre guilde avec la commande `/descriptionguilde`.
 
@@ -54,7 +54,7 @@ Lors d'un mini-événement de ce [type](../notions-avancees/mini-evenements.md#g
 
 #### En améliorant les bâtiments de guilde
 
-A chaque amélioration d'un bâtiment de guilde, celle-ci gagne de l'expérience :star:. Plus l'amélioration coûte cher, plus la récompense est grande. 1/5 du prix est converti en expérience, avec 1k :moneybag: donnant entre 50 et 450 :star:.&#x20;
+A chaque amélioration d'un bâtiment de guilde, celle-ci gagne de l'expérience :star:. Plus l'amélioration coûte cher, plus la récompense est grande. 20% du prix est converti en expérience, avec 1 000 :moneybag: donnant entre 50 et 450 :star:.&#x20;
 
 #### En vainquant des monstres
 
@@ -104,7 +104,7 @@ Tout d'abord, le chef de guilde doit installer son domaine dans une ville, grâc
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f6d2">🛒</span> La boutique</summary>
 
-La boutique s'achète pour 2 000 :moneybag:, à partir du niveau 5 de guilde. Elle permet aux différents membres de participer au trésor commun et d'acheter de la nourriture de guilde.&#x20;
+La boutique s'achète pour 2 000 :moneybag:. Elle permet aux différents membres de participer au trésor commun et d'acheter de la nourriture de guilde.&#x20;
 
 Les friandises :candy: coûtent 20 :moneybag:, les viandes :meat\_on\_bone: et salades :leafy\_green: pour 250 :moneybag: et le prix des soupes ultimes :stew: culmine à 600 :moneybag:. Les stocks peuvent être renouvelés dans toutes les villes.&#x20;
 
@@ -161,6 +161,10 @@ Il y a 3 moyens de faire augmenter le trésor commun d'une guilde :&#x20;
 * Donner de l'argent par la boutique, en se rendant au domaine de la guilde
 * En récompense quotidienne avec `/bonusjournalierguilde`&#x20;
 * En gagnant des points de guilde :mirror\_ball:, notamment sur les :island: îles mystérieuses. Chaque point gagné donne 1 :moneybag: dans la trésorerie.
+
+{% hint style="info" %}
+À sa création, la guilde débute avec une trésorerie équivalent à son coût de création soit 5 000 :moneybag:.&#x20;
+{% endhint %}
 
 ### Comment quitter une guilde ?
 
