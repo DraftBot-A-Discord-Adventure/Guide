@@ -1,5 +1,7 @@
 ---
 description: A guide about the figths.
+tags:
+  - missing-things-from-fr
 ---
 
 # Fights
@@ -38,7 +40,7 @@ Your glory is divided into two parts, the sum of which makes up the glory displa
 {% endhint %}
 
 {% hint style="success" %}
-At the end of each fight, you’ll receive, in addition to glory, money and points (up to 200 gold and 105 points per day).
+At the end of each fight, you’ll receive, in addition to glory, money (depending of the result of the fight, and in case of victory, of the [league](leagues.md)) and points (up to 3750 gold and 105 points per day).
 {% endhint %}
 
 #### Fight against monsters

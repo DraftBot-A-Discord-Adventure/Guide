@@ -1,3 +1,8 @@
+---
+tags:
+  - work-in-progress
+---
+
 # Leagues
 
 Leagues establish a precise ranking of the kingdom's fighters: you'll shift between leagues as you gain or lose a certain number of glory points.

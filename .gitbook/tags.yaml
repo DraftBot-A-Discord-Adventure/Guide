@@ -10,3 +10,6 @@
 - tag: work-in-progress
   label: Work in progress
   color: purple
+- tag: missing-things-from-fr
+  label: Missing-things-from-fr
+  color: $info

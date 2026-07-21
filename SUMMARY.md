@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Discover Crownicles !](README.md)
+* [Navigate through the Wiki](navigate-through-the-wiki.md)
 
 ## Getting your adventure off a good start <a href="#bien-commencer-votre-aventure" id="bien-commencer-votre-aventure"></a>
 
@@ -21,11 +22,13 @@
 * [Guilds](notions-principale/guildes.md)
 * [Pets](notions-principale/pets.md)
 * [Missions](notions-principale/missions.md)
+* [Cities and houses](notions-principale/cities-and-houses.md)
 
 ## Advanced functions <a href="#notions-avancees" id="notions-avancees"></a>
 
 * [Rank up](notions-avancees/monter-dans-les-classements.md)
 * [Managing inventory](notions-avancees/inventory.md)
+* [Materials and enchantments](notions-avancees/materials-and-enchantments.md)
 * [Mysterious islands](notions-avancees/mysterious-islands.md)
 * [Small events on the main continent](notions-avancees/small-events-on-the-main-continent.md)
 * [Badges](notions-avancees/badges.md)
@@ -38,3 +41,9 @@
 * [Redactor Gang](lore/redactor-gang.md)
 * [Famous characters](lore/famous-characters.md)
 * [Great story of Kyutism](lore/great-story-of-kyutism.md)
+* [Name change](lore/name-change.md)
+
+## Help us to develop Crownicles !
+
+* [How to contribute ?](help-us-to-develop-crownicles/how-to-contribute/README.md)
+  * [Writing / Translation of the guide](help-us-to-develop-crownicles/how-to-contribute/writing-translation-of-the-guide.md)

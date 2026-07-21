@@ -1,3 +1,8 @@
+---
+tags:
+  - lightly-outdated
+---
+
 # State alteration
 
 The state alteration defines the current user's status. Some alterations might affect some of the games' actions.
@@ -52,4 +57,4 @@ Tokens are the only way to cure the ‘busy' status effect; you may need up to f
 
 Some objects and some potions can make the time go faster for some moment. When those are used, it is like if the time was going forward faster, but only for you.
 
-You can also move forward 10 minutes on your journey by using tokens.
+You can also move forward 10 minutes on your journey by using tokens :coin:.

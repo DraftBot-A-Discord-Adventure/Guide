@@ -1,5 +1,7 @@
 ---
 description: A small step by step guide to start your adventure.
+tags:
+  - outdated-images
 ---
 
 # Start your adventure

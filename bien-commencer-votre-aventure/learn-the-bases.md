@@ -2,6 +2,8 @@
 description: >-
   Some pieces of advice for the newbies, and a quick presentation about main
   commands.
+tags:
+  - missing-things-from-fr
 ---
 
 # Learn the basics
@@ -44,4 +46,4 @@ There are four types of equipment:
 Potions are the only pieces of equipment that cannot be sold using `/sell`. Instead, they'll be thrown away.
 {% endhint %}
 
-:key2: **Objects**: Items can have various effects, whether in combat or during adventures. The player’s inventory consists of a reserve and an active item. By default, items are placed in the reserve (if the player has one), which can hold one to three items. To use an item’s ability, you must place it in the ‘active item’ slot of the inventory using the `/switch` command. There are two categories of items: combat and daily rewards. Combat items provide additional stats, and reward items can be used every 22 hours using the `/dailybonus` command.
+:key2: **Objects**: Items can have various effects, whether in combat or during adventures. The player’s inventory consists of a reserve and an active item. By default, items are placed in the reserve (if the player has one), which can hold one to three items. To use an item’s ability, you must place it in the ‘active item’ slot of the inventory using the `/equip` command. There are two categories of items: combat and daily rewards. Combat items provide additional stats, and reward items can be used every 22 hours using the `/dailybonus` command.

@@ -1,3 +1,8 @@
+---
+tags:
+  - lightly-outdated
+---
+
 # Missions
 
 Missions are goals that players have to realize to earn experience and gems. To check your ongoing missions, use the `/missions` command.

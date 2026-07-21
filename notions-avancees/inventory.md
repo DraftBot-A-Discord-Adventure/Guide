@@ -47,4 +47,4 @@ The `/dailybonus` command allows you to use a daily-use item, with a minimum of 
 
 The `/sell` command lets you sell any of your stock's equipment (except the potions, which you can only throw away).
 
-The `/switch` command can be used to switch an active item with a stored one.
+The `/equip` command can be used to switch an active item with a stored one.

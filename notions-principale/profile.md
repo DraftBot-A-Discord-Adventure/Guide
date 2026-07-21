@@ -1,3 +1,9 @@
+---
+tags:
+  - outdated-images
+  - work-in-progress
+---
+
 # Profile
 
 As in every roleplaying game, your character has a profile used to show different statistics. To open your profile, just type `/profile`.

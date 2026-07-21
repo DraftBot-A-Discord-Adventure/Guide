@@ -1,3 +1,8 @@
+---
+tags:
+  - missing-things-from-fr
+---
+
 # Map and destinations
 
 The world map of Crownicles allows the players to find them in different places of the game. It is possible to show directly the map in-game by typing `/map`. You will also get your position and a detailed description of the place you are traveling to.

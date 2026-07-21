@@ -1,6 +1,7 @@
 ---
 tags:
   - outdated-images
+  - work-in-progress
 ---
 
 # Small events on the main continent

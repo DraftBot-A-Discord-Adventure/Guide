@@ -2,6 +2,7 @@
 tags:
   - lightly-outdated
   - outdated-images
+  - work-in-progress
 ---
 
 # Equipments

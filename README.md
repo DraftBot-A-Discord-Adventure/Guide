@@ -2,8 +2,6 @@
 description: >-
   This guide is a presentation of the main features of Crownicles and tips to
   start your adventure nicely.
-tags:
-  - outdated-images
 ---
 
 # Discover Crownicles !
@@ -22,4 +20,4 @@ The story takes place in a medieval world where the player controls an adventure
 * Join **thousands of players**, fight and create your guild with your friends!&#x20;
 * Help us **improve the bot!** Completely [**open-source**](https://github.com/Crownicles) project!
 
-![An example of a report made by a player.](.gitbook/assets/report_sombre.png)
+<picture><source srcset=".gitbook/assets/report_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/report_light.png" alt="An example of a report made by a player."></picture>
