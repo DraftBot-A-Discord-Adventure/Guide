@@ -727,16 +727,16 @@ Le jardinier donne aux joueurs diverses graines, sous certaines conditions, peut
 <figure><picture><source srcset="../.gitbook/assets/SE_gardener_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_gardener_clair.png" alt=""></picture><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ce mini-événement n'apparait que sur les routes proche d'une forêt.
+Ce mini-événement n'apparait que sur les routes proche d'une forêt (Forêt Célestrum, Bois Hurlant, Forêt du Vieillard).
 {% endhint %}
 
 {% hint style="warning" %}
-Vous ne pourrez avoir sur vous qu'une seule graine. Plantez là pour récupérer la suivante.
+Vous ne pourrez avoir sur vous qu'une seule graine. Plantez-la pour récupérer la suivante.
 {% endhint %}
 
-Voici la liste des graines fournies, que le joueur doit récupérer et planter dans l'ordre, avec leurs conditions associées :&#x20;
+Voici la liste des graines fournies, que le joueur doit récupérer et planter dans l'ordre, avec leurs conditions associées et la durée de croissance (en terre moyenne) :&#x20;
 
-<table data-search="false"><thead><tr><th width="125">Graine</th><th width="122">Niveau min</th><th width="104.5">Coût</th><th>Conditions</th></tr></thead><tbody><tr><td>Herbe commune</td><td>8</td><td>0</td><td>Aucune</td></tr><tr><td><p>Trèfle </p><p>doré</p></td><td>15</td><td>250</td><td>Aucune</td></tr><tr><td>Mousse lunaire</td><td>22</td><td>0</td><td>La nuit (23h-8h heure française) et en lune claire (>0.5)</td></tr><tr><td><p>Racine de </p><p>fer</p></td><td>30</td><td>850</td><td>Aucune</td></tr><tr><td>Champignon nocturne </td><td>38</td><td>0</td><td>La nuit (23h-8h heure française)</td></tr><tr><td>Feuille venimeuse</td><td>48</td><td>0</td><td>Familier herbivore dressé</td></tr><tr><td><p>Bulbe de</p><p> feu</p></td><td>58</td><td>0</td><td>En mage ou avec un familier de feu ou avec un équipement de feu</td></tr><tr><td>Plante carnée</td><td>68</td><td>0</td><td>Familier carnivore au moins épique <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td></tr><tr><td>Fleur de cristal</td><td>85</td><td>2500</td><td>Aucune</td></tr><tr><td>Arbre ancestral</td><td>100</td><td>0</td><td>Familier herbivore dressé au moins épique <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="125">Graine</th><th width="122">Niveau min</th><th width="104.5">Coût</th><th width="287.5">Conditions</th><th width="150">Durée de croissance</th></tr></thead><tbody><tr><td>Herbe commune</td><td>8</td><td>0</td><td>Aucune</td><td>6h</td></tr><tr><td>Trèfle doré</td><td>15</td><td>250</td><td>Aucune</td><td>9h</td></tr><tr><td>Mousse lunaire</td><td>22</td><td>0</td><td>La nuit (23h-8h heure française) et en lune claire (>0.5)</td><td>12h</td></tr><tr><td>Racine de fer</td><td>30</td><td>850</td><td>Aucune</td><td>18h</td></tr><tr><td>Champignon nocturne </td><td>38</td><td>0</td><td>La nuit (23h-8h heure française)</td><td>1 jour 3h</td></tr><tr><td>Feuille venimeuse</td><td>48</td><td>0</td><td>Familier herbivore dressé</td><td>1 jour 12h</td></tr><tr><td>Bulbe de feu</td><td>58</td><td>0</td><td>En mage ou avec un familier de feu ou avec un équipement de feu</td><td>2 jours 6h</td></tr><tr><td>Plante carnée</td><td>68</td><td>0</td><td>Familier carnivore au moins épique <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>3 jours</td></tr><tr><td>Fleur de cristal</td><td>85</td><td>2500</td><td>Aucune</td><td>4 jours 12h</td></tr><tr><td>Arbre ancestral</td><td>100</td><td>0</td><td>Familier herbivore dressé au moins épique <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>6 jours</td></tr></tbody></table>
 
 {% hint style="info" %}
 Les familiers de feu sont le dragon :dragon: et le phénix :fire:. Les équipement de feu sont le Brûleur, l'épée du dragon, la lame du phénix, le pare-feu et le Soleil ou bien une arme avec l'enchantement Aspect de feu.

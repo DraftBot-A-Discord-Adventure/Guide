@@ -430,6 +430,10 @@ Pour commencer une expédition, le joueur doit posséder un familier nourri et a
 Chaque expédition a une plage de durée définie : moins d'une heure pour la première, moins de 10h pour la deuxième et 12h à 3j pour la troisième. Chaque familier possède une statistique de vitesse, comprise entre 1 et 30, qui peut raccourcir ou allonger la durée finale.
 {% endhint %}
 
+{% hint style="info" %}
+Le biome des deux premières expéditions dépend de votre position sur la carte, et correspond à vos lieux de départ et d'arrivée.
+{% endhint %}
+
 {% hint style="warning" %}
 Si vous décidez d'annuler le départ en expédition et à partir de la deuxième fois en 7j, votre familier perdra considérablement confiance en vous et ce de plus en plus.
 {% endhint %}
@@ -446,11 +450,7 @@ Le Terrain impacte 4 fois moins les échecs que la Dangerosité, pour la même i
 
 {% hint style="info" %}
 Le biome de l'expédition influence la dangerosité, en effet une grotte est plus souvent périlleuse et une plaine plus souvent tranquille ; mais aussi les récompenses : certains terrains donne plus d'expérience :star:, d'autres plus de points :medal: ou d'argent :moneybag:.
-
-Le tableau ci-dessous répertorie les coefficients d'argent, d'expérience et de points de chaque biome, classés par difficulté.&#x20;
 {% endhint %}
-
-<table data-search="false"><thead><tr><th width="133">Biome</th><th>Coefficient argent</th><th>Coefficient expérience</th><th>Coefficient points</th></tr></thead><tbody><tr><td>Plaine <span data-gb-custom-inline data-tag="emoji" data-code="1f33e">🌾</span></td><td>1</td><td>1</td><td>1</td></tr><tr><td>Côte <span data-gb-custom-inline data-tag="emoji" data-code="1f30a">🌊</span></td><td>1,2</td><td>0,7</td><td>0,8</td></tr><tr><td>Forêt <span data-gb-custom-inline data-tag="emoji" data-code="1f332">🌲</span></td><td>0,8</td><td>1,3</td><td>0,9</td></tr><tr><td>Désert <span data-gb-custom-inline data-tag="emoji" data-code="1f3dc">🏜️</span></td><td>0,6</td><td>0,4</td><td>1,5</td></tr><tr><td>Montagne <span data-gb-custom-inline data-tag="emoji" data-code="26f0">⛰️</span></td><td>1,9</td><td>1</td><td>0,3</td></tr><tr><td>Marais <span data-gb-custom-inline data-tag="emoji" data-code="1f33f">🌿</span></td><td>0,4</td><td>1</td><td>1,6</td></tr><tr><td>Ruine <span data-gb-custom-inline data-tag="emoji" data-code="1f3db">🏛️</span></td><td>1,7</td><td>1</td><td>0,5</td></tr><tr><td>Grotte <span data-gb-custom-inline data-tag="emoji" data-code="1f573">🕳️</span></td><td>2,2</td><td>0,5</td><td>0,2</td></tr></tbody></table>
 
 Pour augmenter vos chances de réussite de vos expéditions, en plus de regarder la difficulté et le terrain, vous pouvez:
 
@@ -475,13 +475,50 @@ Si l'expédition est un échec, le familier perd 3 points d'affection :revolving
 
 Sinon, vous recevez de l'argent :moneybag:, de l'expérience :star: et des points :medal:. La difficulté de l'expédition et de son terrain ainsi que les rations consommées :meat\_on\_bone:, le type de biome et une réussite totale ou partielle (/2 des gains) statuent sur leurs valeurs. Les expéditions rapportent aussi des jetons :coin:, des matériaux :bricks: et un équipement :hammer\_pick:, dont la quantité et la rareté varie selon la richesse du butin.&#x20;
 
+<details>
+
+<summary>Tableau des gains <span data-gb-custom-inline data-tag="emoji" data-code="1f4ca">📊</span></summary>
+
+Le tableau ci-dessous résume les gains de base des expédions selon le nombre de rations :meat\_on\_bone: consommées. Il faut ensuite ajouter les coefficients de chaque biome :map: ainsi que les préférences et la possibilité d'un succès partiel (récompenses /2, incluant le nombre de matériaux mais ni les jetons ni la rareté de l'équipement). Une expédition de plus de 1h rapportera aussi 1 jeton :coin: supplémentaire, sauf pour le palier 0 qui est entre 1 et 2 :coin:.&#x20;
+
+Les jetons et l'équipement n'est pas impacté par les biomes, le succès ou les préférences.
+
+<table data-search="false"><thead><tr><th width="147.5" align="center">Palier de récompenses</th><th width="119.5" align="right">🍖 Rations</th><th width="109" align="right">💰 Argent</th><th width="139" align="right">⭐ Expérience</th><th width="108.5" align="right">🏅 Points</th><th width="110.5" align="center">🪙 Jetons</th><th width="128">💫 Rareté équipement</th><th>Nombre de matériaux</th></tr></thead><tbody><tr><td align="center">0</td><td align="right">1 🍖</td><td align="right">50 💰</td><td align="right">35 ⭐</td><td align="right">6 🏅</td><td align="center">1 🪙</td><td>max 💫</td><td>0</td></tr><tr><td align="center">1</td><td align="right">3 🍖</td><td align="right">120 💰</td><td align="right">105 ⭐</td><td align="right">20 🏅</td><td align="center">1–3 🪙</td><td>max 💫</td><td>1</td></tr><tr><td align="center">2</td><td align="right">5 🍖</td><td align="right">235 💰</td><td align="right">245 ⭐</td><td align="right">75 🏅</td><td align="center">2–4 🪙</td><td>max ⭐</td><td>2</td></tr><tr><td align="center">3</td><td align="right">6 🍖</td><td align="right">435 💰</td><td align="right">420 ⭐</td><td align="right">145 🏅</td><td align="center">3–5 🪙</td><td>max 🌟</td><td>2</td></tr><tr><td align="center">4</td><td align="right">8 🍖</td><td align="right">710 💰</td><td align="right">665 ⭐</td><td align="right">210 🏅</td><td align="center">4–6 🪙</td><td>Quelconque</td><td>3</td></tr><tr><td align="center">5</td><td align="right">10 🍖</td><td align="right">1300 💰</td><td align="right">980 ⭐</td><td align="right">340 🏅</td><td align="center">5–7 🪙</td><td>Quelconque</td><td>3</td></tr><tr><td align="center">6</td><td align="right">12 🍖</td><td align="right">2100 💰</td><td align="right">1365 ⭐</td><td align="right">420 🏅</td><td align="center">6–8 🪙</td><td>🔥–💎</td><td>4</td></tr><tr><td align="center">7</td><td align="right">15 🍖</td><td align="right">3200 💰</td><td align="right">1785 ⭐</td><td align="right">585 🏅</td><td align="center">7–9 🪙</td><td>🔱–💎</td><td>4</td></tr><tr><td align="center">8</td><td align="right">25 🍖</td><td align="right">4200 💰</td><td align="right">2100 ⭐</td><td align="right">650 🏅</td><td align="center">8–10 🪙</td><td>☄️–💎</td><td>5</td></tr><tr><td align="center">9</td><td align="right">32 🍖</td><td align="right">5000 💰</td><td align="right">2450 ⭐</td><td align="right">710 🏅</td><td align="center">9–11 🪙</td><td>💫–💎</td><td>5</td></tr></tbody></table>
+
+{% hint style="info" %}
+Les bénédictions peuvent aussi augmenter ces gains, que ce soit la bénédiction Gloire accrue pour les points :medal:, Bourse dorée pour l'argent :moneybag: ou Jeton d'expédition pour les jetons :coin:.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>Les biomes et leurs gains <span data-gb-custom-inline data-tag="emoji" data-code="1f5fa">🗺️</span></summary>
+
+Le tableau ci-dessous répertorie les coefficients d'argent :moneybag:, d'expérience :star: et de points :medal:de chaque biome, classés par difficulté. Les plaines :ear\_of\_rice:, les plus faciles, sont équilibrées entre les butins là où les grottes :hole:, particulièrement difficiles, priorisent l'argent :moneybag:.
+
+<table data-search="false"><thead><tr><th width="133">Biome</th><th>Coefficient argent</th><th>Coefficient expérience</th><th>Coefficient points</th></tr></thead><tbody><tr><td>Plaine <span data-gb-custom-inline data-tag="emoji" data-code="1f33e">🌾</span></td><td>1</td><td>1</td><td>1</td></tr><tr><td>Côte <span data-gb-custom-inline data-tag="emoji" data-code="1f30a">🌊</span></td><td>1,2</td><td>0,7</td><td>0,8</td></tr><tr><td>Forêt <span data-gb-custom-inline data-tag="emoji" data-code="1f332">🌲</span></td><td>0,8</td><td>1,3</td><td>0,9</td></tr><tr><td>Désert <span data-gb-custom-inline data-tag="emoji" data-code="1f3dc">🏜️</span></td><td>0,6</td><td>0,4</td><td>1,5</td></tr><tr><td>Montagne <span data-gb-custom-inline data-tag="emoji" data-code="26f0">⛰️</span></td><td>1,9</td><td>1</td><td>0,3</td></tr><tr><td>Marais <span data-gb-custom-inline data-tag="emoji" data-code="1f33f">🌿</span></td><td>0,4</td><td>1</td><td>1,6</td></tr><tr><td>Ruine <span data-gb-custom-inline data-tag="emoji" data-code="1f3db">🏛️</span></td><td>1,7</td><td>1</td><td>0,5</td></tr><tr><td>Grotte <span data-gb-custom-inline data-tag="emoji" data-code="1f573">🕳️</span></td><td>2,2</td><td>0,5</td><td>0,2</td></tr></tbody></table>
+
+Voici la liste des correspondances lieux - biomes.&#x20;
+
+* **Plaine 🌾:** Mergagnan 🏘️, Voie champrête 🛣️, Berceau 🌺, Grande Rue 🛣️, Grand Axe 🛣️, Étendue 🌺, Croisement des Destins 🛣️, Claire de Ville 🏘️ & Route des Merveilles 🛣️
+* **Côte 🌊 :** Rivière aux Crabes 🏞️, Plage Sentinelle 🏖️ & Rivière Vacarme 🏞️
+* **Forêt 🌲 :** Forêt du Vieillard 🌳, Forêt Célestrum 🌳 & Chemin aux Loups 🛣️
+* **Grotte 🕳️ :** Bois Hurlant 🌳, Cour du Château :homes: & Boug-Coton 🛖
+* **Montagne ⛰️ :** Mont Célestrum ⛰️ & Route Grimpante 🛣️
+* **Désert 🏜️ :** Village Coco 🛖 & Dune 🏖️
+* **Ruine 🏛️ :** Ville Forte 🏚️, Chemin du Dédale 🛣️ & Vallée des Rois 🏜️
+* **Marais 🌿 :** Route Marécageuse 🛣️ & Lac Mirage 🚣‍♂️
+
+</details>
+
 Un terrain apprécié :green\_heart: par le familier permet de récupérer 100% des récompenses, là où un terrain neutre ne gagne que 80% et détesté :broken\_heart: 25%. Le familier reçoit aussi des points d'amour :revolving\_hearts:, et plus encore s'il a apprécié le terrain de son aventure.
 
 {% hint style="info" %}
 Les expéditions mentionnant un trésor en jetons rapporteront trois fois plus de jetons :coin: !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ExpeditionReward_clair.png" alt=""><figcaption><p>Une réussite d'expédition longue dans un biome grotte <span data-gb-custom-inline data-tag="emoji" data-code="1f573">🕳️</span></p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/ExpeditionReward_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/ExpeditionReward_clair.png" alt=""></picture><figcaption><p>Une réussite d'expédition longue dans un biome grotte <span data-gb-custom-inline data-tag="emoji" data-code="1f573">🕳️</span></p></figcaption></figure>
 
 {% hint style="warning" %}
 Quand votre familier est en expédition, il n'est pas considéré comme équipé, il ne vous assistera pas pendant les mini-événements, les combats (attaque et défense) et sur les îles mystérieuses.
@@ -492,5 +529,5 @@ Les jetons en récompenses des expéditions peuvent vous faire dépasser la limi
 {% endhint %}
 
 {% hint style="info" %}
-Vous pouvez trouver au cours de vos expéditions avec une petite probabilité un talisman de clonage (certains expéditions parle de ce talisman ce qui se traduit par un multiplicateur x10). Ce puissant artefact crée un double de votre familier qui vous aidera dans les mini-événements et les combats, en défense uniquement.
+Vous pouvez trouver au cours de vos expéditions avec une petite probabilité un talisman de clonage :dna: (certains expéditions parle de ce talisman ce qui se traduit par un multiplicateur x10). Ce puissant artefact crée un double de votre familier qui vous aidera dans les mini-événements et les combats, en défense uniquement.
 {% endhint %}

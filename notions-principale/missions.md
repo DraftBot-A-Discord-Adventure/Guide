@@ -10,9 +10,9 @@ Vous avez également la possibilité d'afficher les missions en cours d'un autre
 
 Il existe trois catégories de mission :
 
-* Les missions de campagne : celles-ci ne changent pas et sont prédéfinies : il en existe 149 et leur difficulté évolue avec le joueur.
-* Les missions quotidiennes : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
-* Les missions secondaires sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](../notions-avancees/mini-evenements.md#trouver-une-mission).
+* Les missions de campagne :book: : celles-ci ne changent pas et sont prédéfinies : il en existe 149 et leur difficulté évolue avec le joueur.
+* Les missions quotidiennes :calendar: : comme leur nom l'indique, celles-ci changent chaque jour et permettent au joueur de gagner des récompenses autrement que par les quêtes de campagne.
+* Les missions secondaires :scroll: sont un autre moyen d'obtenir des récompenses et peuvent se trouver occasionnellement dans des [mini-évènements](../notions-avancees/mini-evenements.md#trouver-une-mission).
 
 {% hint style="success" %}
 Finir la campagne vous récompensera par un [familier](familiers.md) mythique : la fée.
@@ -23,6 +23,12 @@ Finir la campagne vous récompensera par un [familier](familiers.md) mythique : 
 Les missions secondaires s'obtiennent avec un [mini-évènement](report.md#mini-evenements) précis, ressemblant à cela :
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190037.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 190047.png" alt="Un joueur trouvant une mission via un mini-évent"></picture><figcaption><p>Obtention d'une mission secondaire</p></figcaption></figure>
+
+### Mise à jour de la campagne
+
+Lors d'une mise à jour de la campagne :book:, les missions ajoutées ne sont pas nécessairement situées en fin de progression et peuvent être ajoutées au milieu.
+
+Pour garantir l'équité entre les joueurs concernant les gains :chart\_with\_upwards\_trend: des missions et permettre à tous de faire toutes les missions, la campagne amène le joueur qui a terminé une quête :book: à **la première mission non accomplie**, qui peut être antérieure à celle qu'il vient de terminer. Il retrouvera sa position la plus haute après avoir accompli toutes les missions intermédiaires ajoutées entre temps.&#x20;
 
 ### Dépenser ses gemmes <a href="#magasin-des-missions" id="magasin-des-missions"></a>
 
@@ -42,6 +48,7 @@ Ces achats sont situés sur le :gem: marché royal du Château du Roi.
 {% tab title="Utilitaires" %}
 * Le change-mission :receipt: permet, comme son nom l'indique, de passer une mission secondaire :scroll: et de la remplacer par une nouvelle choisie aléatoirement. Celui-ci est d'abord gratuit puis augmente de 1 :gem: par utilisation. Le coût est réinitialisé chaque semaine, disponible au marché royal.
 * Les vétérinaires :health\_worker: permettent de récupérer des informations sur le familier que vous avez actuellement. Celui-ci coûte 3 gemmes, et est disponible à Mergagnan et Claire de Ville.
+* Les gemmes :gem: servent aussi à appliquer des [enchantements](../notions-avancees/materiaux-et-enchantements.md#les-enchantements) ou améliorer un équipement au niveau 5.&#x20;
 {% endtab %}
 
 {% tab title="Prestige" %}

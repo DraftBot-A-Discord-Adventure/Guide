@@ -32,13 +32,13 @@ Les potions du jour sont disponibles avec un stock de 5 potions par jour et par 
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="2692">⚒️</span> Le forgeron</summary>
 
-Le forgeron peut améliorer vos équipements en échange de matériaux, et retirer leurs enchantements, moyennant le coût de l'ouvrage. Ceci permet d'augmenter les statistiques de combat de votre inventaire. Un équipement rare sera plus coûteux à modifier.&#x20;
+Le forgeron :hammer\_pick: peut améliorer vos équipements en échange de matériaux, et retirer leurs enchantements, moyennant le coût de l'ouvrage. Ceci permet d'augmenter les statistiques de combat de votre inventaire. Un équipement rare sera plus coûteux à modifier.&#x20;
 
-Les forgerons peuvent améliorer une arme ou un bouclier jusqu'au niveau 4.&#x20;
+Les forgerons :hammer\_pick: peuvent améliorer une arme :crossed\_swords: ou un bouclier :shield: jusqu'au niveau 4.&#x20;
 
 S'il vous manque des matériaux, le forgeron peut vous les vendre, avec un prix augmentant pour chaque ressource ajoutée.&#x20;
 
-Il n'est pas présent au Village Coco.&#x20;
+Il n'est pas présent au Village Coco, et le forgeron royal du Château du Roi n'améliore que des équipements de niveau 4 au niveau 5.
 
 </details>
 
@@ -87,7 +87,11 @@ Il se trouve au Château du Roi.&#x20;
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f33f">🌿</span> L'herboriste</summary>
 
-Situé au Village Coco, ce marchand propose chaque semaine une sélection de plantes.
+Situé au Village Coco, ce marchand propose chaque semaine une sélection de plantes, ayant toujours une des trois premières plantes, une des quatre dernières et une intermédiaires.
+
+&#x20;Le tableau ci-dessous résume les prix moyens des différentes plantes, ceux-ci pouvant varier jusqu'à +/- 40% ! La Bourse de Claire de Ville offre une estimation des variations par rapport aux prix moyens.&#x20;
+
+<table data-search="false"><thead><tr><th>Plante</th><th width="297">Prix moyen</th></tr></thead><tbody><tr><td>Herbe commune <span data-gb-custom-inline data-tag="emoji" data-code="1f33f">🌿</span></td><td>40 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Trèfle doré <span data-gb-custom-inline data-tag="emoji" data-code="1f340">🍀</span></td><td>124 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Mousse lunaire <span data-gb-custom-inline data-tag="emoji" data-code="1f319">🌙</span></td><td>200 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Racine de fer <span data-gb-custom-inline data-tag="emoji" data-code="1f331">🌱</span></td><td>226 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Champignon nocturne <span data-gb-custom-inline data-tag="emoji" data-code="1f344">🍄</span></td><td>258 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Feuille venimeuse <span data-gb-custom-inline data-tag="emoji" data-code="1f343">🍃</span></td><td>356 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Bulbe de feu <span data-gb-custom-inline data-tag="emoji" data-code="1f525">🔥</span></td><td>412 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Plante carnée <span data-gb-custom-inline data-tag="emoji" data-code="1f969">🥩</span></td><td>468 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Fleur de cristal <span data-gb-custom-inline data-tag="emoji" data-code="1f48e">💎</span></td><td>528 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr><tr><td>Arbre ancestral <span data-gb-custom-inline data-tag="emoji" data-code="1f333">🌳</span></td><td>579 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td></tr></tbody></table>
 
 </details>
 
@@ -181,7 +185,7 @@ Déplacer une maison coûte 15 000 :moneybag:, sauf si c'est dans la ville la mo
 Chaque ville multiplie les prix par un coefficient qui lui est propre, allant de +8% à -5%. Renseignez-vous auprès du notaire, car le prix pourrait impacter votre décision.&#x20;
 {% endhint %}
 
-<table data-search="false"><thead><tr><th width="95">Niveau</th><th width="113.5">Prix</th><th width="95.5">Niveau requis</th><th width="69">Lit</th><th width="152">Emplacements arme&#x26;bouclier</th><th width="145.5">Emplacements objet</th><th width="146.5">Emplacements potions</th><th width="132">Rareté max amélioration</th><th width="137.5">Niveau max amélioration</th><th width="149">Emplacements jardin</th><th>Stockage plantes</th><th width="104.5">Qualité terre</th><th width="150.5">Emplacements de cuisine</th></tr></thead><tbody><tr><td>1</td><td>1000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>0</td><td>+1 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1</td><td>0</td><td>0</td><td>Commun</td><td>1</td><td>0</td><td>3</td><td>-</td><td>0</td></tr><tr><td>2</td><td>3500 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>15</td><td>+2 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1</td><td>1</td><td>1</td><td>Exotique</td><td>1</td><td>2</td><td>4</td><td>Pauvre</td><td>1</td></tr><tr><td>3</td><td>20 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>30</td><td>+3 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1 (+1)</td><td>1</td><td>1</td><td>Rare</td><td>1</td><td>4</td><td>5</td><td>Pauvre</td><td>2</td></tr><tr><td>4</td><td>35 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>45</td><td>+4 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1 (+1)</td><td>1</td><td>1</td><td>Spécial</td><td>1</td><td>6</td><td>6</td><td>Moyenne</td><td>3</td></tr><tr><td>5</td><td>75 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>60</td><td>+5 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>2 (+1)</td><td>1 (+1)</td><td>1</td><td>Épique</td><td>2</td><td>8</td><td>12</td><td>Moyenne</td><td>4</td></tr><tr><td>6</td><td>100 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>85</td><td>+6 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>2 (+1)</td><td>1 (+1)</td><td>2</td><td>Légendaire</td><td>2</td><td>10</td><td>18</td><td>Riche</td><td>5</td></tr><tr><td>7</td><td>150 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>100</td><td>+7 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>3 (+1)</td><td>1 (+1)</td><td>3</td><td>Mythique</td><td>2</td><td>10</td><td>25</td><td>Riche </td><td>5</td></tr><tr><td>8</td><td>250 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>120</td><td>+8 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>3 (+1)</td><td>2 (+1)</td><td>4</td><td>Mythique</td><td>3</td><td>10</td><td>50</td><td>Riche</td><td>5</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="95">Niveau</th><th width="113.5">Prix</th><th width="95.5">Niveau requis</th><th width="69">Lit</th><th width="152">Emplacements arme&#x26;bouclier</th><th width="145.5">Emplacements objet</th><th width="146.5">Emplacements potions</th><th width="132">Rareté max amélioration</th><th width="137.5">Niveau max amélioration</th><th width="149">Emplacements jardin</th><th>Stockage plantes</th><th width="104.5">Qualité terre</th><th width="150.5">Emplacements de cuisine</th></tr></thead><tbody><tr><td>1</td><td>1000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>0</td><td>+1 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1</td><td>0</td><td>0</td><td>Commun</td><td>1</td><td>0</td><td>3</td><td>-</td><td>0</td></tr><tr><td>2</td><td>3500 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>15</td><td>+2 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1</td><td>1</td><td>1</td><td>Exotique</td><td>1</td><td>2</td><td>4</td><td>Pauvre</td><td>1</td></tr><tr><td>3</td><td>20 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>30</td><td>+3 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1 (+1)</td><td>1</td><td>1</td><td>Rare</td><td>1</td><td>4</td><td>5</td><td>Pauvre</td><td>2</td></tr><tr><td>4</td><td>35 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>45</td><td>+4 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>1 (+1)</td><td>1</td><td>1</td><td>Spécial</td><td>1</td><td>6</td><td>8</td><td>Moyenne</td><td>3</td></tr><tr><td>5</td><td>75 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>60</td><td>+5 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>2 (+1)</td><td>1 (+1)</td><td>1</td><td>Épique</td><td>2</td><td>8</td><td>12</td><td>Moyenne</td><td>4</td></tr><tr><td>6</td><td>100 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>85</td><td>+6 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>2 (+1)</td><td>1 (+1)</td><td>2</td><td>Légendaire</td><td>2</td><td>10</td><td>18</td><td>Riche</td><td>5</td></tr><tr><td>7</td><td>150 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>100</td><td>+7 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>3 (+1)</td><td>1 (+1)</td><td>3</td><td>Mythique</td><td>2</td><td>10</td><td>25</td><td>Riche </td><td>5</td></tr><tr><td>8</td><td>250 000 <span data-gb-custom-inline data-tag="emoji" data-code="1f4b0">💰</span></td><td>120</td><td>+8 <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span></td><td>3 (+1)</td><td>2 (+1)</td><td>4</td><td>Mythique</td><td>3</td><td>10</td><td>50</td><td>Riche</td><td>5</td></tr></tbody></table>
 
 {% hint style="info" %}
 Les niveaux 3 et plus de la maison augmentent aussi l'inventaire du joueur (entre parenthèse dans les colonnes d'emplacement).&#x20;
@@ -197,21 +201,23 @@ Utiliser le lit consomme une nuit de repos. Vous ne pourrez donc plus vous repos
 
 ### :seedling: Le jardinage
 
-Tout d'abord, le joueur doit trouver diverses graines :seedling: qui sont notamment distribuées par un jardinier en mini-évènement. Il peut ensuite les planter, et les récupérer régulièrement pour augmenter son stock de plantes.&#x20;
+Tout d'abord, le joueur doit trouver diverses graines :seedling: qui sont notamment distribuées par un [jardinier](../notions-avancees/mini-evenements.md#le-jardinier) en mini-évènement. Il peut ensuite les planter, et les récupérer régulièrement pour augmenter son stock de plantes.&#x20;
 
 {% hint style="success" %}
 Une graine plantée produira de manière cyclique sa plante correspondante. Il n'est pas nécessaire de la replanter.&#x20;
 {% endhint %}
 
-Il est possible d'arroser :droplet: les plantes toutes les 12h, ce qui a pour effet d'accélérer leur croissance d'une heure.&#x20;
+Il est possible d'arroser :droplet: les plantes toutes les 12h, ce qui a pour effet d'accélérer leur croissance de 5%.&#x20;
 
 {% hint style="info" %}
-La qualité de la terre impacte la durée de croissance des plantes, allant jusqu'à doubler le temps d'attente pour une terre pauvre.
+La qualité de la terre impacte la durée de croissance des plantes : une terre pauvre augmente ce temps de ⅓ , là où la terre riche le réduit de ⅓ .
 {% endhint %}
 
-Une fois la plante récupérée, elle peut être stockée, utilisée dans diverses ou compostée pour former des matériaux : à chaque plante corresponds quelques matériaux disponibles.&#x20;
+Une fois la plante récupérée, elle peut être stockée, utilisée dans diverses recettes ou compostée pour former des matériaux : à chaque plante corresponds quelques matériaux disponibles.&#x20;
 
 Le jardin n'est disponible que dans la maison. Cependant, le joueur peut acheter le :four\_leaf\_clover: Cœur Sylvestre à l'Herboriste du Village Coco pour 2450 :moneybag:, afin de pouvoir récolter ses plantes :seedling: n'importe quand à l'aide de la commande `/jardin`. Il n'est cependant pas possible d'arroser ni de planter une nouvelle graine.&#x20;
+
+<figure><picture><source srcset="../.gitbook/assets/JardinCoeurSylvestre_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/JardinCoeurSylvestre_clair.png" alt=""></picture><figcaption><p>Un jardin complet, affiché à l'aide du Cœur Sylvestre</p></figcaption></figure>
 
 ### :fire: La cuisine
 
@@ -237,7 +243,7 @@ Relancer le fourneau permet de modifier les recettes proposées pour le coût d'
 Il est possible d'épingler une recette à préparer plus tard. Elle sera conservée.&#x20;
 {% endhint %}
 
-Toutes les recettes :scroll: ne sont pas disponibles immédiatement. Certaines se débloquent en obtenant plus de fourneaux ou lors de mini-evènements, en aidant la [sorcière](../notions-avancees/mini-evenements.md#sorciere) :woman\_mage: ou à l'achat auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) :woman\_farmer: ou de [Gaspard-Jo](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture) :stew:.
+Toutes les recettes :scroll: ne sont pas disponibles immédiatement. Certaines se débloquent en obtenant plus de fourneaux, en cuisinant ou lors de mini-evènements - en aidant la [sorcière](../notions-avancees/mini-evenements.md#sorciere) :woman\_mage:, à l'achat auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) :woman\_farmer: ou de [Gaspard-Jo](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture) :stew:.
 
 Augmenter son niveau et monter en grade de cuisine permet d'accéder à certains avantages pour les préparations. Vous pourrez cuisiner sans pénalité d'échec des préparations d'un plus haut niveau, avoir moins de recettes cachées, ne pas consommer certaines ressources ou doubler l'expérience reçue.&#x20;
 
@@ -248,7 +254,7 @@ Chaque niveau correspond pour les potions à une rareté. 1 = commun... et 8 = m
 {% endhint %}
 
 {% hint style="danger" %}
-Préparer une recette d'un niveau supérieur au maximum du grade augmente les échecs (15% par niveau d'écart).
+Préparer une recette d'un niveau supérieur au maximum du grade augmente les échecs (15% par niveau d'écart), et peut faire gagner moins d'expérience de cuisine.
 {% endhint %}
 
 ### :office\_worker:Les logis
