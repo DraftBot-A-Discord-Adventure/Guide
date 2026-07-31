@@ -207,7 +207,7 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | :tooth:Attaque morsure puissante | Une morsure qui applique l'altération saignement.                                                                      | 6                       |
 | :foot:Attaque impact             | Le lanceur se jette sur l'adversaire, lui réduisant sa vitesse.                                                        | 6                       |
-| 🐊Attaque coup de queue          | Une puissante coup de queue qui peut étourdir.                                                                         | 2                       |
+| 🐊Attaque coup de queue          | Un puissante coup de queue qui peut étourdir.                                                                          | 2                       |
 | 🥋 Attaque projection            | Niveau 40+. Projette l'adversaire s'il utilise une attaque physique. Peut étourdir l'adversaire.                       | 6                       |
 | :face\_in\_clouds:Embuscade      | Niveau 80+. Annule les dégâts de la prochaine attaque du joueur tout en augmentant les dégâts de sa prochaine attaque. | 0                       |
 
@@ -261,11 +261,11 @@ Ici, vous affrontez aléatoirement l'un des ces 2 monstres :
 
 | Nom de l'attaque                | Description                                                                                                                                  | Consommation en souffle |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| 🐊Attaque coup de queue         | Une puissante coup de queue qui peut étourdir.                                                                                               | 2                       |
+| 🐊Attaque coup de queue         | Un puissante coup de queue qui peut étourdir.                                                                                                | 2                       |
 | 🤍Étreinte de glace             | Niveau 70+. Fait des dégâts et peut vous geler. Cette étreinte se prolongera si vous ne vous ne vous défendez pas avec une attaque physique. | 7                       |
 | 🧊Attaque armure cristalline    | Utilise le bouclier de l'adversaire pour attaquer. Réussit uniquement si l'attaque précédente de son adversaire est physique.                | 3                       |
 | 🐉Attaque souffle glacial       | Libère un vent glacé qui inflige des dégâts à l'adversaire et a une chance de le geler.                                                      | 13                      |
-| 💥Attaque effondrement glacial  | Niveau 50+.  Une chute de stalactites qui peut être esquiver par anticipation en faisant une attaque physique.                               | 9                       |
+| 💥Attaque effondrement glacial  | Niveau 50+.  Une chute de stalactites qui peut être esquivée par anticipation en faisant une attaque physique.                               | 9                       |
 
 ## Liste des monstres de l'île océanique :
 
@@ -346,7 +346,7 @@ Après ce combat, deux chemins s'offre à vous : la Crique du Revenant ou la Cav
 | :octopus:Bouclier tentacule     | Renvoie les dégâts à distance.                                                                                                                  | 8                       |
 | :knot:Attaque coup de tentacule | Peut étourdir son adversaire.                                                                                                                   | 5                       |
 | :cyclone:Maelström              | Niveau 95+. Une puissante attaque qui submerge son adversaire après 2 tours de chargement.                                                      | 25                      |
-| :curly\_loop:Noyade             | Niveau 50+. Réduit le souffle de son adversaire si celui n'en a pas en réserve.                                                                 | 7                       |
+| :curly\_loop:Noyade             | Niveau 50+. Réduit le souffle de son adversaire si celui-ci n'en a pas en réserve.                                                              | 7                       |
 
 ## Mini-évènements
 
