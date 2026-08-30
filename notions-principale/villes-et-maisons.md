@@ -6,7 +6,7 @@ Certains lieux ont un statut spécial : Mergagnan, la Ville Forte, Boug-Coton, l
 
 <figure><picture><source srcset="../.gitbook/assets/RapportVille_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/RapporVille_clair.png" alt=""></picture><figcaption><p>Les services de Claire De Ville</p></figcaption></figure>
 
-#### :shopping\_cart: Les services communs à toutes les villes&#x20;
+#### :shopping\_cart: Les services (presque) communs à toutes les villes&#x20;
 
 <details>
 
@@ -22,9 +22,13 @@ Le notaire permet d'acheter, améliorer, déplacer et de gérer les maisons, log
 
 Ce magasin permet d'acheter de l'équipement, et propose un stock de potions du jour.&#x20;
 
-L'équipement aléatoire permet d'obtenir un item aléatoire pour 350 :moneybag:, dont la commande `/rarete` donne les probabilités d'obtention.
+L'équipement aléatoire :question: permet d'obtenir un item aléatoire pour 350 :moneybag:, dont la commande `/rarete` donne les probabilités d'obtention.
 
-Les potions du jour sont disponibles avec un stock de 5 potions par jour et par joueur, à 60% du prix, de rareté maximum épique :star:. Il n'est pas possible d'avoir une potion sans effet.&#x20;
+Les potions du jour :alembic: sont disponibles avec un stock de 5 potions par jour et par joueur, à 60% du prix, de rareté maximum épique :star:. Il n'est pas possible d'avoir une potion sans effet.&#x20;
+
+{% hint style="warning" %}
+La boutique générale de la Ville Forte ne permet pas d'acheter d'équipement aléatoire.
+{% endhint %}
 
 </details>
 
@@ -38,7 +42,9 @@ Les forgerons :hammer\_pick: peuvent améliorer une arme :crossed\_swords: ou un
 
 S'il vous manque des matériaux, le forgeron peut vous les vendre, avec un prix augmentant pour chaque ressource ajoutée.&#x20;
 
+{% hint style="info" %}
 Il n'est pas présent au Village Coco, et le forgeron royal du Château du Roi n'améliore que des équipements de niveau 4 au niveau 5.
+{% endhint %}
 
 </details>
 
@@ -117,7 +123,7 @@ Les :maple\_leaf: feuilles d'érable, :evergreen\_tree: pommes de pin et :chestn
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f9d1-2695">🧑‍⚕️</span>Les vétérinaires</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f9d1-2695">🧑‍⚕️</span> Les vétérinaires</summary>
 
 Situés à Mergagnan et à Claire de Ville, les vétérinaires auscultent les familiers pour 3 :gem:, leur donnant 15 points d'amour :revolving\_hearts: si leur moral est inférieur ou égal à 50 ainsi que fournissant de nombreuses informations telles que le niveau d'amour, les statistiques, l'âge, les préférences, la capacité de combat, le régime et la faim d'un familier (voir [niveaux de moral](familiers.md#niveaux-de-moral)), ainsi qu'un familier que désire voir [Talvar](../notions-avancees/mini-evenements.md#le-nain-fan-des-animaux).
 
@@ -128,6 +134,16 @@ Situés à Mergagnan et à Claire de Ville, les vétérinaires auscultent les fa
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f48e">💎</span> La Bourse</summary>
 
 Localisée à Claire de ville, la Bourse permet d'acheter une spéculation des futurs prix de divers commerces, ainsi qu'un badge de prestige monétaire :money\_mouth:.&#x20;
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="267b">♻️</span> Le Ferrailleur</summary>
+
+Installé à la Ville Forte, Grim le Brise-Fer démonte les équipements, ce qui permet au joueur de vendre un item contre 60% de son prix :moneybag: et quelques matériaux, selon son niveau.&#x20;
+
+Démonter un équipement donne une partie des matériaux nécessaires pour son amélioration au niveau 1. Ensuite est rajouté une part des matériaux utilisés pour chaque niveau amélioré.
 
 </details>
 
@@ -165,7 +181,11 @@ Seuls les aventuriers avec une classe du palier 5 (niveau 80 et plus) apparaisse
 
 L'enchanteur se déplace quotidiennement, allant de ville en ville et proposant chaque jour un enchantement différent, qu'il peut appliquer sur les armes ou les boucliers, en échange d'argent :moneybag: et de gemmes :gem: (voir [materiaux-et-enchantements.md](../notions-avancees/materiaux-et-enchantements.md "mention")).
 
+Il prévient aussi de sa destination du lendemain ainsi que la rune qu'il proposera.
+
+{% hint style="info" %}
 Les mages mystiques :mage: ont une réduction de 20% !
+{% endhint %}
 
 </details>
 
@@ -207,7 +227,7 @@ Tout d'abord, le joueur doit trouver diverses graines :seedling: qui sont notamm
 Une graine plantée produira de manière cyclique sa plante correspondante. Il n'est pas nécessaire de la replanter.&#x20;
 {% endhint %}
 
-Il est possible d'arroser :droplet: les plantes toutes les 12h, ce qui a pour effet d'accélérer leur croissance de 5%.&#x20;
+Il est possible d'arroser :droplet: les plantes toutes les 12h, ce qui a pour effet d'accélérer leur croissance de 8%.&#x20;
 
 {% hint style="info" %}
 La qualité de la terre impacte la durée de croissance des plantes : une terre pauvre augmente ce temps de ⅓ , là où la terre riche le réduit de ⅓ .
@@ -229,6 +249,10 @@ Des matériaux et des plantes rares rapportent plus d'expérience.&#x20;
 
 Le nom d'une potion et l'emote correspondante indiquent la nature de celle-ci. Une potion de protection :shield:confère de la défense, une potion de vigueur :zap:donne de l'énergie et une potion de célérité :hourglass: avance le temps.
 
+{% hint style="info" %}
+Si l'entrepôt de la guilde est plein et que le familier du joueur peut manger la nourriture préparée, celle-ci peut lui être donnée directement. Sinon, l'excédent de nourriture est transformé en matériaux.
+{% endhint %}
+
 <figure><picture><source srcset="../.gitbook/assets/Cuisine_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Cuisine_clair (1).png" alt=""></picture><figcaption><p>Les différentes recettes générées par le fourneau</p></figcaption></figure>
 
 {% hint style="warning" %}
@@ -240,17 +264,21 @@ Relancer le fourneau permet de modifier les recettes proposées pour le coût d'
 {% endhint %}
 
 {% hint style="info" %}
+Chaque emplacement de cuisson possède son propre cycle de recettes. La fonderie :hammer\_pick: ne propose que des matériaux :bricks: rares à fabriquer et l'alambic :test\_tube: permet de ne préparer que des potions.
+{% endhint %}
+
+{% hint style="info" %}
 Il est possible d'épingler une recette à préparer plus tard. Elle sera conservée.&#x20;
 {% endhint %}
 
-Toutes les recettes :scroll: ne sont pas disponibles immédiatement. Certaines se débloquent en obtenant plus de fourneaux, en cuisinant ou lors de mini-evènements - en aidant la [sorcière](../notions-avancees/mini-evenements.md#sorciere) :woman\_mage:, à l'achat auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) :woman\_farmer: ou de [Gaspard-Jo](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture) :stew:.
+Toutes les recettes :scroll: ne sont pas disponibles immédiatement. Certaines se débloquent en obtenant plus de fourneaux, en cuisinant, en avançant dans la campagne, en battant des boss finaux d'île ou lors de mini-evènements - en aidant la [sorcière](../notions-avancees/mini-evenements.md#sorciere) :woman\_mage:, à l'achat auprès de la [fermière](../notions-avancees/mini-evenements.md#fermiere) :woman\_farmer: ou de [Gaspard-Jo](../notions-avancees/mini-evenements.md#marchand-ultime-de-nourriture) :stew:.
 
 Augmenter son niveau et monter en grade de cuisine permet d'accéder à certains avantages pour les préparations. Vous pourrez cuisiner sans pénalité d'échec des préparations d'un plus haut niveau, avoir moins de recettes cachées, ne pas consommer certaines ressources ou doubler l'expérience reçue.&#x20;
 
 <table data-search="false"><thead><tr><th width="189.5">Grade</th><th width="130">Niveaux de cuisine</th><th width="126.5">Niveau max préparation</th><th width="166">Succès de base</th><th width="115">Recettes cachées</th><th>Sauvegarde matériau</th><th>Sauvegarde bois</th><th width="112.5">XP doublée</th></tr></thead><tbody><tr><td>Aide-cuisine</td><td>0-10</td><td>2</td><td>90%</td><td>20%</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Marmiton</td><td>11-20</td><td>3</td><td>92%</td><td>10%</td><td>2%</td><td>1%</td><td>1%</td></tr><tr><td>Cuisinier</td><td>21-30</td><td>4</td><td>93%</td><td>10%</td><td>5%</td><td>2%</td><td>2%</td></tr><tr><td>Rôtisseur</td><td>31-40</td><td>5</td><td>94%</td><td>5%</td><td>8%</td><td>4%</td><td>3%</td></tr><tr><td>Saucier</td><td>41-50</td><td>5</td><td>95%</td><td>5%</td><td>11%</td><td>6%</td><td>4%</td></tr><tr><td>Maître d'office</td><td>51-60</td><td>6</td><td>96%</td><td>5%</td><td>14%</td><td>8%</td><td>5%</td></tr><tr><td>Chef de table</td><td>61-70</td><td>7</td><td>97%</td><td>5%</td><td>17%</td><td>10%</td><td>6%</td></tr><tr><td>Chef des fourneaux</td><td>71-80</td><td>7</td><td>98%</td><td>5%</td><td>20%</td><td>12%</td><td>7%</td></tr><tr><td>Maître des cuisines</td><td>81-90</td><td>8</td><td>98,5%</td><td>5%</td><td>22%</td><td>13%</td><td>8%</td></tr><tr><td>Grand cuisinier royal</td><td>91+</td><td>8</td><td>99%</td><td>0.5%</td><td>25%</td><td>15%</td><td>10%</td></tr></tbody></table>
 
 {% hint style="info" %}
-Chaque niveau correspond pour les potions à une rareté. 1 = commun... et 8 = mythique.&#x20;
+Chaque niveau correspond pour les potions à une rareté. 1 & 2 = commun, 3 = peu commun ... et 8 = légendaire. Il est impossible de préparer des potions mythiques.
 {% endhint %}
 
 {% hint style="danger" %}
