@@ -469,7 +469,7 @@ Si vous êtes de la classe **Mage Mystique** :mage:, un quatrième choix s'offri
 {% endhint %}
 
 {% hint style="info" %}
-Recevoir une potion permet parfois de débloquer une recette de cuisine, selon le type de potion reçue.
+Chaque choix permet à la première réussite de débloquer une recette de cuisine.
 {% endhint %}
 
 <figure><picture><source srcset="../.gitbook/assets/SE_witch_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_witch_clair.png" alt=""></picture><figcaption><p>Exemple de rencontre avec la sorcière</p></figcaption></figure>
@@ -624,13 +624,21 @@ Ce mini-événement vous fera rencontrer un conteur passionné par une cité loi
 
 **Rareté : 5 -** Nécessite d'avoir un familier équipé pour apparaître.
 
-Lors de ce mini-événement votre familier peut trouver de la nourriture.
+Lors de ce mini-événement votre familier sent de la nourriture. Vous avez trois choix :&#x20;
 
-{% hint style="info" %}
-Vous n'obtiendrez ce mini-évènement que si votre familier n'a pas été nourri récemment.
-{% endhint %}
+* :question:Aller voir vous-même : 70% de réussite mais perte de 5 min :clock2:.
+* :guide\_dog: Envoyer votre familier : la réussite est assurée si le familier vient d'avoir faim, puis décroit avec le temps. Seulement 10% de réussite si le familier est déjà repu.&#x20;
+* :person\_walking:Continuer votre route : 10% de réussite.
+
+Selon le régime, le type de nourriture ainsi que le succès, le familier gagnera ou non de l'amour.
 
 <figure><picture><source srcset="../.gitbook/assets/SE_petfood_sombre.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/SE_petfood_clair.png" alt=""></picture><figcaption></figcaption></figure>
+
+Bien que tous les types de nourritures peuvent apparaître, certains biomes favorisent certaines senteurs. Ainsi, les routes :motorway:, forêts :deciduous\_tree: et plaines :ear\_of\_rice: favorisent les salades :leafy\_green: (+3 :revolving\_hearts:), la viande :cut\_of\_meat: (+3 :revolving\_hearts:) se trouve plus souvent dans les rivières :park:, lacs :ocean: et plages :beach:, tandis que les villes :homes: présentent généralement des senteurs agréables pour tous (+1 :revolving\_hearts:). Attention, les montagnes :mountain: et déserts :desert: ont plus souvent des nourritures médiocres (0 ou plus rarement -1 :revolving\_hearts:).&#x20;
+
+{% hint style="info" %}
+Trouver de la nourriture sur la Route des Merveilles :motorway: garantit l'équivalent d'une soupe ultime :stew: !
+{% endhint %}
 
 ## Malheur pour votre familier
 

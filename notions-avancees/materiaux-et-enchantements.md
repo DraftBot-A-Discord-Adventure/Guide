@@ -8,8 +8,8 @@ Il existe 90 matériaux différents, regroupés en différents types, tels que l
 
 Ils peuvent être récupérés avec :&#x20;
 
-* Un mini-évènement qui en donne entre 1 et 16 d'un seul type.
-* En butin d'expédition de familier. Chaque type rapporte certains matériaux spécifiques.
+* Un [mini-évènement](mini-evenements.md#butin-de-materiaux) qui en donne entre 1 et 16 d'un seul type.
+* En butin d'[expédition de familier](../notions-principale/familiers.md#tableau-des-gains). Chaque type rapporte certains matériaux spécifiques.
 * En récompense après avoir battu un monstre des [îles mystérieuses](iles-mysterieuses.md).
 * Chez certains marchands, comme le bûcheron du Village Coco ou le marchand de matériaux de la Ville Forte.
 
@@ -31,27 +31,29 @@ Les équipements les plus rares nécessitent des matériaux plus rares et nombre
 
 L'enchanteur Mernil :crystal\_ball: est un personnage itinérant, qui se déplace quotidiennement de ville en ville et propose chaque jour un enchantement parmi cette liste :&#x20;
 
-* Attaque PvP I-II-III : augmente les dégâts contre les joueurs (jusqu'à +12%)
-* Attaque PvE I-II-III : augmente les dégâts contre les monstres (jusqu'à +12%)
-* Attaque I-II-III : augmente les dégâts (jusqu'à +10%)
-* Défense I-II-III : réduit les dégâts reçus (jusqu'à environ -8,3%)
-* Vitesse I-II-III : augmente la vitesse :rocket: (jusqu'à +20%)
-* Énergie max I-II-III : augmente l'énergie :zap:maximale (jusqu'à +9%)
-* Souffle de base I-II : Ajoute jusqu'à +2 :dash: au souffle de début de combat
-* Souffle max : augmente le souffle maximal :wind\_blowing\_face: de 3
-* Aspect de feu : augmente les dégâts de brûlure :hot\_face: de 20% et augmente la résistance au gel :cold\_face: de 25%
-* Aspect de givre : augmente les dégâts de gel :cold\_face: de 20% et augmente la résistance au feu :hot\_face: de 25%
-* Aspect de venin : augmente les dégâts de poison :nauseated\_face: de 20% et résiste à ses dégâts de 25%
+* Attaque PvP I-II-III : augmente les dégâts contre les joueurs (jusqu'à +12%) - **rareté 7/4/2**
+* Attaque PvE I-II-III : augmente les dégâts contre les monstres (jusqu'à +12%) - **rareté 7/4/2**
+* Attaque I-II-III : augmente les dégâts (jusqu'à +10%) - **rareté 8/5/3**
+* Défense I-II-III : réduit les dégâts reçus (jusqu'à environ -8,3%) - **rareté 6/3/2**
+* Vitesse I-II-III : augmente la vitesse :rocket: (jusqu'à +20%) - **rareté 6/3/2**
+* Énergie max I-II-III : augmente l'énergie :zap:maximale (jusqu'à +9%) - **rareté 5/2/1**
+* Souffle de base I-II : Ajoute jusqu'à +2 :dash: au souffle de début de combat - **rareté 6/3**
+* Souffle max : augmente le souffle maximal :wind\_blowing\_face: de 3 - **rareté 5**
+* Aspect de feu : augmente les dégâts de brûlure :hot\_face: de 20% et augmente la résistance au gel :cold\_face: de 25% - **rareté 5**
+* Aspect de givre : augmente les dégâts de gel :cold\_face: de 20% et augmente la résistance au feu :hot\_face: de 25% - **rareté 5**
+* Aspect de venin : augmente les dégâts de poison :nauseated\_face: de 20% et résiste à ses dégâts de 25% - **rareté 5**
 
 {% hint style="info" %}
 Les enchantements Aspect de feu, de givre et de venin permettent d'augmenter les dégâts infligés d'une altération tout en acquérant une résistance à une altération.
+
+Les enchantements Attaque et Défense impactent directement les dégâts subis ou infligés par des attaques. Les altérations et familiers ne sont pas concernés.
 {% endhint %}
 
 {% hint style="info" %}
-Les enchantements Attaque et Défense impactent directement les dégâts subis ou infligés.&#x20;
+Les raretés sont utilisées par Mernil pour choisir l'enchantement du jour et lorsque le joueur trouve un équipement déjà enchanté. Une haute rareté désigne donc un enchantement plus commun.
 {% endhint %}
 
-Les enchantements d'attaque, de souffle de base et d'aspect de feu, givre et venin peuvent être appliqués sur une arme, alors que défense, vitesse, énergie et souffle max sont réservés aux boucliers et armures.&#x20;
+Les enchantements d'attaque, de souffle de base et d'aspect de feu, givre et venin peuvent être appliqués sur une arme :dagger:, alors que défense, vitesse, énergie et souffle max sont réservés aux boucliers et armures :shield:.&#x20;
 
 Seuls les enchantements de l'arme et de l'armure équipées sont appliqués.&#x20;
 

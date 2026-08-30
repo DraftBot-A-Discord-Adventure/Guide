@@ -26,6 +26,12 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 
 <picture><source srcset="../.gitbook/assets/inventaire_sombre (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/inventaire_clair (2).png" alt="Ce joueur ne dispose pas de suffisamment de défense pour utiliser la pleine puissance de son armure."></picture>
 
+Il est possible d'augmenter la puissance d'une arme ou d'une armure/bouclier en l'améliorant chez un [forgeron](villes-et-maisons.md#le-forgeron) :hammer\_pick: contre diverses ressources - ce qui augmente ses statistiques jusqu'à +32% au niveau 5, ou en [l'enchantant](../notions-avancees/materiaux-et-enchantements.md#les-enchantements) :crystal\_ball:.
+
+{% hint style="info" %}
+Un équipement trouvé a 5% de chance d'être enchanté, 5% d'être amélioré au niveau 1 et 1% de chance d'être de niveau 2.
+{% endhint %}
+
 ## Liste des équipements
 
 {% hint style="info" %}
